@@ -1,0 +1,347 @@
+┌ Info: 2024-07-30 00:01:18 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-30 00:01:20 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 00:01:57 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-30 00:01:57 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 00:02:01 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=JSCUXNJBJETKGGENMIQLSYXAVFXPOIPE 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-30 00:02:01 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-30 00:03:45 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 00:03:45 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 00:04:15 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 00:04:15 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 00:11:44 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-30 00:11:45 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 00:12:00 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-30 00:12:00 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 00:12:02 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=JSCUXNJBJETKGGENMIQLSYXAVFXPOIPE 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-30 00:12:02 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-30 00:14:33 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 00:14:33 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 00:14:53 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 00:14:53 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 00:15:01 Demand file added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:115
+┌ Info: 2024-07-30 00:15:02 Demand file uploading. Select set to:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:139
+┌ Info: 2024-07-30 00:15:03 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:144
+┌ Info: 2024-07-30 00:15:03 Demand
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:145
+┌ Info: 2024-07-30 00:15:03 Demand file upload started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:131
+┌ Info: 2024-07-30 00:15:05 Dict{AbstractString, AbstractString}("name" => "demand_data6.csv", "channel" => "JSCUXNJBJETKGGENMIQLSYXAVFXPOIPE", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_vobkBCRaJ8")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:61
+┌ Info: 2024-07-30 00:15:05 Demand file uploaded
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:95
+┌ Info: 2024-07-30 00:15:05 Demand file upload finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:158
+┌ Info: 2024-07-30 00:15:06 Parameter file added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:119
+┌ Info: 2024-07-30 00:15:07 Parameter file uploading. Select set to:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:149
+┌ Info: 2024-07-30 00:15:07 Parameter
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:154
+┌ Info: 2024-07-30 00:15:08 Parameter file upload started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:135
+┌ Info: 2024-07-30 00:15:08 Dict{AbstractString, AbstractString}("name" => "data6.csv", "channel" => "JSCUXNJBJETKGGENMIQLSYXAVFXPOIPE", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_jABQR89kzg")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:61
+┌ Info: 2024-07-30 00:15:08 Parameter file uploaded.
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:100
+┌ Info: 2024-07-30 00:15:08 Parameter file upload finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:162
+┌ Info: 2024-07-30 00:15:21 Custom constraints received
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:192
+┌ Info: 2024-07-30 00:15:21 lib\uploads\demand\demand_data6.csv
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:196
+┌ Info: 2024-07-30 00:15:21 lib\uploads\parameters\data6.csv
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:197
+┌ Info: 2024-07-30 00:15:25 Data extracted
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:202
+┌ Info: 2024-07-30 00:15:25 Checkpoint: Function accessed
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:13
+┌ Info: 2024-07-30 00:15:25 Checkpoint: Data Extracted
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:43
+┌ Info: 2024-07-30 00:15:26 Checkpoint: Model Initialized
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:52
+┌ Info: 2024-07-30 00:15:28 Checkpoint: Variables Defined
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:65
+┌ Info: 2024-07-30 00:15:29 Checkpoint: Defined constraints
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:88
+┌ Info: 2024-07-30 00:15:29 Checkpoint: Received custom constraints
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:92
+┌ Info: 2024-07-30 00:15:29 Checkpoint: Defined Objective Function
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:107
+┌ Info: 2024-07-30 00:15:31 Checkpoint: Optimized
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:112
+┌ Info: 2024-07-30 00:15:31 Checkpoint: results saved
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:149
+┌ Info: 2024-07-30 00:15:31 lib\downloads\workforce_inventory.csv
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:153
+┌ Info: 2024-07-30 00:15:31 Checkpoint: results written to file
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:160
+┌ Info: 2024-07-30 00:15:31 Checkpoint: results printed (disabled)
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:178
+┌ Info: 2024-07-30 00:15:31 Success!
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:179
+┌ Info: 2024-07-30 00:19:21 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 00:19:21 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 00:21:55 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 00:21:55 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 00:22:20 Demand file added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:115
+┌ Info: 2024-07-30 00:22:21 Demand file uploading. Select set to:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:139
+┌ Info: 2024-07-30 00:22:21 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:144
+┌ Info: 2024-07-30 00:22:21 Demand
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:145
+┌ Info: 2024-07-30 00:22:21 Demand file upload started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:131
+┌ Info: 2024-07-30 00:22:21 Dict{AbstractString, AbstractString}("name" => "demand_data7.csv", "channel" => "JSCUXNJBJETKGGENMIQLSYXAVFXPOIPE", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_h2RUj636Vw")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:61
+┌ Info: 2024-07-30 00:22:21 Demand file uploaded
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:95
+┌ Info: 2024-07-30 00:22:21 Demand file upload finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:158
+┌ Info: 2024-07-30 00:22:24 Parameter file added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:119
+┌ Info: 2024-07-30 00:22:25 Parameter file uploading. Select set to:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:149
+┌ Info: 2024-07-30 00:22:25 Parameter
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:154
+┌ Info: 2024-07-30 00:22:25 Parameter file upload started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:135
+┌ Info: 2024-07-30 00:22:25 Dict{AbstractString, AbstractString}("name" => "data7.csv", "channel" => "JSCUXNJBJETKGGENMIQLSYXAVFXPOIPE", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_xWXInU9Ih0")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:61
+┌ Info: 2024-07-30 00:22:25 Parameter file uploaded.
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:100
+┌ Info: 2024-07-30 00:22:25 Parameter file upload finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:162
+┌ Info: 2024-07-30 00:22:27 Custom constraints received
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:192
+┌ Info: 2024-07-30 00:22:27 lib\uploads\demand\demand_data7.csv
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:196
+┌ Info: 2024-07-30 00:22:27 lib\uploads\parameters\data7.csv
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:197
+┌ Info: 2024-07-30 00:22:27 Data extracted
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:202
+┌ Info: 2024-07-30 00:22:27 Checkpoint: Function accessed
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:13
+┌ Info: 2024-07-30 00:22:27 Checkpoint: Data Extracted
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:43
+┌ Info: 2024-07-30 00:22:27 Checkpoint: Model Initialized
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:52
+┌ Info: 2024-07-30 00:22:27 Checkpoint: Variables Defined
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:65
+┌ Info: 2024-07-30 00:22:27 Checkpoint: Defined constraints
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:88
+┌ Info: 2024-07-30 00:22:27 Checkpoint: Received custom constraints
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:92
+┌ Info: 2024-07-30 00:22:27 Checkpoint: Defined Objective Function
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:107
+┌ Info: 2024-07-30 00:22:29 Checkpoint: Optimized
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:112
+┌ Info: 2024-07-30 00:22:29 Checkpoint: results saved
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:149
+┌ Info: 2024-07-30 00:22:29 lib\downloads\workforce_inventory.csv
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:153
+┌ Info: 2024-07-30 00:22:29 Checkpoint: results written to file
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:160
+┌ Info: 2024-07-30 00:22:29 Checkpoint: results printed (disabled)
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:178
+┌ Info: 2024-07-30 00:22:29 Success!
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:179
+┌ Info: 2024-07-30 00:24:40 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 00:24:40 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 00:29:08 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 00:29:08 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 00:30:13 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 00:30:13 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 00:30:47 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 00:30:47 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 00:30:58 Demand file added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:115
+┌ Info: 2024-07-30 00:30:58 Demand file uploading. Select set to:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:139
+┌ Info: 2024-07-30 00:30:58 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:144
+┌ Info: 2024-07-30 00:30:58 Demand
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:145
+┌ Info: 2024-07-30 00:30:58 Demand file upload started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:131
+┌ Info: 2024-07-30 00:30:58 Dict{AbstractString, AbstractString}("name" => "demand_data6.csv", "channel" => "JSCUXNJBJETKGGENMIQLSYXAVFXPOIPE", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_BwJ0tihgLO")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:61
+┌ Info: 2024-07-30 00:30:58 Demand file uploaded
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:95
+┌ Info: 2024-07-30 00:30:58 Demand file upload finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:158
+┌ Info: 2024-07-30 00:31:02 Parameter file added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:119
+┌ Info: 2024-07-30 00:31:03 Parameter file uploading. Select set to:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:149
+┌ Info: 2024-07-30 00:31:03 Parameter
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:154
+┌ Info: 2024-07-30 00:31:03 Parameter file upload started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:135
+┌ Info: 2024-07-30 00:31:03 Dict{AbstractString, AbstractString}("name" => "data6.csv", "channel" => "JSCUXNJBJETKGGENMIQLSYXAVFXPOIPE", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_nW1QroZQBS")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:61
+┌ Info: 2024-07-30 00:31:03 Parameter file uploaded.
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:100
+┌ Info: 2024-07-30 00:31:03 Parameter file upload finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:162
+┌ Info: 2024-07-30 00:31:04 Custom constraints received
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:192
+┌ Info: 2024-07-30 00:31:04 lib\uploads\demand\demand_data6.csv
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:196
+┌ Info: 2024-07-30 00:31:04 lib\uploads\parameters\data6.csv
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:197
+┌ Info: 2024-07-30 00:31:04 Data extracted
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:202
+┌ Info: 2024-07-30 00:31:04 Checkpoint: Function accessed
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:13
+┌ Info: 2024-07-30 00:31:04 Checkpoint: Data Extracted
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:43
+┌ Info: 2024-07-30 00:31:04 Checkpoint: Model Initialized
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:52
+┌ Info: 2024-07-30 00:31:04 Checkpoint: Variables Defined
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:65
+┌ Info: 2024-07-30 00:31:04 Checkpoint: Defined constraints
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:88
+┌ Info: 2024-07-30 00:31:04 Checkpoint: Received custom constraints
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:92
+┌ Info: 2024-07-30 00:31:04 Checkpoint: Defined Objective Function
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:107
+┌ Info: 2024-07-30 00:31:04 Checkpoint: Optimized
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:112
+┌ Info: 2024-07-30 00:31:05 Checkpoint: results saved
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:149
+┌ Info: 2024-07-30 00:31:05 lib\downloads\workforce_inventory.csv
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:153
+┌ Info: 2024-07-30 00:31:05 Checkpoint: results written to file
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:160
+┌ Info: 2024-07-30 00:31:05 Checkpoint: results printed (disabled)
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:178
+┌ Info: 2024-07-30 00:31:05 Success!
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:179
+┌ Info: 2024-07-30 00:39:09 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 00:39:09 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 00:39:33 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 00:39:33 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 00:41:39 Demand file added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:115
+┌ Info: 2024-07-30 00:41:40 Demand file removed
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-30 00:41:43 Demand file added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:115
+┌ Info: 2024-07-30 00:41:43 Demand file uploading. Select set to:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:139
+┌ Info: 2024-07-30 00:41:43 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:144
+┌ Info: 2024-07-30 00:41:43 Demand
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:145
+┌ Info: 2024-07-30 00:41:43 Demand file upload started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:131
+┌ Info: 2024-07-30 00:41:44 Dict{AbstractString, AbstractString}("name" => "demand_data7.csv", "channel" => "JSCUXNJBJETKGGENMIQLSYXAVFXPOIPE", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_fW3432BIJi")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:61
+┌ Info: 2024-07-30 00:41:44 Demand file uploaded
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:95
+┌ Info: 2024-07-30 00:41:44 Demand file upload finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:158
+┌ Info: 2024-07-30 00:41:46 Parameter file added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:119
+┌ Info: 2024-07-30 00:41:47 Parameter file uploading. Select set to:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:149
+┌ Info: 2024-07-30 00:41:47 Parameter
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:154
+┌ Info: 2024-07-30 00:41:47 Parameter file upload started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:135
+┌ Info: 2024-07-30 00:41:47 Dict{AbstractString, AbstractString}("name" => "data7.csv", "channel" => "JSCUXNJBJETKGGENMIQLSYXAVFXPOIPE", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_JQLcB63EJO")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:61
+┌ Info: 2024-07-30 00:41:47 Parameter file uploaded.
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:100
+┌ Info: 2024-07-30 00:41:47 Parameter file upload finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:162
+┌ Info: 2024-07-30 00:41:48 Custom constraints received
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:192
+┌ Info: 2024-07-30 00:41:48 lib\uploads\demand\demand_data7.csv
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:196
+┌ Info: 2024-07-30 00:41:48 lib\uploads\parameters\data7.csv
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:197
+┌ Info: 2024-07-30 00:41:48 Data extracted
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:202
+┌ Info: 2024-07-30 00:41:48 Checkpoint: Function accessed
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:13
+┌ Info: 2024-07-30 00:41:48 Checkpoint: Data Extracted
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:43
+┌ Info: 2024-07-30 00:41:48 Checkpoint: Model Initialized
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:52
+┌ Info: 2024-07-30 00:41:48 Checkpoint: Variables Defined
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:65
+┌ Info: 2024-07-30 00:41:48 Checkpoint: Defined constraints
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:88
+┌ Info: 2024-07-30 00:41:48 Checkpoint: Received custom constraints
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:92
+┌ Info: 2024-07-30 00:41:48 Checkpoint: Defined Objective Function
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:107
+┌ Info: 2024-07-30 00:41:48 Checkpoint: Optimized
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:112
+┌ Info: 2024-07-30 00:41:48 Checkpoint: results saved
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:149
+┌ Info: 2024-07-30 00:41:48 lib\downloads\workforce_inventory.csv
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:153
+┌ Info: 2024-07-30 00:41:48 Checkpoint: results written to file
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:160
+┌ Info: 2024-07-30 00:41:48 Checkpoint: results printed (disabled)
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:178
+┌ Info: 2024-07-30 00:41:48 Success!
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:179
+┌ Info: 2024-07-30 15:16:02 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-30 15:16:03 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 15:16:19 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-30 15:16:19 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 15:16:21 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=VGZQDGOZBMCZARSBISMWIQROOUBEUSUY 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-30 15:16:21 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382

@@ -1,0 +1,73 @@
+┌ Info: 2024-07-25 13:38:00 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-25 13:38:01 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-25 13:38:16 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-25 13:38:17 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-25 13:38:19 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=EZRRGKZYBPWSPKKUTNJWDCEUMGABUJHS 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-25 13:38:20 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-25 15:24:28 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-25 15:24:30 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-25 15:24:37 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-25 15:24:37 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-25 15:24:39 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=ROKYGFBSBXBEMVQQARIBYRXDKHTVWIUH 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-25 15:24:39 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-25 15:34:54 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-25 15:34:57 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-25 15:35:57 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-25 15:35:58 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-25 15:36:02 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=FGUXTSFYFOYIMRFBLRQENEEZLCSZLEWC 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-25 15:36:02 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-25 15:42:06 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-25 15:42:07 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-25 15:42:23 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-25 15:42:23 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-25 15:42:25 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=FGUXTSFYFOYIMRFBLRQENEEZLCSZLEWC 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-25 15:42:25 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-25 15:47:41 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-25 15:47:41 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-25 15:59:44 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-25 15:59:45 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-25 16:00:20 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-25 16:00:20 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-25 16:00:22 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=FGUXTSFYFOYIMRFBLRQENEEZLCSZLEWC 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-25 16:00:23 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-25 16:01:16 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-25 16:01:16 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22

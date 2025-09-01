@@ -1,0 +1,2180 @@
+┌ Info: 2024-08-23 22:50:53 Watching ["C:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-08-23 22:50:55 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-23 22:50:59 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-08-23 22:50:59 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-08-23 22:52:47 Demand file added
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:240
+┌ Info: 2024-08-23 22:52:47 Dict{AbstractString, AbstractString}()
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:241
+┌ Info: 2024-08-23 22:52:48 Demand file uploading.
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:272
+┌ Info: 2024-08-23 22:52:48 Select set to:
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:277
+┌ Info: 2024-08-23 22:52:48 Demand
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:278
+┌ Info: 2024-08-23 22:52:50 Demand file uploaded
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:217
+┌ Info: 2024-08-23 22:52:50 Demand file upload finished
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:300
+┌ Info: 2024-08-23 22:52:58 Parameter file added
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:244
+┌ Info: 2024-08-23 22:52:59 Parameter file uploading.
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:281
+┌ Info: 2024-08-23 22:52:59 Select set to:
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:286
+┌ Info: 2024-08-23 22:52:59 Parameter
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:287
+┌ Info: 2024-08-23 22:52:59 Here!
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:157
+┌ Info: 2024-08-23 22:52:59 Dict{AbstractString, AbstractString}("name" => "fifa.csv", "channel" => "GPIWRKZJNRHFDQSMSBXQPIZZWHGZMJRC", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_axiJe1APQJ")
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:159
+┌ Info: 2024-08-23 22:52:59 onchange
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:160
+┌ Info: 2024-08-23 22:52:59 Parameter
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:161
+┌ Info: 2024-08-23 22:52:59 fifa.csv
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:182
+┌ Info: 2024-08-23 22:52:59 Here!
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:157
+┌ Info: 2024-08-23 22:53:00 Parameter file uploaded.
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:220
+┌ Info: 2024-08-23 22:53:00 Parameter file upload finished
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:303
+┌ Info: 2024-08-23 22:53:08 Demand file removed
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:251
+┌ Info: 2024-08-23 22:53:09 Parameter file removed
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:254
+┌ Info: 2024-08-23 22:56:12 Watching ["C:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-08-23 22:56:14 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-23 22:56:20 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-08-23 22:56:20 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-08-23 22:57:57 Demand file added
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:240
+┌ Info: 2024-08-23 22:57:57 Dict{AbstractString, AbstractString}()
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:241
+┌ Info: 2024-08-23 22:57:59 Demand file uploading.
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:272
+┌ Info: 2024-08-23 22:57:59 Select set to:
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:277
+┌ Info: 2024-08-23 22:57:59 Demand
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:278
+┌ Info: 2024-08-23 22:58:00 Here!
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:157
+┌ Info: 2024-08-23 22:58:00 Dict{AbstractString, AbstractString}("name" => "fifa.csv", "channel" => "FWBXTIRFCNTGHHMHZGHGEGYJZRGBFOUU", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_1M3yj4jU9k")
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:159
+┌ Info: 2024-08-23 22:58:00 onchange
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:160
+┌ Info: 2024-08-23 22:58:00 Demand
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:161
+┌ Info: 2024-08-23 22:58:00 fifa.csv
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:165
+┌ Info: 2024-08-23 22:58:00 Dict{AbstractString, AbstractString}("name" => "fifa.csv", "channel" => "FWBXTIRFCNTGHHMHZGHGEGYJZRGBFOUU", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_1M3yj4jU9k")
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:172
+┌ Info: 2024-08-23 22:58:00 Here!
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:157
+┌ Info: 2024-08-23 22:58:00 Dict{AbstractString, AbstractString}("name" => "fifa.csv", "channel" => "FWBXTIRFCNTGHHMHZGHGEGYJZRGBFOUU", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_1M3yj4jU9k")
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:174
+┌ Info: 2024-08-23 22:58:00 enabled
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:542
+┌ Info: 2024-08-23 22:58:00 Demand file uploaded
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:217
+┌ Info: 2024-08-23 22:58:00 Demand file upload finished
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:300
+┌ Info: 2024-08-23 22:58:02 Demand file removed
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:251
+┌ Info: 2024-08-23 22:58:06 Parameter file added
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:244
+┌ Info: 2024-08-23 22:58:07 Parameter file uploading.
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:281
+┌ Info: 2024-08-23 22:58:07 Select set to:
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:286
+┌ Info: 2024-08-23 22:58:07 Parameter
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:287
+┌ Info: 2024-08-23 22:58:07 Here!
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:157
+┌ Info: 2024-08-23 22:58:07 Dict{AbstractString, AbstractString}("name" => "fifa.csv", "channel" => "FWBXTIRFCNTGHHMHZGHGEGYJZRGBFOUU", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_7wzmvaJCrE")
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:159
+┌ Info: 2024-08-23 22:58:07 onchange
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:160
+┌ Info: 2024-08-23 22:58:07 Parameter
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:161
+┌ Info: 2024-08-23 22:58:07 fifa.csv
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:182
+┌ Info: 2024-08-23 22:58:07 Here!
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:157
+┌ Info: 2024-08-23 22:58:07 Parameter file uploaded.
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:220
+┌ Info: 2024-08-23 22:58:07 Parameter file upload finished
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:303
+┌ Info: 2024-08-23 22:58:12 Workers file added
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:247
+┌ Info: 2024-08-23 22:58:13 Workers file uploading.
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:290
+┌ Info: 2024-08-23 22:58:13 Select set to:
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:295
+┌ Info: 2024-08-23 22:58:13 Workers
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:296
+┌ Info: 2024-08-23 22:58:13 Workers file upload started
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:268
+┌ Info: 2024-08-23 22:58:13 Here!
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:157
+┌ Info: 2024-08-23 22:58:13 Dict{AbstractString, AbstractString}("name" => "fifa.csv", "channel" => "FWBXTIRFCNTGHHMHZGHGEGYJZRGBFOUU", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_vADEZMBqtG")
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:159
+┌ Info: 2024-08-23 22:58:13 onchange
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:160
+┌ Info: 2024-08-23 22:58:13 Workers
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:161
+┌ Info: 2024-08-23 22:58:13 fifa.csv
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:197
+┌ Info: 2024-08-23 22:58:13 Here!
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:157
+┌ Info: 2024-08-23 22:58:13 Workers file uploaded.
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:223
+┌ Info: 2024-08-23 22:58:13 Workers file upload finished
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:306
+┌ Info: 2024-08-23 23:10:50 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-23 23:11:45 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-23 23:13:33 Watching ["C:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-08-23 23:13:36 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-23 23:14:01 
+│ Web Server starting at http://127.0.0.1:8000 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-08-23 23:14:01 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-08-23 23:15:11 Demand file added
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:244
+┌ Info: 2024-08-23 23:15:11 Dict{AbstractString, AbstractString}()
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:245
+┌ Info: 2024-08-23 23:15:12 Demand file uploading.
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:276
+┌ Info: 2024-08-23 23:15:13 Select set to:
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:281
+┌ Info: 2024-08-23 23:15:13 Demand
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:282
+┌ Info: 2024-08-23 23:15:14 Checkpoint: onchange activated
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:157
+┌ Info: 2024-08-23 23:15:14 Dict{AbstractString, AbstractString}("name" => "fifa.csv", "channel" => "JESSTNGIQKKCCCOTPOODFEWSROZKZPJK", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_GbyL4dYtUZ")
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:159
+┌ Info: 2024-08-23 23:15:14 Checkpoint: verified that upload exists
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:160
+┌ Info: 2024-08-23 23:15:14 Demand
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:162
+┌ Info: 2024-08-23 23:15:14 fifa.csv
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:165
+┌ Info: 2024-08-23 23:15:15 enabled
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:546
+┌ Info: 2024-08-23 23:15:15 Checkpoint: Upload saved to correct folder
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:207
+┌ Info: 2024-08-23 23:15:15 Dict{AbstractString, AbstractString}("name" => "fifa.csv", "channel" => "JESSTNGIQKKCCCOTPOODFEWSROZKZPJK", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_GbyL4dYtUZ")
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:211
+┌ Info: 2024-08-23 23:15:15 Checkpoint: onchange activated
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:157
+┌ Info: 2024-08-23 23:15:15 Checkpoint: Select and fileuploads cleared
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:214
+┌ Info: 2024-08-23 23:15:15 Demand file uploaded
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:221
+┌ Info: 2024-08-23 23:15:15 Demand file upload finished
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:304
+┌ Info: 2024-08-23 23:15:23 Workers file added
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:251
+┌ Info: 2024-08-23 23:15:24 Workers file uploading.
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:294
+┌ Info: 2024-08-23 23:15:24 Select set to:
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:299
+┌ Info: 2024-08-23 23:15:24 Workers
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:300
+┌ Info: 2024-08-23 23:15:24 Workers file upload started
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:272
+┌ Info: 2024-08-23 23:15:24 Checkpoint: onchange activated
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:157
+┌ Info: 2024-08-23 23:15:24 Dict{AbstractString, AbstractString}("name" => "fifa.csv", "channel" => "JESSTNGIQKKCCCOTPOODFEWSROZKZPJK", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_8FezADA545")
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:159
+┌ Info: 2024-08-23 23:15:24 Checkpoint: verified that upload exists
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:160
+┌ Info: 2024-08-23 23:15:24 Workers
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:162
+┌ Info: 2024-08-23 23:15:24 fifa.csv
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:195
+┌ Info: 2024-08-23 23:15:24 Checkpoint: Upload saved to correct folder
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:207
+┌ Info: 2024-08-23 23:15:24 Dict{AbstractString, AbstractString}("name" => "fifa.csv", "channel" => "JESSTNGIQKKCCCOTPOODFEWSROZKZPJK", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_8FezADA545")
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:211
+┌ Info: 2024-08-23 23:15:24 Checkpoint: onchange activated
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:157
+┌ Info: 2024-08-23 23:15:24 Checkpoint: Select and fileuploads cleared
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:214
+┌ Info: 2024-08-23 23:15:24 Workers file uploaded.
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:227
+┌ Info: 2024-08-23 23:15:24 Workers file upload finished
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:310
+┌ Info: 2024-08-23 23:15:33 Parameter file added
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:248
+┌ Info: 2024-08-23 23:15:34 Parameter file uploading.
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:285
+┌ Info: 2024-08-23 23:15:34 Select set to:
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:290
+┌ Info: 2024-08-23 23:15:34 Parameter
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:291
+┌ Info: 2024-08-23 23:15:34 Checkpoint: onchange activated
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:157
+┌ Info: 2024-08-23 23:15:34 Dict{AbstractString, AbstractString}("name" => "data8 (2).csv", "channel" => "JESSTNGIQKKCCCOTPOODFEWSROZKZPJK", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_6n0n61G5iz")
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:159
+┌ Info: 2024-08-23 23:15:34 Checkpoint: verified that upload exists
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:160
+┌ Info: 2024-08-23 23:15:34 Parameter
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:162
+┌ Info: 2024-08-23 23:15:34 data8 (2).csv
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:180
+┌ Info: 2024-08-23 23:15:34 Checkpoint: Upload saved to correct folder
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:207
+┌ Info: 2024-08-23 23:15:34 Dict{AbstractString, AbstractString}("name" => "data8 (2).csv", "channel" => "JESSTNGIQKKCCCOTPOODFEWSROZKZPJK", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_6n0n61G5iz")
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:211
+┌ Info: 2024-08-23 23:15:35 Checkpoint: onchange activated
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:157
+┌ Info: 2024-08-23 23:15:35 Checkpoint: Select and fileuploads cleared
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:214
+┌ Info: 2024-08-23 23:15:35 Parameter file uploaded.
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:224
+┌ Info: 2024-08-23 23:15:35 Parameter file upload finished
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:307
+┌ Info: 2024-08-23 23:18:18 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-23 23:18:25 Demand file added
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:245
+┌ Info: 2024-08-23 23:18:25 Dict{AbstractString, AbstractString}()
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:246
+┌ Info: 2024-08-23 23:18:25 Demand file uploading.
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:277
+┌ Info: 2024-08-23 23:18:25 Select set to:
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:282
+┌ Info: 2024-08-23 23:18:26 Demand
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:283
+┌ Info: 2024-08-23 23:18:27 Checkpoint: onchange activated
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:157
+┌ Info: 2024-08-23 23:18:27 Dict{AbstractString, AbstractString}("name" => "data8 (3).csv", "channel" => "JESSTNGIQKKCCCOTPOODFEWSROZKZPJK", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_0hkFQlWLgz")
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:159
+┌ Info: 2024-08-23 23:18:27 Checkpoint: verified that upload exists
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:160
+┌ Info: 2024-08-23 23:18:27 Demand
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:162
+┌ Info: 2024-08-23 23:18:27 data8 (3).csv
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:165
+┌ Info: 2024-08-23 23:18:27 enabled
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:547
+┌ Info: 2024-08-23 23:18:27 Checkpoint: Upload saved to correct folder
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:207
+┌ Info: 2024-08-23 23:18:27 Dict{AbstractString, AbstractString}("name" => "data8 (3).csv", "channel" => "JESSTNGIQKKCCCOTPOODFEWSROZKZPJK", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_0hkFQlWLgz")
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:211
+┌ Info: 2024-08-23 23:18:27 Checkpoint: onchange activated
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:157
+┌ Info: 2024-08-23 23:18:27 Dict{AbstractString, AbstractString}("name" => "data8 (3).csv", "channel" => "JESSTNGIQKKCCCOTPOODFEWSROZKZPJK", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_0hkFQlWLgz")
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:213
+┌ Info: 2024-08-23 23:18:27 Checkpoint: Select and fileuploads cleared
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:215
+┌ Info: 2024-08-23 23:18:27 Demand file uploaded
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:222
+┌ Info: 2024-08-23 23:18:27 Demand file upload finished
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:305
+┌ Info: 2024-08-23 23:23:12 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-23 23:23:20 Workers file added
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:259
+┌ Info: 2024-08-23 23:23:21 Workers file uploading.
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:302
+┌ Info: 2024-08-23 23:23:21 Select set to:
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:307
+┌ Info: 2024-08-23 23:23:21 Workers
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:308
+┌ Info: 2024-08-23 23:23:21 Workers file upload started
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:280
+┌ Info: 2024-08-23 23:23:22 Checkpoint: onchange activated
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:157
+┌ Info: 2024-08-23 23:23:22 Dict{AbstractString, AbstractString}("name" => "worker_data.csv", "channel" => "JESSTNGIQKKCCCOTPOODFEWSROZKZPJK", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_yZSv010nWh")
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:159
+┌ Info: 2024-08-23 23:23:22 Checkpoint: verified that upload exists
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:160
+┌ Info: 2024-08-23 23:23:22 Workers
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:162
+┌ Info: 2024-08-23 23:23:22 worker_data.csv
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:195
+┌ Info: 2024-08-23 23:23:22 Checkpoint: Upload saved to correct folder
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:207
+┌ Info: 2024-08-23 23:23:22 Workers file uploaded
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:231
+┌ Info: 2024-08-23 23:23:22 Dict{AbstractString, AbstractString}("name" => "worker_data.csv", "channel" => "JESSTNGIQKKCCCOTPOODFEWSROZKZPJK", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_yZSv010nWh")
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:232
+┌ Info: 2024-08-23 23:23:22 Checkpoint: onchange activated
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:157
+┌ Info: 2024-08-23 23:23:22 Dict{AbstractString, AbstractString}()
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:234
+┌ Info: 2024-08-23 23:23:22 Checkpoint: Select and fileuploads cleared
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:235
+┌ Info: 2024-08-23 23:23:23 Workers file upload finished
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:318
+┌ Info: 2024-08-23 23:39:02 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-23 23:39:21 enabled
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:558
+┌ Info: 2024-08-23 23:39:36 Checkpoint: Custom constraints received
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:488
+┌ Info: 2024-08-23 23:39:36 lib\uploads\demand\demand_data_final_sample.csv
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:490
+┌ Info: 2024-08-23 23:39:36 lib\uploads\parameters\para_data_final_sample.csv
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:491
+┌ Info: 2024-08-23 23:39:36 lib\uploads\workers\worker_data_final_sample.csv
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:492
+┌ Info: 2024-08-23 23:39:39 Checkpoint: Data extracted
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:498
+┌ Info: 2024-08-23 23:39:39 Checkpoint: Function accessed
+└ @ Main.App.Backend C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:21
+┌ Info: 2024-08-23 23:39:39 n_periods:
+└ @ Main.App.Backend C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:36
+┌ Info: 2024-08-23 23:39:40 12
+└ @ Main.App.Backend C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:37
+┌ Info: 2024-08-23 23:39:40 n_products:
+└ @ Main.App.Backend C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:39
+┌ Info: 2024-08-23 23:39:40 5
+└ @ Main.App.Backend C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:40
+┌ Info: 2024-08-23 23:39:40 n_workers:
+└ @ Main.App.Backend C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:52
+┌ Info: 2024-08-23 23:39:40 3
+└ @ Main.App.Backend C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:53
+┌ Info: 2024-08-23 23:39:40 Checkpoint: Data Extracted
+└ @ Main.App.Backend C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:68
+┌ Info: 2024-08-23 23:39:40 Checkpoint: Model Initialized
+└ @ Main.App.Backend C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:75
+┌ Info: 2024-08-23 23:39:42 Checkpoint: Defined Variables
+└ @ Main.App.Backend C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:90
+┌ Info: 2024-08-23 23:39:42 Checkpoint: Defined constraints
+└ @ Main.App.Backend C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:141
+┌ Info: 2024-08-23 23:39:42 Checkpoint: Defined Objective Function
+└ @ Main.App.Backend C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:206
+┌ Info: 2024-08-23 23:39:44 Checkpoint: Optimized
+└ @ Main.App.Backend C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:211
+┌ Info: 2024-08-23 23:39:44 Checkpoint: Feasibility Verified
+└ @ Main.App.Backend C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:218
+┌ Info: 2024-08-23 23:39:44 0×5 DataFrame
+│  Row │ t      j      W        H        F
+│      │ Int64  Int64  Float64  Float64  Float64
+│ ─────┴─────────────────────────────────────────
+└ @ Main.App.Backend C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:229
+┌ Info: 2024-08-23 23:39:44 Checkpoint: results DataFrames initialized
+└ @ Main.App.Backend C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:243
+┌ Info: 2024-08-23 23:39:44 Checkpoint: results saved
+└ @ Main.App.Backend C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:276
+┌ Info: 2024-08-23 23:39:44 lib\downloads\optimal_workforce.csv
+└ @ Main.App.Backend C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:280
+┌ Info: 2024-08-23 23:39:45 lib\downloads\optimal_inventory.csv
+└ @ Main.App.Backend C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:288
+┌ Info: 2024-08-23 23:39:45 Checkpoint: results written to file
+└ @ Main.App.Backend C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:295
+┌ Info: 2024-08-23 23:39:45 Checkpoint: results printed (disabled)
+└ @ Main.App.Backend C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:313
+┌ Info: 2024-08-23 23:39:45 Success!
+└ @ Main.App.Backend C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:314
+┌ Info: 2024-08-23 23:39:46 1447000
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:502
+┌ Info: 2024-08-23 23:39:46 Checkpoint: Optimized results saved successfully
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:509
+┌ Info: 2024-08-23 23:39:46 Checkpoint: Graphs rendering successfully.
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:530
+┌ Info: 2024-08-23 23:39:46 Graph dropdown lists:
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:541
+┌ Info: 2024-08-23 23:39:46 ["Select worker type", "1", "2", "3"]
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:542
+┌ Info: 2024-08-23 23:39:46 ["Select product type", "1", "2", "3", "4", "5"]
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:543
+┌ Info: 2024-08-23 23:39:46 Checkpoint: Dropdowns updated successfully.
+└ @ Main.App C:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:544
+┌ Info: 2024-08-23 23:41:53 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-08-23 23:41:54 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-23 23:42:13 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-08-23 23:42:13 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-23 23:42:14 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=AGBRVOWOFQTKHSDXLWBCWXFNXCGVJQJD 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-08-23 23:42:14 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-08-23 23:43:22 Demand file added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:256
+┌ Info: 2024-08-23 23:43:22 Dict{AbstractString, AbstractString}()
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:257
+┌ Info: 2024-08-23 23:43:23 Demand file uploading.
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:288
+┌ Warning: 2024-08-23 23:43:24 Genie.WebChannels.ChannelNotFoundException("undefined")
+└ @ Genie.WebChannels C:\Users\kaele\.julia\packages\Genie\uliWf\src\WebChannels.jl:259
+┌ Warning: 2024-08-23 23:43:27 Genie.WebChannels.ChannelNotFoundException("undefined")
+└ @ Genie.WebChannels C:\Users\kaele\.julia\packages\Genie\uliWf\src\WebChannels.jl:259
+┌ Info: 2024-08-23 23:43:28 Select set to:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:293
+┌ Info: 2024-08-23 23:43:29 Demand
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:294
+┌ Info: 2024-08-23 23:43:29 Demand file uploaded
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:220
+┌ Info: 2024-08-23 23:43:29 Dict{AbstractString, AbstractString}()
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:221
+┌ Info: 2024-08-23 23:43:29 Checkpoint: onchange activated
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:157
+┌ Info: 2024-08-23 23:43:29 Dict{AbstractString, AbstractString}()
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:223
+┌ Info: 2024-08-23 23:43:29 Checkpoint: Select and fileuploads cleared
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:224
+┌ Info: 2024-08-23 23:43:29 Demand file upload finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:316
+┌ Info: 2024-08-23 23:46:01 Demand file added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:256
+┌ Info: 2024-08-23 23:46:01 Dict{AbstractString, AbstractString}()
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:257
+┌ Info: 2024-08-23 23:46:03 Demand file uploading.
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:288
+┌ Info: 2024-08-23 23:46:03 Select set to:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:293
+┌ Info: 2024-08-23 23:46:03 Demand
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:294
+┌ Info: 2024-08-23 23:46:04 Checkpoint: onchange activated
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:157
+┌ Info: 2024-08-23 23:46:04 Dict{AbstractString, AbstractString}("name" => "data8 (2).csv", "channel" => "AGBRVOWOFQTKHSDXLWBCWXFNXCGVJQJD", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_P0ZYhYXe12")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:159
+┌ Info: 2024-08-23 23:46:04 Checkpoint: verified that upload exists
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:160
+┌ Info: 2024-08-23 23:46:04 Demand
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:162
+┌ Info: 2024-08-23 23:46:04 data8 (2).csv
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:165
+┌ Info: 2024-08-23 23:46:04 enabled
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:558
+┌ Info: 2024-08-23 23:46:04 Checkpoint: Upload saved to correct folder
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:207
+┌ Info: 2024-08-23 23:46:04 Dict{AbstractString, AbstractString}("name" => "data8 (2).csv", "channel" => "AGBRVOWOFQTKHSDXLWBCWXFNXCGVJQJD", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_P0ZYhYXe12")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:211
+┌ Info: 2024-08-23 23:46:04 Checkpoint: onchange activated
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:157
+┌ Info: 2024-08-23 23:46:04 Dict{AbstractString, AbstractString}("name" => "data8 (2).csv", "channel" => "AGBRVOWOFQTKHSDXLWBCWXFNXCGVJQJD", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_P0ZYhYXe12")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:213
+┌ Info: 2024-08-23 23:46:04 Demand file uploaded
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:220
+┌ Info: 2024-08-23 23:46:04 Dict{AbstractString, AbstractString}()
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:221
+┌ Info: 2024-08-23 23:46:04 Checkpoint: onchange activated
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:157
+┌ Info: 2024-08-23 23:46:04 Dict{AbstractString, AbstractString}()
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:223
+┌ Info: 2024-08-23 23:46:04 Checkpoint: Select and fileuploads cleared
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:224
+┌ Info: 2024-08-23 23:46:04 Demand file upload finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:316
+┌ Info: 2024-08-23 23:46:59 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-23 23:46:59 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-23 23:47:02 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-23 23:47:02 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-23 23:47:34 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-23 23:47:34 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-23 23:47:39 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-23 23:47:42 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-23 23:47:42 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-23 23:48:14 lib\uploads\workers\worker_data_final_sample.csv
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:605
+┌ Info: 2024-08-23 23:48:15 Any["", 0, 0, 0, "=", 0]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:777
+┌ Info: 2024-08-23 23:48:15 Any["", 0, 0, 0, "", 0]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:778
+┌ Info: 2024-08-23 23:48:15 Any["", 0, 0, 0, "", 0]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:779
+┌ Error: 2024-08-23 23:48:18 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#129":
+│  [1] (::Main.App.var"#129#149")(updateButtonClicked)
+│      @ C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:1067
+│   Core.CodeInfo[CodeInfo(
+│ 1 ──        goto #89 if not updateButtonClicked
+│ 2 ── %2   = Core.getfield(#self#, :__model__)
+│ │    %3   = Base.getproperty(%2, :Radio_buttons)
+│ │    %4   = Base.getindex(%3)
+│ │    %5   = %4 == ""
+│ └───        goto #4 if not %5
+│ 3 ── %7   = Core.getfield(#self#, :__model__)
+│ │           Main.App.notify(%7, "Invalid input: Please set an operator (≤/=/≥)")
+│ └───        goto #88
+│ 4 ──        goto #6 if not Main.App.nothing
+│ 5 ── %11  = Core.getfield(#self#, :__model__)
+│ │           Main.App.notify(%11, "Invalid input: Please fill in all required fields (t, i/j)")
+│ └───        goto #88
+│ 6 ── %14  = $(Expr(:enter, #70))
+│ 7 ──        Core.NewvarNode(:(@_3))
+│ │           Core.NewvarNode(:(i))
+│ │           Core.NewvarNode(:(j))
+│ │    %18  = Base.vect()
+│ │    %19  = Core.getfield(#self#, :__model__)
+│ │    %20  = Base.getproperty(%19, :Display_List)
+│ │           Base.setindex!(%20, %18)
+│ │    %22  = Main.App.Int
+│ │    %23  = Core.getfield(#self#, :__model__)
+│ │    %24  = Base.getproperty(%23, :Month)
+│ │    %25  = Base.getindex(%24)
+│ │           t = Main.App.parse(%22, %25)
+│ │    %27  = Main.App.Int
+│ │    %28  = Core.getfield(#self#, :__model__)
+│ │    %29  = Base.getproperty(%28, :ValueField)
+│ │    %30  = Base.getindex(%29)
+│ │           VF = Main.App.parse(%27, %30)
+│ │    %32  = Core.getfield(#self#, :__model__)
+│ │    %33  = Base.getproperty(%32, :isHiringChecked)
+│ │    %34  = Base.getindex(%33)
+│ └───        goto #9 if not %34
+│ 8 ── %36  = Main.App.Int
+│ │    %37  = Core.getfield(#self#, :__model__)
+│ │    %38  = Base.getproperty(%37, :WorkerType)
+│ │    %39  = Base.getindex(%38)
+│ │           j = Main.App.parse(%36, %39)
+│ │    %41  = Core.getfield(#self#, :__model__)
+│ │    %42  = Base.getproperty(%41, :H_List)
+│ │    %43  = Base.getindex(%42)
+│ │    %44  = VF
+│ │           Base.setindex!(%43, %44, 6)
+│ │    %46  = Core.getfield(#self#, :__model__)
+│ │    %47  = Base.getproperty(%46, :Radio_buttons)
+│ │    %48  = Base.getindex(%47)
+│ │    %49  = Core.getfield(#self#, :__model__)
+│ │    %50  = Base.getproperty(%49, :H_List)
+│ │    %51  = Base.getindex(%50)
+│ │           Base.setindex!(%51, %48, 5)
+│ │    %53  = Core.getfield(#self#, :__model__)
+│ │    %54  = Base.getproperty(%53, :H_List)
+│ │    %55  = Base.getindex(%54)
+│ │    %56  = j
+│ │           Base.setindex!(%55, %56, 4)
+│ │    %58  = Core.getfield(#self#, :__model__)
+│ │    %59  = Base.getproperty(%58, :H_List)
+│ │    %60  = Base.getindex(%59)
+│ │           Base.setindex!(%60, "n/a", 3)
+│ │    %62  = Core.getfield(#self#, :__model__)
+│ │    %63  = Base.getproperty(%62, :H_List)
+│ │    %64  = Base.getindex(%63)
+│ │    %65  = t
+│ │           Base.setindex!(%64, %65, 2)
+│ │    %67  = Core.getfield(#self#, :__model__)
+│ │    %68  = Base.getproperty(%67, :H_List)
+│ │    %69  = Base.getindex(%68)
+│ │           Base.setindex!(%69, "H", 1)
+│ │    %71  = Core.getfield(#self#, :__model__)
+│ │    %72  = Base.getproperty(%71, :AC_List)
+│ │    %73  = Base.getindex(%72)
+│ │    %74  = Core.getfield(#self#, :__model__)
+│ │    %75  = Base.getproperty(%74, :H_List)
+│ │    %76  = Base.getindex(%75)
+│ │    %77  = Main.App.deepcopy(%76)
+│ │           Main.App.push!(%73, %77)
+│ │    %79  = Core.getfield(#self#, :__model__)
+│ │    %80  = Base.getproperty(%79, :H_List)
+│ │    %81  = Base.getindex(%80)
+│ │    %82  = Base.getindex(%81, 6)
+│ │    %83  = Core.getfield(#self#, :__model__)
+│ │    %84  = Base.getproperty(%83, :updatedHiringValue)
+│ └───        Base.setindex!(%84, %82)
+│ 9 ┄─ %86  = Core.getfield(#self#, :__model__)
+│ │    %87  = Base.getproperty(%86, :isFiringChecked)
+│ │    %88  = Base.getindex(%87)
+│ └───        goto #11 if not %88
+│ 10 ─ %90  = Main.App.Int
+│ │    %91  = Core.getfield(#self#, :__model__)
+│ │    %92  = Base.getproperty(%91, :WorkerType)
+│ │    %93  = Base.getindex(%92)
+│ │           j = Main.App.parse(%90, %93)
+│ │    %95  = Core.getfield(#self#, :__model__)
+│ │    %96  = Base.getproperty(%95, :F_List)
+│ │    %97  = Base.getindex(%96)
+│ │    %98  = VF
+│ │           Base.setindex!(%97, %98, 6)
+│ │    %100 = Core.getfield(#self#, :__model__)
+│ │    %101 = Base.getproperty(%100, :Radio_buttons)
+│ │    %102 = Base.getindex(%101)
+│ │    %103 = Core.getfield(#self#, :__model__)
+│ │    %104 = Base.getproperty(%103, :F_List)
+│ │    %105 = Base.getindex(%104)
+│ │           Base.setindex!(%105, %102, 5)
+│ │    %107 = Core.getfield(#self#, :__model__)
+│ │    %108 = Base.getproperty(%107, :F_List)
+│ │    %109 = Base.getindex(%108)
+│ │    %110 = j
+│ │           Base.setindex!(%109, %110, 4)
+│ │    %112 = Core.getfield(#self#, :__model__)
+│ │    %113 = Base.getproperty(%112, :F_List)
+│ │    %114 = Base.getindex(%113)
+│ │           Base.setindex!(%114, "n/a", 3)
+│ │    %116 = Core.getfield(#self#, :__model__)
+│ │    %117 = Base.getproperty(%116, :F_List)
+│ │    %118 = Base.getindex(%117)
+│ │    %119 = t
+│ │           Base.setindex!(%118, %119, 2)
+│ │    %121 = Core.getfield(#self#, :__model__)
+│ │    %122 = Base.getproperty(%121, :F_List)
+│ │    %123 = Base.getindex(%122)
+│ │           Base.setindex!(%123, "F", 1)
+│ │    %125 = Core.getfield(#self#, :__model__)
+│ │    %126 = Base.getproperty(%125, :AC_List)
+│ │    %127 = Base.getindex(%126)
+│ │    %128 = Core.getfield(#self#, :__model__)
+│ │    %129 = Base.getproperty(%128, :F_List)
+│ │    %130 = Base.getindex(%129)
+│ │    %131 = Main.App.deepcopy(%130)
+│ │           Main.App.push!(%127, %131)
+│ │    %133 = Core.getfield(#self#, :__model__)
+│ │    %134 = Base.getproperty(%133, :F_List)
+│ │    %135 = Base.getindex(%134)
+│ │    %136 = Base.getindex(%135, 6)
+│ │    %137 = Core.getfield(#self#, :__model__)
+│ │    %138 = Base.getproperty(%137, :updatedFiringValue)
+│ └───        Base.setindex!(%138, %136)
+│ 11 ┄ %140 = Core.getfield(#self#, :__model__)
+│ │    %141 = Base.getproperty(%140, :isInventoryChecked)
+│ │    %142 = Base.getindex(%141)
+│ └───        goto #13 if not %142
+│ 12 ─ %144 = Main.App.Int
+│ │    %145 = Core.getfield(#self#, :__model__)
+│ │    %146 = Base.getproperty(%145, :ProductType)
+│ │    %147 = Base.getindex(%146)
+│ │           i = Main.App.parse(%144, %147)
+│ │    %149 = Core.getfield(#self#, :__model__)
+│ │    %150 = Base.getproperty(%149, :I_List)
+│ │    %151 = Base.getindex(%150)
+│ │    %152 = VF
+│ │           Base.setindex!(%151, %152, 6)
+│ │    %154 = Core.getfield(#self#, :__model__)
+│ │    %155 = Base.getproperty(%154, :Radio_buttons)
+│ │    %156 = Base.getindex(%155)
+│ │    %157 = Core.getfield(#self#, :__model__)
+│ │    %158 = Base.getproperty(%157, :I_List)
+│ │    %159 = Base.getindex(%158)
+│ │           Base.setindex!(%159, %156, 5)
+│ │    %161 = Core.getfield(#self#, :__model__)
+│ │    %162 = Base.getproperty(%161, :I_List)
+│ │    %163 = Base.getindex(%162)
+│ │           Base.setindex!(%163, "n/a", 4)
+│ │    %165 = Core.getfield(#self#, :__model__)
+│ │    %166 = Base.getproperty(%165, :I_List)
+│ │    %167 = Base.getindex(%166)
+│ │    %168 = i
+│ │           Base.setindex!(%167, %168, 3)
+│ │    %170 = Core.getfield(#self#, :__model__)
+│ │    %171 = Base.getproperty(%170, :I_List)
+│ │    %172 = Base.getindex(%171)
+│ │    %173 = t
+│ │           Base.setindex!(%172, %173, 2)
+│ │    %175 = Core.getfield(#self#, :__model__)
+│ │    %176 = Base.getproperty(%175, :I_List)
+│ │    %177 = Base.getindex(%176)
+│ │           Base.setindex!(%177, "I", 1)
+│ │    %179 = Core.getfield(#self#, :__model__)
+│ │    %180 = Base.getproperty(%179, :AC_List)
+│ │    %181 = Base.getindex(%180)
+│ │    %182 = Core.getfield(#self#, :__model__)
+│ │    %183 = Base.getproperty(%182, :I_List)
+│ │    %184 = Base.getindex(%183)
+│ │    %185 = Main.App.deepcopy(%184)
+│ │           Main.App.push!(%181, %185)
+│ │    %187 = Core.getfield(#self#, :__model__)
+│ │    %188 = Base.getproperty(%187, :I_List)
+│ │    %189 = Base.getindex(%188)
+│ │    %190 = Base.getindex(%189, 6)
+│ │    %191 = Core.getfield(#self#, :__model__)
+│ │    %192 = Base.getproperty(%191, :updatedInventoryValue)
+│ └───        Base.setindex!(%192, %190)
+│ 13 ┄ %194 = Core.getfield(#self#, :__model__)
+│ │    %195 = Base.getproperty(%194, :AC_List)
+│ │    %196 = Base.getindex(%195)
+│ │           @_3 = Base.iterate(%196)
+│ │    %198 = @_3 === nothing
+│ │    %199 = Base.not_int(%198)
+│ └───        goto #16 if not %199
+│ 14 ┄ %201 = @_3
+│ │           Constraint = Core.getfield(%201, 1)
+│ │    %203 = Core.getfield(%201, 2)
+│ │           Concopy = Main.App.deepcopy(Constraint)
+│ │    %205 = Base.broadcasted(Main.App.string, Concopy)
+│ │    %206 = Base.materialize(%205)
+│ │           Displaystring = Main.App.join(%206, " ")
+│ │    %208 = Displaystring
+│ │    %209 = Core.getfield(#self#, :__model__)
+│ │    %210 = Base.getproperty(%209, :Display_List)
+│ │    %211 = Base.getindex(%210)
+│ │           Main.App.add_file(%208, %211)
+│ │           @_3 = Base.iterate(%196, %203)
+│ │    %214 = @_3 === nothing
+│ │    %215 = Base.not_int(%214)
+│ └───        goto #16 if not %215
+│ 15 ─        goto #14
+│ 16 ┄ %218 = false
+│ │    %219 = Core.getfield(#self#, :__model__)
+│ │    %220 = Base.getproperty(%219, :updateButtonClicked)
+│ │           Base.setindex!(%220, %218)
+│ │           Core.NewvarNode(:(msg@_11))
+│ │           Core.NewvarNode(:(kwargs@_12))
+│ │           Core.NewvarNode(:(line@_13))
+│ │           Core.NewvarNode(:(file@_14))
+│ │           Core.NewvarNode(:(id@_15))
+│ │           Core.NewvarNode(:(logger@_16))
+│ │           Core.NewvarNode(:(_module@_17))
+│ │           Core.NewvarNode(:(group@_18))
+│ │           level@_20 = Base.CoreLogging.Info
+│ │           std_level@_19 = level@_20
+│ │    %232 = std_level@_19
+│ │    %233 = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %234 = %232 >= %233
+│ └───        goto #26 if not %234
+│ 17 ─        group@_18 = :app
+│ │           _module@_17 = Main.App
+│ │           logger@_16 = (Base.CoreLogging.current_logger_for_env)(std_level@_19, group@_18, _module@_17)
+│ │    %239 = logger@_16 === Base.CoreLogging.nothing
+│ │    %240 = !%239
+│ └───        goto #26 if not %240
+│ 18 ─        id@_15 = :Main_App_808e08a4
+│ │    %243 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_16, level@_20, _module@_17, group@_18, id@_15)
+│ └───        goto #26 if not %243
+│ 19 ─        file@_14 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %246 = file@_14 isa Base.CoreLogging.String
+│ └───        goto #21 if not %246
+│ 20 ─ %248 = Base.fixup_stdlib_path
+│ └───        file@_14 = (%248)(file@_14)
+│ 21 ┄        line@_13 = 711
+│ │           msg@_11 = "AC_List:"
+│ │           kwargs@_12 = Core.NamedTuple()
+│ └───        goto #26 if not true
+│ 22 ─ %254 = Base.NamedTuple()
+│ │    %255 = Base.merge(%254, kwargs@_12)
+│ │    %256 = Base.isempty(%255)
+│ └───        goto #24 if not %256
+│ 23 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_16, level@_20, msg@_11, _module@_17, group@_18, id@_15, file@_14, line@_13)
+│ └───        goto #25
+│ 24 ─        Core.kwcall(%255, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_16, level@_20, msg@_11, _module@_17, group@_18, id@_15, file@_14, line@_13)
+│ 25 ┄        goto #26
+│ 26 ┄        Base.CoreLogging.nothing
+│ │           Core.NewvarNode(:(msg@_21))
+│ │           Core.NewvarNode(:(kwargs@_22))
+│ │           Core.NewvarNode(:(line@_23))
+│ │           Core.NewvarNode(:(file@_24))
+│ │           Core.NewvarNode(:(id@_25))
+│ │           Core.NewvarNode(:(logger@_26))
+│ │           Core.NewvarNode(:(_module@_27))
+│ │           Core.NewvarNode(:(group@_28))
+│ │           level@_30 = Base.CoreLogging.Info
+│ │           std_level@_29 = level@_30
+│ │    %273 = std_level@_29
+│ │    %274 = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %275 = %273 >= %274
+│ └───        goto #42 if not %275
+│ 27 ─        group@_28 = :app
+│ │           _module@_27 = Main.App
+│ │           logger@_26 = (Base.CoreLogging.current_logger_for_env)(std_level@_29, group@_28, _module@_27)
+│ │    %280 = logger@_26 === Base.CoreLogging.nothing
+│ │    %281 = !%280
+│ └───        goto #42 if not %281
+│ 28 ─        id@_25 = :Main_App_b516eb24
+│ │    %284 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_26, level@_30, _module@_27, group@_28, id@_25)
+│ └───        goto #42 if not %284
+│ 29 ─        file@_24 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %287 = file@_24 isa Base.CoreLogging.String
+│ └───        goto #31 if not %287
+│ 30 ─ %289 = Base.fixup_stdlib_path
+│ └───        file@_24 = (%289)(file@_24)
+│ 31 ┄        line@_23 = 712
+│ 32 ─ %292 = $(Expr(:enter, #35))
+│ 33 ─ %293 = Core.getfield(#self#, :__model__)
+│ │    %294 = Base.getproperty(%293, :AC_List)
+│ │           msg@_21 = Base.getindex(%294)
+│ │           kwargs@_22 = Core.NamedTuple()
+│ │           @_65 = true
+│ └───        $(Expr(:leave, 1))
+│ 34 ─        goto #37
+│ 35 ┄        $(Expr(:leave, 1))
+│ 36 ─        err@_31 = $(Expr(:the_exception))
+│ │           Base.invokelatest(Base.CoreLogging.logging_error, logger@_26, level@_30, _module@_27, group@_28, id@_25, file@_24, line@_23, err@_31, true)
+│ │           @_65 = false
+│ └───        $(Expr(:pop_exception, :(%292)))
+│ 37 ┄        goto #42 if not @_65
+│ 38 ─ %306 = Base.NamedTuple()
+│ │    %307 = Base.merge(%306, kwargs@_22)
+│ │    %308 = Base.isempty(%307)
+│ └───        goto #40 if not %308
+│ 39 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_26, level@_30, msg@_21, _module@_27, group@_28, id@_25, file@_24, line@_23)
+│ └───        goto #41
+│ 40 ─        Core.kwcall(%307, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_26, level@_30, msg@_21, _module@_27, group@_28, id@_25, file@_24, line@_23)
+│ 41 ┄        goto #42
+│ 42 ┄        Base.CoreLogging.nothing
+│ │           Core.NewvarNode(:(msg@_32))
+│ │           Core.NewvarNode(:(kwargs@_33))
+│ │           Core.NewvarNode(:(line@_34))
+│ │           Core.NewvarNode(:(file@_35))
+│ │           Core.NewvarNode(:(id@_36))
+│ │           Core.NewvarNode(:(logger@_37))
+│ │           Core.NewvarNode(:(_module@_38))
+│ │           Core.NewvarNode(:(group@_39))
+│ │           level@_41 = Base.CoreLogging.Info
+│ │           std_level@_40 = level@_41
+│ │    %325 = std_level@_40
+│ │    %326 = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %327 = %325 >= %326
+│ └───        goto #52 if not %327
+│ 43 ─        group@_39 = :app
+│ │           _module@_38 = Main.App
+│ │           logger@_37 = (Base.CoreLogging.current_logger_for_env)(std_level@_40, group@_39, _module@_38)
+│ │    %332 = logger@_37 === Base.CoreLogging.nothing
+│ │    %333 = !%332
+│ └───        goto #52 if not %333
+│ 44 ─        id@_36 = :Main_App_b1ed49dd
+│ │    %336 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_37, level@_41, _module@_38, group@_39, id@_36)
+│ └───        goto #52 if not %336
+│ 45 ─        file@_35 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %339 = file@_35 isa Base.CoreLogging.String
+│ └───        goto #47 if not %339
+│ 46 ─ %341 = Base.fixup_stdlib_path
+│ └───        file@_35 = (%341)(file@_35)
+│ 47 ┄        line@_34 = 713
+│ │           msg@_32 = "Display_List:"
+│ │           kwargs@_33 = Core.NamedTuple()
+│ └───        goto #52 if not true
+│ 48 ─ %347 = Base.NamedTuple()
+│ │    %348 = Base.merge(%347, kwargs@_33)
+│ │    %349 = Base.isempty(%348)
+│ └───        goto #50 if not %349
+│ 49 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_37, level@_41, msg@_32, _module@_38, group@_39, id@_36, file@_35, line@_34)
+│ └───        goto #51
+│ 50 ─        Core.kwcall(%348, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_37, level@_41, msg@_32, _module@_38, group@_39, id@_36, file@_35, line@_34)
+│ 51 ┄        goto #52
+│ 52 ┄        Base.CoreLogging.nothing
+│ │           Core.NewvarNode(:(msg@_42))
+│ │           Core.NewvarNode(:(kwargs@_43))
+│ │           Core.NewvarNode(:(line@_44))
+│ │           Core.NewvarNode(:(file@_45))
+│ │           Core.NewvarNode(:(id@_46))
+│ │           Core.NewvarNode(:(logger@_47))
+│ │           Core.NewvarNode(:(_module@_48))
+│ │           Core.NewvarNode(:(group@_49))
+│ │           level@_51 = Base.CoreLogging.Info
+│ │           std_level@_50 = level@_51
+│ │    %366 = std_level@_50
+│ │    %367 = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %368 = %366 >= %367
+│ └───        goto #68 if not %368
+│ 53 ─        group@_49 = :app
+│ │           _module@_48 = Main.App
+│ │           logger@_47 = (Base.CoreLogging.current_logger_for_env)(std_level@_50, group@_49, _module@_48)
+│ │    %373 = logger@_47 === Base.CoreLogging.nothing
+│ │    %374 = !%373
+│ └───        goto #68 if not %374
+│ 54 ─        id@_46 = :Main_App_4d8834e2
+│ │    %377 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_47, level@_51, _module@_48, group@_49, id@_46)
+│ └───        goto #68 if not %377
+│ 55 ─        file@_45 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %380 = file@_45 isa Base.CoreLogging.String
+│ └───        goto #57 if not %380
+│ 56 ─ %382 = Base.fixup_stdlib_path
+│ └───        file@_45 = (%382)(file@_45)
+│ 57 ┄        line@_44 = 714
+│ 58 ─ %385 = $(Expr(:enter, #61))
+│ 59 ─ %386 = Core.getfield(#self#, :__model__)
+│ │    %387 = Base.getproperty(%386, :Display_List)
+│ │           msg@_42 = Base.getindex(%387)
+│ │           kwargs@_43 = Core.NamedTuple()
+│ │           @_66 = true
+│ └───        $(Expr(:leave, 1))
+│ 60 ─        goto #63
+│ 61 ┄        $(Expr(:leave, 1))
+│ 62 ─        err@_52 = $(Expr(:the_exception))
+│ │           Base.invokelatest(Base.CoreLogging.logging_error, logger@_47, level@_51, _module@_48, group@_49, id@_46, file@_45, line@_44, err@_52, true)
+│ │           @_66 = false
+│ └───        $(Expr(:pop_exception, :(%385)))
+│ 63 ┄        goto #68 if not @_66
+│ 64 ─ %399 = Base.NamedTuple()
+│ │    %400 = Base.merge(%399, kwargs@_43)
+│ │    %401 = Base.isempty(%400)
+│ └───        goto #66 if not %401
+│ 65 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_47, level@_51, msg@_42, _module@_48, group@_49, id@_46, file@_45, line@_44)
+│ └───        goto #67
+│ 66 ─        Core.kwcall(%400, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_47, level@_51, msg@_42, _module@_48, group@_49, id@_46, file@_45, line@_44)
+│ 67 ┄        goto #68
+│ 68 ┄        Base.CoreLogging.nothing
+│ └───        $(Expr(:leave, 1))
+│ 69 ─        goto #88
+│ 70 ┄        $(Expr(:leave, 1))
+│ 71 ─        e = $(Expr(:the_exception))
+│ │           Core.NewvarNode(:(msg@_54))
+│ │           Core.NewvarNode(:(kwargs@_55))
+│ │           Core.NewvarNode(:(line@_56))
+│ │           Core.NewvarNode(:(file@_57))
+│ │           Core.NewvarNode(:(id@_58))
+│ │           Core.NewvarNode(:(logger@_59))
+│ │           Core.NewvarNode(:(_module@_60))
+│ │           Core.NewvarNode(:(group@_61))
+│ │           level@_63 = Base.CoreLogging.Error
+│ │           std_level@_62 = level@_63
+│ │    %422 = std_level@_62
+│ │    %423 = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %424 = %422 >= %423
+│ └───        goto #87 if not %424
+│ 72 ─        group@_61 = :app
+│ │           _module@_60 = Main.App
+│ │           logger@_59 = (Base.CoreLogging.current_logger_for_env)(std_level@_62, group@_61, _module@_60)
+│ │    %429 = logger@_59 === Base.CoreLogging.nothing
+│ │    %430 = !%429
+│ └───        goto #87 if not %430
+│ 73 ─        id@_58 = :Main_App_4f12a4a6
+│ │    %433 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_59, level@_63, _module@_60, group@_61, id@_58)
+│ └───        goto #87 if not %433
+│ 74 ─        file@_57 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %436 = file@_57 isa Base.CoreLogging.String
+│ └───        goto #76 if not %436
+│ 75 ─ %438 = Base.fixup_stdlib_path
+│ └───        file@_57 = (%438)(file@_57)
+│ 76 ┄        line@_56 = 718
+│ │    %441 = $(Expr(:isdefined, :(e)))
+│ └───        goto #78 if not %441
+│ 77 ─        @_67 = nothing
+│ └───        goto #79
+│ 78 ─        @_67 = Core.UndefVarError(:e)
+│ 79 ┄ %446 = @_67
+│ │           err@_64 = %446
+│ │    %448 = err@_64 === Base.CoreLogging.nothing
+│ └───        goto #81 if not %448
+│ 80 ─        msg@_54 = e
+│ │           kwargs@_55 = Core.NamedTuple()
+│ │           @_68 = true
+│ └───        goto #82
+│ 81 ─        Base.invokelatest(Base.CoreLogging.logging_error, logger@_59, level@_63, _module@_60, group@_61, id@_58, file@_57, line@_56, err@_64, false)
+│ └───        @_68 = false
+│ 82 ┄        goto #87 if not @_68
+│ 83 ─ %457 = Base.NamedTuple()
+│ │    %458 = Base.merge(%457, kwargs@_55)
+│ │    %459 = Base.isempty(%458)
+│ └───        goto #85 if not %459
+│ 84 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_59, level@_63, msg@_54, _module@_60, group@_61, id@_58, file@_57, line@_56)
+│ └───        goto #86
+│ 85 ─        Core.kwcall(%458, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_59, level@_63, msg@_54, _module@_60, group@_61, id@_58, file@_57, line@_56)
+│ 86 ┄        goto #87
+│ 87 ┄        Base.CoreLogging.nothing
+│ │    %466 = Core.getfield(#self#, :__model__)
+│ │           Main.App.notify(%466, "Error: Please fix invalid/missing inputs.")
+│ │    %468 = Core.getfield(#self#, :__model__)
+│ │    %469 = Base.getproperty(%468, :msgM)
+│ │           Base.setindex!(%469, "Error: Please fix invalid/missing inputs.")
+│ │    %471 = Core.getfield(#self#, :__model__)
+│ │    %472 = Base.getproperty(%471, :msgW)
+│ │           Base.setindex!(%472, "Error: Please fix invalid/missing inputs.")
+│ │    %474 = Core.getfield(#self#, :__model__)
+│ │    %475 = Base.getproperty(%474, :msgP)
+│ │           Base.setindex!(%475, "Error: Please fix invalid/missing inputs.")
+│ │    %477 = Core.getfield(#self#, :__model__)
+│ │    %478 = Base.getproperty(%477, :msgV)
+│ │           Base.setindex!(%478, "Error: Please fix invalid/missing inputs.")
+│ │    %480 = false
+│ │    %481 = Core.getfield(#self#, :__model__)
+│ │    %482 = Base.getproperty(%481, :updateButtonClicked)
+│ │           Base.setindex!(%482, %480)
+│ └───        $(Expr(:pop_exception, :(%14)))
+│ 88 ┄ %485 = Core.getfield(#self#, :__model__)
+│ │    %486 = Base.getproperty(%485, :Display_List)
+│ │    %487 = Base.getindex(%486)
+│ │    %488 = Core.getfield(#self#, :__model__)
+│ │    %489 = Base.getproperty(%488, :Display_List)
+│ │           Base.setindex!(%489, %487)
+│ └───        return %487
+│ 89 ─        return nothing
+│ )]
+│ 
+│   Type of argument:
+│   Bool
+│ 
+│   Value:
+│   true
+│ 
+│   Exception:
+│   TypeError(:if, "", Bool, nothing)
+│ 
+│   exception = (TypeError(:if, "", Bool, nothing), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ff9e462eca6, Ptr{Nothing} @0x00007ff9e462ecc9, Ptr{Nothing} @0x00000226a9056ba4, Ptr{Nothing} @0x00000226a9056be4, Ptr{Nothing} @0x00007ff9e45b708a, Ptr{Nothing} @0x00000226a060cb96, Ptr{Nothing} @0x00000226a060d5f8, Ptr{Nothing} @0x00000226a060d64c, Ptr{Nothing} @0x00000226a060b74f, Ptr{Nothing} @0x00000226a060b821, Ptr{Nothing} @0x00000226a0605ac4, Ptr{Nothing} @0x00000226a0605d9b, Ptr{Nothing} @0x00000226a05ef963, Ptr{Nothing} @0x00000226a05efdd7, Ptr{Nothing} @0x00000226a05efe6b, Ptr{Nothing} @0x00000226a05efeaf, Ptr{Nothing} @0x00000226a05cda62, Ptr{Nothing} @0x00000226a05cdabb, Ptr{Nothing} @0x00007ff9e45b708a, Ptr{Nothing} @0x00007ff97ccff925, Ptr{Nothing} @0x00007ff97cc0a6f0, Ptr{Nothing} @0x00007ff97cd64d8b, Ptr{Nothing} @0x00000226c340e0d4, Ptr{Nothing} @0x00000226c340e1a2, Ptr{Nothing} @0x00007ff9e45b708a, Ptr{Nothing} @0x00000226c3408f8c, Ptr{Nothing} @0x00000226c340b30c, Ptr{Nothing} @0x00000226c340b90b, Ptr{Nothing} @0x00007ff9e45cc68b])
+└ @ Stipple C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\stipple\mutators.jl:54
+┌ Info: 2024-08-23 23:49:00 error caught!
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:637
+┌ Info: 2024-08-23 23:49:00 ArgumentError("input string is empty or only contains whitespace")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:638
+┌ Info: 2024-08-23 23:49:00 Any[]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:759
+┌ Info: 2024-08-23 23:49:16 lib\uploads\workers\worker_data_final_sample.csv
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:605
+┌ Info: 2024-08-23 23:50:40 disabled
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:561
+┌ Info: 2024-08-23 23:50:41 enabled
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:558
+┌ Info: 2024-08-23 23:52:00 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-08-23 23:52:01 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-23 23:52:20 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-08-23 23:52:20 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-23 23:52:22 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=AGBRVOWOFQTKHSDXLWBCWXFNXCGVJQJD 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-08-23 23:52:22 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-08-23 23:54:08 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-23 23:54:08 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-23 23:54:18 disabled
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:561
+┌ Info: 2024-08-23 23:54:21 enabled
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:558
+┌ Info: 2024-08-23 23:54:40 lib\uploads\workers\worker_data_final_sample.csv
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:605
+┌ Info: 2024-08-23 23:54:40 Any["", 0, 0, 0, "=", 0]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:777
+┌ Info: 2024-08-23 23:54:40 Any["", 0, 0, 0, "", 0]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:778
+┌ Info: 2024-08-23 23:54:40 Any["", 0, 0, 0, "", 0]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:779
+┌ Error: 2024-08-23 23:54:43 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#432":
+│  [1] (::Main.App.var"#432#457")(updateButtonClicked)
+│      @ C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:794
+│   Core.CodeInfo[CodeInfo(
+│ 1 ──        goto #89 if not updateButtonClicked
+│ 2 ── %2   = Core.getfield(#self#, :__model__)
+│ │    %3   = Base.getproperty(%2, :Radio_buttons)
+│ │    %4   = Base.getindex(%3)
+│ │    %5   = %4 == ""
+│ └───        goto #4 if not %5
+│ 3 ── %7   = Core.getfield(#self#, :__model__)
+│ │           Main.App.notify(%7, "Invalid input: Please set an operator (≤/=/≥)")
+│ └───        goto #88
+│ 4 ──        goto #6 if not Main.App.nothing
+│ 5 ── %11  = Core.getfield(#self#, :__model__)
+│ │           Main.App.notify(%11, "Invalid input: Please fill in all required fields (t, i/j)")
+│ └───        goto #88
+│ 6 ── %14  = $(Expr(:enter, #70))
+│ 7 ──        Core.NewvarNode(:(@_3))
+│ │           Core.NewvarNode(:(i))
+│ │           Core.NewvarNode(:(j))
+│ │    %18  = Base.vect()
+│ │    %19  = Core.getfield(#self#, :__model__)
+│ │    %20  = Base.getproperty(%19, :Display_List)
+│ │           Base.setindex!(%20, %18)
+│ │    %22  = Main.App.Int
+│ │    %23  = Core.getfield(#self#, :__model__)
+│ │    %24  = Base.getproperty(%23, :Month)
+│ │    %25  = Base.getindex(%24)
+│ │           t = Main.App.parse(%22, %25)
+│ │    %27  = Main.App.Int
+│ │    %28  = Core.getfield(#self#, :__model__)
+│ │    %29  = Base.getproperty(%28, :ValueField)
+│ │    %30  = Base.getindex(%29)
+│ │           VF = Main.App.parse(%27, %30)
+│ │    %32  = Core.getfield(#self#, :__model__)
+│ │    %33  = Base.getproperty(%32, :isHiringChecked)
+│ │    %34  = Base.getindex(%33)
+│ └───        goto #9 if not %34
+│ 8 ── %36  = Main.App.Int
+│ │    %37  = Core.getfield(#self#, :__model__)
+│ │    %38  = Base.getproperty(%37, :WorkerType)
+│ │    %39  = Base.getindex(%38)
+│ │           j = Main.App.parse(%36, %39)
+│ │    %41  = Core.getfield(#self#, :__model__)
+│ │    %42  = Base.getproperty(%41, :H_List)
+│ │    %43  = Base.getindex(%42)
+│ │    %44  = VF
+│ │           Base.setindex!(%43, %44, 6)
+│ │    %46  = Core.getfield(#self#, :__model__)
+│ │    %47  = Base.getproperty(%46, :Radio_buttons)
+│ │    %48  = Base.getindex(%47)
+│ │    %49  = Core.getfield(#self#, :__model__)
+│ │    %50  = Base.getproperty(%49, :H_List)
+│ │    %51  = Base.getindex(%50)
+│ │           Base.setindex!(%51, %48, 5)
+│ │    %53  = Core.getfield(#self#, :__model__)
+│ │    %54  = Base.getproperty(%53, :H_List)
+│ │    %55  = Base.getindex(%54)
+│ │    %56  = j
+│ │           Base.setindex!(%55, %56, 4)
+│ │    %58  = Core.getfield(#self#, :__model__)
+│ │    %59  = Base.getproperty(%58, :H_List)
+│ │    %60  = Base.getindex(%59)
+│ │           Base.setindex!(%60, "n/a", 3)
+│ │    %62  = Core.getfield(#self#, :__model__)
+│ │    %63  = Base.getproperty(%62, :H_List)
+│ │    %64  = Base.getindex(%63)
+│ │    %65  = t
+│ │           Base.setindex!(%64, %65, 2)
+│ │    %67  = Core.getfield(#self#, :__model__)
+│ │    %68  = Base.getproperty(%67, :H_List)
+│ │    %69  = Base.getindex(%68)
+│ │           Base.setindex!(%69, "H", 1)
+│ │    %71  = Core.getfield(#self#, :__model__)
+│ │    %72  = Base.getproperty(%71, :AC_List)
+│ │    %73  = Base.getindex(%72)
+│ │    %74  = Core.getfield(#self#, :__model__)
+│ │    %75  = Base.getproperty(%74, :H_List)
+│ │    %76  = Base.getindex(%75)
+│ │    %77  = Main.App.deepcopy(%76)
+│ │           Main.App.push!(%73, %77)
+│ │    %79  = Core.getfield(#self#, :__model__)
+│ │    %80  = Base.getproperty(%79, :H_List)
+│ │    %81  = Base.getindex(%80)
+│ │    %82  = Base.getindex(%81, 6)
+│ │    %83  = Core.getfield(#self#, :__model__)
+│ │    %84  = Base.getproperty(%83, :updatedHiringValue)
+│ └───        Base.setindex!(%84, %82)
+│ 9 ┄─ %86  = Core.getfield(#self#, :__model__)
+│ │    %87  = Base.getproperty(%86, :isFiringChecked)
+│ │    %88  = Base.getindex(%87)
+│ └───        goto #11 if not %88
+│ 10 ─ %90  = Main.App.Int
+│ │    %91  = Core.getfield(#self#, :__model__)
+│ │    %92  = Base.getproperty(%91, :WorkerType)
+│ │    %93  = Base.getindex(%92)
+│ │           j = Main.App.parse(%90, %93)
+│ │    %95  = Core.getfield(#self#, :__model__)
+│ │    %96  = Base.getproperty(%95, :F_List)
+│ │    %97  = Base.getindex(%96)
+│ │    %98  = VF
+│ │           Base.setindex!(%97, %98, 6)
+│ │    %100 = Core.getfield(#self#, :__model__)
+│ │    %101 = Base.getproperty(%100, :Radio_buttons)
+│ │    %102 = Base.getindex(%101)
+│ │    %103 = Core.getfield(#self#, :__model__)
+│ │    %104 = Base.getproperty(%103, :F_List)
+│ │    %105 = Base.getindex(%104)
+│ │           Base.setindex!(%105, %102, 5)
+│ │    %107 = Core.getfield(#self#, :__model__)
+│ │    %108 = Base.getproperty(%107, :F_List)
+│ │    %109 = Base.getindex(%108)
+│ │    %110 = j
+│ │           Base.setindex!(%109, %110, 4)
+│ │    %112 = Core.getfield(#self#, :__model__)
+│ │    %113 = Base.getproperty(%112, :F_List)
+│ │    %114 = Base.getindex(%113)
+│ │           Base.setindex!(%114, "n/a", 3)
+│ │    %116 = Core.getfield(#self#, :__model__)
+│ │    %117 = Base.getproperty(%116, :F_List)
+│ │    %118 = Base.getindex(%117)
+│ │    %119 = t
+│ │           Base.setindex!(%118, %119, 2)
+│ │    %121 = Core.getfield(#self#, :__model__)
+│ │    %122 = Base.getproperty(%121, :F_List)
+│ │    %123 = Base.getindex(%122)
+│ │           Base.setindex!(%123, "F", 1)
+│ │    %125 = Core.getfield(#self#, :__model__)
+│ │    %126 = Base.getproperty(%125, :AC_List)
+│ │    %127 = Base.getindex(%126)
+│ │    %128 = Core.getfield(#self#, :__model__)
+│ │    %129 = Base.getproperty(%128, :F_List)
+│ │    %130 = Base.getindex(%129)
+│ │    %131 = Main.App.deepcopy(%130)
+│ │           Main.App.push!(%127, %131)
+│ │    %133 = Core.getfield(#self#, :__model__)
+│ │    %134 = Base.getproperty(%133, :F_List)
+│ │    %135 = Base.getindex(%134)
+│ │    %136 = Base.getindex(%135, 6)
+│ │    %137 = Core.getfield(#self#, :__model__)
+│ │    %138 = Base.getproperty(%137, :updatedFiringValue)
+│ └───        Base.setindex!(%138, %136)
+│ 11 ┄ %140 = Core.getfield(#self#, :__model__)
+│ │    %141 = Base.getproperty(%140, :isInventoryChecked)
+│ │    %142 = Base.getindex(%141)
+│ └───        goto #13 if not %142
+│ 12 ─ %144 = Main.App.Int
+│ │    %145 = Core.getfield(#self#, :__model__)
+│ │    %146 = Base.getproperty(%145, :ProductType)
+│ │    %147 = Base.getindex(%146)
+│ │           i = Main.App.parse(%144, %147)
+│ │    %149 = Core.getfield(#self#, :__model__)
+│ │    %150 = Base.getproperty(%149, :I_List)
+│ │    %151 = Base.getindex(%150)
+│ │    %152 = VF
+│ │           Base.setindex!(%151, %152, 6)
+│ │    %154 = Core.getfield(#self#, :__model__)
+│ │    %155 = Base.getproperty(%154, :Radio_buttons)
+│ │    %156 = Base.getindex(%155)
+│ │    %157 = Core.getfield(#self#, :__model__)
+│ │    %158 = Base.getproperty(%157, :I_List)
+│ │    %159 = Base.getindex(%158)
+│ │           Base.setindex!(%159, %156, 5)
+│ │    %161 = Core.getfield(#self#, :__model__)
+│ │    %162 = Base.getproperty(%161, :I_List)
+│ │    %163 = Base.getindex(%162)
+│ │           Base.setindex!(%163, "n/a", 4)
+│ │    %165 = Core.getfield(#self#, :__model__)
+│ │    %166 = Base.getproperty(%165, :I_List)
+│ │    %167 = Base.getindex(%166)
+│ │    %168 = i
+│ │           Base.setindex!(%167, %168, 3)
+│ │    %170 = Core.getfield(#self#, :__model__)
+│ │    %171 = Base.getproperty(%170, :I_List)
+│ │    %172 = Base.getindex(%171)
+│ │    %173 = t
+│ │           Base.setindex!(%172, %173, 2)
+│ │    %175 = Core.getfield(#self#, :__model__)
+│ │    %176 = Base.getproperty(%175, :I_List)
+│ │    %177 = Base.getindex(%176)
+│ │           Base.setindex!(%177, "I", 1)
+│ │    %179 = Core.getfield(#self#, :__model__)
+│ │    %180 = Base.getproperty(%179, :AC_List)
+│ │    %181 = Base.getindex(%180)
+│ │    %182 = Core.getfield(#self#, :__model__)
+│ │    %183 = Base.getproperty(%182, :I_List)
+│ │    %184 = Base.getindex(%183)
+│ │    %185 = Main.App.deepcopy(%184)
+│ │           Main.App.push!(%181, %185)
+│ │    %187 = Core.getfield(#self#, :__model__)
+│ │    %188 = Base.getproperty(%187, :I_List)
+│ │    %189 = Base.getindex(%188)
+│ │    %190 = Base.getindex(%189, 6)
+│ │    %191 = Core.getfield(#self#, :__model__)
+│ │    %192 = Base.getproperty(%191, :updatedInventoryValue)
+│ └───        Base.setindex!(%192, %190)
+│ 13 ┄ %194 = Core.getfield(#self#, :__model__)
+│ │    %195 = Base.getproperty(%194, :AC_List)
+│ │    %196 = Base.getindex(%195)
+│ │           @_3 = Base.iterate(%196)
+│ │    %198 = @_3 === nothing
+│ │    %199 = Base.not_int(%198)
+│ └───        goto #16 if not %199
+│ 14 ┄ %201 = @_3
+│ │           Constraint = Core.getfield(%201, 1)
+│ │    %203 = Core.getfield(%201, 2)
+│ │           Concopy = Main.App.deepcopy(Constraint)
+│ │    %205 = Base.broadcasted(Main.App.string, Concopy)
+│ │    %206 = Base.materialize(%205)
+│ │           Displaystring = Main.App.join(%206, " ")
+│ │    %208 = Displaystring
+│ │    %209 = Core.getfield(#self#, :__model__)
+│ │    %210 = Base.getproperty(%209, :Display_List)
+│ │    %211 = Base.getindex(%210)
+│ │           Main.App.add_file(%208, %211)
+│ │           @_3 = Base.iterate(%196, %203)
+│ │    %214 = @_3 === nothing
+│ │    %215 = Base.not_int(%214)
+│ └───        goto #16 if not %215
+│ 15 ─        goto #14
+│ 16 ┄ %218 = false
+│ │    %219 = Core.getfield(#self#, :__model__)
+│ │    %220 = Base.getproperty(%219, :updateButtonClicked)
+│ │           Base.setindex!(%220, %218)
+│ │           Core.NewvarNode(:(msg@_11))
+│ │           Core.NewvarNode(:(kwargs@_12))
+│ │           Core.NewvarNode(:(line@_13))
+│ │           Core.NewvarNode(:(file@_14))
+│ │           Core.NewvarNode(:(id@_15))
+│ │           Core.NewvarNode(:(logger@_16))
+│ │           Core.NewvarNode(:(_module@_17))
+│ │           Core.NewvarNode(:(group@_18))
+│ │           level@_20 = Base.CoreLogging.Info
+│ │           std_level@_19 = level@_20
+│ │    %232 = std_level@_19
+│ │    %233 = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %234 = %232 >= %233
+│ └───        goto #26 if not %234
+│ 17 ─        group@_18 = :app
+│ │           _module@_17 = Main.App
+│ │           logger@_16 = (Base.CoreLogging.current_logger_for_env)(std_level@_19, group@_18, _module@_17)
+│ │    %239 = logger@_16 === Base.CoreLogging.nothing
+│ │    %240 = !%239
+│ └───        goto #26 if not %240
+│ 18 ─        id@_15 = :Main_App_808e08a6
+│ │    %243 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_16, level@_20, _module@_17, group@_18, id@_15)
+│ └───        goto #26 if not %243
+│ 19 ─        file@_14 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %246 = file@_14 isa Base.CoreLogging.String
+│ └───        goto #21 if not %246
+│ 20 ─ %248 = Base.fixup_stdlib_path
+│ └───        file@_14 = (%248)(file@_14)
+│ 21 ┄        line@_13 = 711
+│ │           msg@_11 = "AC_List:"
+│ │           kwargs@_12 = Core.NamedTuple()
+│ └───        goto #26 if not true
+│ 22 ─ %254 = Base.NamedTuple()
+│ │    %255 = Base.merge(%254, kwargs@_12)
+│ │    %256 = Base.isempty(%255)
+│ └───        goto #24 if not %256
+│ 23 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_16, level@_20, msg@_11, _module@_17, group@_18, id@_15, file@_14, line@_13)
+│ └───        goto #25
+│ 24 ─        Core.kwcall(%255, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_16, level@_20, msg@_11, _module@_17, group@_18, id@_15, file@_14, line@_13)
+│ 25 ┄        goto #26
+│ 26 ┄        Base.CoreLogging.nothing
+│ │           Core.NewvarNode(:(msg@_21))
+│ │           Core.NewvarNode(:(kwargs@_22))
+│ │           Core.NewvarNode(:(line@_23))
+│ │           Core.NewvarNode(:(file@_24))
+│ │           Core.NewvarNode(:(id@_25))
+│ │           Core.NewvarNode(:(logger@_26))
+│ │           Core.NewvarNode(:(_module@_27))
+│ │           Core.NewvarNode(:(group@_28))
+│ │           level@_30 = Base.CoreLogging.Info
+│ │           std_level@_29 = level@_30
+│ │    %273 = std_level@_29
+│ │    %274 = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %275 = %273 >= %274
+│ └───        goto #42 if not %275
+│ 27 ─        group@_28 = :app
+│ │           _module@_27 = Main.App
+│ │           logger@_26 = (Base.CoreLogging.current_logger_for_env)(std_level@_29, group@_28, _module@_27)
+│ │    %280 = logger@_26 === Base.CoreLogging.nothing
+│ │    %281 = !%280
+│ └───        goto #42 if not %281
+│ 28 ─        id@_25 = :Main_App_b516eb2e
+│ │    %284 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_26, level@_30, _module@_27, group@_28, id@_25)
+│ └───        goto #42 if not %284
+│ 29 ─        file@_24 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %287 = file@_24 isa Base.CoreLogging.String
+│ └───        goto #31 if not %287
+│ 30 ─ %289 = Base.fixup_stdlib_path
+│ └───        file@_24 = (%289)(file@_24)
+│ 31 ┄        line@_23 = 712
+│ 32 ─ %292 = $(Expr(:enter, #35))
+│ 33 ─ %293 = Core.getfield(#self#, :__model__)
+│ │    %294 = Base.getproperty(%293, :AC_List)
+│ │           msg@_21 = Base.getindex(%294)
+│ │           kwargs@_22 = Core.NamedTuple()
+│ │           @_65 = true
+│ └───        $(Expr(:leave, 1))
+│ 34 ─        goto #37
+│ 35 ┄        $(Expr(:leave, 1))
+│ 36 ─        err@_31 = $(Expr(:the_exception))
+│ │           Base.invokelatest(Base.CoreLogging.logging_error, logger@_26, level@_30, _module@_27, group@_28, id@_25, file@_24, line@_23, err@_31, true)
+│ │           @_65 = false
+│ └───        $(Expr(:pop_exception, :(%292)))
+│ 37 ┄        goto #42 if not @_65
+│ 38 ─ %306 = Base.NamedTuple()
+│ │    %307 = Base.merge(%306, kwargs@_22)
+│ │    %308 = Base.isempty(%307)
+│ └───        goto #40 if not %308
+│ 39 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_26, level@_30, msg@_21, _module@_27, group@_28, id@_25, file@_24, line@_23)
+│ └───        goto #41
+│ 40 ─        Core.kwcall(%307, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_26, level@_30, msg@_21, _module@_27, group@_28, id@_25, file@_24, line@_23)
+│ 41 ┄        goto #42
+│ 42 ┄        Base.CoreLogging.nothing
+│ │           Core.NewvarNode(:(msg@_32))
+│ │           Core.NewvarNode(:(kwargs@_33))
+│ │           Core.NewvarNode(:(line@_34))
+│ │           Core.NewvarNode(:(file@_35))
+│ │           Core.NewvarNode(:(id@_36))
+│ │           Core.NewvarNode(:(logger@_37))
+│ │           Core.NewvarNode(:(_module@_38))
+│ │           Core.NewvarNode(:(group@_39))
+│ │           level@_41 = Base.CoreLogging.Info
+│ │           std_level@_40 = level@_41
+│ │    %325 = std_level@_40
+│ │    %326 = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %327 = %325 >= %326
+│ └───        goto #52 if not %327
+│ 43 ─        group@_39 = :app
+│ │           _module@_38 = Main.App
+│ │           logger@_37 = (Base.CoreLogging.current_logger_for_env)(std_level@_40, group@_39, _module@_38)
+│ │    %332 = logger@_37 === Base.CoreLogging.nothing
+│ │    %333 = !%332
+│ └───        goto #52 if not %333
+│ 44 ─        id@_36 = :Main_App_b1ed49df
+│ │    %336 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_37, level@_41, _module@_38, group@_39, id@_36)
+│ └───        goto #52 if not %336
+│ 45 ─        file@_35 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %339 = file@_35 isa Base.CoreLogging.String
+│ └───        goto #47 if not %339
+│ 46 ─ %341 = Base.fixup_stdlib_path
+│ └───        file@_35 = (%341)(file@_35)
+│ 47 ┄        line@_34 = 713
+│ │           msg@_32 = "Display_List:"
+│ │           kwargs@_33 = Core.NamedTuple()
+│ └───        goto #52 if not true
+│ 48 ─ %347 = Base.NamedTuple()
+│ │    %348 = Base.merge(%347, kwargs@_33)
+│ │    %349 = Base.isempty(%348)
+│ └───        goto #50 if not %349
+│ 49 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_37, level@_41, msg@_32, _module@_38, group@_39, id@_36, file@_35, line@_34)
+│ └───        goto #51
+│ 50 ─        Core.kwcall(%348, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_37, level@_41, msg@_32, _module@_38, group@_39, id@_36, file@_35, line@_34)
+│ 51 ┄        goto #52
+│ 52 ┄        Base.CoreLogging.nothing
+│ │           Core.NewvarNode(:(msg@_42))
+│ │           Core.NewvarNode(:(kwargs@_43))
+│ │           Core.NewvarNode(:(line@_44))
+│ │           Core.NewvarNode(:(file@_45))
+│ │           Core.NewvarNode(:(id@_46))
+│ │           Core.NewvarNode(:(logger@_47))
+│ │           Core.NewvarNode(:(_module@_48))
+│ │           Core.NewvarNode(:(group@_49))
+│ │           level@_51 = Base.CoreLogging.Info
+│ │           std_level@_50 = level@_51
+│ │    %366 = std_level@_50
+│ │    %367 = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %368 = %366 >= %367
+│ └───        goto #68 if not %368
+│ 53 ─        group@_49 = :app
+│ │           _module@_48 = Main.App
+│ │           logger@_47 = (Base.CoreLogging.current_logger_for_env)(std_level@_50, group@_49, _module@_48)
+│ │    %373 = logger@_47 === Base.CoreLogging.nothing
+│ │    %374 = !%373
+│ └───        goto #68 if not %374
+│ 54 ─        id@_46 = :Main_App_4d8834e6
+│ │    %377 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_47, level@_51, _module@_48, group@_49, id@_46)
+│ └───        goto #68 if not %377
+│ 55 ─        file@_45 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %380 = file@_45 isa Base.CoreLogging.String
+│ └───        goto #57 if not %380
+│ 56 ─ %382 = Base.fixup_stdlib_path
+│ └───        file@_45 = (%382)(file@_45)
+│ 57 ┄        line@_44 = 714
+│ 58 ─ %385 = $(Expr(:enter, #61))
+│ 59 ─ %386 = Core.getfield(#self#, :__model__)
+│ │    %387 = Base.getproperty(%386, :Display_List)
+│ │           msg@_42 = Base.getindex(%387)
+│ │           kwargs@_43 = Core.NamedTuple()
+│ │           @_66 = true
+│ └───        $(Expr(:leave, 1))
+│ 60 ─        goto #63
+│ 61 ┄        $(Expr(:leave, 1))
+│ 62 ─        err@_52 = $(Expr(:the_exception))
+│ │           Base.invokelatest(Base.CoreLogging.logging_error, logger@_47, level@_51, _module@_48, group@_49, id@_46, file@_45, line@_44, err@_52, true)
+│ │           @_66 = false
+│ └───        $(Expr(:pop_exception, :(%385)))
+│ 63 ┄        goto #68 if not @_66
+│ 64 ─ %399 = Base.NamedTuple()
+│ │    %400 = Base.merge(%399, kwargs@_43)
+│ │    %401 = Base.isempty(%400)
+│ └───        goto #66 if not %401
+│ 65 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_47, level@_51, msg@_42, _module@_48, group@_49, id@_46, file@_45, line@_44)
+│ └───        goto #67
+│ 66 ─        Core.kwcall(%400, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_47, level@_51, msg@_42, _module@_48, group@_49, id@_46, file@_45, line@_44)
+│ 67 ┄        goto #68
+│ 68 ┄        Base.CoreLogging.nothing
+│ └───        $(Expr(:leave, 1))
+│ 69 ─        goto #88
+│ 70 ┄        $(Expr(:leave, 1))
+│ 71 ─        e = $(Expr(:the_exception))
+│ │           Core.NewvarNode(:(msg@_54))
+│ │           Core.NewvarNode(:(kwargs@_55))
+│ │           Core.NewvarNode(:(line@_56))
+│ │           Core.NewvarNode(:(file@_57))
+│ │           Core.NewvarNode(:(id@_58))
+│ │           Core.NewvarNode(:(logger@_59))
+│ │           Core.NewvarNode(:(_module@_60))
+│ │           Core.NewvarNode(:(group@_61))
+│ │           level@_63 = Base.CoreLogging.Error
+│ │           std_level@_62 = level@_63
+│ │    %422 = std_level@_62
+│ │    %423 = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %424 = %422 >= %423
+│ └───        goto #87 if not %424
+│ 72 ─        group@_61 = :app
+│ │           _module@_60 = Main.App
+│ │           logger@_59 = (Base.CoreLogging.current_logger_for_env)(std_level@_62, group@_61, _module@_60)
+│ │    %429 = logger@_59 === Base.CoreLogging.nothing
+│ │    %430 = !%429
+│ └───        goto #87 if not %430
+│ 73 ─        id@_58 = :Main_App_4f12a4b0
+│ │    %433 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_59, level@_63, _module@_60, group@_61, id@_58)
+│ └───        goto #87 if not %433
+│ 74 ─        file@_57 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %436 = file@_57 isa Base.CoreLogging.String
+│ └───        goto #76 if not %436
+│ 75 ─ %438 = Base.fixup_stdlib_path
+│ └───        file@_57 = (%438)(file@_57)
+│ 76 ┄        line@_56 = 718
+│ │    %441 = $(Expr(:isdefined, :(e)))
+│ └───        goto #78 if not %441
+│ 77 ─        @_67 = nothing
+│ └───        goto #79
+│ 78 ─        @_67 = Core.UndefVarError(:e)
+│ 79 ┄ %446 = @_67
+│ │           err@_64 = %446
+│ │    %448 = err@_64 === Base.CoreLogging.nothing
+│ └───        goto #81 if not %448
+│ 80 ─        msg@_54 = e
+│ │           kwargs@_55 = Core.NamedTuple()
+│ │           @_68 = true
+│ └───        goto #82
+│ 81 ─        Base.invokelatest(Base.CoreLogging.logging_error, logger@_59, level@_63, _module@_60, group@_61, id@_58, file@_57, line@_56, err@_64, false)
+│ └───        @_68 = false
+│ 82 ┄        goto #87 if not @_68
+│ 83 ─ %457 = Base.NamedTuple()
+│ │    %458 = Base.merge(%457, kwargs@_55)
+│ │    %459 = Base.isempty(%458)
+│ └───        goto #85 if not %459
+│ 84 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_59, level@_63, msg@_54, _module@_60, group@_61, id@_58, file@_57, line@_56)
+│ └───        goto #86
+│ 85 ─        Core.kwcall(%458, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_59, level@_63, msg@_54, _module@_60, group@_61, id@_58, file@_57, line@_56)
+│ 86 ┄        goto #87
+│ 87 ┄        Base.CoreLogging.nothing
+│ │    %466 = Core.getfield(#self#, :__model__)
+│ │           Main.App.notify(%466, "Error: Please fix invalid/missing inputs.")
+│ │    %468 = Core.getfield(#self#, :__model__)
+│ │    %469 = Base.getproperty(%468, :msgM)
+│ │           Base.setindex!(%469, "Error: Please fix invalid/missing inputs.")
+│ │    %471 = Core.getfield(#self#, :__model__)
+│ │    %472 = Base.getproperty(%471, :msgW)
+│ │           Base.setindex!(%472, "Error: Please fix invalid/missing inputs.")
+│ │    %474 = Core.getfield(#self#, :__model__)
+│ │    %475 = Base.getproperty(%474, :msgP)
+│ │           Base.setindex!(%475, "Error: Please fix invalid/missing inputs.")
+│ │    %477 = Core.getfield(#self#, :__model__)
+│ │    %478 = Base.getproperty(%477, :msgV)
+│ │           Base.setindex!(%478, "Error: Please fix invalid/missing inputs.")
+│ │    %480 = false
+│ │    %481 = Core.getfield(#self#, :__model__)
+│ │    %482 = Base.getproperty(%481, :updateButtonClicked)
+│ │           Base.setindex!(%482, %480)
+│ └───        $(Expr(:pop_exception, :(%14)))
+│ 88 ┄ %485 = Core.getfield(#self#, :__model__)
+│ │    %486 = Base.getproperty(%485, :Display_List)
+│ │    %487 = Base.getindex(%486)
+│ │    %488 = Core.getfield(#self#, :__model__)
+│ │    %489 = Base.getproperty(%488, :Display_List)
+│ │           Base.setindex!(%489, %487)
+│ └───        return %487
+│ 89 ─        return nothing
+│ )]
+│ 
+│   Type of argument:
+│   Bool
+│ 
+│   Value:
+│   true
+│ 
+│   Exception:
+│   TypeError(:if, "", Bool, nothing)
+│ 
+│   exception = (TypeError(:if, "", Bool, nothing), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ff9e462eca6, Ptr{Nothing} @0x00007ff9e462ecc9, Ptr{Nothing} @0x00000188a7460824, Ptr{Nothing} @0x00000188a7460864, Ptr{Nothing} @0x00007ff9e45b708a, Ptr{Nothing} @0x0000018897df0e46, Ptr{Nothing} @0x0000018897df18a8, Ptr{Nothing} @0x0000018897df18fc, Ptr{Nothing} @0x00000188a742233f, Ptr{Nothing} @0x00000188a7422411, Ptr{Nothing} @0x00000188a74212d4, Ptr{Nothing} @0x00000188a74215ab, Ptr{Nothing} @0x0000018897dba243, Ptr{Nothing} @0x0000018897dba6b7, Ptr{Nothing} @0x0000018897dba74b, Ptr{Nothing} @0x0000018897dba78f, Ptr{Nothing} @0x0000018897da7082, Ptr{Nothing} @0x0000018897da70db, Ptr{Nothing} @0x00007ff9e45b708a, Ptr{Nothing} @0x00007ff97ccff925, Ptr{Nothing} @0x00007ff97cc0a6f0, Ptr{Nothing} @0x00007ff97cd64d8b, Ptr{Nothing} @0x00000188bad4e104, Ptr{Nothing} @0x00000188bad4e1d2, Ptr{Nothing} @0x00007ff9e45b708a, Ptr{Nothing} @0x00000188bad48dac, Ptr{Nothing} @0x00000188bad4b33c, Ptr{Nothing} @0x00000188bad4b93b, Ptr{Nothing} @0x00007ff9e45cc68b])
+└ @ Stipple C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\stipple\mutators.jl:54
+┌ Info: 2024-08-23 23:55:56 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-23 23:55:56 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-23 23:57:15 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-08-23 23:57:17 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-23 23:57:36 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-08-23 23:57:36 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-23 23:57:38 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=AGBRVOWOFQTKHSDXLWBCWXFNXCGVJQJD 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-08-23 23:57:38 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-08-23 23:58:19 disabled
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:561
+┌ Info: 2024-08-23 23:58:36 lib\uploads\workers\worker_data_final_sample.csv
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:605
+┌ Info: 2024-08-23 23:58:36 Any["", 0, 0, 0, "=", 0]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:777
+┌ Info: 2024-08-23 23:58:36 Any["", 0, 0, 0, "", 0]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:778
+┌ Info: 2024-08-23 23:58:36 Any["", 0, 0, 0, "", 0]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:779
+┌ Error: 2024-08-23 23:58:38 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#129":
+│  [1] (::Main.App.var"#129#149")(updateButtonClicked)
+│      @ C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:1067
+│   Core.CodeInfo[CodeInfo(
+│ 1 ──        goto #89 if not updateButtonClicked
+│ 2 ── %2   = Core.getfield(#self#, :__model__)
+│ │    %3   = Base.getproperty(%2, :Radio_buttons)
+│ │    %4   = Base.getindex(%3)
+│ │    %5   = %4 == ""
+│ └───        goto #4 if not %5
+│ 3 ── %7   = Core.getfield(#self#, :__model__)
+│ │           Main.App.notify(%7, "Invalid input: Please set an operator (≤/=/≥)")
+│ └───        goto #88
+│ 4 ──        goto #6 if not Main.App.nothing
+│ 5 ── %11  = Core.getfield(#self#, :__model__)
+│ │           Main.App.notify(%11, "Invalid input: Please fill in all required fields (t, i/j)")
+│ └───        goto #88
+│ 6 ── %14  = $(Expr(:enter, #70))
+│ 7 ──        Core.NewvarNode(:(@_3))
+│ │           Core.NewvarNode(:(i))
+│ │           Core.NewvarNode(:(j))
+│ │    %18  = Base.vect()
+│ │    %19  = Core.getfield(#self#, :__model__)
+│ │    %20  = Base.getproperty(%19, :Display_List)
+│ │           Base.setindex!(%20, %18)
+│ │    %22  = Main.App.Int
+│ │    %23  = Core.getfield(#self#, :__model__)
+│ │    %24  = Base.getproperty(%23, :Month)
+│ │    %25  = Base.getindex(%24)
+│ │           t = Main.App.parse(%22, %25)
+│ │    %27  = Main.App.Int
+│ │    %28  = Core.getfield(#self#, :__model__)
+│ │    %29  = Base.getproperty(%28, :ValueField)
+│ │    %30  = Base.getindex(%29)
+│ │           VF = Main.App.parse(%27, %30)
+│ │    %32  = Core.getfield(#self#, :__model__)
+│ │    %33  = Base.getproperty(%32, :isHiringChecked)
+│ │    %34  = Base.getindex(%33)
+│ └───        goto #9 if not %34
+│ 8 ── %36  = Main.App.Int
+│ │    %37  = Core.getfield(#self#, :__model__)
+│ │    %38  = Base.getproperty(%37, :WorkerType)
+│ │    %39  = Base.getindex(%38)
+│ │           j = Main.App.parse(%36, %39)
+│ │    %41  = Core.getfield(#self#, :__model__)
+│ │    %42  = Base.getproperty(%41, :H_List)
+│ │    %43  = Base.getindex(%42)
+│ │    %44  = VF
+│ │           Base.setindex!(%43, %44, 6)
+│ │    %46  = Core.getfield(#self#, :__model__)
+│ │    %47  = Base.getproperty(%46, :Radio_buttons)
+│ │    %48  = Base.getindex(%47)
+│ │    %49  = Core.getfield(#self#, :__model__)
+│ │    %50  = Base.getproperty(%49, :H_List)
+│ │    %51  = Base.getindex(%50)
+│ │           Base.setindex!(%51, %48, 5)
+│ │    %53  = Core.getfield(#self#, :__model__)
+│ │    %54  = Base.getproperty(%53, :H_List)
+│ │    %55  = Base.getindex(%54)
+│ │    %56  = j
+│ │           Base.setindex!(%55, %56, 4)
+│ │    %58  = Core.getfield(#self#, :__model__)
+│ │    %59  = Base.getproperty(%58, :H_List)
+│ │    %60  = Base.getindex(%59)
+│ │           Base.setindex!(%60, "n/a", 3)
+│ │    %62  = Core.getfield(#self#, :__model__)
+│ │    %63  = Base.getproperty(%62, :H_List)
+│ │    %64  = Base.getindex(%63)
+│ │    %65  = t
+│ │           Base.setindex!(%64, %65, 2)
+│ │    %67  = Core.getfield(#self#, :__model__)
+│ │    %68  = Base.getproperty(%67, :H_List)
+│ │    %69  = Base.getindex(%68)
+│ │           Base.setindex!(%69, "H", 1)
+│ │    %71  = Core.getfield(#self#, :__model__)
+│ │    %72  = Base.getproperty(%71, :AC_List)
+│ │    %73  = Base.getindex(%72)
+│ │    %74  = Core.getfield(#self#, :__model__)
+│ │    %75  = Base.getproperty(%74, :H_List)
+│ │    %76  = Base.getindex(%75)
+│ │    %77  = Main.App.deepcopy(%76)
+│ │           Main.App.push!(%73, %77)
+│ │    %79  = Core.getfield(#self#, :__model__)
+│ │    %80  = Base.getproperty(%79, :H_List)
+│ │    %81  = Base.getindex(%80)
+│ │    %82  = Base.getindex(%81, 6)
+│ │    %83  = Core.getfield(#self#, :__model__)
+│ │    %84  = Base.getproperty(%83, :updatedHiringValue)
+│ └───        Base.setindex!(%84, %82)
+│ 9 ┄─ %86  = Core.getfield(#self#, :__model__)
+│ │    %87  = Base.getproperty(%86, :isFiringChecked)
+│ │    %88  = Base.getindex(%87)
+│ └───        goto #11 if not %88
+│ 10 ─ %90  = Main.App.Int
+│ │    %91  = Core.getfield(#self#, :__model__)
+│ │    %92  = Base.getproperty(%91, :WorkerType)
+│ │    %93  = Base.getindex(%92)
+│ │           j = Main.App.parse(%90, %93)
+│ │    %95  = Core.getfield(#self#, :__model__)
+│ │    %96  = Base.getproperty(%95, :F_List)
+│ │    %97  = Base.getindex(%96)
+│ │    %98  = VF
+│ │           Base.setindex!(%97, %98, 6)
+│ │    %100 = Core.getfield(#self#, :__model__)
+│ │    %101 = Base.getproperty(%100, :Radio_buttons)
+│ │    %102 = Base.getindex(%101)
+│ │    %103 = Core.getfield(#self#, :__model__)
+│ │    %104 = Base.getproperty(%103, :F_List)
+│ │    %105 = Base.getindex(%104)
+│ │           Base.setindex!(%105, %102, 5)
+│ │    %107 = Core.getfield(#self#, :__model__)
+│ │    %108 = Base.getproperty(%107, :F_List)
+│ │    %109 = Base.getindex(%108)
+│ │    %110 = j
+│ │           Base.setindex!(%109, %110, 4)
+│ │    %112 = Core.getfield(#self#, :__model__)
+│ │    %113 = Base.getproperty(%112, :F_List)
+│ │    %114 = Base.getindex(%113)
+│ │           Base.setindex!(%114, "n/a", 3)
+│ │    %116 = Core.getfield(#self#, :__model__)
+│ │    %117 = Base.getproperty(%116, :F_List)
+│ │    %118 = Base.getindex(%117)
+│ │    %119 = t
+│ │           Base.setindex!(%118, %119, 2)
+│ │    %121 = Core.getfield(#self#, :__model__)
+│ │    %122 = Base.getproperty(%121, :F_List)
+│ │    %123 = Base.getindex(%122)
+│ │           Base.setindex!(%123, "F", 1)
+│ │    %125 = Core.getfield(#self#, :__model__)
+│ │    %126 = Base.getproperty(%125, :AC_List)
+│ │    %127 = Base.getindex(%126)
+│ │    %128 = Core.getfield(#self#, :__model__)
+│ │    %129 = Base.getproperty(%128, :F_List)
+│ │    %130 = Base.getindex(%129)
+│ │    %131 = Main.App.deepcopy(%130)
+│ │           Main.App.push!(%127, %131)
+│ │    %133 = Core.getfield(#self#, :__model__)
+│ │    %134 = Base.getproperty(%133, :F_List)
+│ │    %135 = Base.getindex(%134)
+│ │    %136 = Base.getindex(%135, 6)
+│ │    %137 = Core.getfield(#self#, :__model__)
+│ │    %138 = Base.getproperty(%137, :updatedFiringValue)
+│ └───        Base.setindex!(%138, %136)
+│ 11 ┄ %140 = Core.getfield(#self#, :__model__)
+│ │    %141 = Base.getproperty(%140, :isInventoryChecked)
+│ │    %142 = Base.getindex(%141)
+│ └───        goto #13 if not %142
+│ 12 ─ %144 = Main.App.Int
+│ │    %145 = Core.getfield(#self#, :__model__)
+│ │    %146 = Base.getproperty(%145, :ProductType)
+│ │    %147 = Base.getindex(%146)
+│ │           i = Main.App.parse(%144, %147)
+│ │    %149 = Core.getfield(#self#, :__model__)
+│ │    %150 = Base.getproperty(%149, :I_List)
+│ │    %151 = Base.getindex(%150)
+│ │    %152 = VF
+│ │           Base.setindex!(%151, %152, 6)
+│ │    %154 = Core.getfield(#self#, :__model__)
+│ │    %155 = Base.getproperty(%154, :Radio_buttons)
+│ │    %156 = Base.getindex(%155)
+│ │    %157 = Core.getfield(#self#, :__model__)
+│ │    %158 = Base.getproperty(%157, :I_List)
+│ │    %159 = Base.getindex(%158)
+│ │           Base.setindex!(%159, %156, 5)
+│ │    %161 = Core.getfield(#self#, :__model__)
+│ │    %162 = Base.getproperty(%161, :I_List)
+│ │    %163 = Base.getindex(%162)
+│ │           Base.setindex!(%163, "n/a", 4)
+│ │    %165 = Core.getfield(#self#, :__model__)
+│ │    %166 = Base.getproperty(%165, :I_List)
+│ │    %167 = Base.getindex(%166)
+│ │    %168 = i
+│ │           Base.setindex!(%167, %168, 3)
+│ │    %170 = Core.getfield(#self#, :__model__)
+│ │    %171 = Base.getproperty(%170, :I_List)
+│ │    %172 = Base.getindex(%171)
+│ │    %173 = t
+│ │           Base.setindex!(%172, %173, 2)
+│ │    %175 = Core.getfield(#self#, :__model__)
+│ │    %176 = Base.getproperty(%175, :I_List)
+│ │    %177 = Base.getindex(%176)
+│ │           Base.setindex!(%177, "I", 1)
+│ │    %179 = Core.getfield(#self#, :__model__)
+│ │    %180 = Base.getproperty(%179, :AC_List)
+│ │    %181 = Base.getindex(%180)
+│ │    %182 = Core.getfield(#self#, :__model__)
+│ │    %183 = Base.getproperty(%182, :I_List)
+│ │    %184 = Base.getindex(%183)
+│ │    %185 = Main.App.deepcopy(%184)
+│ │           Main.App.push!(%181, %185)
+│ │    %187 = Core.getfield(#self#, :__model__)
+│ │    %188 = Base.getproperty(%187, :I_List)
+│ │    %189 = Base.getindex(%188)
+│ │    %190 = Base.getindex(%189, 6)
+│ │    %191 = Core.getfield(#self#, :__model__)
+│ │    %192 = Base.getproperty(%191, :updatedInventoryValue)
+│ └───        Base.setindex!(%192, %190)
+│ 13 ┄ %194 = Core.getfield(#self#, :__model__)
+│ │    %195 = Base.getproperty(%194, :AC_List)
+│ │    %196 = Base.getindex(%195)
+│ │           @_3 = Base.iterate(%196)
+│ │    %198 = @_3 === nothing
+│ │    %199 = Base.not_int(%198)
+│ └───        goto #16 if not %199
+│ 14 ┄ %201 = @_3
+│ │           Constraint = Core.getfield(%201, 1)
+│ │    %203 = Core.getfield(%201, 2)
+│ │           Concopy = Main.App.deepcopy(Constraint)
+│ │    %205 = Base.broadcasted(Main.App.string, Concopy)
+│ │    %206 = Base.materialize(%205)
+│ │           Displaystring = Main.App.join(%206, " ")
+│ │    %208 = Displaystring
+│ │    %209 = Core.getfield(#self#, :__model__)
+│ │    %210 = Base.getproperty(%209, :Display_List)
+│ │    %211 = Base.getindex(%210)
+│ │           Main.App.add_file(%208, %211)
+│ │           @_3 = Base.iterate(%196, %203)
+│ │    %214 = @_3 === nothing
+│ │    %215 = Base.not_int(%214)
+│ └───        goto #16 if not %215
+│ 15 ─        goto #14
+│ 16 ┄ %218 = false
+│ │    %219 = Core.getfield(#self#, :__model__)
+│ │    %220 = Base.getproperty(%219, :updateButtonClicked)
+│ │           Base.setindex!(%220, %218)
+│ │           Core.NewvarNode(:(msg@_11))
+│ │           Core.NewvarNode(:(kwargs@_12))
+│ │           Core.NewvarNode(:(line@_13))
+│ │           Core.NewvarNode(:(file@_14))
+│ │           Core.NewvarNode(:(id@_15))
+│ │           Core.NewvarNode(:(logger@_16))
+│ │           Core.NewvarNode(:(_module@_17))
+│ │           Core.NewvarNode(:(group@_18))
+│ │           level@_20 = Base.CoreLogging.Info
+│ │           std_level@_19 = level@_20
+│ │    %232 = std_level@_19
+│ │    %233 = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %234 = %232 >= %233
+│ └───        goto #26 if not %234
+│ 17 ─        group@_18 = :app
+│ │           _module@_17 = Main.App
+│ │           logger@_16 = (Base.CoreLogging.current_logger_for_env)(std_level@_19, group@_18, _module@_17)
+│ │    %239 = logger@_16 === Base.CoreLogging.nothing
+│ │    %240 = !%239
+│ └───        goto #26 if not %240
+│ 18 ─        id@_15 = :Main_App_808e08a4
+│ │    %243 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_16, level@_20, _module@_17, group@_18, id@_15)
+│ └───        goto #26 if not %243
+│ 19 ─        file@_14 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %246 = file@_14 isa Base.CoreLogging.String
+│ └───        goto #21 if not %246
+│ 20 ─ %248 = Base.fixup_stdlib_path
+│ └───        file@_14 = (%248)(file@_14)
+│ 21 ┄        line@_13 = 711
+│ │           msg@_11 = "AC_List:"
+│ │           kwargs@_12 = Core.NamedTuple()
+│ └───        goto #26 if not true
+│ 22 ─ %254 = Base.NamedTuple()
+│ │    %255 = Base.merge(%254, kwargs@_12)
+│ │    %256 = Base.isempty(%255)
+│ └───        goto #24 if not %256
+│ 23 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_16, level@_20, msg@_11, _module@_17, group@_18, id@_15, file@_14, line@_13)
+│ └───        goto #25
+│ 24 ─        Core.kwcall(%255, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_16, level@_20, msg@_11, _module@_17, group@_18, id@_15, file@_14, line@_13)
+│ 25 ┄        goto #26
+│ 26 ┄        Base.CoreLogging.nothing
+│ │           Core.NewvarNode(:(msg@_21))
+│ │           Core.NewvarNode(:(kwargs@_22))
+│ │           Core.NewvarNode(:(line@_23))
+│ │           Core.NewvarNode(:(file@_24))
+│ │           Core.NewvarNode(:(id@_25))
+│ │           Core.NewvarNode(:(logger@_26))
+│ │           Core.NewvarNode(:(_module@_27))
+│ │           Core.NewvarNode(:(group@_28))
+│ │           level@_30 = Base.CoreLogging.Info
+│ │           std_level@_29 = level@_30
+│ │    %273 = std_level@_29
+│ │    %274 = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %275 = %273 >= %274
+│ └───        goto #42 if not %275
+│ 27 ─        group@_28 = :app
+│ │           _module@_27 = Main.App
+│ │           logger@_26 = (Base.CoreLogging.current_logger_for_env)(std_level@_29, group@_28, _module@_27)
+│ │    %280 = logger@_26 === Base.CoreLogging.nothing
+│ │    %281 = !%280
+│ └───        goto #42 if not %281
+│ 28 ─        id@_25 = :Main_App_b516eb24
+│ │    %284 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_26, level@_30, _module@_27, group@_28, id@_25)
+│ └───        goto #42 if not %284
+│ 29 ─        file@_24 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %287 = file@_24 isa Base.CoreLogging.String
+│ └───        goto #31 if not %287
+│ 30 ─ %289 = Base.fixup_stdlib_path
+│ └───        file@_24 = (%289)(file@_24)
+│ 31 ┄        line@_23 = 712
+│ 32 ─ %292 = $(Expr(:enter, #35))
+│ 33 ─ %293 = Core.getfield(#self#, :__model__)
+│ │    %294 = Base.getproperty(%293, :AC_List)
+│ │           msg@_21 = Base.getindex(%294)
+│ │           kwargs@_22 = Core.NamedTuple()
+│ │           @_65 = true
+│ └───        $(Expr(:leave, 1))
+│ 34 ─        goto #37
+│ 35 ┄        $(Expr(:leave, 1))
+│ 36 ─        err@_31 = $(Expr(:the_exception))
+│ │           Base.invokelatest(Base.CoreLogging.logging_error, logger@_26, level@_30, _module@_27, group@_28, id@_25, file@_24, line@_23, err@_31, true)
+│ │           @_65 = false
+│ └───        $(Expr(:pop_exception, :(%292)))
+│ 37 ┄        goto #42 if not @_65
+│ 38 ─ %306 = Base.NamedTuple()
+│ │    %307 = Base.merge(%306, kwargs@_22)
+│ │    %308 = Base.isempty(%307)
+│ └───        goto #40 if not %308
+│ 39 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_26, level@_30, msg@_21, _module@_27, group@_28, id@_25, file@_24, line@_23)
+│ └───        goto #41
+│ 40 ─        Core.kwcall(%307, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_26, level@_30, msg@_21, _module@_27, group@_28, id@_25, file@_24, line@_23)
+│ 41 ┄        goto #42
+│ 42 ┄        Base.CoreLogging.nothing
+│ │           Core.NewvarNode(:(msg@_32))
+│ │           Core.NewvarNode(:(kwargs@_33))
+│ │           Core.NewvarNode(:(line@_34))
+│ │           Core.NewvarNode(:(file@_35))
+│ │           Core.NewvarNode(:(id@_36))
+│ │           Core.NewvarNode(:(logger@_37))
+│ │           Core.NewvarNode(:(_module@_38))
+│ │           Core.NewvarNode(:(group@_39))
+│ │           level@_41 = Base.CoreLogging.Info
+│ │           std_level@_40 = level@_41
+│ │    %325 = std_level@_40
+│ │    %326 = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %327 = %325 >= %326
+│ └───        goto #52 if not %327
+│ 43 ─        group@_39 = :app
+│ │           _module@_38 = Main.App
+│ │           logger@_37 = (Base.CoreLogging.current_logger_for_env)(std_level@_40, group@_39, _module@_38)
+│ │    %332 = logger@_37 === Base.CoreLogging.nothing
+│ │    %333 = !%332
+│ └───        goto #52 if not %333
+│ 44 ─        id@_36 = :Main_App_b1ed49dd
+│ │    %336 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_37, level@_41, _module@_38, group@_39, id@_36)
+│ └───        goto #52 if not %336
+│ 45 ─        file@_35 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %339 = file@_35 isa Base.CoreLogging.String
+│ └───        goto #47 if not %339
+│ 46 ─ %341 = Base.fixup_stdlib_path
+│ └───        file@_35 = (%341)(file@_35)
+│ 47 ┄        line@_34 = 713
+│ │           msg@_32 = "Display_List:"
+│ │           kwargs@_33 = Core.NamedTuple()
+│ └───        goto #52 if not true
+│ 48 ─ %347 = Base.NamedTuple()
+│ │    %348 = Base.merge(%347, kwargs@_33)
+│ │    %349 = Base.isempty(%348)
+│ └───        goto #50 if not %349
+│ 49 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_37, level@_41, msg@_32, _module@_38, group@_39, id@_36, file@_35, line@_34)
+│ └───        goto #51
+│ 50 ─        Core.kwcall(%348, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_37, level@_41, msg@_32, _module@_38, group@_39, id@_36, file@_35, line@_34)
+│ 51 ┄        goto #52
+│ 52 ┄        Base.CoreLogging.nothing
+│ │           Core.NewvarNode(:(msg@_42))
+│ │           Core.NewvarNode(:(kwargs@_43))
+│ │           Core.NewvarNode(:(line@_44))
+│ │           Core.NewvarNode(:(file@_45))
+│ │           Core.NewvarNode(:(id@_46))
+│ │           Core.NewvarNode(:(logger@_47))
+│ │           Core.NewvarNode(:(_module@_48))
+│ │           Core.NewvarNode(:(group@_49))
+│ │           level@_51 = Base.CoreLogging.Info
+│ │           std_level@_50 = level@_51
+│ │    %366 = std_level@_50
+│ │    %367 = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %368 = %366 >= %367
+│ └───        goto #68 if not %368
+│ 53 ─        group@_49 = :app
+│ │           _module@_48 = Main.App
+│ │           logger@_47 = (Base.CoreLogging.current_logger_for_env)(std_level@_50, group@_49, _module@_48)
+│ │    %373 = logger@_47 === Base.CoreLogging.nothing
+│ │    %374 = !%373
+│ └───        goto #68 if not %374
+│ 54 ─        id@_46 = :Main_App_4d8834e2
+│ │    %377 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_47, level@_51, _module@_48, group@_49, id@_46)
+│ └───        goto #68 if not %377
+│ 55 ─        file@_45 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %380 = file@_45 isa Base.CoreLogging.String
+│ └───        goto #57 if not %380
+│ 56 ─ %382 = Base.fixup_stdlib_path
+│ └───        file@_45 = (%382)(file@_45)
+│ 57 ┄        line@_44 = 714
+│ 58 ─ %385 = $(Expr(:enter, #61))
+│ 59 ─ %386 = Core.getfield(#self#, :__model__)
+│ │    %387 = Base.getproperty(%386, :Display_List)
+│ │           msg@_42 = Base.getindex(%387)
+│ │           kwargs@_43 = Core.NamedTuple()
+│ │           @_66 = true
+│ └───        $(Expr(:leave, 1))
+│ 60 ─        goto #63
+│ 61 ┄        $(Expr(:leave, 1))
+│ 62 ─        err@_52 = $(Expr(:the_exception))
+│ │           Base.invokelatest(Base.CoreLogging.logging_error, logger@_47, level@_51, _module@_48, group@_49, id@_46, file@_45, line@_44, err@_52, true)
+│ │           @_66 = false
+│ └───        $(Expr(:pop_exception, :(%385)))
+│ 63 ┄        goto #68 if not @_66
+│ 64 ─ %399 = Base.NamedTuple()
+│ │    %400 = Base.merge(%399, kwargs@_43)
+│ │    %401 = Base.isempty(%400)
+│ └───        goto #66 if not %401
+│ 65 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_47, level@_51, msg@_42, _module@_48, group@_49, id@_46, file@_45, line@_44)
+│ └───        goto #67
+│ 66 ─        Core.kwcall(%400, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_47, level@_51, msg@_42, _module@_48, group@_49, id@_46, file@_45, line@_44)
+│ 67 ┄        goto #68
+│ 68 ┄        Base.CoreLogging.nothing
+│ └───        $(Expr(:leave, 1))
+│ 69 ─        goto #88
+│ 70 ┄        $(Expr(:leave, 1))
+│ 71 ─        e = $(Expr(:the_exception))
+│ │           Core.NewvarNode(:(msg@_54))
+│ │           Core.NewvarNode(:(kwargs@_55))
+│ │           Core.NewvarNode(:(line@_56))
+│ │           Core.NewvarNode(:(file@_57))
+│ │           Core.NewvarNode(:(id@_58))
+│ │           Core.NewvarNode(:(logger@_59))
+│ │           Core.NewvarNode(:(_module@_60))
+│ │           Core.NewvarNode(:(group@_61))
+│ │           level@_63 = Base.CoreLogging.Error
+│ │           std_level@_62 = level@_63
+│ │    %422 = std_level@_62
+│ │    %423 = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %424 = %422 >= %423
+│ └───        goto #87 if not %424
+│ 72 ─        group@_61 = :app
+│ │           _module@_60 = Main.App
+│ │           logger@_59 = (Base.CoreLogging.current_logger_for_env)(std_level@_62, group@_61, _module@_60)
+│ │    %429 = logger@_59 === Base.CoreLogging.nothing
+│ │    %430 = !%429
+│ └───        goto #87 if not %430
+│ 73 ─        id@_58 = :Main_App_4f12a4a6
+│ │    %433 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_59, level@_63, _module@_60, group@_61, id@_58)
+│ └───        goto #87 if not %433
+│ 74 ─        file@_57 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %436 = file@_57 isa Base.CoreLogging.String
+│ └───        goto #76 if not %436
+│ 75 ─ %438 = Base.fixup_stdlib_path
+│ └───        file@_57 = (%438)(file@_57)
+│ 76 ┄        line@_56 = 718
+│ │    %441 = $(Expr(:isdefined, :(e)))
+│ └───        goto #78 if not %441
+│ 77 ─        @_67 = nothing
+│ └───        goto #79
+│ 78 ─        @_67 = Core.UndefVarError(:e)
+│ 79 ┄ %446 = @_67
+│ │           err@_64 = %446
+│ │    %448 = err@_64 === Base.CoreLogging.nothing
+│ └───        goto #81 if not %448
+│ 80 ─        msg@_54 = e
+│ │           kwargs@_55 = Core.NamedTuple()
+│ │           @_68 = true
+│ └───        goto #82
+│ 81 ─        Base.invokelatest(Base.CoreLogging.logging_error, logger@_59, level@_63, _module@_60, group@_61, id@_58, file@_57, line@_56, err@_64, false)
+│ └───        @_68 = false
+│ 82 ┄        goto #87 if not @_68
+│ 83 ─ %457 = Base.NamedTuple()
+│ │    %458 = Base.merge(%457, kwargs@_55)
+│ │    %459 = Base.isempty(%458)
+│ └───        goto #85 if not %459
+│ 84 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_59, level@_63, msg@_54, _module@_60, group@_61, id@_58, file@_57, line@_56)
+│ └───        goto #86
+│ 85 ─        Core.kwcall(%458, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_59, level@_63, msg@_54, _module@_60, group@_61, id@_58, file@_57, line@_56)
+│ 86 ┄        goto #87
+│ 87 ┄        Base.CoreLogging.nothing
+│ │    %466 = Core.getfield(#self#, :__model__)
+│ │           Main.App.notify(%466, "Error: Please fix invalid/missing inputs.")
+│ │    %468 = Core.getfield(#self#, :__model__)
+│ │    %469 = Base.getproperty(%468, :msgM)
+│ │           Base.setindex!(%469, "Error: Please fix invalid/missing inputs.")
+│ │    %471 = Core.getfield(#self#, :__model__)
+│ │    %472 = Base.getproperty(%471, :msgW)
+│ │           Base.setindex!(%472, "Error: Please fix invalid/missing inputs.")
+│ │    %474 = Core.getfield(#self#, :__model__)
+│ │    %475 = Base.getproperty(%474, :msgP)
+│ │           Base.setindex!(%475, "Error: Please fix invalid/missing inputs.")
+│ │    %477 = Core.getfield(#self#, :__model__)
+│ │    %478 = Base.getproperty(%477, :msgV)
+│ │           Base.setindex!(%478, "Error: Please fix invalid/missing inputs.")
+│ │    %480 = false
+│ │    %481 = Core.getfield(#self#, :__model__)
+│ │    %482 = Base.getproperty(%481, :updateButtonClicked)
+│ │           Base.setindex!(%482, %480)
+│ └───        $(Expr(:pop_exception, :(%14)))
+│ 88 ┄ %485 = Core.getfield(#self#, :__model__)
+│ │    %486 = Base.getproperty(%485, :Display_List)
+│ │    %487 = Base.getindex(%486)
+│ │    %488 = Core.getfield(#self#, :__model__)
+│ │    %489 = Base.getproperty(%488, :Display_List)
+│ │           Base.setindex!(%489, %487)
+│ └───        return %487
+│ 89 ─        return nothing
+│ )]
+│ 
+│   Type of argument:
+│   Bool
+│ 
+│   Value:
+│   true
+│ 
+│   Exception:
+│   TypeError(:if, "", Bool, nothing)
+│ 
+│   exception = (TypeError(:if, "", Bool, nothing), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ff9e462eca6, Ptr{Nothing} @0x00007ff9e462ecc9, Ptr{Nothing} @0x00000211a6b379c4, Ptr{Nothing} @0x00000211a6b37a04, Ptr{Nothing} @0x00007ff9e45b708a, Ptr{Nothing} @0x00000211a01efdd6, Ptr{Nothing} @0x00000211a01f0838, Ptr{Nothing} @0x00000211a01f088c, Ptr{Nothing} @0x00000211a01ee98f, Ptr{Nothing} @0x00000211a01eea61, Ptr{Nothing} @0x00000211a01eaa24, Ptr{Nothing} @0x00000211a01eacfb, Ptr{Nothing} @0x00000211a012f7e3, Ptr{Nothing} @0x00000211a012fc57, Ptr{Nothing} @0x00000211a012fceb, Ptr{Nothing} @0x00000211a012fd2f, Ptr{Nothing} @0x00000211c19d5ec2, Ptr{Nothing} @0x00000211c19d5f1b, Ptr{Nothing} @0x00007ff9e45b708a, Ptr{Nothing} @0x00007ff97ccff925, Ptr{Nothing} @0x00007ff97cc0a6f0, Ptr{Nothing} @0x00007ff97cd64d8b, Ptr{Nothing} @0x00000211c19ce0a4, Ptr{Nothing} @0x00000211c19ce172, Ptr{Nothing} @0x00007ff9e45b708a, Ptr{Nothing} @0x00000211c19c8f7c, Ptr{Nothing} @0x00000211c19cb2dc, Ptr{Nothing} @0x00000211c19cb8db, Ptr{Nothing} @0x00007ff9e45cc68b])
+└ @ Stipple C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\stipple\mutators.jl:54
+┌ Info: 2024-08-24 00:00:47 error caught!
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:637
+┌ Info: 2024-08-24 00:00:47 ArgumentError("input string is empty or only contains whitespace")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:638
+┌ Info: 2024-08-24 00:00:48 Any[]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:759
+┌ Info: 2024-08-24 00:00:59 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-24 00:00:59 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-24 00:01:20 lib\uploads\workers\worker_data_final_sample.csv
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:605
+┌ Info: 2024-08-24 00:02:03 lib\uploads\workers\worker_data_final_sample.csv
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:605
+┌ Info: 2024-08-24 00:02:03 3
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:610
+┌ Info: 2024-08-24 00:02:15 lib\uploads\workers\worker_data_final_sample.csv
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:605
+┌ Info: 2024-08-24 00:11:46 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-24 00:11:46 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-24 00:12:27 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-24 00:12:27 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-24 00:12:34 error caught!
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:637
+┌ Info: 2024-08-24 00:12:34 ArgumentError("input string is empty or only contains whitespace")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:638
+┌ Info: 2024-08-24 00:12:34 Any[]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:759
+┌ Info: 2024-08-24 00:12:40 lib\uploads\workers\worker_data_final_sample.csv
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:605
+┌ Info: 2024-08-24 00:16:22 lib\uploads\workers\worker_data_final_sample.csv
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:605
+┌ Info: 2024-08-24 00:18:11 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-24 00:18:11 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-24 00:18:17 error caught!
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:637
+┌ Info: 2024-08-24 00:18:17 ArgumentError("input string is empty or only contains whitespace")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:638
+┌ Info: 2024-08-24 00:18:17 Any[]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:759
+┌ Info: 2024-08-24 00:18:22 lib\uploads\workers\worker_data_final_sample.csv
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:605
+┌ Info: 2024-08-24 00:18:49 error caught!
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:637
+┌ Info: 2024-08-24 00:18:49 ArgumentError("input string is empty or only contains whitespace")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:638
+┌ Info: 2024-08-24 00:18:49 Any[]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:759
+┌ Info: 2024-08-24 00:19:15 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-24 00:19:15 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-24 00:19:40 lib\uploads\workers\worker_data_final_sample.csv
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:605
+┌ Info: 2024-08-24 00:20:34 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-08-24 00:20:34 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22

@@ -1,0 +1,879 @@
+┌ Info: 2024-07-26 21:15:45 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-26 21:15:48 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:16:31 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-26 21:16:31 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:16:34 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=IXPHAUWMFJBNQNDMHTDGXDHQEVEQXMDJ 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-26 21:16:34 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-26 21:18:06 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:18:06 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:18:13 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:18:13 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:21:20 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:111
+┌ Info: 2024-07-26 21:21:37 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:21:37 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:22:02 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:22:02 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:22:06 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:111
+┌ Info: 2024-07-26 21:22:17 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:111
+┌ Info: 2024-07-26 21:23:07 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:23:07 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:23:10 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:111
+┌ Info: 2024-07-26 21:23:27 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:23:27 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:23:36 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:111
+┌ Info: 2024-07-26 21:27:30 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:27:30 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:27:34 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:27:34 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:27:39 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:111
+┌ Info: 2024-07-26 21:28:33 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-26 21:28:34 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:28:59 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-26 21:28:59 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:29:00 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=IXPHAUWMFJBNQNDMHTDGXDHQEVEQXMDJ 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-26 21:29:01 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-26 21:29:52 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:66
+┌ Info: 2024-07-26 21:29:53 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:75
+┌ Info: 2024-07-26 21:29:54 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:72
+┌ Info: 2024-07-26 21:29:54 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "Test.csv", "channel" => "IXPHAUWMFJBNQNDMHTDGXDHQEVEQXMDJ", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_RGNS50rmjs")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:44
+┌ Info: 2024-07-26 21:29:55 uploaded
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-26 21:29:55 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:81
+┌ Info: 2024-07-26 21:29:55 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:82
+┌ Info: 2024-07-26 21:29:55 Test.csv
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:83
+┌ Info: 2024-07-26 21:29:55 Select_list:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:84
+┌ Info: 2024-07-26 21:29:55 ["Select File", "Test.csv"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:85
+┌ Info: 2024-07-26 21:30:10 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:30:10 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:30:14 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:111
+┌ Info: 2024-07-26 21:31:18 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:31:18 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:31:42 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:31:42 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:31:46 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:31:46 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:32:10 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:32:10 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:33:05 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:33:05 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:33:09 Starting
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:111
+┌ Info: 2024-07-26 21:33:42 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:33:42 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:33:52 Starting
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:111
+┌ Info: 2024-07-26 21:34:40 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:34:40 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:35:02 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:35:02 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:35:29 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:35:29 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:35:37 Starting (test)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:117
+┌ Info: 2024-07-26 21:36:21 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-26 21:36:24 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:36:51 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-26 21:36:51 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:36:53 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=IXPHAUWMFJBNQNDMHTDGXDHQEVEQXMDJ 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-26 21:36:53 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-26 21:37:47 Starting (test)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:117
+┌ Info: 2024-07-26 21:37:59 Starting (test)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:117
+┌ Info: 2024-07-26 21:39:23 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:39:23 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:39:27 Starting (test)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:116
+┌ Info: 2024-07-26 21:39:39 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:39:39 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:39:43 Starting (test)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:116
+┌ Info: 2024-07-26 21:39:56 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:39:56 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:40:16 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:40:16 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:40:22 Starting (test)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:116
+┌ Error: 2024-07-26 21:40:22 UndefVarError(:printhi)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:120
+┌ Info: 2024-07-26 21:42:57 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:42:57 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:43:00 Starting (test)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:116
+┌ Error: 2024-07-26 21:43:00 UndefVarError(:printhi)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:120
+┌ Info: 2024-07-26 21:45:14 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:45:14 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:45:19 Starting (test)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:116
+┌ Info: 2024-07-26 21:45:19 Hi!! I'm working :D
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:176
+┌ Info: 2024-07-26 21:45:27 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:45:27 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 21:45:34 Starting (test)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:116
+┌ Info: 2024-07-26 21:45:34 Hi!! I'm working :D
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:176
+┌ Info: 2024-07-26 21:45:39 Starting
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:111
+┌ Info: 2024-07-26 21:45:39 Checkpoint: Received custom constraints
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:87
+┌ Info: 2024-07-26 21:45:39 Checkpoint: Defined Objective Function
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:102
+┌ Info: 2024-07-26 21:45:42 Checkpoint: Optimized
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:107
+┌ Info: 2024-07-26 21:45:42 Checkpoint: results saved
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:144
+┌ Info: 2024-07-26 21:45:42 Checkpoint: results written to file
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:151
+┌ Info: 2024-07-26 21:45:47 Checkpoint: results printed
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:169
+┌ Info: 2024-07-26 21:45:47 Success!
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:170
+┌ Info: 2024-07-26 22:01:42 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-26 22:01:42 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:01:50 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-26 22:01:50 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:01:51 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=IXPHAUWMFJBNQNDMHTDGXDHQEVEQXMDJ 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-26 22:01:51 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-26 22:02:25 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:02:25 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:03:30 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:03:30 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:11:21 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:11:21 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:12:32 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:12:32 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:12:48 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:12:48 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:13:49 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-26 22:13:50 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:13:57 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-26 22:13:57 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:13:58 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=IXPHAUWMFJBNQNDMHTDGXDHQEVEQXMDJ 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-26 22:13:58 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-26 22:16:06 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:16:06 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:17:35 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:17:35 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:17:57 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:17:57 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:19:44 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:19:44 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:20:28 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:20:28 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:20:36 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:74
+┌ Info: 2024-07-26 22:20:38 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:83
+┌ Info: 2024-07-26 22:20:38 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:80
+┌ Info: 2024-07-26 22:20:38 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "Test.csv", "channel" => "IXPHAUWMFJBNQNDMHTDGXDHQEVEQXMDJ", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_psrytKlCbe")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Info: 2024-07-26 22:20:39 uploaded
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:86
+┌ Info: 2024-07-26 22:20:40 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:89
+┌ Info: 2024-07-26 22:20:40 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:90
+┌ Error: 2024-07-26 22:20:40 Exception while generating log record in module Main.App at c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:91
+│   exception = (UndefVarError(:Select), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x000001d14ed1ca04, Ptr{Nothing} @0x000001d14ed1cc19, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x000001d14ed1bced, Ptr{Nothing} @0x000001d14ed0a423, Ptr{Nothing} @0x000001d14ed0a62b, Ptr{Nothing} @0x000001d14ecc5883, Ptr{Nothing} @0x000001d14ecc5cf7, Ptr{Nothing} @0x000001d14ecc5d8b, Ptr{Nothing} @0x000001d14ecc5dcf, Ptr{Nothing} @0x000001d14eca87b2, Ptr{Nothing} @0x000001d14eca880b, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x00007ffa6ec0f925, Ptr{Nothing} @0x00007ffa6eb1a6f0, Ptr{Nothing} @0x00007ffa6ec74d8b, Ptr{Nothing} @0x000001d17f396664, Ptr{Nothing} @0x000001d17f396732, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x000001d17f39151c, Ptr{Nothing} @0x000001d17f39389c, Ptr{Nothing} @0x000001d17f393e9b, Ptr{Nothing} @0x00007ffa1bc1c68b])
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:91
+┌ Info: 2024-07-26 22:20:42 Select_list:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:92
+┌ Error: 2024-07-26 22:20:42 Exception while generating log record in module Main.App at c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:93
+│   exception = (UndefVarError(:Select_list), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x000001d14ed1ca04, Ptr{Nothing} @0x000001d14ed1cc19, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x000001d14ed1c27f, Ptr{Nothing} @0x000001d14ed0a423, Ptr{Nothing} @0x000001d14ed0a62b, Ptr{Nothing} @0x000001d14ecc5883, Ptr{Nothing} @0x000001d14ecc5cf7, Ptr{Nothing} @0x000001d14ecc5d8b, Ptr{Nothing} @0x000001d14ecc5dcf, Ptr{Nothing} @0x000001d14eca87b2, Ptr{Nothing} @0x000001d14eca880b, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x00007ffa6ec0f925, Ptr{Nothing} @0x00007ffa6eb1a6f0, Ptr{Nothing} @0x00007ffa6ec74d8b, Ptr{Nothing} @0x000001d17f396664, Ptr{Nothing} @0x000001d17f396732, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x000001d17f39151c, Ptr{Nothing} @0x000001d17f39389c, Ptr{Nothing} @0x000001d17f393e9b, Ptr{Nothing} @0x00007ffa1bc1c68b])
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:93
+┌ Info: 2024-07-26 22:20:51 removed
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:77
+┌ Info: 2024-07-26 22:25:07 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:25:07 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:25:31 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:25:31 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:25:48 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:25:48 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:26:00 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:74
+┌ Info: 2024-07-26 22:26:02 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:83
+┌ Info: 2024-07-26 22:26:02 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:80
+┌ Info: 2024-07-26 22:26:02 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "Owl.csv", "channel" => "IXPHAUWMFJBNQNDMHTDGXDHQEVEQXMDJ", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_BYfIdGX8z6")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Info: 2024-07-26 22:26:02 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:89
+┌ Info: 2024-07-26 22:26:02 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:90
+┌ Error: 2024-07-26 22:26:02 Exception while generating log record in module Main.App at c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:91
+│   exception = (UndefVarError(:Select), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x000001d14ed1ca04, Ptr{Nothing} @0x000001d14ed1cc19, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x000001d14ed1bced, Ptr{Nothing} @0x000001d14ed0a423, Ptr{Nothing} @0x000001d14ed0a62b, Ptr{Nothing} @0x000001d14ecc5883, Ptr{Nothing} @0x000001d14ecc5cf7, Ptr{Nothing} @0x000001d14ecc5d8b, Ptr{Nothing} @0x000001d14ecc5dcf, Ptr{Nothing} @0x000001d14eca87b2, Ptr{Nothing} @0x000001d14eca880b, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x00007ffa6ec0f925, Ptr{Nothing} @0x00007ffa6eb1a6f0, Ptr{Nothing} @0x00007ffa6ec74d8b, Ptr{Nothing} @0x000001d17f396664, Ptr{Nothing} @0x000001d17f396732, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x000001d17f39151c, Ptr{Nothing} @0x000001d17f39389c, Ptr{Nothing} @0x000001d17f393e9b, Ptr{Nothing} @0x00007ffa1bc1c68b])
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:91
+┌ Info: 2024-07-26 22:26:02 Select_list:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:92
+┌ Error: 2024-07-26 22:26:02 Exception while generating log record in module Main.App at c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:93
+│   exception = (UndefVarError(:Select_list), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x000001d14ed1ca04, Ptr{Nothing} @0x000001d14ed1cc19, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x000001d14ed1c27f, Ptr{Nothing} @0x000001d14ed0a423, Ptr{Nothing} @0x000001d14ed0a62b, Ptr{Nothing} @0x000001d14ecc5883, Ptr{Nothing} @0x000001d14ecc5cf7, Ptr{Nothing} @0x000001d14ecc5d8b, Ptr{Nothing} @0x000001d14ecc5dcf, Ptr{Nothing} @0x000001d14eca87b2, Ptr{Nothing} @0x000001d14eca880b, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x00007ffa6ec0f925, Ptr{Nothing} @0x00007ffa6eb1a6f0, Ptr{Nothing} @0x00007ffa6ec74d8b, Ptr{Nothing} @0x000001d17f396664, Ptr{Nothing} @0x000001d17f396732, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x000001d17f39151c, Ptr{Nothing} @0x000001d17f39389c, Ptr{Nothing} @0x000001d17f393e9b, Ptr{Nothing} @0x00007ffa1bc1c68b])
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:93
+┌ Info: 2024-07-26 22:26:12 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:74
+┌ Info: 2024-07-26 22:26:13 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:83
+┌ Info: 2024-07-26 22:26:13 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:80
+┌ Info: 2024-07-26 22:26:13 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "Test.csv", "channel" => "IXPHAUWMFJBNQNDMHTDGXDHQEVEQXMDJ", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_HAdOJWNa7a")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Info: 2024-07-26 22:26:13 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:89
+┌ Info: 2024-07-26 22:26:13 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:90
+┌ Error: 2024-07-26 22:26:13 Exception while generating log record in module Main.App at c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:91
+│   exception = (UndefVarError(:Select), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x000001d14ed1ca04, Ptr{Nothing} @0x000001d14ed1cc19, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x000001d14ed1bced, Ptr{Nothing} @0x000001d14ed0a423, Ptr{Nothing} @0x000001d14ed0a62b, Ptr{Nothing} @0x000001d14ecc5883, Ptr{Nothing} @0x000001d14ecc5cf7, Ptr{Nothing} @0x000001d14ecc5d8b, Ptr{Nothing} @0x000001d14ecc5dcf, Ptr{Nothing} @0x000001d14eca87b2, Ptr{Nothing} @0x000001d14eca880b, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x00007ffa6ec0f925, Ptr{Nothing} @0x00007ffa6eb1a6f0, Ptr{Nothing} @0x00007ffa6ec74d8b, Ptr{Nothing} @0x000001d17f396664, Ptr{Nothing} @0x000001d17f396732, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x000001d17f39151c, Ptr{Nothing} @0x000001d17f39389c, Ptr{Nothing} @0x000001d17f393e9b, Ptr{Nothing} @0x00007ffa1bc1c68b])
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:91
+┌ Info: 2024-07-26 22:26:13 Select_list:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:92
+┌ Error: 2024-07-26 22:26:13 Exception while generating log record in module Main.App at c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:93
+│   exception = (UndefVarError(:Select_list), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x000001d14ed1ca04, Ptr{Nothing} @0x000001d14ed1cc19, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x000001d14ed1c27f, Ptr{Nothing} @0x000001d14ed0a423, Ptr{Nothing} @0x000001d14ed0a62b, Ptr{Nothing} @0x000001d14ecc5883, Ptr{Nothing} @0x000001d14ecc5cf7, Ptr{Nothing} @0x000001d14ecc5d8b, Ptr{Nothing} @0x000001d14ecc5dcf, Ptr{Nothing} @0x000001d14eca87b2, Ptr{Nothing} @0x000001d14eca880b, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x00007ffa6ec0f925, Ptr{Nothing} @0x00007ffa6eb1a6f0, Ptr{Nothing} @0x00007ffa6ec74d8b, Ptr{Nothing} @0x000001d17f396664, Ptr{Nothing} @0x000001d17f396732, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x000001d17f39151c, Ptr{Nothing} @0x000001d17f39389c, Ptr{Nothing} @0x000001d17f393e9b, Ptr{Nothing} @0x00007ffa1bc1c68b])
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:93
+┌ Info: 2024-07-26 22:26:35 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:26:35 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:26:49 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:26:49 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:26:50 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:72
+┌ Info: 2024-07-26 22:26:55 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:72
+┌ Info: 2024-07-26 22:26:56 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:81
+┌ Info: 2024-07-26 22:26:56 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-26 22:26:56 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "Test.csv", "channel" => "IXPHAUWMFJBNQNDMHTDGXDHQEVEQXMDJ", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_3UVElGjCNu")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Info: 2024-07-26 22:26:57 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:97
+┌ Info: 2024-07-26 22:26:57 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:98
+┌ Error: 2024-07-26 22:26:57 Exception while generating log record in module Main.App at c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:99
+│   exception = (UndefVarError(:Select), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x000001d14ed1ca04, Ptr{Nothing} @0x000001d14ed1cc19, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x000001d19668617d, Ptr{Nothing} @0x000001d196681c73, Ptr{Nothing} @0x000001d196681e7b, Ptr{Nothing} @0x000001d14ecc5883, Ptr{Nothing} @0x000001d14ecc5cf7, Ptr{Nothing} @0x000001d14ecc5d8b, Ptr{Nothing} @0x000001d14ecc5dcf, Ptr{Nothing} @0x000001d14eca87b2, Ptr{Nothing} @0x000001d14eca880b, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x00007ffa6ec0f925, Ptr{Nothing} @0x00007ffa6eb1a6f0, Ptr{Nothing} @0x00007ffa6ec74d8b, Ptr{Nothing} @0x000001d17f396664, Ptr{Nothing} @0x000001d17f396732, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x000001d17f39151c, Ptr{Nothing} @0x000001d17f39389c, Ptr{Nothing} @0x000001d17f393e9b, Ptr{Nothing} @0x00007ffa1bc1c68b])
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:99
+┌ Info: 2024-07-26 22:26:57 Select_list:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:100
+┌ Error: 2024-07-26 22:26:57 Exception while generating log record in module Main.App at c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:101
+│   exception = (UndefVarError(:Select_list), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x000001d14ed1ca04, Ptr{Nothing} @0x000001d14ed1cc19, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x000001d19668670f, Ptr{Nothing} @0x000001d196681c73, Ptr{Nothing} @0x000001d196681e7b, Ptr{Nothing} @0x000001d14ecc5883, Ptr{Nothing} @0x000001d14ecc5cf7, Ptr{Nothing} @0x000001d14ecc5d8b, Ptr{Nothing} @0x000001d14ecc5dcf, Ptr{Nothing} @0x000001d14eca87b2, Ptr{Nothing} @0x000001d14eca880b, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x00007ffa6ec0f925, Ptr{Nothing} @0x00007ffa6eb1a6f0, Ptr{Nothing} @0x00007ffa6ec74d8b, Ptr{Nothing} @0x000001d17f396664, Ptr{Nothing} @0x000001d17f396732, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x000001d17f39151c, Ptr{Nothing} @0x000001d17f39389c, Ptr{Nothing} @0x000001d17f393e9b, Ptr{Nothing} @0x00007ffa1bc1c68b])
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:101
+┌ Info: 2024-07-26 22:27:02 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:72
+┌ Info: 2024-07-26 22:27:03 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:81
+┌ Info: 2024-07-26 22:27:03 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-26 22:27:03 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "Owl.csv", "channel" => "IXPHAUWMFJBNQNDMHTDGXDHQEVEQXMDJ", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_fAJUj8T45Y")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Info: 2024-07-26 22:27:03 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:97
+┌ Info: 2024-07-26 22:27:03 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:98
+┌ Error: 2024-07-26 22:27:03 Exception while generating log record in module Main.App at c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:99
+│   exception = (UndefVarError(:Select), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x000001d14ed1ca04, Ptr{Nothing} @0x000001d14ed1cc19, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x000001d19668617d, Ptr{Nothing} @0x000001d196681c73, Ptr{Nothing} @0x000001d196681e7b, Ptr{Nothing} @0x000001d14ecc5883, Ptr{Nothing} @0x000001d14ecc5cf7, Ptr{Nothing} @0x000001d14ecc5d8b, Ptr{Nothing} @0x000001d14ecc5dcf, Ptr{Nothing} @0x000001d14eca87b2, Ptr{Nothing} @0x000001d14eca880b, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x00007ffa6ec0f925, Ptr{Nothing} @0x00007ffa6eb1a6f0, Ptr{Nothing} @0x00007ffa6ec74d8b, Ptr{Nothing} @0x000001d17f396664, Ptr{Nothing} @0x000001d17f396732, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x000001d17f39151c, Ptr{Nothing} @0x000001d17f39389c, Ptr{Nothing} @0x000001d17f393e9b, Ptr{Nothing} @0x00007ffa1bc1c68b])
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:99
+┌ Info: 2024-07-26 22:27:03 Select_list:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:100
+┌ Error: 2024-07-26 22:27:03 Exception while generating log record in module Main.App at c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:101
+│   exception = (UndefVarError(:Select_list), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x000001d14ed1ca04, Ptr{Nothing} @0x000001d14ed1cc19, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x000001d19668670f, Ptr{Nothing} @0x000001d196681c73, Ptr{Nothing} @0x000001d196681e7b, Ptr{Nothing} @0x000001d14ecc5883, Ptr{Nothing} @0x000001d14ecc5cf7, Ptr{Nothing} @0x000001d14ecc5d8b, Ptr{Nothing} @0x000001d14ecc5dcf, Ptr{Nothing} @0x000001d14eca87b2, Ptr{Nothing} @0x000001d14eca880b, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x00007ffa6ec0f925, Ptr{Nothing} @0x00007ffa6eb1a6f0, Ptr{Nothing} @0x00007ffa6ec74d8b, Ptr{Nothing} @0x000001d17f396664, Ptr{Nothing} @0x000001d17f396732, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x000001d17f39151c, Ptr{Nothing} @0x000001d17f39389c, Ptr{Nothing} @0x000001d17f393e9b, Ptr{Nothing} @0x00007ffa1bc1c68b])
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:101
+┌ Info: 2024-07-26 22:27:22 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:72
+┌ Info: 2024-07-26 22:27:23 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:81
+┌ Info: 2024-07-26 22:27:24 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-26 22:27:24 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "Test.csv", "channel" => "IXPHAUWMFJBNQNDMHTDGXDHQEVEQXMDJ", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_NAnMh0v2xy")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Info: 2024-07-26 22:27:24 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:97
+┌ Info: 2024-07-26 22:27:24 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:98
+┌ Error: 2024-07-26 22:27:24 Exception while generating log record in module Main.App at c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:99
+│   exception = (UndefVarError(:Select), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x000001d14ed1ca04, Ptr{Nothing} @0x000001d14ed1cc19, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x000001d19668617d, Ptr{Nothing} @0x000001d196681c73, Ptr{Nothing} @0x000001d196681e7b, Ptr{Nothing} @0x000001d14ecc5883, Ptr{Nothing} @0x000001d14ecc5cf7, Ptr{Nothing} @0x000001d14ecc5d8b, Ptr{Nothing} @0x000001d14ecc5dcf, Ptr{Nothing} @0x000001d14eca87b2, Ptr{Nothing} @0x000001d14eca880b, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x00007ffa6ec0f925, Ptr{Nothing} @0x00007ffa6eb1a6f0, Ptr{Nothing} @0x00007ffa6ec74d8b, Ptr{Nothing} @0x000001d17f396664, Ptr{Nothing} @0x000001d17f396732, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x000001d17f39151c, Ptr{Nothing} @0x000001d17f39389c, Ptr{Nothing} @0x000001d17f393e9b, Ptr{Nothing} @0x00007ffa1bc1c68b])
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:99
+┌ Info: 2024-07-26 22:27:24 Select_list:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:100
+┌ Error: 2024-07-26 22:27:24 Exception while generating log record in module Main.App at c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:101
+│   exception = (UndefVarError(:Select_list), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x000001d14ed1ca04, Ptr{Nothing} @0x000001d14ed1cc19, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x000001d19668670f, Ptr{Nothing} @0x000001d196681c73, Ptr{Nothing} @0x000001d196681e7b, Ptr{Nothing} @0x000001d14ecc5883, Ptr{Nothing} @0x000001d14ecc5cf7, Ptr{Nothing} @0x000001d14ecc5d8b, Ptr{Nothing} @0x000001d14ecc5dcf, Ptr{Nothing} @0x000001d14eca87b2, Ptr{Nothing} @0x000001d14eca880b, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x00007ffa6ec0f925, Ptr{Nothing} @0x00007ffa6eb1a6f0, Ptr{Nothing} @0x00007ffa6ec74d8b, Ptr{Nothing} @0x000001d17f396664, Ptr{Nothing} @0x000001d17f396732, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x000001d17f39151c, Ptr{Nothing} @0x000001d17f39389c, Ptr{Nothing} @0x000001d17f393e9b, Ptr{Nothing} @0x00007ffa1bc1c68b])
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:101
+┌ Info: 2024-07-26 22:27:30 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:72
+┌ Info: 2024-07-26 22:27:31 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:81
+┌ Info: 2024-07-26 22:27:31 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-26 22:27:31 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "111series.csv", "channel" => "IXPHAUWMFJBNQNDMHTDGXDHQEVEQXMDJ", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_5KvcVOnMv2")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Info: 2024-07-26 22:27:31 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:97
+┌ Info: 2024-07-26 22:27:31 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:98
+┌ Error: 2024-07-26 22:27:31 Exception while generating log record in module Main.App at c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:99
+│   exception = (UndefVarError(:Select), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x000001d14ed1ca04, Ptr{Nothing} @0x000001d14ed1cc19, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x000001d19668617d, Ptr{Nothing} @0x000001d196681c73, Ptr{Nothing} @0x000001d196681e7b, Ptr{Nothing} @0x000001d14ecc5883, Ptr{Nothing} @0x000001d14ecc5cf7, Ptr{Nothing} @0x000001d14ecc5d8b, Ptr{Nothing} @0x000001d14ecc5dcf, Ptr{Nothing} @0x000001d14eca87b2, Ptr{Nothing} @0x000001d14eca880b, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x00007ffa6ec0f925, Ptr{Nothing} @0x00007ffa6eb1a6f0, Ptr{Nothing} @0x00007ffa6ec74d8b, Ptr{Nothing} @0x000001d17f396664, Ptr{Nothing} @0x000001d17f396732, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x000001d17f39151c, Ptr{Nothing} @0x000001d17f39389c, Ptr{Nothing} @0x000001d17f393e9b, Ptr{Nothing} @0x00007ffa1bc1c68b])
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:99
+┌ Info: 2024-07-26 22:27:31 Select_list:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:100
+┌ Error: 2024-07-26 22:27:31 Exception while generating log record in module Main.App at c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:101
+│   exception = (UndefVarError(:Select_list), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x000001d14ed1ca04, Ptr{Nothing} @0x000001d14ed1cc19, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x000001d19668670f, Ptr{Nothing} @0x000001d196681c73, Ptr{Nothing} @0x000001d196681e7b, Ptr{Nothing} @0x000001d14ecc5883, Ptr{Nothing} @0x000001d14ecc5cf7, Ptr{Nothing} @0x000001d14ecc5d8b, Ptr{Nothing} @0x000001d14ecc5dcf, Ptr{Nothing} @0x000001d14eca87b2, Ptr{Nothing} @0x000001d14eca880b, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x00007ffa6ec0f925, Ptr{Nothing} @0x00007ffa6eb1a6f0, Ptr{Nothing} @0x00007ffa6ec74d8b, Ptr{Nothing} @0x000001d17f396664, Ptr{Nothing} @0x000001d17f396732, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x000001d17f39151c, Ptr{Nothing} @0x000001d17f39389c, Ptr{Nothing} @0x000001d17f393e9b, Ptr{Nothing} @0x00007ffa1bc1c68b])
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:101
+┌ Info: 2024-07-26 22:29:02 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:29:02 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:29:17 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:72
+┌ Info: 2024-07-26 22:29:18 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:81
+┌ Info: 2024-07-26 22:29:19 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:101
+┌ Info: 2024-07-26 22:29:19 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:102
+┌ Error: 2024-07-26 22:29:19 Exception while generating log record in module Main.App at c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:103
+│   exception = (UndefVarError(:Select), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x000001d14ed1ca04, Ptr{Nothing} @0x000001d14ed1cc19, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x000001d1966a2afd, Ptr{Nothing} @0x000001d1966a12e3, Ptr{Nothing} @0x000001d1966a14eb, Ptr{Nothing} @0x000001d14ecc5883, Ptr{Nothing} @0x000001d14ecc5cf7, Ptr{Nothing} @0x000001d14ecc5d8b, Ptr{Nothing} @0x000001d14ecc5dcf, Ptr{Nothing} @0x000001d14eca87b2, Ptr{Nothing} @0x000001d14eca880b, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x00007ffa6ec0f925, Ptr{Nothing} @0x00007ffa6eb1a6f0, Ptr{Nothing} @0x00007ffa6ec74d8b, Ptr{Nothing} @0x000001d17f396664, Ptr{Nothing} @0x000001d17f396732, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x000001d17f39151c, Ptr{Nothing} @0x000001d17f39389c, Ptr{Nothing} @0x000001d17f393e9b, Ptr{Nothing} @0x00007ffa1bc1c68b])
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:103
+┌ Info: 2024-07-26 22:29:19 Select_list:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:104
+┌ Error: 2024-07-26 22:29:19 Exception while generating log record in module Main.App at c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:105
+│   exception = (UndefVarError(:Select_list), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x000001d14ed1ca04, Ptr{Nothing} @0x000001d14ed1cc19, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x000001d1966a308f, Ptr{Nothing} @0x000001d1966a12e3, Ptr{Nothing} @0x000001d1966a14eb, Ptr{Nothing} @0x000001d14ecc5883, Ptr{Nothing} @0x000001d14ecc5cf7, Ptr{Nothing} @0x000001d14ecc5d8b, Ptr{Nothing} @0x000001d14ecc5dcf, Ptr{Nothing} @0x000001d14eca87b2, Ptr{Nothing} @0x000001d14eca880b, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x00007ffa6ec0f925, Ptr{Nothing} @0x00007ffa6eb1a6f0, Ptr{Nothing} @0x00007ffa6ec74d8b, Ptr{Nothing} @0x000001d17f396664, Ptr{Nothing} @0x000001d17f396732, Ptr{Nothing} @0x00007ffa1bc0708a, Ptr{Nothing} @0x000001d17f39151c, Ptr{Nothing} @0x000001d17f39389c, Ptr{Nothing} @0x000001d17f393e9b, Ptr{Nothing} @0x00007ffa1bc1c68b])
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:105
+┌ Info: 2024-07-26 22:31:55 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:31:55 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:32:12 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:32:12 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:32:17 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:72
+┌ Info: 2024-07-26 22:32:17 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:81
+┌ Info: 2024-07-26 22:32:17 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-26 22:32:19 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:97
+┌ Info: 2024-07-26 22:33:02 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-26 22:33:03 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:33:10 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-26 22:33:10 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:33:11 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=IXPHAUWMFJBNQNDMHTDGXDHQEVEQXMDJ 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-26 22:33:11 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-26 22:33:34 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:72
+┌ Info: 2024-07-26 22:33:36 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:81
+┌ Info: 2024-07-26 22:33:37 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-26 22:33:38 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "Owl.csv", "channel" => "IXPHAUWMFJBNQNDMHTDGXDHQEVEQXMDJ", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_Xqf8nux4VK")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Info: 2024-07-26 22:33:40 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:97
+┌ Info: 2024-07-26 22:34:24 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:72
+┌ Info: 2024-07-26 22:34:25 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:81
+┌ Info: 2024-07-26 22:34:25 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-26 22:34:25 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "Owl.csv", "channel" => "IXPHAUWMFJBNQNDMHTDGXDHQEVEQXMDJ", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_JONEpoBSBy")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Info: 2024-07-26 22:34:25 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "Owl.csv", "channel" => "IXPHAUWMFJBNQNDMHTDGXDHQEVEQXMDJ", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_JONEpoBSBy")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Error: 2024-07-26 22:34:25 Error processing file: Base.IOError("open(\"C:\\\\Users\\\\kaele\\\\AppData\\\\Local\\\\Temp\\\\jl_JONEpoBSBy\", 0, 0): no such file or directory (ENOENT)", -4058)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:59
+┌ Info: 2024-07-26 22:34:25 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:97
+┌ Info: 2024-07-26 22:34:29 removed
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:75
+┌ Info: 2024-07-26 22:34:50 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:72
+┌ Info: 2024-07-26 22:34:51 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:81
+┌ Info: 2024-07-26 22:34:51 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-26 22:34:51 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "Test.csv", "channel" => "IXPHAUWMFJBNQNDMHTDGXDHQEVEQXMDJ", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_5cXczwxSRQ")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Info: 2024-07-26 22:34:51 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "Test.csv", "channel" => "IXPHAUWMFJBNQNDMHTDGXDHQEVEQXMDJ", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_5cXczwxSRQ")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Error: 2024-07-26 22:34:51 Error processing file: Base.IOError("open(\"C:\\\\Users\\\\kaele\\\\AppData\\\\Local\\\\Temp\\\\jl_5cXczwxSRQ\", 0, 0): no such file or directory (ENOENT)", -4058)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:59
+┌ Info: 2024-07-26 22:34:52 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:97
+┌ Info: 2024-07-26 22:43:58 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:72
+┌ Info: 2024-07-26 22:43:59 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:81
+┌ Info: 2024-07-26 22:43:59 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-26 22:43:59 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "Owl.csv", "channel" => "IXPHAUWMFJBNQNDMHTDGXDHQEVEQXMDJ", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_xspohwHEv4")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Info: 2024-07-26 22:43:59 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:97
+┌ Info: 2024-07-26 22:44:06 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:72
+┌ Info: 2024-07-26 22:44:07 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:81
+┌ Info: 2024-07-26 22:44:07 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-26 22:44:07 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "Test.csv", "channel" => "IXPHAUWMFJBNQNDMHTDGXDHQEVEQXMDJ", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_BqjmHInIFS")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Info: 2024-07-26 22:44:07 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:97
+┌ Info: 2024-07-26 22:45:06 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:45:06 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:45:13 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:76
+┌ Info: 2024-07-26 22:45:14 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:85
+┌ Info: 2024-07-26 22:45:14 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:82
+┌ Info: 2024-07-26 22:45:15 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:101
+┌ Info: 2024-07-26 22:45:16 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:76
+┌ Info: 2024-07-26 22:45:17 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:85
+┌ Info: 2024-07-26 22:45:17 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:82
+┌ Info: 2024-07-26 22:45:17 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "Test.csv", "channel" => "IXPHAUWMFJBNQNDMHTDGXDHQEVEQXMDJ", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_VgrADI18VO")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Info: 2024-07-26 22:45:17 Select Demand File
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:65
+┌ Info: 2024-07-26 22:45:17 ["Select Demand File"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:66
+┌ Info: 2024-07-26 22:45:17 Select Parameter File
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:67
+┌ Info: 2024-07-26 22:45:17 ["Select Parameter File"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:68
+┌ Info: 2024-07-26 22:45:17 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:101
+┌ Info: 2024-07-26 22:46:50 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:46:50 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:47:00 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:76
+┌ Info: 2024-07-26 22:47:01 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:85
+┌ Info: 2024-07-26 22:47:01 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:82
+┌ Info: 2024-07-26 22:47:02 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:101
+┌ Info: 2024-07-26 22:47:19 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:47:19 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:47:22 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:47:22 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:47:26 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:76
+┌ Info: 2024-07-26 22:47:27 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:85
+┌ Info: 2024-07-26 22:47:27 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:82
+┌ Info: 2024-07-26 22:47:27 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "Test.csv", "channel" => "IXPHAUWMFJBNQNDMHTDGXDHQEVEQXMDJ", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_TwF6LKREFe")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Info: 2024-07-26 22:47:27 Select Demand File
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:65
+┌ Info: 2024-07-26 22:47:27 ["Select Demand File"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:66
+┌ Info: 2024-07-26 22:47:27 Select Parameter File
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:67
+┌ Info: 2024-07-26 22:47:27 ["Select Parameter File"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:68
+┌ Info: 2024-07-26 22:47:27 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:101
+┌ Info: 2024-07-26 22:48:58 removed
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:79
+┌ Info: 2024-07-26 22:49:03 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:49:03 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:49:24 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:49:24 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:49:31 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:49:31 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:49:36 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:76
+┌ Info: 2024-07-26 22:49:37 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:85
+┌ Info: 2024-07-26 22:49:37 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:82
+┌ Info: 2024-07-26 22:49:39 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:101
+┌ Info: 2024-07-26 22:49:50 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:49:50 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:49:56 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:76
+┌ Info: 2024-07-26 22:49:57 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:85
+┌ Info: 2024-07-26 22:49:57 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:82
+┌ Info: 2024-07-26 22:49:58 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:101
+┌ Info: 2024-07-26 22:50:28 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:50:28 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:50:33 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:76
+┌ Info: 2024-07-26 22:50:34 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:85
+┌ Info: 2024-07-26 22:50:34 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:82
+┌ Info: 2024-07-26 22:50:34 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "Test.csv", "channel" => "IXPHAUWMFJBNQNDMHTDGXDHQEVEQXMDJ", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_BqvclmV0PI")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Info: 2024-07-26 22:50:34 Select Demand File
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:65
+┌ Info: 2024-07-26 22:50:34 ["Select Demand File"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:66
+┌ Info: 2024-07-26 22:50:34 Select Parameter File
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:67
+┌ Info: 2024-07-26 22:50:34 ["Select Parameter File"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:68
+┌ Info: 2024-07-26 22:50:34 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:101
+┌ Info: 2024-07-26 22:50:55 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:50:55 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:51:01 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:76
+┌ Info: 2024-07-26 22:51:02 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:85
+┌ Info: 2024-07-26 22:51:02 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:82
+┌ Info: 2024-07-26 22:51:02 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "Test.csv", "channel" => "IXPHAUWMFJBNQNDMHTDGXDHQEVEQXMDJ", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_DaHYjafoJ4")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Info: 2024-07-26 22:51:02 Select Demand File
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:65
+┌ Info: 2024-07-26 22:51:02 ["Select Demand File"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:66
+┌ Info: 2024-07-26 22:51:02 Select Parameter File
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:67
+┌ Info: 2024-07-26 22:51:02 ["Select Parameter File"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:68
+┌ Info: 2024-07-26 22:51:02 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:101
+┌ Info: 2024-07-26 22:55:19 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:76
+┌ Info: 2024-07-26 22:55:20 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:85
+┌ Info: 2024-07-26 22:55:20 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:82
+┌ Info: 2024-07-26 22:55:20 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "Test.csv", "channel" => "IXPHAUWMFJBNQNDMHTDGXDHQEVEQXMDJ", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_xwZO9YhgdU")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Info: 2024-07-26 22:55:20 Select Demand File
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:65
+┌ Info: 2024-07-26 22:55:20 ["Select Demand File"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:66
+┌ Info: 2024-07-26 22:55:20 Select Parameter File
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:67
+┌ Info: 2024-07-26 22:55:20 ["Select Parameter File"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:68
+┌ Info: 2024-07-26 22:55:20 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:101
+┌ Info: 2024-07-26 22:58:43 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:58:43 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:59:06 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:59:06 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:59:08 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:59:08 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:59:28 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-26 22:59:29 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:59:36 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-26 22:59:36 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 22:59:37 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=IXPHAUWMFJBNQNDMHTDGXDHQEVEQXMDJ 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-26 22:59:37 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-26 23:00:37 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:76
+┌ Info: 2024-07-26 23:00:38 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:85
+┌ Info: 2024-07-26 23:00:38 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:82
+┌ Info: 2024-07-26 23:00:39 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "Owl.csv", "channel" => "IXPHAUWMFJBNQNDMHTDGXDHQEVEQXMDJ", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_dkv45GRqP6")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Info: 2024-07-26 23:00:40 Select Demand File
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:65
+┌ Info: 2024-07-26 23:00:40 ["Select Demand File"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:66
+┌ Info: 2024-07-26 23:00:40 Select Parameter File
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:67
+┌ Info: 2024-07-26 23:00:40 ["Select Parameter File"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:68
+┌ Info: 2024-07-26 23:00:40 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:100
+┌ Info: 2024-07-26 23:00:44 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:76
+┌ Info: 2024-07-26 23:00:45 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:85
+┌ Info: 2024-07-26 23:00:45 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:82
+┌ Info: 2024-07-26 23:00:45 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "Test.csv", "channel" => "IXPHAUWMFJBNQNDMHTDGXDHQEVEQXMDJ", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_V8FsJE5G92")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Info: 2024-07-26 23:00:45 Select Demand File
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:65
+┌ Info: 2024-07-26 23:00:45 ["Select Demand File"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:66
+┌ Info: 2024-07-26 23:00:45 Select Parameter File
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:67
+┌ Info: 2024-07-26 23:00:45 ["Select Parameter File"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:68
+┌ Info: 2024-07-26 23:00:45 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:100
+┌ Info: 2024-07-26 23:04:37 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:76
+┌ Info: 2024-07-26 23:04:38 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:85
+┌ Info: 2024-07-26 23:04:38 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:82
+┌ Info: 2024-07-26 23:04:38 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "Owl.csv", "channel" => "IXPHAUWMFJBNQNDMHTDGXDHQEVEQXMDJ", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_jeLKpGXSxO")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Info: 2024-07-26 23:04:38 Select Demand File
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:65
+┌ Info: 2024-07-26 23:04:38 ["Select Demand File"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:66
+┌ Info: 2024-07-26 23:04:38 Select Parameter File
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:67
+┌ Info: 2024-07-26 23:04:38 ["Select Parameter File"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:68
+┌ Info: 2024-07-26 23:04:38 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:100
+┌ Info: 2024-07-26 23:08:03 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 23:08:03 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 23:08:08 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:76
+┌ Info: 2024-07-26 23:08:09 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:85
+┌ Info: 2024-07-26 23:08:09 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:82
+┌ Info: 2024-07-26 23:08:09 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "Owl.csv", "channel" => "IXPHAUWMFJBNQNDMHTDGXDHQEVEQXMDJ", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_Loj4Bq9Cla")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Info: 2024-07-26 23:08:09 Select Demand File
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:65
+┌ Info: 2024-07-26 23:08:09 ["Select Demand File"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:66
+┌ Info: 2024-07-26 23:08:09 Select Parameter File
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:67
+┌ Info: 2024-07-26 23:08:09 ["Select Parameter File"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:68
+┌ Info: 2024-07-26 23:08:09 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:100
+┌ Info: 2024-07-26 23:08:24 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 23:08:24 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 23:08:35 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:72
+┌ Info: 2024-07-26 23:08:36 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:81
+┌ Info: 2024-07-26 23:08:36 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-26 23:08:36 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "Owl.csv", "channel" => "IXPHAUWMFJBNQNDMHTDGXDHQEVEQXMDJ", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_T4TgNq7Kbq")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Info: 2024-07-26 23:08:36 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:96
+┌ Info: 2024-07-26 23:09:25 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 23:09:25 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-26 23:09:32 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:72
+┌ Info: 2024-07-26 23:09:33 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:81
+┌ Info: 2024-07-26 23:09:33 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-26 23:09:33 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "Owl.csv", "channel" => "IXPHAUWMFJBNQNDMHTDGXDHQEVEQXMDJ", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_xSXEnaLmVM")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Info: 2024-07-26 23:09:33 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:96

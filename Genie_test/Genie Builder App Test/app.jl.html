@@ -1,0 +1,176 @@
+<header>
+    <h4>OPTI-FLEX: Aggregate Production Planning System</h4>
+</header>
+<div class="row">
+    <div id="ii9u-2" class="st-col col-12 col-sm st-module">
+        <h6 id="i4vhq">Upload</h6>
+        <div class="row">
+            <div class="st-col col-8">
+                <div class="st-col col-12 col-sm">
+                    <p id="i5zg1">Ensure your files are in CSV format.&nbsp;Follow the attached templates to ensure your uploads are processed successfully.<br>Click ⮽ to cancel an upload.<br>Click ☑ to clear any previous uploads from the upload history.</p>
+                    <div class="row"></div>
+                    <div id="ikalb" class="row">
+                        <q-uploader label="Upload Demand File" v-on:failed="function(event) { handle_event(event, 'demand_failed') }" v-on:uploaded="function(event) { handle_event(event, 'demand_uploaded') }" no-thumbnails="" v-on:removed="function(event) { handle_event(event, 'demand_removed') }" v-on:finish="function(event) { handle_event(event, 'demand_finished') }" :url="'/____/upload/' + channel_" v-on:rejected="function(event) { handle_event(event, 'demand_rejected') }" max-files="10" v-on:uploading="function(event) { handle_event(event, 'demand_uploading') }" :accept="upl_acceptext" v-on:added="function(event) { handle_event(event, 'demand_added') }" :max-file-size="upl_maxsize" id="uploader_demand"></q-uploader>
+                    </div>
+                    <div id="iblvt" class="row">
+                        <q-uploader label="Upload Parameter File" v-on:failed="function(event) { handle_event(event, 'para_failed') }" v-on:uploaded="function(event) { handle_event(event, 'para_uploaded') }" no-thumbnails="" v-on:removed="function(event) { handle_event(event, 'para_removed') }" v-on:finish="function(event) { handle_event(event, 'para_finished') }" :url="'/____/upload/' + channel_" v-on:rejected="function(event) { handle_event(event, 'para_rejected') }" max-files="10" v-on:uploading="function(event) { handle_event(event, 'para_uploading') }" :accept="upl_acceptext" v-on:added="function(event) { handle_event(event, 'para_added') }" :max-file-size="upl_maxsize" id="uploader_parameters"></q-uploader>
+                    </div>
+                    <div id="iro4b" class="row">
+                        <q-uploader v-on:start="function(event) { handle_event(event, 'workers_started') }" label="Upload Workers File" v-on:failed="function(event) { handle_event(event, 'workers_failed') }" v-on:uploaded="function(event) { handle_event(event, 'workers_uploaded') }" no-thumbnails="" v-on:removed="function(event) { handle_event(event, 'workers_removed') }" v-on:finish="function(event) { handle_event(event, 'workers_finished') }" :url="'/____/upload/' + channel_" v-on:rejected="function(event) { handle_event(event, 'workers_rejected') }" max-files="10" v-on:uploading="function(event) { handle_event(event, 'workers_uploading') }" :accept="upl_acceptext" v-on:added="function(event) { handle_event(event, 'workers_added') }" :max-file-size="upl_maxsize"></q-uploader>
+                    </div>
+                </div>
+            </div>
+            <div class="st-col"></div>
+            <div id="iu68h" class="st-col col-4">
+                <q-btn id="is476g" class="row" v-on:click="function(event) { handle_event(event, 'download_templates') }" color="primary" icon="save_alt" label="Download Templates" :loading="isprocessing"></q-btn>
+            </div>
+        </div>
+        <div id="i9nl9" class="st-col col-12 col-sm">
+            <q-toggle id="iwn15f" class="row" color="blue" label="Clear All" v-model="enableClearUploads"></q-toggle>
+            <q-btn id="ibsrsz" class="row" color="primary" icon="clear" label="Clear All" :disable="disableClearButton" v-on:click="ClearUploadsClicked = true"></q-btn>
+            <p id="ikrdsg" class="row">Caution: this will clear all uploads, constraints, and outputs (including graphs).<br>​​​​​​​ <strong>It cannot be undone!</strong></p>
+        </div>
+    </div>
+    <div class="st-col col-12 col-sm st-module">
+        <h6>Additional Constraints</h6>
+        <div id="ih4bzh" v-if="disable_inputs == true" class="row">Upload and select a Demand File, Parameter File, and Workers File to enable.</div>
+        <div></div>
+        <p>Select the variables to be constrained (Hiring, Firing, or Inventory). </p>
+        <div id="iqkl6" class="st-col col-12 col-sm st-module">
+            <q-checkbox id="ivo66" color="primary" label="Hiring (H)" v-model="isHiringChecked" :disable="disable_inputs"></q-checkbox>
+            <q-checkbox id="iccoy" color="primary" label="Firing (F)" v-model="isFiringChecked" :disable="disable_inputs"></q-checkbox>
+            <q-checkbox id="irjn7" color="primary" label="Inventory (I)" v-model="isInventoryChecked" :disable="disable_inputs"></q-checkbox>
+        </div>
+        <p class="row">Select the production period, worker type, and product type of the Variable.</p>
+        <div id="iycfw" :disable="disable_inputs" class="row">
+            <div id="in15q" class="st-col col-12 col-sm st-module">
+                <q-input id="ihuxv" min="0" step="1" placeholder="Enter an integer" :dense="true" v-model="Month" type="number" :clearable="true" :disable="disable_inputs" :label="msgM"></q-input>
+            </div>
+            <div id="ikcko" v-if="(isHiringChecked || isFiringChecked) == false" class="st-col col-12 col-sm st-module">
+                <q-input id="irtar" min="0" step="1" placeholder="Enter an integer" :dense="true" v-model="ProductType" type="number" :clearable="true" :label="msgP" :disable="disable_inputs"></q-input>
+            </div>
+            <div id="if4rp" v-if="isInventoryChecked == false" class="st-col col-12 col-sm st-module">
+                <q-input id="i8kvs" min="0" step="1" placeholder="Enter an integer" :dense="true" v-model="WorkerType" type="number" :clearable="true" :disable="disable_inputs" :label="msgW"></q-input>
+            </div>
+        </div>
+        <p class="row">Set the operator and constraint value accordingly.</p>
+        <div class="row">
+            <div id="i588k" class="st-col col-12 col-sm st-module">
+                <q-radio id="i6ga9-2-2" color="primary" label="≤" v-model="Radio_buttons" val="<=" :disable="disable_inputs"></q-radio>
+                <q-radio id="ic8fq" color="primary" label="=" v-model="Radio_buttons" val="=" :disable="disable_inputs"></q-radio>
+                <q-radio id="iypxu" color="primary" label="≥" v-model="Radio_buttons" val=">=" :disable="disable_inputs"></q-radio>
+            </div>
+            <div class="st-col col-12 col-sm st-module">
+                <q-input min="0" step="1" placeholder="Enter an integer" id="ihzk8" :dense="true" v-model="ValueField" type="number" :clearable="true" :disable="disable_inputs" :label="msgV"></q-input>
+            </div>
+        </div>
+        <div class="row">
+            <div>
+                <q-btn id="i1wkq" color="primary" icon="calculate" label="Add Constraint" v-on:click="updateButtonClicked = true" :disable="disable_inputs"></q-btn>
+            </div>
+            <div class="st-col col-12 col-sm">
+                <p id="i1v5f">After adding all desired constraints, click "Run" to run the optimizer again.</p>
+            </div>
+        </div>
+        <h6 class="row">Added Constraints</h6>
+        <div class="row">
+            <div class="st-col col-12 col-sm">
+                <div id="iz40i" class="row">
+                    <q-select id="displayed_constr" v-on:clear="function(event) { handle_event(event, 'remove_all') }" v-on:remove="function(event){handle_event(event,'remove_item')}" v-model="Display_List" label="Added Constraints" :multiple="true" :use-chips="true" :fill-input="true" :hide-dropdown-icon="true" :clearable="true"></q-select>
+                </div>
+            </div>
+            <div id="inaq02" class="st-col col-12 col-sm st-module">
+                <p id="iqqq1f">Legend<span id="ilbn3"></span><span id="io7m2"></span><span id="iq3hu">​​​​​​​</span></p>
+                <div id="igfn67">
+                    <p id="ia9eos">Hiring:<span id="in3qu">​​​​​​​</span></p>
+                    <q-chip id="sample_chip-1" color="#E0E0E0" label="H/F t n/a j ≤/=/≥ value"></q-chip>
+                    <p id="i2o4zn">Firing:</p>
+                    <q-chip id="sample_chip-2" color="#E0E0E0" label="I t i n/a ≤/=/≥ value"></q-chip>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <q-btn id="ikjkp" color="primary" icon="close" label="Clear All Constraints" v-on:click="updateClearButtonClicked = true"></q-btn>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div id="ieknh" class="st-col col-12 col-sm st-module">
+        <h6>Run Optimizer</h6>
+        <p>Select from your uploaded files. If your upload fails to appear, refresh the page and try uploading again.</p>
+        <div class="row">
+            <div id="i7hbx" class="st-col col-12 col-sm st-module">
+                <q-select id="i15qy" class="q-field__label" v-model="Select_demand" label="Uploads" :options="Select_demand_list" :fill-input="true"></q-select>
+            </div>
+        </div>
+        <div class="row">
+            <div id="i35d5" class="st-col col-12 col-sm st-module">
+                <q-select id="i80sh" class="q-field__label" v-model="Select_para" label="Uploads" :options="Select_para_list" :fill-input="true"></q-select>
+            </div>
+        </div>
+        <div class="row">
+            <div id="i88lcr" class="st-col col-12 col-sm st-module">
+                <q-select id="ivxhhj" class="q-field__label" v-model="Select_workers" label="Uploads" :options="Select_workers_list" :fill-input="true"></q-select>
+            </div>
+        </div>
+        <div class="row">
+            <div class="st-col col-12 col-sm">
+                <q-btn id="i1x6y" v-on:click="function(event) { handle_event(event, 'run') }" color="primary" icon="play_arrow" label="Run" :percentage="0" :loading="isprocessing"></q-btn>
+            </div>
+            <div class="st-col col-12 col-sm">
+                <q-btn id="imnap" v-on:click="function(event) { handle_event(event, 'test2') }" color="primary" icon="play_arrow" label="Test" :percentage="0" :loading="isprocessing" v-if="disable == true"></q-btn>
+            </div>
+        </div>
+        <div class="row">
+            <div id="loadingbox" v-if="run_loading == true" class="st-col col-12 col-sm st-module">
+                <q-icon id="isdmk5" class="text-red" color="primary" name="hourglass_bottom" size="175%"></q-icon>
+                <p id="i2h9yo" class="col-12"><span id="i5iui3"></span><strong><span id="ik0se4">Loading...</span></strong></p>
+            </div>
+        </div>
+    </div>
+    <div class="st-col col-12 col-sm st-module">
+        <h6 class="row">Result</h6>
+        <div class="row">
+            <div class="st-col col-12 col-sm st-module">
+                <st-big-number id="total_cost" title="Total Overall Cost:" :number="results_cost"></st-big-number>
+                <div class="row">
+                    <div class="st-col col-12 col-sm st-module">
+                        <st-big-number id="total_hiring" title="Total Hiring Cost:" :number="results_H_cost"></st-big-number>
+                    </div>
+                    <div class="st-col col-12 col-sm st-module">
+                        <st-big-number id="total_firing" title="Total Firing Cost:" :number="results_F_cost"></st-big-number>
+                    </div>
+                    <div class="st-col col-12 col-sm st-module">
+                        <st-big-number id="total_inventory" title="Total Inventory Cost:" :number="results_I_cost"></st-big-number>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row"></div>
+        <div class="row">
+            <div class="st-col">
+                <h6>Download</h6>
+            </div>
+        </div>
+        <p>Download the currently displayed solution.</p>
+        <q-btn id="ilmcj" class="row" v-on:click="function(event) { handle_event(event, 'download') }" color="primary" icon="save_alt" label="Download" :percentage="0" :loading="isprocessing"></q-btn>
+    </div>
+</div>
+<div class="row">
+    <div class="st-col col-9 st-module">
+        <plotly id="izduj" data="W3siZ2J0eXBlIjoiQmFyIENoYXJ0IiwieCI6IiRfe3Jlc3VsdHNfeF9XfSIsInkiOiIkX3tyZXN1bHRzX3lfV30iLCJ0eXBlIjoiYmFyIiwibmFtZSI6Ildvcmtmb3JjZSJ9LHsiZ2J0eXBlIjoiQmFyIENoYXJ0IiwieCI6IiRfe3Jlc3VsdHNfeF9XfSIsInkiOiIkX3tyZXN1bHRzX3lfSH0iLCJ0eXBlIjoiYmFyIiwibmFtZSI6IkhpcmluZyJ9LHsiZ2J0eXBlIjoiQmFyIENoYXJ0IiwieCI6IiRfe3Jlc3VsdHNfeF9XfSIsInkiOiIkX3tyZXN1bHRzX3lfRn0iLCJ0eXBlIjoiYmFyIiwibmFtZSI6IkZpcmluZyJ9XQ==" config="e30=" layout="eyJ0aXRsZSI6Ildvcmtmb3JjZSBvdmVyIHRpbWUiLCJ5YXhpcyI6eyJ0aXRsZSI6eyJ0ZXh0IjoiV29ya2ZvcmNlIn19LCJ4YXhpcyI6eyJ0aXRsZSI6eyJ0ZXh0IjoiVGltZSJ9fX0="></plotly>
+    </div>
+    <div class="st-col col-3 col-sm st-module">
+        <q-select id="i0eytt" label="Worker type (j)" v-model="worker_type" :options="worker_list"></q-select>
+        <p class="row">By default ("Select worker type"), the graph displays the aggregated total workforce, no. hired, and no. fired per period.</p>
+    </div>
+</div>
+<div class="row">
+    <div class="st-col st-module col-9">
+        <plotly id="i5tw9" data="W3siZ2J0eXBlIjoiQmFyIENoYXJ0IiwieCI6IiRfe3Jlc3VsdHNfeF9JfSIsInkiOiIkX3tyZXN1bHRzX3lfSX0iLCJ0eXBlIjoiYmFyIiwibmFtZSI6IkludmVudG9yeSJ9LHsiZ2J0eXBlIjoiQmFyIENoYXJ0IiwieCI6IiRfe3Jlc3VsdHNfeF9JfSIsInkiOiIkX3tyZXN1bHRzX3lfQn0iLCJ0eXBlIjoiYmFyIiwibmFtZSI6IkJhY2tsb2cifV0=" config="e30=" layout="eyJ0aXRsZSI6IkludmVudG9yeS9CYWNrbG9nIG92ZXIgdGltZSIsInhheGlzIjp7InRpdGxlIjp7InRleHQiOiJUaW1lIn19LCJ5YXhpcyI6eyJ0aXRsZSI6eyJ0ZXh0IjoiSW52ZW50b3J5In19fQ=="></plotly>
+    </div>
+    <div class="st-col col-3 col-sm st-module">
+        <q-select id="i576ej" label="Product type (i)" v-model="product_type" :options="product_list"></q-select>
+        <p class="row">By default ("Select worker type"), the graph displays the aggregated total inventory &amp; backlog per period.</p>
+    </div>
+</div>

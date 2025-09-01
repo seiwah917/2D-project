@@ -1,0 +1,49 @@
+┌ Info: 2024-07-28 19:19:31 Watching ["/Users/pmichelle/draftapp"]
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:19
+┌ Info: 2024-07-28 19:19:32 Autoreloading
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:22
+┌ Info: 2024-07-28 19:19:37 Watching ["/Users/pmichelle/draftapp"]
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:19
+┌ Info: 2024-07-28 19:19:37 Autoreloading
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:22
+┌ Info: 2024-07-28 19:19:39 
+│ Web Server starting at http://0.0.0.0:9104?CHANNEL__=JUOSRQGJIPLEZSLLGFHRUUXHSCJTEIFA 
+└ @ Genie.Server /Users/pmichelle/.julia/packages/Genie/uliWf/src/Server.jl:182
+┌ Info: 2024-07-28 19:19:39 Listening on: 0.0.0.0:9104, thread id: 1
+└ @ HTTP.Servers /Users/pmichelle/.julia/packages/HTTP/sJD5V/src/Servers.jl:382
+┌ Info: 2024-07-28 23:30:04 Autoreloading
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:22
+┌ Info: 2024-07-28 23:30:04 Autoreloading
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:22
+┌ Info: 2024-07-28 23:30:11 Autoreloading
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:22
+┌ Info: 2024-07-28 23:30:11 Autoreloading
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:22
+┌ Info: 2024-07-28 23:30:35 Autoreloading
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:22
+┌ Info: 2024-07-28 23:30:35 Autoreloading
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:22
+┌ Info: 2024-07-28 23:33:02 Autoreloading
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:22
+┌ Info: 2024-07-28 23:33:02 Autoreloading
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:22
+┌ Info: 2024-07-28 23:46:14 Autoreloading
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:22
+┌ Info: 2024-07-28 23:46:14 Autoreloading
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:22
+┌ Info: 2024-07-28 23:46:19 Autoreloading
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:22
+┌ Info: 2024-07-28 23:46:19 Autoreloading
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:22
+]
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:19
+┌ Info: 2024-07-28 23:41:46 Listening on: 127.0.0.1:8000, thread id: 1
+└ @ HTTP.Servers /Users/pmichelle/.julia/packages/HTTP/sJD5V/src/Servers.jl:382
+┌ Info: 2024-07-28 23:41:46 Autoreloading
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:22
+┌ Info: 2024-07-28 23:46:13 Autoreloading
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:22
+┌ Info: 2024-07-28 23:46:13 Autoreloading
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:22
+┌ Info: 2024-07-29 01:47:54 Server on 127.0.0.1:8000 closing
+└ @ HTTP.Servers /Users/pmichelle/.julia/packages/HTTP/sJD5V/src/Servers.jl:409

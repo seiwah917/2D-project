@@ -1,0 +1,1982 @@
+┌ Info: 2024-07-24 11:04:28 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-24 11:04:31 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 11:04:52 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-24 11:04:52 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 11:04:55 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=SIZEDVKUMQXPBWLGKJPNHDNHXNINXQQN 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-24 11:04:55 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-24 11:10:30 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 11:10:30 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 11:11:20 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 11:11:20 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 11:23:51 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 11:23:51 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 11:25:02 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 11:25:02 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 11:25:22 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:105
+┌ Info: 2024-07-24 11:25:22 Select File
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:106
+┌ Info: 2024-07-24 11:25:22 Select List:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:107
+┌ Info: 2024-07-24 11:25:22 ["Select File", "Hello", "Hello2", "Hello3"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:108
+┌ Info: 2024-07-24 11:30:57 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 11:30:57 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 11:31:06 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:105
+┌ Info: 2024-07-24 11:31:06 Select File
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:106
+┌ Info: 2024-07-24 11:31:06 Select List:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:107
+┌ Info: 2024-07-24 11:31:06 ["Select File", "Hello", "Hello2", "Hello3"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:108
+┌ Info: 2024-07-24 11:31:06 Hi!! I'm working :D
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib/Backend_Optimizer.jl:3
+┌ Info: 2024-07-24 11:33:50 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 11:33:50 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 11:35:18 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 11:35:18 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 11:36:24 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:61
+┌ Info: 2024-07-24 11:36:26 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:70
+┌ Info: 2024-07-24 11:36:26 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:67
+┌ Info: 2024-07-24 11:36:27 uploaded
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:73
+┌ Info: 2024-07-24 11:36:27 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:76
+┌ Info: 2024-07-24 11:36:27 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:77
+┌ Info: 2024-07-24 11:36:27 Select File
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-24 11:36:27 Select_list:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:79
+┌ Info: 2024-07-24 11:36:27 ["Select File", "Hello", "Hello2", "Hello3"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:80
+┌ Info: 2024-07-24 11:36:37 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:61
+┌ Info: 2024-07-24 11:36:38 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:70
+┌ Info: 2024-07-24 11:36:38 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:67
+┌ Info: 2024-07-24 11:36:38 uploaded
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:73
+┌ Info: 2024-07-24 11:36:38 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:76
+┌ Info: 2024-07-24 11:36:38 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:77
+┌ Info: 2024-07-24 11:36:38 Select File
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-24 11:36:38 Select_list:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:79
+┌ Info: 2024-07-24 11:36:38 ["Select File", "Hello", "Hello2", "Hello3"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:80
+┌ Info: 2024-07-24 11:36:39 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "Test.csv", "channel" => "SIZEDVKUMQXPBWLGKJPNHDNHXNINXQQN", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_HOJuRK9SLq")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:39
+┌ Info: 2024-07-24 11:36:52 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:61
+┌ Info: 2024-07-24 11:37:01 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:70
+┌ Info: 2024-07-24 11:37:01 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:67
+┌ Info: 2024-07-24 11:37:01 uploaded
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:73
+┌ Info: 2024-07-24 11:37:01 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:76
+┌ Info: 2024-07-24 11:37:01 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:77
+┌ Info: 2024-07-24 11:37:01 Test.csv
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-24 11:37:01 Select_list:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:79
+┌ Info: 2024-07-24 11:37:01 ["Select File", "Hello", "Hello2", "Hello3", "Test.csv"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:80
+┌ Info: 2024-07-24 11:37:01 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "111series.csv", "channel" => "SIZEDVKUMQXPBWLGKJPNHDNHXNINXQQN", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_jabslijKjq")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:39
+┌ Info: 2024-07-24 11:37:20 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 11:37:20 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 11:37:23 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 11:37:23 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 11:38:42 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:61
+┌ Info: 2024-07-24 11:38:43 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:70
+┌ Info: 2024-07-24 11:38:43 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:67
+┌ Info: 2024-07-24 11:38:44 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "Test.csv", "channel" => "SIZEDVKUMQXPBWLGKJPNHDNHXNINXQQN", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_XGrGdGNa1w")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:39
+┌ Info: 2024-07-24 11:38:44 uploaded
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:73
+┌ Info: 2024-07-24 11:38:44 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:76
+┌ Info: 2024-07-24 11:38:44 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:77
+┌ Info: 2024-07-24 11:38:44 Test.csv
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-24 11:38:44 Select_list:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:79
+┌ Info: 2024-07-24 11:38:44 ["Select File", "Hello", "Hello2", "Hello3", "Test.csv"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:80
+┌ Info: 2024-07-24 11:38:49 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:105
+┌ Info: 2024-07-24 11:38:49 Hello3
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:106
+┌ Info: 2024-07-24 11:38:49 Select List:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:107
+┌ Info: 2024-07-24 11:38:49 ["Select File", "Hello", "Hello2", "Hello3", "Test.csv"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:108
+┌ Info: 2024-07-24 11:38:49 Hi!! I'm working :D
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib/Backend_Optimizer.jl:3
+┌ Info: 2024-07-24 11:39:58 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:105
+┌ Info: 2024-07-24 11:39:58 Hello3
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:106
+┌ Info: 2024-07-24 11:39:58 Select List:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:107
+┌ Info: 2024-07-24 11:39:58 ["Select File", "Hello", "Hello2", "Hello3", "Test.csv"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:108
+┌ Info: 2024-07-24 11:39:58 Hi!! I'm working :D
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib/Backend_Optimizer.jl:3
+┌ Info: 2024-07-24 12:19:56 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:61
+┌ Info: 2024-07-24 12:19:59 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:70
+┌ Info: 2024-07-24 12:19:59 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:67
+┌ Info: 2024-07-24 12:19:59 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "111series.csv", "channel" => "SIZEDVKUMQXPBWLGKJPNHDNHXNINXQQN", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_j83yB8VIH8")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:39
+┌ Info: 2024-07-24 12:19:59 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "111series.csv", "channel" => "SIZEDVKUMQXPBWLGKJPNHDNHXNINXQQN", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_j83yB8VIH8")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:39
+┌ Error: 2024-07-24 12:19:59 Error processing file: Base.IOError("open(\"C:\\\\Users\\\\kaele\\\\AppData\\\\Local\\\\Temp\\\\jl_j83yB8VIH8\", 0, 0): no such file or directory (ENOENT)", -4058)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:46
+┌ Info: 2024-07-24 12:20:00 uploaded
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:73
+┌ Info: 2024-07-24 12:20:00 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:76
+┌ Info: 2024-07-24 12:20:00 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:77
+┌ Info: 2024-07-24 12:20:00 111series.csv
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-24 12:20:00 Select_list:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:79
+┌ Info: 2024-07-24 12:20:00 ["Select File", "Hello", "Hello2", "Hello3", "Test.csv", "111series.csv", "111series.csv"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:80
+┌ Info: 2024-07-24 12:20:08 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:105
+┌ Info: 2024-07-24 12:20:08 Test.csv
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:106
+┌ Info: 2024-07-24 12:20:08 Select List:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:107
+┌ Info: 2024-07-24 12:20:08 ["Select File", "Hello", "Hello2", "Hello3", "Test.csv", "111series.csv", "111series.csv"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:108
+┌ Info: 2024-07-24 12:20:08 Hi!! I'm working :D
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib/Backend_Optimizer.jl:3
+┌ Info: 2024-07-24 14:16:09 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:105
+┌ Info: 2024-07-24 14:16:09 Test.csv
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:106
+┌ Info: 2024-07-24 14:16:09 Select List:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:107
+┌ Info: 2024-07-24 14:16:09 ["Select File", "Hello", "Hello2", "Hello3", "Test.csv", "111series.csv", "111series.csv"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:108
+┌ Info: 2024-07-24 14:16:09 Hi!! I'm working :D
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib/Backend_Optimizer.jl:3
+┌ Info: 2024-07-24 14:16:41 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:105
+┌ Info: 2024-07-24 14:16:41 Test.csv
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:106
+┌ Info: 2024-07-24 14:16:41 Select List:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:107
+┌ Info: 2024-07-24 14:16:41 ["Select File", "Hello", "Hello2", "Hello3", "Test.csv", "111series.csv", "111series.csv"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:108
+┌ Info: 2024-07-24 14:16:41 Hi!! I'm working :D
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib/Backend_Optimizer.jl:3
+┌ Info: 2024-07-24 14:16:55 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:105
+┌ Info: 2024-07-24 14:16:55 Test.csv
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:106
+┌ Info: 2024-07-24 14:16:55 Select List:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:107
+┌ Info: 2024-07-24 14:16:55 ["Select File", "Hello", "Hello2", "Hello3", "Test.csv", "111series.csv", "111series.csv"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:108
+┌ Info: 2024-07-24 14:16:55 Hi!! I'm working :D
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib/Backend_Optimizer.jl:3
+┌ Info: 2024-07-24 14:17:17 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:17:17 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:17:21 Hi!! I'm working :D
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib/Backend_Optimizer.jl:3
+┌ Info: 2024-07-24 14:21:21 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:21:21 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:22:34 Hi!! I'm working :D
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib/Backend_Optimizer.jl:3
+┌ Info: 2024-07-24 14:23:09 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:23:09 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:25:36 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:25:36 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:25:41 Hi
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:115
+┌ Info: 2024-07-24 14:26:45 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:26:45 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:26:49 Hi
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:115
+┌ Info: 2024-07-24 14:26:49 Working:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:117
+┌ Info: 2024-07-24 14:26:56 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:26:56 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:27:00 Hi
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:115
+┌ Info: 2024-07-24 14:28:29 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:28:29 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:28:34 Hi
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:115
+┌ Info: 2024-07-24 14:28:46 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:28:46 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:29:04 Hi
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:115
+┌ Info: 2024-07-24 14:29:12 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:29:12 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:29:16 Hi
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:115
+┌ Info: 2024-07-24 14:30:25 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:30:25 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:30:48 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:30:48 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Error: 2024-07-24 14:30:50 UndefVarError: `L` not defined
+│ Stacktrace:
+│   [1] Main.App.var"##Main.App_ReactiveModel!#249"()
+│     @ Main.App C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\Stipple.jl:1052
+│   [2] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│   [3] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│   [4] |>
+│     @ .\operators.jl:917 [inlined]
+│   [5] init(t::Type{Main.App.var"Main.App_ReactiveModel"}; vue_app_name::String, endpoint::String, channel::Any, debounce::Int64, transport::Module, core_theme::Bool, always_register_channels::Bool)
+│     @ Stipple C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\Stipple.jl:514
+│   [6] init_from_storage(t::Type{Main.App.var"Main.App_ReactiveModel"}; channel::String, kwargs::@Kwargs{})
+│     @ Stipple.ModelStorage.Sessions C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ModelStorage.jl:25
+│   [7] init_from_storage(t::Type{Main.App.var"Main.App_ReactiveModel"})
+│     @ Stipple.ModelStorage.Sessions C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ModelStorage.jl:22
+│   [8] top-level scope
+│     @ C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:767
+│   [9] eval
+│     @ .\boot.jl:385 [inlined]
+│  [10] (::Stipple.ReactiveTools.var"#32#34"{Module, Vector{Any}})()
+│     @ Stipple.ReactiveTools C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:1193
+│  [11] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [12] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [13] (::Stipple.Pages.var"#7#10"{FilePathsBase.WindowsPath, String, @Kwargs{}})()
+│     @ Stipple.Pages C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\Pages.jl:68
+│  [14] run_route(r::Genie.Router.Route)
+│     @ Genie.Router C:\Users\kaele\.julia\packages\Genie\uliWf\src\Router.jl:547
+│  [15] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router C:\Users\kaele\.julia\packages\Genie\uliWf\src\Router.jl:172
+│  [16] route_request
+│     @ C:\Users\kaele\.julia\packages\Genie\uliWf\src\Router.jl:147 [inlined]
+│  [17] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:300
+│  [18] handle_request
+│     @ C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:292 [inlined]
+│  [19] (::Genie.Server.var"#27#28"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\macros.jl:123
+│  [20] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [21] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [22] #153
+│     @ C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:425 [inlined]
+│  [23] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#27#28"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, @Kwargs{}}, print_error::Bool)
+│     @ Distributed C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\process_messages.jl:70
+│  [24] #remotecall_fetch#158
+│     @ C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:450 [inlined]
+│  [25] remotecall_fetch
+│     @ C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:449 [inlined]
+│  [26] remotecall_fetch
+│     @ C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:492 [inlined]
+│  [27] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:344
+│  [28] setup_http_listener (repeats 2 times)
+│     @ C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:342 [inlined]
+│  [29] (::Genie.Server.var"#24#25"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:313
+│  [30] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:333
+│  [31] (::Genie.Server.var"#6#12")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:124
+│  [32] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [33] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [34] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:469
+│  [35] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#6#12", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, ReentrantLock, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:401
+│ 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:356
+┌ Error: 2024-07-24 14:30:50 UndefVarError: `L` not defined
+│ Stacktrace:
+│   [1] Main.App.var"##Main.App_ReactiveModel!#249"()
+│     @ Main.App C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\Stipple.jl:1052
+│   [2] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│   [3] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│   [4] |>
+│     @ .\operators.jl:917 [inlined]
+│   [5] init(t::Type{Main.App.var"Main.App_ReactiveModel"}; vue_app_name::String, endpoint::String, channel::Any, debounce::Int64, transport::Module, core_theme::Bool, always_register_channels::Bool)
+│     @ Stipple C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\Stipple.jl:514
+│   [6] init_from_storage(t::Type{Main.App.var"Main.App_ReactiveModel"}; channel::String, kwargs::@Kwargs{})
+│     @ Stipple.ModelStorage.Sessions C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ModelStorage.jl:25
+│   [7] init_from_storage(t::Type{Main.App.var"Main.App_ReactiveModel"})
+│     @ Stipple.ModelStorage.Sessions C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ModelStorage.jl:22
+│   [8] top-level scope
+│     @ C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:767
+│   [9] eval
+│     @ .\boot.jl:385 [inlined]
+│  [10] (::Stipple.ReactiveTools.var"#32#34"{Module, Vector{Any}})()
+│     @ Stipple.ReactiveTools C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:1193
+│  [11] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [12] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [13] (::Stipple.Pages.var"#7#10"{FilePathsBase.WindowsPath, String, @Kwargs{}})()
+│     @ Stipple.Pages C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\Pages.jl:68
+│  [14] run_route(r::Genie.Router.Route)
+│     @ Genie.Router C:\Users\kaele\.julia\packages\Genie\uliWf\src\Router.jl:547
+│  [15] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router C:\Users\kaele\.julia\packages\Genie\uliWf\src\Router.jl:172
+│  [16] route_request
+│     @ C:\Users\kaele\.julia\packages\Genie\uliWf\src\Router.jl:147 [inlined]
+│  [17] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:300
+│  [18] handle_request
+│     @ C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:292 [inlined]
+│  [19] (::Genie.Server.var"#27#28"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\macros.jl:123
+│  [20] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [21] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [22] #153
+│     @ C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:425 [inlined]
+│  [23] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#27#28"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, @Kwargs{}}, print_error::Bool)
+│     @ Distributed C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\process_messages.jl:70
+│  [24] #remotecall_fetch#158
+│     @ C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:450 [inlined]
+│  [25] remotecall_fetch
+│     @ C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:449 [inlined]
+│  [26] remotecall_fetch
+│     @ C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:492 [inlined]
+│  [27] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:344
+│  [28] setup_http_listener (repeats 2 times)
+│     @ C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:342 [inlined]
+│  [29] (::Genie.Server.var"#24#25"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:313
+│  [30] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:333
+│  [31] (::Genie.Server.var"#6#12")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:124
+│  [32] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [33] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [34] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:469
+│  [35] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#6#12", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, ReentrantLock, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:401
+│ 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:356
+┌ Error: 2024-07-24 14:30:55 UndefVarError: `L` not defined
+│ Stacktrace:
+│   [1] Main.App.var"##Main.App_ReactiveModel!#249"()
+│     @ Main.App C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\Stipple.jl:1052
+│   [2] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│   [3] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│   [4] |>
+│     @ .\operators.jl:917 [inlined]
+│   [5] init(t::Type{Main.App.var"Main.App_ReactiveModel"}; vue_app_name::String, endpoint::String, channel::Any, debounce::Int64, transport::Module, core_theme::Bool, always_register_channels::Bool)
+│     @ Stipple C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\Stipple.jl:514
+│   [6] init_from_storage(t::Type{Main.App.var"Main.App_ReactiveModel"}; channel::String, kwargs::@Kwargs{})
+│     @ Stipple.ModelStorage.Sessions C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ModelStorage.jl:25
+│   [7] init_from_storage(t::Type{Main.App.var"Main.App_ReactiveModel"})
+│     @ Stipple.ModelStorage.Sessions C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ModelStorage.jl:22
+│   [8] top-level scope
+│     @ C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:767
+│   [9] eval
+│     @ .\boot.jl:385 [inlined]
+│  [10] (::Stipple.ReactiveTools.var"#32#34"{Module, Vector{Any}})()
+│     @ Stipple.ReactiveTools C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:1193
+│  [11] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [12] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [13] (::Stipple.Pages.var"#7#10"{FilePathsBase.WindowsPath, String, @Kwargs{}})()
+│     @ Stipple.Pages C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\Pages.jl:68
+│  [14] run_route(r::Genie.Router.Route)
+│     @ Genie.Router C:\Users\kaele\.julia\packages\Genie\uliWf\src\Router.jl:547
+│  [15] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router C:\Users\kaele\.julia\packages\Genie\uliWf\src\Router.jl:172
+│  [16] route_request
+│     @ C:\Users\kaele\.julia\packages\Genie\uliWf\src\Router.jl:147 [inlined]
+│  [17] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:300
+│  [18] handle_request
+│     @ C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:292 [inlined]
+│  [19] (::Genie.Server.var"#27#28"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\macros.jl:123
+│  [20] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [21] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [22] #153
+│     @ C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:425 [inlined]
+│  [23] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#27#28"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, @Kwargs{}}, print_error::Bool)
+│     @ Distributed C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\process_messages.jl:70
+│  [24] #remotecall_fetch#158
+│     @ C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:450 [inlined]
+│  [25] remotecall_fetch
+│     @ C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:449 [inlined]
+│  [26] remotecall_fetch
+│     @ C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:492 [inlined]
+│  [27] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:344
+│  [28] setup_http_listener (repeats 2 times)
+│     @ C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:342 [inlined]
+│  [29] (::Genie.Server.var"#24#25"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:313
+│  [30] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:333
+│  [31] (::Genie.Server.var"#6#12")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:124
+│  [32] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [33] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [34] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:469
+│  [35] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#6#12", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, ReentrantLock, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:401
+│ 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:356
+┌ Error: 2024-07-24 14:30:55 UndefVarError: `L` not defined
+│ Stacktrace:
+│   [1] Main.App.var"##Main.App_ReactiveModel!#249"()
+│     @ Main.App C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\Stipple.jl:1052
+│   [2] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│   [3] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│   [4] |>
+│     @ .\operators.jl:917 [inlined]
+│   [5] init(t::Type{Main.App.var"Main.App_ReactiveModel"}; vue_app_name::String, endpoint::String, channel::Any, debounce::Int64, transport::Module, core_theme::Bool, always_register_channels::Bool)
+│     @ Stipple C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\Stipple.jl:514
+│   [6] init_from_storage(t::Type{Main.App.var"Main.App_ReactiveModel"}; channel::String, kwargs::@Kwargs{})
+│     @ Stipple.ModelStorage.Sessions C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ModelStorage.jl:25
+│   [7] init_from_storage(t::Type{Main.App.var"Main.App_ReactiveModel"})
+│     @ Stipple.ModelStorage.Sessions C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ModelStorage.jl:22
+│   [8] top-level scope
+│     @ C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:767
+│   [9] eval
+│     @ .\boot.jl:385 [inlined]
+│  [10] (::Stipple.ReactiveTools.var"#32#34"{Module, Vector{Any}})()
+│     @ Stipple.ReactiveTools C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:1193
+│  [11] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [12] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [13] (::Stipple.Pages.var"#7#10"{FilePathsBase.WindowsPath, String, @Kwargs{}})()
+│     @ Stipple.Pages C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\Pages.jl:68
+│  [14] run_route(r::Genie.Router.Route)
+│     @ Genie.Router C:\Users\kaele\.julia\packages\Genie\uliWf\src\Router.jl:547
+│  [15] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router C:\Users\kaele\.julia\packages\Genie\uliWf\src\Router.jl:172
+│  [16] route_request
+│     @ C:\Users\kaele\.julia\packages\Genie\uliWf\src\Router.jl:147 [inlined]
+│  [17] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:300
+│  [18] handle_request
+│     @ C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:292 [inlined]
+│  [19] (::Genie.Server.var"#27#28"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\macros.jl:123
+│  [20] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [21] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [22] #153
+│     @ C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:425 [inlined]
+│  [23] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#27#28"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, @Kwargs{}}, print_error::Bool)
+│     @ Distributed C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\process_messages.jl:70
+│  [24] #remotecall_fetch#158
+│     @ C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:450 [inlined]
+│  [25] remotecall_fetch
+│     @ C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:449 [inlined]
+│  [26] remotecall_fetch
+│     @ C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:492 [inlined]
+│  [27] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:344
+│  [28] setup_http_listener (repeats 2 times)
+│     @ C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:342 [inlined]
+│  [29] (::Genie.Server.var"#24#25"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:313
+│  [30] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:333
+│  [31] (::Genie.Server.var"#6#12")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:124
+│  [32] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [33] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [34] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:469
+│  [35] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#6#12", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, ReentrantLock, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:401
+│ 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:356
+┌ Error: 2024-07-24 14:30:56 UndefVarError: `L` not defined
+│ Stacktrace:
+│   [1] Main.App.var"##Main.App_ReactiveModel!#249"()
+│     @ Main.App C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\Stipple.jl:1052
+│   [2] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│   [3] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│   [4] |>
+│     @ .\operators.jl:917 [inlined]
+│   [5] init(t::Type{Main.App.var"Main.App_ReactiveModel"}; vue_app_name::String, endpoint::String, channel::Any, debounce::Int64, transport::Module, core_theme::Bool, always_register_channels::Bool)
+│     @ Stipple C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\Stipple.jl:514
+│   [6] init_from_storage(t::Type{Main.App.var"Main.App_ReactiveModel"}; channel::String, kwargs::@Kwargs{})
+│     @ Stipple.ModelStorage.Sessions C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ModelStorage.jl:25
+│   [7] init_from_storage(t::Type{Main.App.var"Main.App_ReactiveModel"})
+│     @ Stipple.ModelStorage.Sessions C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ModelStorage.jl:22
+│   [8] top-level scope
+│     @ C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:767
+│   [9] eval
+│     @ .\boot.jl:385 [inlined]
+│  [10] (::Stipple.ReactiveTools.var"#32#34"{Module, Vector{Any}})()
+│     @ Stipple.ReactiveTools C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:1193
+│  [11] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [12] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [13] (::Stipple.Pages.var"#7#10"{FilePathsBase.WindowsPath, String, @Kwargs{}})()
+│     @ Stipple.Pages C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\Pages.jl:68
+│  [14] run_route(r::Genie.Router.Route)
+│     @ Genie.Router C:\Users\kaele\.julia\packages\Genie\uliWf\src\Router.jl:547
+│  [15] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router C:\Users\kaele\.julia\packages\Genie\uliWf\src\Router.jl:172
+│  [16] route_request
+│     @ C:\Users\kaele\.julia\packages\Genie\uliWf\src\Router.jl:147 [inlined]
+│  [17] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:300
+│  [18] handle_request
+│     @ C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:292 [inlined]
+│  [19] (::Genie.Server.var"#27#28"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\macros.jl:123
+│  [20] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [21] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [22] #153
+│     @ C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:425 [inlined]
+│  [23] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#27#28"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, @Kwargs{}}, print_error::Bool)
+│     @ Distributed C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\process_messages.jl:70
+│  [24] #remotecall_fetch#158
+│     @ C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:450 [inlined]
+│  [25] remotecall_fetch
+│     @ C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:449 [inlined]
+│  [26] remotecall_fetch
+│     @ C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:492 [inlined]
+│  [27] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:344
+│  [28] setup_http_listener (repeats 2 times)
+│     @ C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:342 [inlined]
+│  [29] (::Genie.Server.var"#24#25"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:313
+│  [30] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:333
+│  [31] (::Genie.Server.var"#6#12")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:124
+│  [32] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [33] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [34] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:469
+│  [35] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#6#12", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, ReentrantLock, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:401
+│ 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:356
+┌ Error: 2024-07-24 14:30:57 UndefVarError: `L` not defined
+│ Stacktrace:
+│   [1] Main.App.var"##Main.App_ReactiveModel!#249"()
+│     @ Main.App C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\Stipple.jl:1052
+│   [2] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│   [3] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│   [4] |>
+│     @ .\operators.jl:917 [inlined]
+│   [5] init(t::Type{Main.App.var"Main.App_ReactiveModel"}; vue_app_name::String, endpoint::String, channel::Any, debounce::Int64, transport::Module, core_theme::Bool, always_register_channels::Bool)
+│     @ Stipple C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\Stipple.jl:514
+│   [6] init_from_storage(t::Type{Main.App.var"Main.App_ReactiveModel"}; channel::String, kwargs::@Kwargs{})
+│     @ Stipple.ModelStorage.Sessions C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ModelStorage.jl:25
+│   [7] init_from_storage(t::Type{Main.App.var"Main.App_ReactiveModel"})
+│     @ Stipple.ModelStorage.Sessions C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ModelStorage.jl:22
+│   [8] top-level scope
+│     @ C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:767
+│   [9] eval
+│     @ .\boot.jl:385 [inlined]
+│  [10] (::Stipple.ReactiveTools.var"#32#34"{Module, Vector{Any}})()
+│     @ Stipple.ReactiveTools C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:1193
+│  [11] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [12] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [13] (::Stipple.Pages.var"#7#10"{FilePathsBase.WindowsPath, String, @Kwargs{}})()
+│     @ Stipple.Pages C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\Pages.jl:68
+│  [14] run_route(r::Genie.Router.Route)
+│     @ Genie.Router C:\Users\kaele\.julia\packages\Genie\uliWf\src\Router.jl:547
+│  [15] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router C:\Users\kaele\.julia\packages\Genie\uliWf\src\Router.jl:172
+│  [16] route_request
+│     @ C:\Users\kaele\.julia\packages\Genie\uliWf\src\Router.jl:147 [inlined]
+│  [17] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:300
+│  [18] handle_request
+│     @ C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:292 [inlined]
+│  [19] (::Genie.Server.var"#27#28"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\macros.jl:123
+│  [20] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [21] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [22] #153
+│     @ C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:425 [inlined]
+│  [23] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#27#28"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, @Kwargs{}}, print_error::Bool)
+│     @ Distributed C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\process_messages.jl:70
+│  [24] #remotecall_fetch#158
+│     @ C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:450 [inlined]
+│  [25] remotecall_fetch
+│     @ C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:449 [inlined]
+│  [26] remotecall_fetch
+│     @ C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:492 [inlined]
+│  [27] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:344
+│  [28] setup_http_listener (repeats 2 times)
+│     @ C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:342 [inlined]
+│  [29] (::Genie.Server.var"#24#25"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:313
+│  [30] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:333
+│  [31] (::Genie.Server.var"#6#12")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:124
+│  [32] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [33] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [34] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:469
+│  [35] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#6#12", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, ReentrantLock, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:401
+│ 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:356
+┌ Info: 2024-07-24 14:31:10 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:31:10 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:31:36 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:31:36 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:31:44 Hi
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:115
+┌ Info: 2024-07-24 14:33:10 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:33:10 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:33:14 Hi
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:115
+┌ Error: 2024-07-24 14:33:14 UndefVarError(:Backend)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:119
+┌ Info: 2024-07-24 14:33:14 Working:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Error: 2024-07-24 14:33:14 Exception while generating log record in module Main.App at c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:122
+│   exception = (UndefVarError(:result), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x000001893a982094, Ptr{Nothing} @0x000001893a9822a9, Ptr{Nothing} @0x00007ffbeccf708a, Ptr{Nothing} @0x000001893a981135, Ptr{Nothing} @0x000001893a9802a3, Ptr{Nothing} @0x000001893a9804ab, Ptr{Nothing} @0x000001893357db63, Ptr{Nothing} @0x000001893357dfd7, Ptr{Nothing} @0x000001893357e06b, Ptr{Nothing} @0x000001893357e0af, Ptr{Nothing} @0x00000189335694f2, Ptr{Nothing} @0x000001893356954b, Ptr{Nothing} @0x00007ffbeccf708a, Ptr{Nothing} @0x00007ffc0a0ef925, Ptr{Nothing} @0x00007ffc09ffa6f0, Ptr{Nothing} @0x00007ffc0a154d8b, Ptr{Nothing} @0x00000189629ea364, Ptr{Nothing} @0x00000189629ea432, Ptr{Nothing} @0x00007ffbeccf708a, Ptr{Nothing} @0x00000189629e51cc, Ptr{Nothing} @0x00000189629e759c, Ptr{Nothing} @0x00000189629e7b9b, Ptr{Nothing} @0x00007ffbecd0c68b])
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:122
+┌ Info: 2024-07-24 14:33:49 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:33:49 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:33:52 Hi
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:115
+┌ Error: 2024-07-24 14:33:52 UndefVarError(:Backend)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:119
+┌ Info: 2024-07-24 14:33:52 Working:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Error: 2024-07-24 14:33:52 Exception while generating log record in module Main.App at c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:122
+│   exception = (UndefVarError(:result), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x000001893a982094, Ptr{Nothing} @0x000001893a9822a9, Ptr{Nothing} @0x00007ffbeccf708a, Ptr{Nothing} @0x000001893a981135, Ptr{Nothing} @0x000001893a9802a3, Ptr{Nothing} @0x000001893a9804ab, Ptr{Nothing} @0x000001893357db63, Ptr{Nothing} @0x000001893357dfd7, Ptr{Nothing} @0x000001893357e06b, Ptr{Nothing} @0x000001893357e0af, Ptr{Nothing} @0x00000189335694f2, Ptr{Nothing} @0x000001893356954b, Ptr{Nothing} @0x00007ffbeccf708a, Ptr{Nothing} @0x00007ffc0a0ef925, Ptr{Nothing} @0x00007ffc09ffa6f0, Ptr{Nothing} @0x00007ffc0a154d8b, Ptr{Nothing} @0x00000189629ea364, Ptr{Nothing} @0x00000189629ea432, Ptr{Nothing} @0x00007ffbeccf708a, Ptr{Nothing} @0x00000189629e51cc, Ptr{Nothing} @0x00000189629e759c, Ptr{Nothing} @0x00000189629e7b9b, Ptr{Nothing} @0x00007ffbecd0c68b])
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:122
+┌ Info: 2024-07-24 14:34:07 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:34:07 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:34:14 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:34:14 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:34:16 Hi
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:115
+┌ Error: 2024-07-24 14:34:16 UndefVarError(:Backend)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:119
+┌ Info: 2024-07-24 14:34:16 Working:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 14:34:16 20
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:122
+┌ Info: 2024-07-24 14:35:02 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:35:02 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:35:06 20
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:115
+┌ Error: 2024-07-24 14:35:06 UndefVarError(:Backend)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:119
+┌ Info: 2024-07-24 14:35:06 Working:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 14:35:06 20
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:122
+┌ Info: 2024-07-24 14:36:12 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:36:12 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:36:28 20
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:115
+┌ Error: 2024-07-24 14:36:28 UndefVarError(:some_function)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:119
+┌ Info: 2024-07-24 14:36:28 Working:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 14:36:28 20
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:122
+┌ Info: 2024-07-24 14:37:33 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:37:33 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:37:38 20
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:115
+┌ Error: 2024-07-24 14:37:38 UndefVarError(:some_function)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:119
+┌ Info: 2024-07-24 14:37:38 Working:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 14:37:38 20
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:122
+┌ Info: 2024-07-24 14:38:00 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:38:00 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:38:04 20
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:115
+┌ Error: 2024-07-24 14:38:04 UndefVarError(:some_function)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:119
+┌ Info: 2024-07-24 14:38:04 Working:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 14:38:04 20
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:122
+┌ Info: 2024-07-24 14:38:49 20
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:115
+┌ Error: 2024-07-24 14:38:49 UndefVarError(:some_function)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:119
+┌ Info: 2024-07-24 14:38:49 Working:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 14:38:49 20
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:122
+┌ Info: 2024-07-24 14:39:37 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:39:37 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:39:39 20
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:115
+┌ Error: 2024-07-24 14:39:39 UndefVarError(:some_function)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:119
+┌ Info: 2024-07-24 14:39:39 Working:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 14:39:39 20
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:122
+┌ Info: 2024-07-24 14:40:22 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:40:22 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:40:48 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:40:48 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:44:15 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:44:15 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:46:49 20
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:115
+┌ Error: 2024-07-24 14:46:49 UndefVarError(:some_function)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:119
+┌ Info: 2024-07-24 14:46:49 Working:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 14:46:49 20
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:122
+┌ Info: 2024-07-24 14:47:01 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:47:01 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:47:06 20
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:115
+┌ Error: 2024-07-24 14:47:06 UndefVarError(:Backend)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:119
+┌ Info: 2024-07-24 14:47:06 Working:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 14:47:06 20
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:122
+┌ Info: 2024-07-24 14:47:18 20
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:115
+┌ Error: 2024-07-24 14:47:18 UndefVarError(:Backend)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:119
+┌ Info: 2024-07-24 14:47:18 Working:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 14:47:18 20
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:122
+┌ Error: 2024-07-24 14:48:34 Failed to revise c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl
+│   exception = Revise.ReviseEvalException("c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl:6", UndefVarError(:Backend), Any[(top-level scope at app.jl:6, 1)])
+└ @ Revise C:\Users\kaele\.julia\packages\Revise\W4D4d\src\packagedef.jl:722
+┌ Warning: 2024-07-24 14:48:34 The running code does not match the saved version for the following files:
+│ 
+│   c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl
+│ 
+│ If the error was due to evaluation order, it can sometimes be resolved by calling `Revise.retry()`.
+│ Use Revise.errors() to report errors again. Only the first error in each file is shown.
+│ Your prompt color may be yellow until the errors are resolved.
+└ @ Revise C:\Users\kaele\.julia\packages\Revise\W4D4d\src\packagedef.jl:832
+┌ Error: 2024-07-24 14:48:44 Failed to revise c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl
+│   exception = Revise.ReviseEvalException("c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl:6", ArgumentError("Package Backend not found in current path.\n- Run `import Pkg; Pkg.add(\"Backend\")` to install the Backend package."), Any[(top-level scope at app.jl:6, 1)])
+└ @ Revise C:\Users\kaele\.julia\packages\Revise\W4D4d\src\packagedef.jl:722
+┌ Error: 2024-07-24 14:48:54 Failed to revise c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl
+│   exception = Revise.ReviseEvalException("c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl:6", UndefVarError(:Backend), Any[(top-level scope at app.jl:6, 1)])
+└ @ Revise C:\Users\kaele\.julia\packages\Revise\W4D4d\src\packagedef.jl:722
+┌ Error: 2024-07-24 14:49:07 Failed to revise c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl
+│   exception = Revise.ReviseEvalException("c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl:19", UndefVarError(:Backend), Any[(top-level scope at app.jl:19, 1)])
+└ @ Revise C:\Users\kaele\.julia\packages\Revise\W4D4d\src\packagedef.jl:722
+┌ Error: 2024-07-24 14:49:19 Failed to revise c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl
+│   exception = Revise.ReviseEvalException("c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl:19", UndefVarError(:Backend), Any[(top-level scope at app.jl:19, 1)])
+└ @ Revise C:\Users\kaele\.julia\packages\Revise\W4D4d\src\packagedef.jl:722
+┌ Error: 2024-07-24 14:50:37 Failed to revise c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl
+│   exception = Revise.ReviseEvalException("c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl:19", UndefVarError(:Backend), Any[(top-level scope at app.jl:19, 1)])
+└ @ Revise C:\Users\kaele\.julia\packages\Revise\W4D4d\src\packagedef.jl:722
+┌ Info: 2024-07-24 14:53:03 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-24 14:53:04 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:53:14 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-24 14:53:14 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:53:16 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=SIZEDVKUMQXPBWLGKJPNHDNHXNINXQQN 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-24 14:53:16 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-24 14:53:55 20
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:115
+┌ Info: 2024-07-24 14:53:55 Working:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 14:53:55 40
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:122
+┌ Info: 2024-07-24 14:55:13 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:55:13 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:55:19 20
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:115
+┌ Info: 2024-07-24 14:55:19 Working:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 14:55:19 40
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:122
+┌ Info: 2024-07-24 14:55:47 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:55:47 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:55:50 20
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:117
+┌ Info: 2024-07-24 14:55:50 Working:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 14:55:50 40
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 14:58:51 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 14:58:51 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Error: 2024-07-24 15:00:31 Failed to revise c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl
+│   exception = (Base.Meta.ParseError("ParseError:\n# Error @ c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\lib\\Backend_Optimizer.jl:4:1\n\r\n┌──────────────\n#==BACKEND CODE\r\n\r\n⋮\nend\r\nend\n#─┘ ── unterminated multi-line comment #= ... =#", Base.JuliaSyntax.ParseError(Base.JuliaSyntax.SourceFile("module Backend\r\nexport some_function\r\n\r\n#==BACKEND CODE\r\n\r\n#Paste ur backend code INSIDE HERE\r\n\r\n\r\n\r\n\r\n#Dummy functions for testing\r\n\r\nfunction printhi()\r\n    @info \"Hi!! I'm working :D\"\r\n    @info \"TEST:\" Select_list\r\nend\r\n\r\nfunction some_function(K)\r\n    K = K\r\n    return K*2\r\nend\r\nend", 0, "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\lib\\Backend_Optimizer.jl", 1, [1, 17, 39, 41, 58, 60, 96, 98, 100, 102, 104, 134, 136, 156, 189, 220, 225, 227, 254, 265, 281, 286, 289]), Base.JuliaSyntax.Diagnostic[Base.JuliaSyntax.Diagnostic(41, 288, :error, "unterminated multi-line comment #= ... =#"), Base.JuliaSyntax.Diagnostic(289, 288, :error, "Expected `end`")], :comment)), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffbeccf703b, Ptr{Nothing} @0x00007ffbecd06c3a, Ptr{Nothing} @0x00007ffbecd0675c, Ptr{Nothing} @0x00007ffbecd072f8, Ptr{Nothing} @0x00007ffbecd080fe, Base.InterpreterIP in top-level CodeInfo for Revise at statement 0])
+└ @ Revise C:\Users\kaele\.julia\packages\Revise\W4D4d\src\packagedef.jl:724
+┌ Warning: 2024-07-24 15:00:33 The running code does not match the saved version for the following files:
+│ 
+│   c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl
+│ 
+│ If the error was due to evaluation order, it can sometimes be resolved by calling `Revise.retry()`.
+│ Use Revise.errors() to report errors again. Only the first error in each file is shown.
+│ Your prompt color may be yellow until the errors are resolved.
+└ @ Revise C:\Users\kaele\.julia\packages\Revise\W4D4d\src\packagedef.jl:832
+┌ Info: 2024-07-24 15:07:57 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-24 15:07:59 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:08:10 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-24 15:08:10 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:08:12 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=SIZEDVKUMQXPBWLGKJPNHDNHXNINXQQN 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-24 15:08:12 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-24 15:08:55 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:08:55 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:10:13 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:10:13 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:11:10 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:11:10 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:11:29 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:11:29 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:11:44 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:11:44 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:12:49 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-24 15:12:51 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:13:01 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-24 15:13:01 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:13:03 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=SIZEDVKUMQXPBWLGKJPNHDNHXNINXQQN 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-24 15:13:03 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-24 15:14:35 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:14:35 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:14:42 Hello???
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:125
+┌ Info: 2024-07-24 15:15:13 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:15:13 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:15:16 Hello???
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:125
+┌ Info: 2024-07-24 15:15:56 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:15:56 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:16:08 Hello???
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:125
+┌ Info: 2024-07-24 15:16:58 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:16:58 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:17:02 Hello???
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:125
+┌ Info: 2024-07-24 15:17:48 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:17:48 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:17:53 Hello???
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:125
+┌ Info: 2024-07-24 15:23:34 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-24 15:23:36 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:23:46 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-24 15:23:46 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:23:48 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=SIZEDVKUMQXPBWLGKJPNHDNHXNINXQQN 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-24 15:23:48 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-24 15:24:50 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:69
+┌ Info: 2024-07-24 15:24:51 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-24 15:24:52 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:75
+┌ Info: 2024-07-24 15:24:53 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "111series.csv", "channel" => "SIZEDVKUMQXPBWLGKJPNHDNHXNINXQQN", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_SvifuNufIV")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:47
+┌ Info: 2024-07-24 15:24:55 uploaded
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:81
+┌ Info: 2024-07-24 15:24:55 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:84
+┌ Info: 2024-07-24 15:24:55 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:85
+┌ Info: 2024-07-24 15:24:55 111series.csv
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:86
+┌ Info: 2024-07-24 15:24:55 Select_list:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:87
+┌ Info: 2024-07-24 15:24:55 ["Select File", "Hello", "Hello2", "Hello3", "111series.csv"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:88
+┌ Info: 2024-07-24 15:25:01 Hello???
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:125
+┌ Info: 2024-07-24 15:25:08 Hello???
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:125
+┌ Info: 2024-07-24 15:25:52 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:25:52 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:25:56 Hello???
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:125
+┌ Error: 2024-07-24 15:25:56 Error
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:129
+┌ Info: 2024-07-24 15:26:26 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:26:26 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:26:30 Hello???
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:125
+┌ Error: 2024-07-24 15:26:30 Error
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:130
+┌ Info: 2024-07-24 15:27:32 Hello???
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:125
+┌ Error: 2024-07-24 15:27:32 Error
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:130
+┌ Info: 2024-07-24 15:27:48 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:27:48 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:27:52 Hello???
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:125
+┌ Info: 2024-07-24 15:28:04 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:28:04 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:28:09 Hello???
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:125
+┌ Info: 2024-07-24 15:28:40 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:28:40 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:28:50 20
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:117
+┌ Info: 2024-07-24 15:28:50 Working:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 15:28:50 40
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 15:29:32 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:29:32 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:29:39 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:29:39 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:29:43 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:117
+┌ Error: 2024-07-24 15:29:43 MethodError(Main.App.Backend.run_optimizer, (["Helloooo"],), 0x0000000000007dcf)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 15:29:44 Working:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 15:29:44 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 15:30:16 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:30:16 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:30:20 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:117
+┌ Error: 2024-07-24 15:30:20 MethodError(Main.App.Backend.run_optimizer, (["Helloooo"],), 0x0000000000007dd9)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 15:30:20 Working:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 15:30:20 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 15:32:02 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:32:02 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:32:06 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:117
+┌ Info: 2024-07-24 15:32:15 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:117
+┌ Info: 2024-07-24 15:32:35 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:32:35 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:32:40 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:117
+┌ Info: 2024-07-24 15:32:40 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:119
+┌ Error: 2024-07-24 15:32:55 Failed to revise c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl
+│   exception = (Base.Meta.ParseError("ParseError:\n# Error @ c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl:123:9\n            println(ex)\n        catch e \n#       └ ── Expected `end`", Base.JuliaSyntax.ParseError(Base.JuliaSyntax.SourceFile("module App\n# == PACKAGES ==\n\nusing GenieFramework, PlotlyBase, DataFrames, CSV\nusing StippleLatex, StippleDownloads\n@genietools\n\n# == CODE IMPORT ==\n\n#Frontend Functions\nfunction add_file(filename,Select_list)\n    push!(Select_list, filename)\n    return Select_list\nend\n\n#Load backend code from Lib Folder\ninclude(\"lib/Backend_Optimizer.jl\")\n\nusing .Backend\n\n# == REACTIVE CODE ==\n@app begin\n    # == REACTIVE VARIABLES ==\n    # @out variables can only be modified here\n    # @in variables can be modified both from here and from the browser\n    # variables must be initialized with constant values, or variables defined outside of the @app block\n\n    #Dropdown list variables\n    @in Select = \"Select File\"\n    @in Select_list = [\"Select File\", \"Hello\", \"Hello2\", \"Hello3\"]\n    \n    #Uploader variables\n    @out upl_acceptext = \".csv, text/csv\"\n    @out upl_maxsize = 1 * 1024 * 1024 #1MB\n    @out upl_caption = \"No CSV file selected\"\n    \n    \n    @out dummy_update = false\n    @out K = [\"Helloooo\"]\n\n    # == REACTIVE HANDLERS ==\n    # reactive handlers watch a variable and execute a block of code when its value changes\n    \n    #Uploader handlers\n    @onchange fileuploads begin\n        if !(isempty(fileuploads))\n            @info \"File was uploaded: \" fileuploads\n            filename = fileuploads[\"name\"]\n            try\n                isdir(joinpath(\"public\", \"uploads\")) ||\n                    mkpath(joinpath(\"public\", \"uploads\"))\n                mv(fileuploads[\"path\"], joinpath(\"public\", \"uploads\", filename), force=true)\n            catch e\n                @error \"Error processing file: \$(e)\"\n\n            end\n            upl_filesrc = \"/uploads/\$(filename)\"\n            fileuploads = Dict{AbstractString,AbstractString}()\n            Select_list = add_file(filename,Select_list)\n            Select = Select_list[end]\n            @show upl_filesrc\n        end\n    end\n    @event rejected begin\n        @info \"rejected\"\n        notify(__model__, \"File rejected. Please make sure it is a valid CSV file.\")\n    end\n    @event added begin\n        @info \"added\"\n    end\n    @event removed begin\n        @info \"removed\"\n    end\n    @event started begin\n        @info \"started\"\n    end\n    @event uploading begin\n        @info \"uploading\"\n    end\n    @event uploaded begin\n        @info \"uploaded\"\n    end\n    @event finished begin\n        @info \"finished\"\n        @info \"Select:\"\n        @info Select\n        @info \"Select_list:\"\n        @info Select_list\n        \n    end\n    @event failed begin\n        @info \"failed\"\n    end\n\n    #Downloader handler\n    @event download begin\n        try\n            solution = \"public/download/workforce_inventory.csv\"\n            io = IOBuffer()\n            open(solution, \"r\") do file\n                write(io, read(file))\n            end\n            seekstart(io)\n            download_binary(__model__, take!(io), \"workforce_inventory.csv\")\n        catch ex\n            println(\"Error during download: \", ex)\n        end\n    end\n\n    #Run button handler\n    @event run begin\n        #dummy_update = !dummy_update\n        #@info \"Select:\"\n        #@info Select\n        #@info \"Select List:\"\n        #@info Select_list\n        @info K\n        try\n            @info K\n            K = run_optimizer(K)\n        catch ex\n            println(ex)\n        catch e \n            @error e\n        end\n        @info \"Working:\"\n        @info K\n    end\nend\n\n# == PAGES ==\n# register a new route and the page that will be loaded on access\n@page(\"/\", \"app.jl.html\")\nend\n\n# == ADVANCED FEATURES ==\n#=\n- The @private macro defines a reactive variable that is not sent to the browser. \nThis is useful for storing data that is unique to each user session but is not needed\nin the UI.\n    @private table = DataFrame(a = 1:10, b = 10:19, c = 20:29)\n=#", 0, "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl", 1, [1, 12, 29, 30, 80, 117, 129, 130, 150, 151, 171, 211, 244, 267, 271, 272, 307, 343, 344, 359, 360, 382, 393, 424, 471, 543, 648, 649, 678, 709, 776, 781, 805, 847, 891, 937, 942, 947, 977, 1003, 1004, 1034, 1126, 1131, 1154, 1186, 1221, 1273, 1316, 1332, 1388, 1446, 1539, 1559, 1612, 1613, 1629, 1678, 1742, 1799, 1837, 1867, 1879, 1887, 1913, 1938, 2023, 2031, 2054, 2076, 2084, 2109, 2133, 2141, 2166, 2190, 2198, 2225, 2251, 2259, 2285, 2310, 2318, 2344, 2369, 2393, 2414, 2443, 2469, 2478, 2486, 2510, 2533, 2541, 2542, 2566, 2592, 2604, 2669, 2697, 2737, 2775, 2791, 2817, 2894, 2911, 2962, 2974, 2982, 2983, 3007, 3028, 3066, 3091, 3113, 3143, 3170, 3186, 3198, 3218, 3251, 3268, 3292, 3309, 3330, 3342, 3367, 3383, 3391, 3395, 3396, 3410, 3476, 3502, 3506, 3507, 3533, 3536, 3619, 3705, 3716, 3779, 3781]), Base.JuliaSyntax.Diagnostic[Base.JuliaSyntax.Diagnostic(3300, 3299, :error, "Expected `end`"), Base.JuliaSyntax.Diagnostic(3300, 3299, :error, "Expected `end`"), Base.JuliaSyntax.Diagnostic(3300, 3299, :error, "Expected `end`"), Base.JuliaSyntax.Diagnostic(3300, 3299, :error, "Expected `end`"), Base.JuliaSyntax.Diagnostic(3300, 3306, :error, "extra tokens after end of expression"), Base.JuliaSyntax.Diagnostic(3338, 3340, :error, "invalid identifier"), Base.JuliaSyntax.Diagnostic(3387, 3389, :error, "invalid identifier"), Base.JuliaSyntax.Diagnostic(3391, 3393, :error, "invalid identifier"), Base.JuliaSyntax.Diagnostic(3502, 3504, :error, "invalid identifier")], :none)), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffbeccf703b, Ptr{Nothing} @0x00007ffbecd06c3a, Ptr{Nothing} @0x00007ffbecd0675c, Ptr{Nothing} @0x00007ffbecd072f8, Ptr{Nothing} @0x00007ffbecd080fe, Base.InterpreterIP in top-level CodeInfo for Revise at statement 0])
+└ @ Revise C:\Users\kaele\.julia\packages\Revise\W4D4d\src\packagedef.jl:724
+┌ Warning: 2024-07-24 15:32:56 The running code does not match the saved version for the following files:
+│ 
+│   c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl
+│ 
+│ If the error was due to evaluation order, it can sometimes be resolved by calling `Revise.retry()`.
+│ Use Revise.errors() to report errors again. Only the first error in each file is shown.
+│ Your prompt color may be yellow until the errors are resolved.
+└ @ Revise C:\Users\kaele\.julia\packages\Revise\W4D4d\src\packagedef.jl:832
+┌ Info: 2024-07-24 15:33:59 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-24 15:34:00 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:34:06 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-24 15:34:06 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:34:07 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=SIZEDVKUMQXPBWLGKJPNHDNHXNINXQQN 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-24 15:34:08 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-24 15:34:34 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:117
+┌ Info: 2024-07-24 15:34:34 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:119
+┌ Info: 2024-07-24 15:34:36 Working:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 15:34:36 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:125
+┌ Info: 2024-07-24 15:37:33 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:37:33 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:37:44 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:117
+┌ Info: 2024-07-24 15:37:44 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:119
+┌ Info: 2024-07-24 15:37:44 Working:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 15:37:44 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:125
+┌ Info: 2024-07-24 15:38:44 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:38:44 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:38:49 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:117
+┌ Info: 2024-07-24 15:38:49 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:119
+┌ Error: 2024-07-24 15:38:49 MethodError(Main.App.Backend.run_optimizer, (["Helloooo"],), 0x0000000000007cf3)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:122
+┌ Info: 2024-07-24 15:38:49 Working:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 15:38:49 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:125
+┌ Info: 2024-07-24 15:39:26 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:39:26 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:39:29 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:117
+┌ Info: 2024-07-24 15:39:29 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:119
+┌ Error: 2024-07-24 15:39:29 MethodError(Main.App.Backend.run_optimizer, (["Helloooo"],), 0x0000000000007cfa)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:122
+┌ Info: 2024-07-24 15:39:29 Working:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 15:39:29 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:125
+┌ Info: 2024-07-24 15:39:49 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:39:49 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:39:51 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:117
+┌ Info: 2024-07-24 15:39:51 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:119
+┌ Info: 2024-07-24 15:39:51 Working:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 15:39:51 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:125
+┌ Info: 2024-07-24 15:40:15 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:40:15 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:40:27 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:40:27 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:40:33 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:40:33 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:40:35 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:40:35 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:40:40 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Error: 2024-07-24 15:40:40 MethodError(Main.App.Backend.run_optimizer, (["Helloooo"],), 0x0000000000007d79)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 15:40:40 Working:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 15:40:40 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 15:40:55 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:40:55 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:41:00 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Error: 2024-07-24 15:41:00 MethodError(Main.App.Backend.run_optimizer, (["Helloooo"],), 0x0000000000007d7c)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 15:41:00 Working:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 15:41:00 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 15:43:31 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:43:31 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:43:41 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Error: 2024-07-24 15:43:41 MethodError(Main.App.Backend.run_optimizer, (["Helloooo"],), 0x0000000000007d81)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 15:43:41 Working:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 15:43:41 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 15:43:52 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Error: 2024-07-24 15:43:52 MethodError(Main.App.Backend.run_optimizer, (["Helloooo"],), 0x0000000000007d81)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 15:43:52 Working:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 15:43:52 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 15:44:28 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:44:28 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:44:41 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:44:41 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:44:44 Start
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Error: 2024-07-24 15:44:44 MethodError(Main.App.Backend.run_optimizer, (["Helloooo"],), 0x0000000000007dc7)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 15:44:44 Working?
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 15:44:44 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 15:44:56 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:44:56 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:45:09 Start
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Error: 2024-07-24 15:45:09 MethodError(Main.App.Backend.run_optimizer, (["1"],), 0x0000000000007dea)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 15:45:09 Working?
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 15:45:09 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 15:45:22 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:45:22 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:45:25 Start
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Error: 2024-07-24 15:45:25 MethodError(Main.App.Backend.run_optimizer, (["1"],), 0x0000000000007e0d)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 15:45:25 Working?
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 15:45:25 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 15:45:44 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:45:44 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:45:47 Start
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Info: 2024-07-24 15:45:47 Vector{String}
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:119
+┌ Error: 2024-07-24 15:45:47 MethodError(Main.App.Backend.run_optimizer, (["Helloooo"],), 0x0000000000007e30)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:122
+┌ Info: 2024-07-24 15:45:47 Working?
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 15:45:47 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:125
+┌ Info: 2024-07-24 15:46:00 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:46:00 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:46:04 Start
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Info: 2024-07-24 15:46:04 Vector{String}
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:119
+┌ Error: 2024-07-24 15:46:04 MethodError(Main.App.Backend.run_optimizer, (["Helloooo"],), 0x0000000000007e35)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:122
+┌ Info: 2024-07-24 15:46:04 Working?
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 15:46:04 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:125
+┌ Info: 2024-07-24 15:46:31 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:46:31 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:46:54 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:46:54 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:46:58 Start
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Error: 2024-07-24 15:46:58 MethodError(Main.App.Backend.run_optimizer, (["Helloooo"],), 0x0000000000007e5d)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 15:46:58 Working?
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 15:46:58 ["Helloooo"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 15:47:29 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:47:29 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:47:43 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:47:43 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:47:45 Vector{Any}
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Error: 2024-07-24 15:47:45 MethodError(Main.App.Backend.run_optimizer, (Any["Helloooo", 2],), 0x0000000000007ea3)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 15:47:45 Working?
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 15:47:45 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 15:48:08 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:48:08 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:48:13 Vector{Any}
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Error: 2024-07-24 15:48:13 MethodError(Main.App.Backend.run_optimizer, (Any["Helloooo", 2],), 0x0000000000007ea8)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 15:48:13 Working?
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 15:48:13 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 15:48:38 Vector{Any}
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Error: 2024-07-24 15:48:38 MethodError(Main.App.Backend.run_optimizer, (Any["Helloooo", 2],), 0x0000000000007ea8)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 15:48:38 Working?
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 15:48:38 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 15:48:57 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:48:57 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:48:59 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:48:59 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:49:03 Vector{Any}
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Error: 2024-07-24 15:49:03 MethodError(Main.App.Backend.run_optimizer, (Any["Helloooo", 2],), 0x0000000000007eae)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 15:49:03 Working?
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 15:49:03 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 15:50:54 Vector{Any}
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Error: 2024-07-24 15:50:54 MethodError(Main.App.Backend.run_optimizer, (Any["Helloooo", 2],), 0x0000000000007eae)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 15:50:54 Working?
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 15:50:54 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 15:52:14 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:52:14 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:52:20 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:52:20 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:52:54 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:52:54 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 15:56:33 Vector{Any}
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Error: 2024-07-24 15:56:33 MethodError(Main.App.Backend.run_optimizer, (Any["Helloooo", 2],), 0x0000000000007eb9)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 15:56:33 Working?
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 15:56:33 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Error: 2024-07-24 21:12:26 Failed to revise c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl
+│   exception = (Base.Meta.ParseError("ParseError:\n# Error @ c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\lib\\Backend_Optimizer.jl:24:4\nend\r\nend\n#  └ ── Expected `end`", Base.JuliaSyntax.ParseError(Base.JuliaSyntax.SourceFile("module Backend\r\nexport some_function, run_optimizer\r\n\r\nfunction run_optimizer(Custom_constraints::Vector{Any})\r\n    try\r\n        return Custom_constraints\r\n    catch e\r\n    # == BACKEND CODE ==\r\n    #Paste ur backend code INSIDE HERE\r\n    #return Custom_constraints\r\nend\r\n\r\n#Dummy functions for testing\r\n\r\nfunction printhi()\r\n    @info \"Hi!! I'm working :D\"\r\n    @info \"TEST:\" Select_list\r\nend\r\n\r\nfunction some_function(K)\r\n    K = K\r\n    return K*2\r\nend\r\nend", 0, "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\lib\\Backend_Optimizer.jl", 1, [1, 17, 54, 56, 113, 122, 157, 170, 196, 236, 268, 273, 275, 305, 307, 327, 360, 391, 396, 398, 425, 436, 452, 457, 460]), Base.JuliaSyntax.Diagnostic[Base.JuliaSyntax.Diagnostic(460, 459, :error, "Expected `end`")], :block)), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffbeccf703b, Ptr{Nothing} @0x00007ffbecd06c3a, Ptr{Nothing} @0x00007ffbecd0675c, Ptr{Nothing} @0x00007ffbecd072f8, Ptr{Nothing} @0x00007ffbecd080fe, Base.InterpreterIP in top-level CodeInfo for Revise at statement 0])
+└ @ Revise C:\Users\kaele\.julia\packages\Revise\W4D4d\src\packagedef.jl:724
+┌ Warning: 2024-07-24 21:12:28 The running code does not match the saved version for the following files:
+│ 
+│   c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl
+│ 
+│ If the error was due to evaluation order, it can sometimes be resolved by calling `Revise.retry()`.
+│ Use Revise.errors() to report errors again. Only the first error in each file is shown.
+│ Your prompt color may be yellow until the errors are resolved.
+└ @ Revise C:\Users\kaele\.julia\packages\Revise\W4D4d\src\packagedef.jl:832
+┌ Info: 2024-07-24 21:12:46 Vector{Any}
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Error: 2024-07-24 21:12:47 MethodError(Main.App.Backend.run_optimizer, (Any["Helloooo", 2],), 0x0000000000007ebb)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 21:12:47 Working?
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 21:12:47 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 21:14:27 Vector{Any}
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Error: 2024-07-24 21:14:27 UndefVarError(:K)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 21:14:27 Working?
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 21:14:27 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 21:15:09 Vector{Any}
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Error: 2024-07-24 21:15:09 UndefVarError(:K)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 21:15:09 Working?
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 21:15:09 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 21:15:22 Vector{Any}
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Error: 2024-07-24 21:15:22 MethodError(Main.App.Backend.run_optimizer, (Any["Helloooo", 2],), 0x0000000000007f1f)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 21:15:22 Working?
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 21:15:22 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 21:17:26 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-24 21:17:27 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:17:38 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-24 21:17:38 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:17:40 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=SIZEDVKUMQXPBWLGKJPNHDNHXNINXQQN 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-24 21:17:40 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-24 21:18:53 Vector{Any}
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Info: 2024-07-24 21:18:53 Working?
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 21:18:53 Any["Helloooo", 2, 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 21:19:53 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:19:53 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:20:04 Vector{Any}
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Info: 2024-07-24 21:20:04 Working?
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 21:20:04 Any["Helloooo", 2, 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 21:20:20 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:20:20 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:20:24 Vector{Any}
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Info: 2024-07-24 21:20:24 Working?
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 21:20:24 Any["Helloooo", 2, 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 21:20:38 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:20:38 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:20:41 Vector{Any}
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Info: 2024-07-24 21:20:41 Working?
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 21:20:41 Any["Helloooo", 2, 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 21:20:57 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:20:57 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:21:01 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Info: 2024-07-24 21:21:01 Working?
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 21:21:01 Any["Helloooo", 2, 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 21:21:10 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:21:10 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:21:13 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Info: 2024-07-24 21:21:13 Working?
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 21:21:13 Any["Helloooo", 2, 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 21:21:26 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:21:26 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:21:30 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Info: 2024-07-24 21:21:30 Any["Helloooo", 2, 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 21:22:31 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:22:31 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:22:42 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:22:42 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:22:48 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:22:48 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:22:51 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Info: 2024-07-24 21:22:51 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 21:23:06 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:23:06 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:23:20 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:23:20 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:23:25 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Info: 2024-07-24 21:23:25 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 21:24:03 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:24:03 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:24:06 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Info: 2024-07-24 21:24:06 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 21:25:25 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:25:25 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:25:39 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Info: 2024-07-24 21:25:39 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 21:26:47 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:26:47 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:27:00 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:27:00 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:27:13 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:27:13 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:27:17 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Info: 2024-07-24 21:27:17 Any["Helloooo", 2, 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 21:27:26 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:27:26 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:27:29 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Info: 2024-07-24 21:27:29 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 21:27:41 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:27:41 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:27:44 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:27:44 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:27:48 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Error: 2024-07-24 21:27:48 UndefVarError(:run_optimize)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 21:27:48 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 21:27:57 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:27:57 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:28:01 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Error: 2024-07-24 21:28:01 UndefVarError(:run_optimize)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 21:28:01 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 21:28:10 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:28:10 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:28:17 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Error: 2024-07-24 21:28:17 UndefVarError(:run_optimize)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 21:28:17 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 21:29:28 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Error: 2024-07-24 21:29:28 UndefVarError(:run_optimize)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:121
+┌ Info: 2024-07-24 21:29:28 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 21:29:45 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:29:45 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:29:48 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:29:48 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:30:04 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Info: 2024-07-24 21:30:04 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 21:30:43 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:30:43 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:30:50 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Error: 2024-07-24 21:30:50 UndefVarError(:printhi)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:122
+┌ Info: 2024-07-24 21:30:50 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 21:31:00 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:31:00 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:31:03 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:31:03 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:31:05 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:31:05 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:31:08 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Error: 2024-07-24 21:31:08 UndefVarError(:printhi)
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:122
+┌ Info: 2024-07-24 21:31:08 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 21:31:32 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-24 21:31:34 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:31:44 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-24 21:31:44 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:31:46 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=SIZEDVKUMQXPBWLGKJPNHDNHXNINXQQN 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-24 21:31:46 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-24 21:32:25 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Info: 2024-07-24 21:32:25 Hi!! I'm working :D
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:14
+┌ Error: 2024-07-24 21:32:26 Exception while generating log record in module Main.App.Backend at c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:15
+│   exception = (UndefVarError(:Select_list), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00000234fc09d064, Ptr{Nothing} @0x00000234fc09d279, Ptr{Nothing} @0x00007ffbeccf708a, Ptr{Nothing} @0x00000234fc09a721, Ptr{Nothing} @0x00000234fc09ac03, Ptr{Nothing} @0x00000234fc099d63, Ptr{Nothing} @0x00000234fc099f6b, Ptr{Nothing} @0x00000234a82e4f83, Ptr{Nothing} @0x00000234a82e53f7, Ptr{Nothing} @0x00000234a82e548b, Ptr{Nothing} @0x00000234a82e54cf, Ptr{Nothing} @0x00000234a82cc032, Ptr{Nothing} @0x00000234a82cc08b, Ptr{Nothing} @0x00007ffbeccf708a, Ptr{Nothing} @0x00007ffc0a0ef925, Ptr{Nothing} @0x00007ffc09ffa6f0, Ptr{Nothing} @0x00007ffc0a154d8b, Ptr{Nothing} @0x00000234a82cb174, Ptr{Nothing} @0x00000234a82cb242, Ptr{Nothing} @0x00007ffbeccf708a, Ptr{Nothing} @0x00000234a82c604c, Ptr{Nothing} @0x00000234a82c83ac, Ptr{Nothing} @0x00000234a82c89ab, Ptr{Nothing} @0x00007ffbecd0c68b])
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:15
+┌ Info: 2024-07-24 21:32:30 Any["Helloooo", 2, 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 21:33:49 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:33:49 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:33:59 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:33:59 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:34:02 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Info: 2024-07-24 21:34:02 Hi!! I'm working :D
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:14
+┌ Error: 2024-07-24 21:34:02 Exception while generating log record in module Main.App.Backend at c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:15
+│   exception = (UndefVarError(:Select_list), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00000234fc09d064, Ptr{Nothing} @0x00000234fc09d279, Ptr{Nothing} @0x00007ffbeccf708a, Ptr{Nothing} @0x00000234fc09a721, Ptr{Nothing} @0x00000234fc0e9983, Ptr{Nothing} @0x00000234fc0e9333, Ptr{Nothing} @0x00000234fc0e953b, Ptr{Nothing} @0x00000234a82e4f83, Ptr{Nothing} @0x00000234a82e53f7, Ptr{Nothing} @0x00000234a82e548b, Ptr{Nothing} @0x00000234a82e54cf, Ptr{Nothing} @0x00000234a82cc032, Ptr{Nothing} @0x00000234a82cc08b, Ptr{Nothing} @0x00007ffbeccf708a, Ptr{Nothing} @0x00007ffc0a0ef925, Ptr{Nothing} @0x00007ffc09ffa6f0, Ptr{Nothing} @0x00007ffc0a154d8b, Ptr{Nothing} @0x00000234a82cb174, Ptr{Nothing} @0x00000234a82cb242, Ptr{Nothing} @0x00007ffbeccf708a, Ptr{Nothing} @0x00000234a82c604c, Ptr{Nothing} @0x00000234a82c83ac, Ptr{Nothing} @0x00000234a82c89ab, Ptr{Nothing} @0x00007ffbecd0c68b])
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:15
+┌ Info: 2024-07-24 21:34:02 Any["Helloooo", 2, 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 21:34:20 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:34:20 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:34:22 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Info: 2024-07-24 21:34:22 Hi!! I'm working :D
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:14
+┌ Error: 2024-07-24 21:34:22 Exception while generating log record in module Main.App.Backend at c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:15
+│   exception = (UndefVarError(:Select_list), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00000234fc09d064, Ptr{Nothing} @0x00000234fc09d279, Ptr{Nothing} @0x00007ffbeccf708a, Ptr{Nothing} @0x00000234fc09a721, Ptr{Nothing} @0x00000234fc0e9983, Ptr{Nothing} @0x00000234fc0e9333, Ptr{Nothing} @0x00000234fc0e953b, Ptr{Nothing} @0x00000234a82e4f83, Ptr{Nothing} @0x00000234a82e53f7, Ptr{Nothing} @0x00000234a82e548b, Ptr{Nothing} @0x00000234a82e54cf, Ptr{Nothing} @0x00000234a82cc032, Ptr{Nothing} @0x00000234a82cc08b, Ptr{Nothing} @0x00007ffbeccf708a, Ptr{Nothing} @0x00007ffc0a0ef925, Ptr{Nothing} @0x00007ffc09ffa6f0, Ptr{Nothing} @0x00007ffc0a154d8b, Ptr{Nothing} @0x00000234a82cb174, Ptr{Nothing} @0x00000234a82cb242, Ptr{Nothing} @0x00007ffbeccf708a, Ptr{Nothing} @0x00000234a82c604c, Ptr{Nothing} @0x00000234a82c83ac, Ptr{Nothing} @0x00000234a82c89ab, Ptr{Nothing} @0x00007ffbecd0c68b])
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:15
+┌ Info: 2024-07-24 21:34:22 Any["Helloooo", 2, 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 21:34:49 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:34:49 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:35:15 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-24 21:35:17 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:35:28 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-24 21:35:28 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:35:30 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=SIZEDVKUMQXPBWLGKJPNHDNHXNINXQQN 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-24 21:35:30 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-24 21:36:15 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Info: 2024-07-24 21:36:15 Hi!! I'm working :D
+└ @ Main.App.Backend c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\lib\Backend_Optimizer.jl:14
+┌ Info: 2024-07-24 21:36:15 Any["Helloooo", 2, 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:124
+┌ Info: 2024-07-24 21:37:29 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:37:29 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:37:32 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:37:32 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:37:37 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Info: 2024-07-24 21:37:37 Any["Helloooo", 2, 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 21:38:11 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-24 21:38:12 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:38:29 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-24 21:38:29 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:38:35 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=SIZEDVKUMQXPBWLGKJPNHDNHXNINXQQN 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-24 21:38:35 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-24 21:39:49 Any["Helloooo", 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Info: 2024-07-24 21:39:49 Any["Helloooo", 2, 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 21:39:59 Any["Helloooo", 2, 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Info: 2024-07-24 21:39:59 Any["Helloooo", 2, 2, 2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 21:41:06 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:41:06 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:41:44 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:41:44 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:42:23 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-24 21:42:25 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:42:36 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-24 21:42:36 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:42:38 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=SIZEDVKUMQXPBWLGKJPNHDNHXNINXQQN 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-24 21:42:38 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-24 21:43:40 Any[]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Info: 2024-07-24 21:43:40 Any[2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 21:43:47 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:43:47 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:44:19 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:69
+┌ Info: 2024-07-24 21:44:20 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-24 21:44:20 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:75
+┌ Info: 2024-07-24 21:44:22 uploaded
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:81
+┌ Info: 2024-07-24 21:44:22 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:84
+┌ Info: 2024-07-24 21:44:22 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:85
+┌ Info: 2024-07-24 21:44:22 Select File
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:86
+┌ Info: 2024-07-24 21:44:22 Select_list:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:87
+┌ Info: 2024-07-24 21:44:22 ["Select File"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:88
+┌ Info: 2024-07-24 21:44:29 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:69
+┌ Info: 2024-07-24 21:44:30 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-24 21:44:30 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:75
+┌ Info: 2024-07-24 21:44:31 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "Test.csv", "channel" => "SIZEDVKUMQXPBWLGKJPNHDNHXNINXQQN", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_rQ7S581wv6")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:47
+┌ Info: 2024-07-24 21:44:33 uploaded
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:81
+┌ Info: 2024-07-24 21:44:33 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:84
+┌ Info: 2024-07-24 21:44:33 Select:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:85
+┌ Info: 2024-07-24 21:44:33 Test.csv
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:86
+┌ Info: 2024-07-24 21:44:33 Select_list:
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:87
+┌ Info: 2024-07-24 21:44:33 ["Select File", "Test.csv"]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:88
+┌ Info: 2024-07-24 21:44:40 Any[]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:118
+┌ Info: 2024-07-24 21:44:40 Any[2]
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:123
+┌ Info: 2024-07-24 21:52:01 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:52:01 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:52:10 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 21:52:10 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 22:14:32 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-24 22:14:33 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Warning: 2024-07-24 22:14:35 attempting to remove probably stale pidfile
+│   path = C:\Users\kaele\.julia\compiled\v1.10\JuMP\DmXqY_0320a.ji.pidfile
+└ @ FileWatching.Pidfile C:\Users\kaele\.julia\juliaup\julia-1.10.4+0.x64.w64.mingw32\share\julia\stdlib\v1.10\FileWatching\src\pidfile.jl:244
+┌ Info: 2024-07-24 22:16:53 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-24 22:16:53 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 22:16:55 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=TORIZXGFHEAIBNAKZKZWBNUIGTEPFXHS 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-24 22:16:55 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-24 22:19:15 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-24 22:19:17 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 22:19:22 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-24 22:19:23 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 22:19:24 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=TORIZXGFHEAIBNAKZKZWBNUIGTEPFXHS 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-24 22:19:24 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-24 22:22:47 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-24 22:22:48 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 22:22:54 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-24 22:22:54 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-24 22:22:56 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=DJFISTCQSESNGAGEXQOULNXDZKGFPIJU 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-24 22:22:56 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382

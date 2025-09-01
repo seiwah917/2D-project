@@ -1,0 +1,1822 @@
+┌ Info: 2024-07-18 00:39:28 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 00:39:31 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 00:39:47 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 00:39:47 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 00:39:49 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=IMREQOJDANPUGCFBCBWSYOOHAYDQFOJG 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-18 00:39:50 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-18 00:45:32 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 00:45:32 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 00:46:23 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 00:46:23 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 00:46:25 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 00:46:25 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 00:46:36 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 00:46:36 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 00:47:29 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 00:47:29 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 00:47:31 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 00:47:31 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 00:48:14 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 00:48:14 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 00:48:16 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 00:48:16 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 00:48:36 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 00:48:36 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 00:49:28 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:72
+┌ Info: 2024-07-18 00:49:29 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:81
+┌ Info: 2024-07-18 00:49:29 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-18 00:49:29 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "111series.csv", "channel" => "IMREQOJDANPUGCFBCBWSYOOHAYDQFOJG", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_3c5Gzsv8bo")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Error: 2024-07-18 00:49:32 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#31":
+│  [1] (::Main.App.var"#31#32")(fileuploads)
+│      @ C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:1067
+│   Core.CodeInfo[CodeInfo(
+│ 1 ──        Core.NewvarNode(:(value))
+│ │           Core.NewvarNode(:(filename))
+│ │    %3   = Main.App.isempty(fileuploads)
+│ │    %4   = !%3
+│ └───        goto #44 if not %4
+│ 2 ──        Core.NewvarNode(:(msg@_5))
+│ │           Core.NewvarNode(:(kwargs@_6))
+│ │           Core.NewvarNode(:(line@_7))
+│ │           Core.NewvarNode(:(file@_8))
+│ │           Core.NewvarNode(:(id@_9))
+│ │           Core.NewvarNode(:(logger@_10))
+│ │           Core.NewvarNode(:(_module@_11))
+│ │           Core.NewvarNode(:(group@_12))
+│ │           level@_14 = Base.CoreLogging.Info
+│ │           std_level@_13 = level@_14
+│ │    %16  = std_level@_13
+│ │    %17  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %18  = %16 >= %17
+│ └───        goto #18 if not %18
+│ 3 ──        group@_12 = :app
+│ │           _module@_11 = Main.App
+│ │           logger@_10 = (Base.CoreLogging.current_logger_for_env)(std_level@_13, group@_12, _module@_11)
+│ │    %23  = logger@_10 === Base.CoreLogging.nothing
+│ │    %24  = !%23
+│ └───        goto #18 if not %24
+│ 4 ──        id@_9 = :Main_App_8fc45cd2
+│ │    %27  = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_10, level@_14, _module@_11, group@_12, id@_9)
+│ └───        goto #18 if not %27
+│ 5 ──        file@_8 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %30  = file@_8 isa Base.CoreLogging.String
+│ └───        goto #7 if not %30
+│ 6 ── %32  = Base.fixup_stdlib_path
+│ └───        file@_8 = (%32)(file@_8)
+│ 7 ┄─        line@_7 = 52
+│ │    %35  = $(Expr(:isdefined, :(fileuploads)))
+│ └───        goto #9 if not %35
+│ 8 ──        @_28 = nothing
+│ └───        goto #10
+│ 9 ──        @_28 = Core.UndefVarError(:fileuploads)
+│ 10 ┄ %40  = @_28
+│ │           err@_15 = %40
+│ │    %42  = err@_15 === Base.CoreLogging.nothing
+│ └───        goto #12 if not %42
+│ 11 ─        msg@_5 = "File was uploaded: "
+│ │    %45  = (:fileuploads,)
+│ │    %46  = Core.apply_type(Core.NamedTuple, %45)
+│ │    %47  = Core.tuple(fileuploads)
+│ │           kwargs@_6 = (%46)(%47)
+│ │           @_29 = true
+│ └───        goto #13
+│ 12 ─        Base.invokelatest(Base.CoreLogging.logging_error, logger@_10, level@_14, _module@_11, group@_12, id@_9, file@_8, line@_7, err@_15, false)
+│ └───        @_29 = false
+│ 13 ┄        goto #18 if not @_29
+│ 14 ─ %54  = Base.NamedTuple()
+│ │    %55  = Base.merge(%54, kwargs@_6)
+│ │    %56  = Base.isempty(%55)
+│ └───        goto #16 if not %56
+│ 15 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ └───        goto #17
+│ 16 ─        Core.kwcall(%55, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ 17 ┄        goto #18
+│ 18 ┄        Base.CoreLogging.nothing
+│ │    %63  = Base.getproperty(Main.App.Random, :randstring)
+│ │    %64  = (%63)(10)
+│ │    %65  = Base.getindex(fileuploads, "name")
+│ │    %66  = Main.App.base64encode(%65)
+│ └───        filename = %64 * "_" * %66
+│ 19 ─ %68  = $(Expr(:enter, #25))
+│ 20 ─ %69  = Main.App.joinpath("public", "uploads")
+│ │    %70  = Main.App.isdir(%69)
+│ └───        goto #22 if not %70
+│ 21 ─        goto #23
+│ 22 ─ %73  = Main.App.joinpath("public", "uploads")
+│ └───        Main.App.mkpath(%73)
+│ 23 ┄ %75  = Base.getindex(fileuploads, "path")
+│ │    %76  = Main.App.joinpath("public", "uploads", filename)
+│ │           Main.App.mv(%75, %76)
+│ └───        $(Expr(:leave, 1))
+│ 24 ─        goto #43
+│ 25 ┄        $(Expr(:leave, 1))
+│ 26 ─        e = $(Expr(:the_exception))
+│ │           Core.NewvarNode(:(msg@_17))
+│ │           Core.NewvarNode(:(kwargs@_18))
+│ │           Core.NewvarNode(:(line@_19))
+│ │           Core.NewvarNode(:(file@_20))
+│ │           Core.NewvarNode(:(id@_21))
+│ │           Core.NewvarNode(:(logger@_22))
+│ │           Core.NewvarNode(:(_module@_23))
+│ │           Core.NewvarNode(:(group@_24))
+│ │           level@_26 = Base.CoreLogging.Error
+│ │           std_level@_25 = level@_26
+│ │    %92  = std_level@_25
+│ │    %93  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %94  = %92 >= %93
+│ └───        goto #42 if not %94
+│ 27 ─        group@_24 = :app
+│ │           _module@_23 = Main.App
+│ │           logger@_22 = (Base.CoreLogging.current_logger_for_env)(std_level@_25, group@_24, _module@_23)
+│ │    %99  = logger@_22 === Base.CoreLogging.nothing
+│ │    %100 = !%99
+│ └───        goto #42 if not %100
+│ 28 ─        id@_21 = :Main_App_7f260d15
+│ │    %103 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_22, level@_26, _module@_23, group@_24, id@_21)
+│ └───        goto #42 if not %103
+│ 29 ─        file@_20 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %106 = file@_20 isa Base.CoreLogging.String
+│ └───        goto #31 if not %106
+│ 30 ─ %108 = Base.fixup_stdlib_path
+│ └───        file@_20 = (%108)(file@_20)
+│ 31 ┄        line@_19 = 59
+│ 32 ─ %111 = $(Expr(:enter, #35))
+│ 33 ─        msg@_17 = Base.string("Error processing file: ", e)
+│ │           kwargs@_18 = Core.NamedTuple()
+│ │           @_30 = true
+│ └───        $(Expr(:leave, 1))
+│ 34 ─        goto #37
+│ 35 ┄        $(Expr(:leave, 1))
+│ 36 ─        err@_27 = $(Expr(:the_exception))
+│ │           Base.invokelatest(Base.CoreLogging.logging_error, logger@_22, level@_26, _module@_23, group@_24, id@_21, file@_20, line@_19, err@_27, true)
+│ │           @_30 = false
+│ └───        $(Expr(:pop_exception, :(%111)))
+│ 37 ┄        goto #42 if not @_30
+│ 38 ─ %123 = Base.NamedTuple()
+│ │    %124 = Base.merge(%123, kwargs@_18)
+│ │    %125 = Base.isempty(%124)
+│ └───        goto #40 if not %125
+│ 39 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ └───        goto #41
+│ 40 ─        Core.kwcall(%124, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ 41 ┄        goto #42
+│ 42 ┄        Base.CoreLogging.nothing
+│ │    %132 = Core.getfield(#self#, :__model__)
+│ │    %133 = Base.getindex(fileuploads, "name")
+│ │    %134 = Base.string("Error processing file: ", %133)
+│ │           Main.App.notify(%132, %134)
+│ └───        $(Expr(:pop_exception, :(%68)))
+│ 43 ┄ %137 = Base.string("/uploads/", filename)
+│ │    %138 = Core.getfield(#self#, :__model__)
+│ │    %139 = Base.getproperty(%138, :upl_imgsrc)
+│ │           Base.setindex!(%139, %137)
+│ │    %141 = Core.apply_type(Main.App.Dict, Main.App.AbstractString, Main.App.AbstractString)
+│ │    %142 = (%141)()
+│ │    %143 = Core.getfield(#self#, :__model__)
+│ │    %144 = Base.getproperty(%143, :fileuploads)
+│ │           Base.setindex!(%144, %142)
+│ │    %146 = Core.getfield(#self#, :__model__)
+│ │    %147 = Base.getproperty(%146, :upl_imgsrc)
+│ │    %148 = Base.getindex(%147)
+│ │           value = %148
+│ │    %150 = Base.repr(%148)
+│ │           Base.println("__model__.upl_imgsrc[] = ", %150)
+│ └───        return value
+│ 44 ─        return nothing
+│ )]
+│ 
+│   Type of argument:
+│   Dict{AbstractString, AbstractString}
+│ 
+│   Value:
+│   Dict{AbstractString, AbstractString}("name" => "111series.csv", "channel" => "IMREQOJDANPUGCFBCBWSYOOHAYDQFOJG", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_3c5Gzsv8bo")
+│ 
+│   Exception:
+│   UndefVarError(:Random)
+│ 
+│   exception = (UndefVarError(:Random), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffbf031ecf6, Ptr{Nothing} @0x00007ffbf02b3eaa, Ptr{Nothing} @0x00000229ec0f4f4a, Ptr{Nothing} @0x00000229ec0f5f32, Ptr{Nothing} @0x00007ffbf02a708a, Ptr{Nothing} @0x00000229ec0f27b5, Ptr{Nothing} @0x00000229ec0f328c, Ptr{Nothing} @0x00000229ec0f32ea, Ptr{Nothing} @0x00000229ec0f2418, Ptr{Nothing} @0x00000229ec0bfabd, Ptr{Nothing} @0x00000229ec0bfd8b, Ptr{Nothing} @0x00000229ec0a0b43, Ptr{Nothing} @0x00000229ec0a0fb7, Ptr{Nothing} @0x00000229ec0a104b, Ptr{Nothing} @0x00000229ec0a108f, Ptr{Nothing} @0x00000229ec08d932, Ptr{Nothing} @0x00000229ec08d98b, Ptr{Nothing} @0x00007ffbf02a708a, Ptr{Nothing} @0x00007ffb94a7f925, Ptr{Nothing} @0x00007ffb9498a6f0, Ptr{Nothing} @0x00007ffb94ae4d8b, Ptr{Nothing} @0x00000229989f4704, Ptr{Nothing} @0x00000229989f47d2, Ptr{Nothing} @0x00007ffbf02a708a, Ptr{Nothing} @0x00000229989ef5bf, Ptr{Nothing} @0x00000229989f193c, Ptr{Nothing} @0x00000229989f1f3b, Ptr{Nothing} @0x00007ffbf02bc68b])
+└ @ Stipple C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\stipple\mutators.jl:54
+┌ Info: 2024-07-18 00:49:33 uploaded
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:84
+┌ Info: 2024-07-18 00:49:33 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:87
+┌ Info: 2024-07-18 00:50:03 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 00:50:03 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 00:50:06 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 00:50:06 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 00:51:39 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:72
+┌ Info: 2024-07-18 00:51:40 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:81
+┌ Info: 2024-07-18 00:51:40 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-18 00:51:40 uploaded
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:84
+┌ Info: 2024-07-18 00:51:40 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:87
+┌ Info: 2024-07-18 00:51:40 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "111series.csv", "channel" => "IMREQOJDANPUGCFBCBWSYOOHAYDQFOJG", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_Zc3YHYRazc")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Error: 2024-07-18 00:51:40 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#31":
+│  [1] (::Main.App.var"#31#32")(fileuploads)
+│      @ C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:1067
+│   Core.CodeInfo[CodeInfo(
+│ 1 ──        Core.NewvarNode(:(value))
+│ │           Core.NewvarNode(:(filename))
+│ │    %3   = Main.App.isempty(fileuploads)
+│ │    %4   = !%3
+│ └───        goto #44 if not %4
+│ 2 ──        Core.NewvarNode(:(msg@_5))
+│ │           Core.NewvarNode(:(kwargs@_6))
+│ │           Core.NewvarNode(:(line@_7))
+│ │           Core.NewvarNode(:(file@_8))
+│ │           Core.NewvarNode(:(id@_9))
+│ │           Core.NewvarNode(:(logger@_10))
+│ │           Core.NewvarNode(:(_module@_11))
+│ │           Core.NewvarNode(:(group@_12))
+│ │           level@_14 = Base.CoreLogging.Info
+│ │           std_level@_13 = level@_14
+│ │    %16  = std_level@_13
+│ │    %17  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %18  = %16 >= %17
+│ └───        goto #18 if not %18
+│ 3 ──        group@_12 = :app
+│ │           _module@_11 = Main.App
+│ │           logger@_10 = (Base.CoreLogging.current_logger_for_env)(std_level@_13, group@_12, _module@_11)
+│ │    %23  = logger@_10 === Base.CoreLogging.nothing
+│ │    %24  = !%23
+│ └───        goto #18 if not %24
+│ 4 ──        id@_9 = :Main_App_8fc45cd2
+│ │    %27  = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_10, level@_14, _module@_11, group@_12, id@_9)
+│ └───        goto #18 if not %27
+│ 5 ──        file@_8 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %30  = file@_8 isa Base.CoreLogging.String
+│ └───        goto #7 if not %30
+│ 6 ── %32  = Base.fixup_stdlib_path
+│ └───        file@_8 = (%32)(file@_8)
+│ 7 ┄─        line@_7 = 52
+│ │    %35  = $(Expr(:isdefined, :(fileuploads)))
+│ └───        goto #9 if not %35
+│ 8 ──        @_28 = nothing
+│ └───        goto #10
+│ 9 ──        @_28 = Core.UndefVarError(:fileuploads)
+│ 10 ┄ %40  = @_28
+│ │           err@_15 = %40
+│ │    %42  = err@_15 === Base.CoreLogging.nothing
+│ └───        goto #12 if not %42
+│ 11 ─        msg@_5 = "File was uploaded: "
+│ │    %45  = (:fileuploads,)
+│ │    %46  = Core.apply_type(Core.NamedTuple, %45)
+│ │    %47  = Core.tuple(fileuploads)
+│ │           kwargs@_6 = (%46)(%47)
+│ │           @_29 = true
+│ └───        goto #13
+│ 12 ─        Base.invokelatest(Base.CoreLogging.logging_error, logger@_10, level@_14, _module@_11, group@_12, id@_9, file@_8, line@_7, err@_15, false)
+│ └───        @_29 = false
+│ 13 ┄        goto #18 if not @_29
+│ 14 ─ %54  = Base.NamedTuple()
+│ │    %55  = Base.merge(%54, kwargs@_6)
+│ │    %56  = Base.isempty(%55)
+│ └───        goto #16 if not %56
+│ 15 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ └───        goto #17
+│ 16 ─        Core.kwcall(%55, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ 17 ┄        goto #18
+│ 18 ┄        Base.CoreLogging.nothing
+│ │    %63  = Base.getproperty(Main.App.Random, :randstring)
+│ │    %64  = (%63)(10)
+│ │    %65  = Base.getindex(fileuploads, "name")
+│ │    %66  = Main.App.base64encode(%65)
+│ └───        filename = %64 * "_" * %66
+│ 19 ─ %68  = $(Expr(:enter, #25))
+│ 20 ─ %69  = Main.App.joinpath("public", "uploads")
+│ │    %70  = Main.App.isdir(%69)
+│ └───        goto #22 if not %70
+│ 21 ─        goto #23
+│ 22 ─ %73  = Main.App.joinpath("public", "uploads")
+│ └───        Main.App.mkpath(%73)
+│ 23 ┄ %75  = Base.getindex(fileuploads, "path")
+│ │    %76  = Main.App.joinpath("public", "uploads", filename)
+│ │           Main.App.mv(%75, %76)
+│ └───        $(Expr(:leave, 1))
+│ 24 ─        goto #43
+│ 25 ┄        $(Expr(:leave, 1))
+│ 26 ─        e = $(Expr(:the_exception))
+│ │           Core.NewvarNode(:(msg@_17))
+│ │           Core.NewvarNode(:(kwargs@_18))
+│ │           Core.NewvarNode(:(line@_19))
+│ │           Core.NewvarNode(:(file@_20))
+│ │           Core.NewvarNode(:(id@_21))
+│ │           Core.NewvarNode(:(logger@_22))
+│ │           Core.NewvarNode(:(_module@_23))
+│ │           Core.NewvarNode(:(group@_24))
+│ │           level@_26 = Base.CoreLogging.Error
+│ │           std_level@_25 = level@_26
+│ │    %92  = std_level@_25
+│ │    %93  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %94  = %92 >= %93
+│ └───        goto #42 if not %94
+│ 27 ─        group@_24 = :app
+│ │           _module@_23 = Main.App
+│ │           logger@_22 = (Base.CoreLogging.current_logger_for_env)(std_level@_25, group@_24, _module@_23)
+│ │    %99  = logger@_22 === Base.CoreLogging.nothing
+│ │    %100 = !%99
+│ └───        goto #42 if not %100
+│ 28 ─        id@_21 = :Main_App_7f260d15
+│ │    %103 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_22, level@_26, _module@_23, group@_24, id@_21)
+│ └───        goto #42 if not %103
+│ 29 ─        file@_20 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %106 = file@_20 isa Base.CoreLogging.String
+│ └───        goto #31 if not %106
+│ 30 ─ %108 = Base.fixup_stdlib_path
+│ └───        file@_20 = (%108)(file@_20)
+│ 31 ┄        line@_19 = 59
+│ 32 ─ %111 = $(Expr(:enter, #35))
+│ 33 ─        msg@_17 = Base.string("Error processing file: ", e)
+│ │           kwargs@_18 = Core.NamedTuple()
+│ │           @_30 = true
+│ └───        $(Expr(:leave, 1))
+│ 34 ─        goto #37
+│ 35 ┄        $(Expr(:leave, 1))
+│ 36 ─        err@_27 = $(Expr(:the_exception))
+│ │           Base.invokelatest(Base.CoreLogging.logging_error, logger@_22, level@_26, _module@_23, group@_24, id@_21, file@_20, line@_19, err@_27, true)
+│ │           @_30 = false
+│ └───        $(Expr(:pop_exception, :(%111)))
+│ 37 ┄        goto #42 if not @_30
+│ 38 ─ %123 = Base.NamedTuple()
+│ │    %124 = Base.merge(%123, kwargs@_18)
+│ │    %125 = Base.isempty(%124)
+│ └───        goto #40 if not %125
+│ 39 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ └───        goto #41
+│ 40 ─        Core.kwcall(%124, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ 41 ┄        goto #42
+│ 42 ┄        Base.CoreLogging.nothing
+│ │    %132 = Core.getfield(#self#, :__model__)
+│ │    %133 = Base.getindex(fileuploads, "name")
+│ │    %134 = Base.string("Error processing file: ", %133)
+│ │           Main.App.notify(%132, %134)
+│ └───        $(Expr(:pop_exception, :(%68)))
+│ 43 ┄ %137 = Base.string("/uploads/", filename)
+│ │    %138 = Core.getfield(#self#, :__model__)
+│ │    %139 = Base.getproperty(%138, :upl_imgsrc)
+│ │           Base.setindex!(%139, %137)
+│ │    %141 = Core.apply_type(Main.App.Dict, Main.App.AbstractString, Main.App.AbstractString)
+│ │    %142 = (%141)()
+│ │    %143 = Core.getfield(#self#, :__model__)
+│ │    %144 = Base.getproperty(%143, :fileuploads)
+│ │           Base.setindex!(%144, %142)
+│ │    %146 = Core.getfield(#self#, :__model__)
+│ │    %147 = Base.getproperty(%146, :upl_imgsrc)
+│ │    %148 = Base.getindex(%147)
+│ │           value = %148
+│ │    %150 = Base.repr(%148)
+│ │           Base.println("__model__.upl_imgsrc[] = ", %150)
+│ └───        return value
+│ 44 ─        return nothing
+│ )]
+│ 
+│   Type of argument:
+│   Dict{AbstractString, AbstractString}
+│ 
+│   Value:
+│   Dict{AbstractString, AbstractString}("name" => "111series.csv", "channel" => "IMREQOJDANPUGCFBCBWSYOOHAYDQFOJG", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_Zc3YHYRazc")
+│ 
+│   Exception:
+│   UndefVarError(:Random)
+│ 
+│   exception = (UndefVarError(:Random), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffbf031ecf6, Ptr{Nothing} @0x00007ffbf02b3eaa, Ptr{Nothing} @0x00000229ec0f4f4a, Ptr{Nothing} @0x00000229ec0f5f32, Ptr{Nothing} @0x00007ffbf02a708a, Ptr{Nothing} @0x00000229ec0f27b5, Ptr{Nothing} @0x00000229ec0f328c, Ptr{Nothing} @0x00000229ec0f32ea, Ptr{Nothing} @0x00000229ec0f2418, Ptr{Nothing} @0x00000229ec0bfabd, Ptr{Nothing} @0x00000229ec0bfd8b, Ptr{Nothing} @0x00000229ec0a0b43, Ptr{Nothing} @0x00000229ec0a0fb7, Ptr{Nothing} @0x00000229ec0a104b, Ptr{Nothing} @0x00000229ec0a108f, Ptr{Nothing} @0x00000229ec08d932, Ptr{Nothing} @0x00000229ec08d98b, Ptr{Nothing} @0x00007ffbf02a708a, Ptr{Nothing} @0x00007ffb94a7f925, Ptr{Nothing} @0x00007ffb9498a6f0, Ptr{Nothing} @0x00007ffb94ae4d8b, Ptr{Nothing} @0x00000229989f4704, Ptr{Nothing} @0x00000229989f47d2, Ptr{Nothing} @0x00007ffbf02a708a, Ptr{Nothing} @0x00000229989ef5bf, Ptr{Nothing} @0x00000229989f193c, Ptr{Nothing} @0x00000229989f1f3b, Ptr{Nothing} @0x00007ffbf02bc68b])
+└ @ Stipple C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\stipple\mutators.jl:54
+┌ Info: 2024-07-18 00:51:47 removed
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:75
+┌ Info: 2024-07-18 00:51:51 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:72
+┌ Info: 2024-07-18 00:51:51 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:81
+┌ Info: 2024-07-18 00:51:51 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-18 00:51:51 uploaded
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:84
+┌ Info: 2024-07-18 00:51:51 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:87
+┌ Info: 2024-07-18 00:51:51 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "111series.csv", "channel" => "IMREQOJDANPUGCFBCBWSYOOHAYDQFOJG", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_dcbY5kFgR8")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Error: 2024-07-18 00:51:51 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#31":
+│  [1] (::Main.App.var"#31#32")(fileuploads)
+│      @ C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:1067
+│   Core.CodeInfo[CodeInfo(
+│ 1 ──        Core.NewvarNode(:(value))
+│ │           Core.NewvarNode(:(filename))
+│ │    %3   = Main.App.isempty(fileuploads)
+│ │    %4   = !%3
+│ └───        goto #44 if not %4
+│ 2 ──        Core.NewvarNode(:(msg@_5))
+│ │           Core.NewvarNode(:(kwargs@_6))
+│ │           Core.NewvarNode(:(line@_7))
+│ │           Core.NewvarNode(:(file@_8))
+│ │           Core.NewvarNode(:(id@_9))
+│ │           Core.NewvarNode(:(logger@_10))
+│ │           Core.NewvarNode(:(_module@_11))
+│ │           Core.NewvarNode(:(group@_12))
+│ │           level@_14 = Base.CoreLogging.Info
+│ │           std_level@_13 = level@_14
+│ │    %16  = std_level@_13
+│ │    %17  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %18  = %16 >= %17
+│ └───        goto #18 if not %18
+│ 3 ──        group@_12 = :app
+│ │           _module@_11 = Main.App
+│ │           logger@_10 = (Base.CoreLogging.current_logger_for_env)(std_level@_13, group@_12, _module@_11)
+│ │    %23  = logger@_10 === Base.CoreLogging.nothing
+│ │    %24  = !%23
+│ └───        goto #18 if not %24
+│ 4 ──        id@_9 = :Main_App_8fc45cd2
+│ │    %27  = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_10, level@_14, _module@_11, group@_12, id@_9)
+│ └───        goto #18 if not %27
+│ 5 ──        file@_8 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %30  = file@_8 isa Base.CoreLogging.String
+│ └───        goto #7 if not %30
+│ 6 ── %32  = Base.fixup_stdlib_path
+│ └───        file@_8 = (%32)(file@_8)
+│ 7 ┄─        line@_7 = 52
+│ │    %35  = $(Expr(:isdefined, :(fileuploads)))
+│ └───        goto #9 if not %35
+│ 8 ──        @_28 = nothing
+│ └───        goto #10
+│ 9 ──        @_28 = Core.UndefVarError(:fileuploads)
+│ 10 ┄ %40  = @_28
+│ │           err@_15 = %40
+│ │    %42  = err@_15 === Base.CoreLogging.nothing
+│ └───        goto #12 if not %42
+│ 11 ─        msg@_5 = "File was uploaded: "
+│ │    %45  = (:fileuploads,)
+│ │    %46  = Core.apply_type(Core.NamedTuple, %45)
+│ │    %47  = Core.tuple(fileuploads)
+│ │           kwargs@_6 = (%46)(%47)
+│ │           @_29 = true
+│ └───        goto #13
+│ 12 ─        Base.invokelatest(Base.CoreLogging.logging_error, logger@_10, level@_14, _module@_11, group@_12, id@_9, file@_8, line@_7, err@_15, false)
+│ └───        @_29 = false
+│ 13 ┄        goto #18 if not @_29
+│ 14 ─ %54  = Base.NamedTuple()
+│ │    %55  = Base.merge(%54, kwargs@_6)
+│ │    %56  = Base.isempty(%55)
+│ └───        goto #16 if not %56
+│ 15 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ └───        goto #17
+│ 16 ─        Core.kwcall(%55, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ 17 ┄        goto #18
+│ 18 ┄        Base.CoreLogging.nothing
+│ │    %63  = Base.getproperty(Main.App.Random, :randstring)
+│ │    %64  = (%63)(10)
+│ │    %65  = Base.getindex(fileuploads, "name")
+│ │    %66  = Main.App.base64encode(%65)
+│ └───        filename = %64 * "_" * %66
+│ 19 ─ %68  = $(Expr(:enter, #25))
+│ 20 ─ %69  = Main.App.joinpath("public", "uploads")
+│ │    %70  = Main.App.isdir(%69)
+│ └───        goto #22 if not %70
+│ 21 ─        goto #23
+│ 22 ─ %73  = Main.App.joinpath("public", "uploads")
+│ └───        Main.App.mkpath(%73)
+│ 23 ┄ %75  = Base.getindex(fileuploads, "path")
+│ │    %76  = Main.App.joinpath("public", "uploads", filename)
+│ │           Main.App.mv(%75, %76)
+│ └───        $(Expr(:leave, 1))
+│ 24 ─        goto #43
+│ 25 ┄        $(Expr(:leave, 1))
+│ 26 ─        e = $(Expr(:the_exception))
+│ │           Core.NewvarNode(:(msg@_17))
+│ │           Core.NewvarNode(:(kwargs@_18))
+│ │           Core.NewvarNode(:(line@_19))
+│ │           Core.NewvarNode(:(file@_20))
+│ │           Core.NewvarNode(:(id@_21))
+│ │           Core.NewvarNode(:(logger@_22))
+│ │           Core.NewvarNode(:(_module@_23))
+│ │           Core.NewvarNode(:(group@_24))
+│ │           level@_26 = Base.CoreLogging.Error
+│ │           std_level@_25 = level@_26
+│ │    %92  = std_level@_25
+│ │    %93  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %94  = %92 >= %93
+│ └───        goto #42 if not %94
+│ 27 ─        group@_24 = :app
+│ │           _module@_23 = Main.App
+│ │           logger@_22 = (Base.CoreLogging.current_logger_for_env)(std_level@_25, group@_24, _module@_23)
+│ │    %99  = logger@_22 === Base.CoreLogging.nothing
+│ │    %100 = !%99
+│ └───        goto #42 if not %100
+│ 28 ─        id@_21 = :Main_App_7f260d15
+│ │    %103 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_22, level@_26, _module@_23, group@_24, id@_21)
+│ └───        goto #42 if not %103
+│ 29 ─        file@_20 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %106 = file@_20 isa Base.CoreLogging.String
+│ └───        goto #31 if not %106
+│ 30 ─ %108 = Base.fixup_stdlib_path
+│ └───        file@_20 = (%108)(file@_20)
+│ 31 ┄        line@_19 = 59
+│ 32 ─ %111 = $(Expr(:enter, #35))
+│ 33 ─        msg@_17 = Base.string("Error processing file: ", e)
+│ │           kwargs@_18 = Core.NamedTuple()
+│ │           @_30 = true
+│ └───        $(Expr(:leave, 1))
+│ 34 ─        goto #37
+│ 35 ┄        $(Expr(:leave, 1))
+│ 36 ─        err@_27 = $(Expr(:the_exception))
+│ │           Base.invokelatest(Base.CoreLogging.logging_error, logger@_22, level@_26, _module@_23, group@_24, id@_21, file@_20, line@_19, err@_27, true)
+│ │           @_30 = false
+│ └───        $(Expr(:pop_exception, :(%111)))
+│ 37 ┄        goto #42 if not @_30
+│ 38 ─ %123 = Base.NamedTuple()
+│ │    %124 = Base.merge(%123, kwargs@_18)
+│ │    %125 = Base.isempty(%124)
+│ └───        goto #40 if not %125
+│ 39 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ └───        goto #41
+│ 40 ─        Core.kwcall(%124, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ 41 ┄        goto #42
+│ 42 ┄        Base.CoreLogging.nothing
+│ │    %132 = Core.getfield(#self#, :__model__)
+│ │    %133 = Base.getindex(fileuploads, "name")
+│ │    %134 = Base.string("Error processing file: ", %133)
+│ │           Main.App.notify(%132, %134)
+│ └───        $(Expr(:pop_exception, :(%68)))
+│ 43 ┄ %137 = Base.string("/uploads/", filename)
+│ │    %138 = Core.getfield(#self#, :__model__)
+│ │    %139 = Base.getproperty(%138, :upl_imgsrc)
+│ │           Base.setindex!(%139, %137)
+│ │    %141 = Core.apply_type(Main.App.Dict, Main.App.AbstractString, Main.App.AbstractString)
+│ │    %142 = (%141)()
+│ │    %143 = Core.getfield(#self#, :__model__)
+│ │    %144 = Base.getproperty(%143, :fileuploads)
+│ │           Base.setindex!(%144, %142)
+│ │    %146 = Core.getfield(#self#, :__model__)
+│ │    %147 = Base.getproperty(%146, :upl_imgsrc)
+│ │    %148 = Base.getindex(%147)
+│ │           value = %148
+│ │    %150 = Base.repr(%148)
+│ │           Base.println("__model__.upl_imgsrc[] = ", %150)
+│ └───        return value
+│ 44 ─        return nothing
+│ )]
+│ 
+│   Type of argument:
+│   Dict{AbstractString, AbstractString}
+│ 
+│   Value:
+│   Dict{AbstractString, AbstractString}("name" => "111series.csv", "channel" => "IMREQOJDANPUGCFBCBWSYOOHAYDQFOJG", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_dcbY5kFgR8")
+│ 
+│   Exception:
+│   UndefVarError(:Random)
+│ 
+│   exception = (UndefVarError(:Random), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffbf031ecf6, Ptr{Nothing} @0x00007ffbf02b3eaa, Ptr{Nothing} @0x00000229ec0f4f4a, Ptr{Nothing} @0x00000229ec0f5f32, Ptr{Nothing} @0x00007ffbf02a708a, Ptr{Nothing} @0x00000229ec0f27b5, Ptr{Nothing} @0x00000229ec0f328c, Ptr{Nothing} @0x00000229ec0f32ea, Ptr{Nothing} @0x00000229ec0f2418, Ptr{Nothing} @0x00000229ec0bfabd, Ptr{Nothing} @0x00000229ec0bfd8b, Ptr{Nothing} @0x00000229ec0a0b43, Ptr{Nothing} @0x00000229ec0a0fb7, Ptr{Nothing} @0x00000229ec0a104b, Ptr{Nothing} @0x00000229ec0a108f, Ptr{Nothing} @0x00000229ec08d932, Ptr{Nothing} @0x00000229ec08d98b, Ptr{Nothing} @0x00007ffbf02a708a, Ptr{Nothing} @0x00007ffb94a7f925, Ptr{Nothing} @0x00007ffb9498a6f0, Ptr{Nothing} @0x00007ffb94ae4d8b, Ptr{Nothing} @0x00000229989f4704, Ptr{Nothing} @0x00000229989f47d2, Ptr{Nothing} @0x00007ffbf02a708a, Ptr{Nothing} @0x00000229989ef5bf, Ptr{Nothing} @0x00000229989f193c, Ptr{Nothing} @0x00000229989f1f3b, Ptr{Nothing} @0x00007ffbf02bc68b])
+└ @ Stipple C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\stipple\mutators.jl:54
+┌ Info: 2024-07-18 00:51:52 removed
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:75
+┌ Info: 2024-07-18 00:54:02 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 00:54:02 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 00:56:28 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 00:56:28 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 00:56:45 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 00:56:45 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 00:57:06 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 00:57:06 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 00:57:39 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 00:57:39 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 00:57:42 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 00:57:42 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Error: 2024-07-18 01:03:10 Failed to revise c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl
+│   exception = Revise.ReviseEvalException("c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl:4", ArgumentError("Package StippleDownloads not found in current path.\n- Run `import Pkg; Pkg.add(\"StippleDownloads\")` to install the StippleDownloads package."), Any[(top-level scope at app.jl:4, 1)])
+└ @ Revise C:\Users\kaele\.julia\packages\Revise\W4D4d\src\packagedef.jl:722
+┌ Warning: 2024-07-18 01:03:12 The running code does not match the saved version for the following files:
+│ 
+│   c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl
+│ 
+│ If the error was due to evaluation order, it can sometimes be resolved by calling `Revise.retry()`.
+│ Use Revise.errors() to report errors again. Only the first error in each file is shown.
+│ Your prompt color may be yellow until the errors are resolved.
+└ @ Revise C:\Users\kaele\.julia\packages\Revise\W4D4d\src\packagedef.jl:832
+┌ Error: 2024-07-18 01:03:12 Failed to revise c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl
+│   exception = Revise.ReviseEvalException("c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl:4", ArgumentError("Package StippleDownloads not found in current path.\n- Run `import Pkg; Pkg.add(\"StippleDownloads\")` to install the StippleDownloads package."), Any[(top-level scope at app.jl:4, 1)])
+└ @ Revise C:\Users\kaele\.julia\packages\Revise\W4D4d\src\packagedef.jl:722
+┌ Info: 2024-07-18 01:48:57 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 01:49:02 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 01:49:06 
+│ Web Server starting at http://127.0.0.1:9104?CHANNEL__=VNSNBCDRBNPUEIPTYLBRHWNRGILNZHBT 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-18 01:49:51 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 01:49:54 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 01:51:25 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Error: 2024-07-18 02:01:22 InterruptException()
+└ @ Main none:55
+ckages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 01:50:31 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 01:55:53 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 01:55:54 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 01:55:58 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=FYZHMCHQYPMDUNZTMYHTXVKBPGGIDKCT 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-18 01:55:58 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-18 01:57:34 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 01:57:35 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 01:57:39 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=FYZHMCHQYPMDUNZTMYHTXVKBPGGIDKCT 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-18 01:57:39 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-18 02:00:53 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 02:00:54 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 02:00:58 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=ZDBALRNYCCRZJXHKJJUMGZLHGEHHUAKF 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-18 02:00:58 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-18 02:04:40 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 02:05:17 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 11:46:06 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 11:46:08 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 11:46:12 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=FLNWMHZMISVLJXORVWVWTMLSTXQITVCY 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-18 11:46:12 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-18 11:49:28 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 11:49:29 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 11:49:33 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=NYCNSCIMAAXPGXLDPQOLXCAMGKXFIGJE 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-18 11:49:33 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-18 11:50:17 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 11:50:18 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 11:50:22 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=NYCNSCIMAAXPGXLDPQOLXCAMGKXFIGJE 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-18 11:50:22 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-18 11:57:28 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 11:57:30 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 11:57:36 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=NYCNSCIMAAXPGXLDPQOLXCAMGKXFIGJE 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-18 11:57:36 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-18 11:59:49 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 11:59:51 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 11:59:55 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=NYCNSCIMAAXPGXLDPQOLXCAMGKXFIGJE 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-18 11:59:56 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-18 12:04:06 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 12:04:07 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 12:04:12 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=LKCODULJWFROHWULGQEKYNIJJZDKKZPM 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-18 12:04:13 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-18 12:05:09 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 12:05:11 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 12:05:20 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 12:05:20 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 12:05:21 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=LKCODULJWFROHWULGQEKYNIJJZDKKZPM 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-18 12:05:21 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-18 12:06:11 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 12:06:11 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 12:09:02 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 12:09:03 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 12:09:12 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 12:09:12 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 12:09:14 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=LKCODULJWFROHWULGQEKYNIJJZDKKZPM 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-18 12:09:14 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-18 12:10:22 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 12:10:23 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 12:10:32 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 12:10:32 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 12:10:34 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=LKCODULJWFROHWULGQEKYNIJJZDKKZPM 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-18 12:10:34 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-18 12:11:48 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 12:11:50 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 12:12:00 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 12:12:00 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 12:12:01 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=LKCODULJWFROHWULGQEKYNIJJZDKKZPM 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-18 12:12:01 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-18 12:14:00 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 12:14:01 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 12:14:10 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 12:14:10 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 12:14:12 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=LKCODULJWFROHWULGQEKYNIJJZDKKZPM 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-18 12:14:12 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-18 12:16:14 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 12:16:16 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 12:16:24 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 12:16:24 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 12:16:26 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=LKCODULJWFROHWULGQEKYNIJJZDKKZPM 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-18 12:16:26 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Error: 2024-07-18 12:18:34 Failed to revise c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl
+│   exception = Revise.ReviseEvalException("c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl:5", ArgumentError("Package StippleLatex not found in current path.\n- Run `import Pkg; Pkg.add(\"StippleLatex\")` to install the StippleLatex package."), Any[(top-level scope at app.jl:5, 1)])
+└ @ Revise C:\Users\kaele\.julia\packages\Revise\W4D4d\src\packagedef.jl:722
+┌ Warning: 2024-07-18 12:18:36 The running code does not match the saved version for the following files:
+│ 
+│   c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl
+│ 
+│ If the error was due to evaluation order, it can sometimes be resolved by calling `Revise.retry()`.
+│ Use Revise.errors() to report errors again. Only the first error in each file is shown.
+│ Your prompt color may be yellow until the errors are resolved.
+└ @ Revise C:\Users\kaele\.julia\packages\Revise\W4D4d\src\packagedef.jl:832
+┌ Error: 2024-07-18 12:24:12 Failed to revise c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl
+│   exception = Revise.ReviseEvalException("c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl:5", ArgumentError("Package StippleLatex not found in current path.\n- Run `import Pkg; Pkg.add(\"StippleLatex\")` to install the StippleLatex package."), Any[(top-level scope at app.jl:5, 1)])
+└ @ Revise C:\Users\kaele\.julia\packages\Revise\W4D4d\src\packagedef.jl:722
+┌ Error: 2024-07-18 12:24:34 Failed to revise c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl
+│   exception = Revise.ReviseEvalException("c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl:5", ArgumentError("Package StippleLatex not found in current path.\n- Run `import Pkg; Pkg.add(\"StippleLatex\")` to install the StippleLatex package."), Any[(top-level scope at app.jl:5, 1)])
+└ @ Revise C:\Users\kaele\.julia\packages\Revise\W4D4d\src\packagedef.jl:722
+┌ Error: 2024-07-18 12:25:38 Failed to revise c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl
+│   exception = Revise.ReviseEvalException("c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl:5", ArgumentError("Package StippleDownloads not found in current path.\n- Run `import Pkg; Pkg.add(\"StippleDownloads\")` to install the StippleDownloads package."), Any[(top-level scope at app.jl:5, 1)])
+└ @ Revise C:\Users\kaele\.julia\packages\Revise\W4D4d\src\packagedef.jl:722
+┌ Info: 2024-07-18 12:26:31 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 12:26:32 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 12:26:37 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=LKCODULJWFROHWULGQEKYNIJJZDKKZPM 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-18 12:26:38 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-18 12:28:40 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 12:28:41 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 12:28:45 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 12:28:46 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 12:28:47 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=LKCODULJWFROHWULGQEKYNIJJZDKKZPM 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-18 12:28:47 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-18 12:31:51 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 12:31:52 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 12:31:56 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 12:31:56 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 12:31:58 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=LKCODULJWFROHWULGQEKYNIJJZDKKZPM 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-18 12:31:58 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-18 12:32:14 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 12:32:14 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 12:32:45 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 12:32:46 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 12:32:53 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 12:32:53 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 12:32:55 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=LKCODULJWFROHWULGQEKYNIJJZDKKZPM 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-18 12:32:55 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-18 12:35:52 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 12:35:53 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 12:36:04 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 12:36:04 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 12:36:06 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=LKCODULJWFROHWULGQEKYNIJJZDKKZPM 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-18 12:36:06 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Error: 2024-07-18 12:37:08 Failed to revise c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl
+│   exception = (LoadError("c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl", 8, UndefVarError(Symbol("@load"))), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\kaele\.julia\packages\Revise\W4D4d\src\packagedef.jl:724
+┌ Warning: 2024-07-18 12:37:11 The running code does not match the saved version for the following files:
+│ 
+│   c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl
+│ 
+│ If the error was due to evaluation order, it can sometimes be resolved by calling `Revise.retry()`.
+│ Use Revise.errors() to report errors again. Only the first error in each file is shown.
+│ Your prompt color may be yellow until the errors are resolved.
+└ @ Revise C:\Users\kaele\.julia\packages\Revise\W4D4d\src\packagedef.jl:832
+┌ Info: 2024-07-18 12:38:29 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 12:38:30 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 12:38:40 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 12:38:40 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 12:38:42 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=LKCODULJWFROHWULGQEKYNIJJZDKKZPM 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-18 12:38:42 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Error: 2024-07-18 13:06:41 Failed to revise c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl
+│   exception = (LoadError("c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl", 8, UndefVarError(Symbol("@load"))), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise C:\Users\kaele\.julia\packages\Revise\W4D4d\src\packagedef.jl:724
+┌ Warning: 2024-07-18 13:06:43 The running code does not match the saved version for the following files:
+│ 
+│   c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl
+│ 
+│ If the error was due to evaluation order, it can sometimes be resolved by calling `Revise.retry()`.
+│ Use Revise.errors() to report errors again. Only the first error in each file is shown.
+│ Your prompt color may be yellow until the errors are resolved.
+└ @ Revise C:\Users\kaele\.julia\packages\Revise\W4D4d\src\packagedef.jl:832
+┌ Info: 2024-07-18 13:06:59 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 13:07:00 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 13:07:02 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 13:07:02 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 13:07:03 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=LKCODULJWFROHWULGQEKYNIJJZDKKZPM 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-18 13:07:03 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-18 13:08:42 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 13:08:42 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 13:08:53 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 13:08:54 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 13:08:59 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 13:08:59 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 13:09:00 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=LKCODULJWFROHWULGQEKYNIJJZDKKZPM 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-18 13:09:00 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-18 13:10:19 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 13:10:19 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 13:10:51 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 13:10:51 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 13:11:39 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 13:11:39 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 13:12:07 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 13:12:07 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 13:12:55 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 13:12:55 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 13:13:35 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 13:13:35 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 13:31:05 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 13:31:05 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 13:31:22 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:72
+┌ Info: 2024-07-18 13:31:22 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:81
+┌ Info: 2024-07-18 13:31:22 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-18 13:31:23 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "111.csv", "channel" => "LKCODULJWFROHWULGQEKYNIJJZDKKZPM", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_GzuZub4pON")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Error: 2024-07-18 13:31:24 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#236":
+│  [1] (::Main.App.var"#236#239")(fileuploads)
+│      @ C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:794
+│   Core.CodeInfo[CodeInfo(
+│ 1 ──        Core.NewvarNode(:(value))
+│ │           Core.NewvarNode(:(upl_filesrc))
+│ │           Core.NewvarNode(:(filename))
+│ │    %4   = Main.App.isempty(fileuploads)
+│ │    %5   = !%4
+│ └───        goto #44 if not %5
+│ 2 ──        Core.NewvarNode(:(msg@_6))
+│ │           Core.NewvarNode(:(kwargs@_7))
+│ │           Core.NewvarNode(:(line@_8))
+│ │           Core.NewvarNode(:(file@_9))
+│ │           Core.NewvarNode(:(id@_10))
+│ │           Core.NewvarNode(:(logger@_11))
+│ │           Core.NewvarNode(:(_module@_12))
+│ │           Core.NewvarNode(:(group@_13))
+│ │           level@_15 = Base.CoreLogging.Info
+│ │           std_level@_14 = level@_15
+│ │    %17  = std_level@_14
+│ │    %18  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %19  = %17 >= %18
+│ └───        goto #18 if not %19
+│ 3 ──        group@_13 = :app
+│ │           _module@_12 = Main.App
+│ │           logger@_11 = (Base.CoreLogging.current_logger_for_env)(std_level@_14, group@_13, _module@_12)
+│ │    %24  = logger@_11 === Base.CoreLogging.nothing
+│ │    %25  = !%24
+│ └───        goto #18 if not %25
+│ 4 ──        id@_10 = :Main_App_8fc45cd5
+│ │    %28  = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_11, level@_15, _module@_12, group@_13, id@_10)
+│ └───        goto #18 if not %28
+│ 5 ──        file@_9 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %31  = file@_9 isa Base.CoreLogging.String
+│ └───        goto #7 if not %31
+│ 6 ── %33  = Base.fixup_stdlib_path
+│ └───        file@_9 = (%33)(file@_9)
+│ 7 ┄─        line@_8 = 52
+│ │    %36  = $(Expr(:isdefined, :(fileuploads)))
+│ └───        goto #9 if not %36
+│ 8 ──        @_29 = nothing
+│ └───        goto #10
+│ 9 ──        @_29 = Core.UndefVarError(:fileuploads)
+│ 10 ┄ %41  = @_29
+│ │           err@_16 = %41
+│ │    %43  = err@_16 === Base.CoreLogging.nothing
+│ └───        goto #12 if not %43
+│ 11 ─        msg@_6 = "File was uploaded: "
+│ │    %46  = (:fileuploads,)
+│ │    %47  = Core.apply_type(Core.NamedTuple, %46)
+│ │    %48  = Core.tuple(fileuploads)
+│ │           kwargs@_7 = (%47)(%48)
+│ │           @_30 = true
+│ └───        goto #13
+│ 12 ─        Base.invokelatest(Base.CoreLogging.logging_error, logger@_11, level@_15, _module@_12, group@_13, id@_10, file@_9, line@_8, err@_16, false)
+│ └───        @_30 = false
+│ 13 ┄        goto #18 if not @_30
+│ 14 ─ %55  = Base.NamedTuple()
+│ │    %56  = Base.merge(%55, kwargs@_7)
+│ │    %57  = Base.isempty(%56)
+│ └───        goto #16 if not %57
+│ 15 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_11, level@_15, msg@_6, _module@_12, group@_13, id@_10, file@_9, line@_8)
+│ └───        goto #17
+│ 16 ─        Core.kwcall(%56, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_11, level@_15, msg@_6, _module@_12, group@_13, id@_10, file@_9, line@_8)
+│ 17 ┄        goto #18
+│ 18 ┄        Base.CoreLogging.nothing
+│ │    %64  = Base.getproperty(Main.App.Random, :randstring)
+│ │    %65  = (%64)(10)
+│ │    %66  = Base.getindex(fileuploads, "name")
+│ │    %67  = Main.App.base64encode(%66)
+│ └───        filename = %65 * "_" * %67
+│ 19 ─ %69  = $(Expr(:enter, #25))
+│ 20 ─ %70  = Main.App.joinpath("public", "uploads")
+│ │    %71  = Main.App.isdir(%70)
+│ └───        goto #22 if not %71
+│ 21 ─        goto #23
+│ 22 ─ %74  = Main.App.joinpath("public", "uploads")
+│ └───        Main.App.mkpath(%74)
+│ 23 ┄ %76  = Base.getindex(fileuploads, "path")
+│ │    %77  = Main.App.joinpath("public", "uploads", filename)
+│ │           Main.App.mv(%76, %77)
+│ └───        $(Expr(:leave, 1))
+│ 24 ─        goto #43
+│ 25 ┄        $(Expr(:leave, 1))
+│ 26 ─        e = $(Expr(:the_exception))
+│ │           Core.NewvarNode(:(msg@_18))
+│ │           Core.NewvarNode(:(kwargs@_19))
+│ │           Core.NewvarNode(:(line@_20))
+│ │           Core.NewvarNode(:(file@_21))
+│ │           Core.NewvarNode(:(id@_22))
+│ │           Core.NewvarNode(:(logger@_23))
+│ │           Core.NewvarNode(:(_module@_24))
+│ │           Core.NewvarNode(:(group@_25))
+│ │           level@_27 = Base.CoreLogging.Error
+│ │           std_level@_26 = level@_27
+│ │    %93  = std_level@_26
+│ │    %94  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %95  = %93 >= %94
+│ └───        goto #42 if not %95
+│ 27 ─        group@_25 = :app
+│ │           _module@_24 = Main.App
+│ │           logger@_23 = (Base.CoreLogging.current_logger_for_env)(std_level@_26, group@_25, _module@_24)
+│ │    %100 = logger@_23 === Base.CoreLogging.nothing
+│ │    %101 = !%100
+│ └───        goto #42 if not %101
+│ 28 ─        id@_22 = :Main_App_7f260d18
+│ │    %104 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_23, level@_27, _module@_24, group@_25, id@_22)
+│ └───        goto #42 if not %104
+│ 29 ─        file@_21 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %107 = file@_21 isa Base.CoreLogging.String
+│ └───        goto #31 if not %107
+│ 30 ─ %109 = Base.fixup_stdlib_path
+│ └───        file@_21 = (%109)(file@_21)
+│ 31 ┄        line@_20 = 59
+│ 32 ─ %112 = $(Expr(:enter, #35))
+│ 33 ─        msg@_18 = Base.string("Error processing file: ", e)
+│ │           kwargs@_19 = Core.NamedTuple()
+│ │           @_31 = true
+│ └───        $(Expr(:leave, 1))
+│ 34 ─        goto #37
+│ 35 ┄        $(Expr(:leave, 1))
+│ 36 ─        err@_28 = $(Expr(:the_exception))
+│ │           Base.invokelatest(Base.CoreLogging.logging_error, logger@_23, level@_27, _module@_24, group@_25, id@_22, file@_21, line@_20, err@_28, true)
+│ │           @_31 = false
+│ └───        $(Expr(:pop_exception, :(%112)))
+│ 37 ┄        goto #42 if not @_31
+│ 38 ─ %124 = Base.NamedTuple()
+│ │    %125 = Base.merge(%124, kwargs@_19)
+│ │    %126 = Base.isempty(%125)
+│ └───        goto #40 if not %126
+│ 39 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_23, level@_27, msg@_18, _module@_24, group@_25, id@_22, file@_21, line@_20)
+│ └───        goto #41
+│ 40 ─        Core.kwcall(%125, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_23, level@_27, msg@_18, _module@_24, group@_25, id@_22, file@_21, line@_20)
+│ 41 ┄        goto #42
+│ 42 ┄        Base.CoreLogging.nothing
+│ │    %133 = Core.getfield(#self#, :__model__)
+│ │    %134 = Base.getindex(fileuploads, "name")
+│ │    %135 = Base.string("Error processing file: ", %134)
+│ │           Main.App.notify(%133, %135)
+│ └───        $(Expr(:pop_exception, :(%69)))
+│ 43 ┄        upl_filesrc = Base.string("/uploads/", filename)
+│ │    %139 = Core.apply_type(Main.App.Dict, Main.App.AbstractString, Main.App.AbstractString)
+│ │    %140 = (%139)()
+│ │    %141 = Core.getfield(#self#, :__model__)
+│ │    %142 = Base.getproperty(%141, :fileuploads)
+│ │           Base.setindex!(%142, %140)
+│ │           value = upl_filesrc
+│ │    %145 = upl_filesrc
+│ │    %146 = Base.repr(%145)
+│ │           Base.println("upl_filesrc = ", %146)
+│ └───        return value
+│ 44 ─        return nothing
+│ )]
+│ 
+│   Type of argument:
+│   Dict{AbstractString, AbstractString}
+│ 
+│   Value:
+│   Dict{AbstractString, AbstractString}("name" => "111.csv", "channel" => "LKCODULJWFROHWULGQEKYNIJJZDKKZPM", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_GzuZub4pON")
+│ 
+│   Exception:
+│   UndefVarError(:Random)
+│ 
+│   exception = (UndefVarError(:Random), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffbbc83ecf6, Ptr{Nothing} @0x00007ffbbc7d3eaa, Ptr{Nothing} @0x000001b7d7cf0c5a, Ptr{Nothing} @0x000001b7d7cf1c22, Ptr{Nothing} @0x00007ffbbc7c708a, Ptr{Nothing} @0x000001b7d7cef2b5, Ptr{Nothing} @0x000001b7d7cefd8c, Ptr{Nothing} @0x000001b7d7cefdea, Ptr{Nothing} @0x000001b7d7ceef18, Ptr{Nothing} @0x000001b7d7cdf8dd, Ptr{Nothing} @0x000001b7d7cdfbab, Ptr{Nothing} @0x000001b7d2cd4ef3, Ptr{Nothing} @0x000001b7d2cd5367, Ptr{Nothing} @0x000001b7d2cd53fb, Ptr{Nothing} @0x000001b7d2cd543f, Ptr{Nothing} @0x000001b7d2cb80f2, Ptr{Nothing} @0x000001b7d2cb814b, Ptr{Nothing} @0x00007ffbbc7c708a, Ptr{Nothing} @0x00007ffb806cf925, Ptr{Nothing} @0x00007ffb805da6f0, Ptr{Nothing} @0x00007ffb80734d8b, Ptr{Nothing} @0x000001b7ff36df44, Ptr{Nothing} @0x000001b7ff36e012, Ptr{Nothing} @0x00007ffbbc7c708a, Ptr{Nothing} @0x000001b7ff368bfc, Ptr{Nothing} @0x000001b7ff36b14c, Ptr{Nothing} @0x000001b7ff36b74b, Ptr{Nothing} @0x00007ffbbc7dc68b])
+└ @ Stipple C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\stipple\mutators.jl:54
+┌ Info: 2024-07-18 13:31:24 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "111.csv", "channel" => "LKCODULJWFROHWULGQEKYNIJJZDKKZPM", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_GzuZub4pON")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Error: 2024-07-18 13:31:24 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#236":
+│  [1] (::Main.App.var"#236#239")(fileuploads)
+│      @ C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:794
+│   Core.CodeInfo[CodeInfo(
+│ 1 ──        Core.NewvarNode(:(value))
+│ │           Core.NewvarNode(:(upl_filesrc))
+│ │           Core.NewvarNode(:(filename))
+│ │    %4   = Main.App.isempty(fileuploads)
+│ │    %5   = !%4
+│ └───        goto #44 if not %5
+│ 2 ──        Core.NewvarNode(:(msg@_6))
+│ │           Core.NewvarNode(:(kwargs@_7))
+│ │           Core.NewvarNode(:(line@_8))
+│ │           Core.NewvarNode(:(file@_9))
+│ │           Core.NewvarNode(:(id@_10))
+│ │           Core.NewvarNode(:(logger@_11))
+│ │           Core.NewvarNode(:(_module@_12))
+│ │           Core.NewvarNode(:(group@_13))
+│ │           level@_15 = Base.CoreLogging.Info
+│ │           std_level@_14 = level@_15
+│ │    %17  = std_level@_14
+│ │    %18  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %19  = %17 >= %18
+│ └───        goto #18 if not %19
+│ 3 ──        group@_13 = :app
+│ │           _module@_12 = Main.App
+│ │           logger@_11 = (Base.CoreLogging.current_logger_for_env)(std_level@_14, group@_13, _module@_12)
+│ │    %24  = logger@_11 === Base.CoreLogging.nothing
+│ │    %25  = !%24
+│ └───        goto #18 if not %25
+│ 4 ──        id@_10 = :Main_App_8fc45cd5
+│ │    %28  = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_11, level@_15, _module@_12, group@_13, id@_10)
+│ └───        goto #18 if not %28
+│ 5 ──        file@_9 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %31  = file@_9 isa Base.CoreLogging.String
+│ └───        goto #7 if not %31
+│ 6 ── %33  = Base.fixup_stdlib_path
+│ └───        file@_9 = (%33)(file@_9)
+│ 7 ┄─        line@_8 = 52
+│ │    %36  = $(Expr(:isdefined, :(fileuploads)))
+│ └───        goto #9 if not %36
+│ 8 ──        @_29 = nothing
+│ └───        goto #10
+│ 9 ──        @_29 = Core.UndefVarError(:fileuploads)
+│ 10 ┄ %41  = @_29
+│ │           err@_16 = %41
+│ │    %43  = err@_16 === Base.CoreLogging.nothing
+│ └───        goto #12 if not %43
+│ 11 ─        msg@_6 = "File was uploaded: "
+│ │    %46  = (:fileuploads,)
+│ │    %47  = Core.apply_type(Core.NamedTuple, %46)
+│ │    %48  = Core.tuple(fileuploads)
+│ │           kwargs@_7 = (%47)(%48)
+│ │           @_30 = true
+│ └───        goto #13
+│ 12 ─        Base.invokelatest(Base.CoreLogging.logging_error, logger@_11, level@_15, _module@_12, group@_13, id@_10, file@_9, line@_8, err@_16, false)
+│ └───        @_30 = false
+│ 13 ┄        goto #18 if not @_30
+│ 14 ─ %55  = Base.NamedTuple()
+│ │    %56  = Base.merge(%55, kwargs@_7)
+│ │    %57  = Base.isempty(%56)
+│ └───        goto #16 if not %57
+│ 15 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_11, level@_15, msg@_6, _module@_12, group@_13, id@_10, file@_9, line@_8)
+│ └───        goto #17
+│ 16 ─        Core.kwcall(%56, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_11, level@_15, msg@_6, _module@_12, group@_13, id@_10, file@_9, line@_8)
+│ 17 ┄        goto #18
+│ 18 ┄        Base.CoreLogging.nothing
+│ │    %64  = Base.getproperty(Main.App.Random, :randstring)
+│ │    %65  = (%64)(10)
+│ │    %66  = Base.getindex(fileuploads, "name")
+│ │    %67  = Main.App.base64encode(%66)
+│ └───        filename = %65 * "_" * %67
+│ 19 ─ %69  = $(Expr(:enter, #25))
+│ 20 ─ %70  = Main.App.joinpath("public", "uploads")
+│ │    %71  = Main.App.isdir(%70)
+│ └───        goto #22 if not %71
+│ 21 ─        goto #23
+│ 22 ─ %74  = Main.App.joinpath("public", "uploads")
+│ └───        Main.App.mkpath(%74)
+│ 23 ┄ %76  = Base.getindex(fileuploads, "path")
+│ │    %77  = Main.App.joinpath("public", "uploads", filename)
+│ │           Main.App.mv(%76, %77)
+│ └───        $(Expr(:leave, 1))
+│ 24 ─        goto #43
+│ 25 ┄        $(Expr(:leave, 1))
+│ 26 ─        e = $(Expr(:the_exception))
+│ │           Core.NewvarNode(:(msg@_18))
+│ │           Core.NewvarNode(:(kwargs@_19))
+│ │           Core.NewvarNode(:(line@_20))
+│ │           Core.NewvarNode(:(file@_21))
+│ │           Core.NewvarNode(:(id@_22))
+│ │           Core.NewvarNode(:(logger@_23))
+│ │           Core.NewvarNode(:(_module@_24))
+│ │           Core.NewvarNode(:(group@_25))
+│ │           level@_27 = Base.CoreLogging.Error
+│ │           std_level@_26 = level@_27
+│ │    %93  = std_level@_26
+│ │    %94  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %95  = %93 >= %94
+│ └───        goto #42 if not %95
+│ 27 ─        group@_25 = :app
+│ │           _module@_24 = Main.App
+│ │           logger@_23 = (Base.CoreLogging.current_logger_for_env)(std_level@_26, group@_25, _module@_24)
+│ │    %100 = logger@_23 === Base.CoreLogging.nothing
+│ │    %101 = !%100
+│ └───        goto #42 if not %101
+│ 28 ─        id@_22 = :Main_App_7f260d18
+│ │    %104 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_23, level@_27, _module@_24, group@_25, id@_22)
+│ └───        goto #42 if not %104
+│ 29 ─        file@_21 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %107 = file@_21 isa Base.CoreLogging.String
+│ └───        goto #31 if not %107
+│ 30 ─ %109 = Base.fixup_stdlib_path
+│ └───        file@_21 = (%109)(file@_21)
+│ 31 ┄        line@_20 = 59
+│ 32 ─ %112 = $(Expr(:enter, #35))
+│ 33 ─        msg@_18 = Base.string("Error processing file: ", e)
+│ │           kwargs@_19 = Core.NamedTuple()
+│ │           @_31 = true
+│ └───        $(Expr(:leave, 1))
+│ 34 ─        goto #37
+│ 35 ┄        $(Expr(:leave, 1))
+│ 36 ─        err@_28 = $(Expr(:the_exception))
+│ │           Base.invokelatest(Base.CoreLogging.logging_error, logger@_23, level@_27, _module@_24, group@_25, id@_22, file@_21, line@_20, err@_28, true)
+│ │           @_31 = false
+│ └───        $(Expr(:pop_exception, :(%112)))
+│ 37 ┄        goto #42 if not @_31
+│ 38 ─ %124 = Base.NamedTuple()
+│ │    %125 = Base.merge(%124, kwargs@_19)
+│ │    %126 = Base.isempty(%125)
+│ └───        goto #40 if not %126
+│ 39 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_23, level@_27, msg@_18, _module@_24, group@_25, id@_22, file@_21, line@_20)
+│ └───        goto #41
+│ 40 ─        Core.kwcall(%125, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_23, level@_27, msg@_18, _module@_24, group@_25, id@_22, file@_21, line@_20)
+│ 41 ┄        goto #42
+│ 42 ┄        Base.CoreLogging.nothing
+│ │    %133 = Core.getfield(#self#, :__model__)
+│ │    %134 = Base.getindex(fileuploads, "name")
+│ │    %135 = Base.string("Error processing file: ", %134)
+│ │           Main.App.notify(%133, %135)
+│ └───        $(Expr(:pop_exception, :(%69)))
+│ 43 ┄        upl_filesrc = Base.string("/uploads/", filename)
+│ │    %139 = Core.apply_type(Main.App.Dict, Main.App.AbstractString, Main.App.AbstractString)
+│ │    %140 = (%139)()
+│ │    %141 = Core.getfield(#self#, :__model__)
+│ │    %142 = Base.getproperty(%141, :fileuploads)
+│ │           Base.setindex!(%142, %140)
+│ │           value = upl_filesrc
+│ │    %145 = upl_filesrc
+│ │    %146 = Base.repr(%145)
+│ │           Base.println("upl_filesrc = ", %146)
+│ └───        return value
+│ 44 ─        return nothing
+│ )]
+│ 
+│   Type of argument:
+│   Dict{AbstractString, AbstractString}
+│ 
+│   Value:
+│   Dict{AbstractString, AbstractString}("name" => "111.csv", "channel" => "LKCODULJWFROHWULGQEKYNIJJZDKKZPM", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_GzuZub4pON")
+│ 
+│   Exception:
+│   UndefVarError(:Random)
+│ 
+│   exception = (UndefVarError(:Random), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffbbc83ecf6, Ptr{Nothing} @0x00007ffbbc7d3eaa, Ptr{Nothing} @0x000001b7d7cf0c5a, Ptr{Nothing} @0x000001b7d7cf1c22, Ptr{Nothing} @0x00007ffbbc7c708a, Ptr{Nothing} @0x000001b7d7cef2b5, Ptr{Nothing} @0x000001b7d7cefd8c, Ptr{Nothing} @0x000001b7d7cefdea, Ptr{Nothing} @0x000001b7d7ceef18, Ptr{Nothing} @0x000001b7d7cdf8dd, Ptr{Nothing} @0x000001b7d7cdfbab, Ptr{Nothing} @0x000001b7d2cd4ef3, Ptr{Nothing} @0x000001b7d2cd5367, Ptr{Nothing} @0x000001b7d2cd53fb, Ptr{Nothing} @0x000001b7d2cd543f, Ptr{Nothing} @0x000001b7d2cb80f2, Ptr{Nothing} @0x000001b7d2cb814b, Ptr{Nothing} @0x00007ffbbc7c708a, Ptr{Nothing} @0x00007ffb806cf925, Ptr{Nothing} @0x00007ffb805da6f0, Ptr{Nothing} @0x00007ffb80734d8b, Ptr{Nothing} @0x000001b7ff36df44, Ptr{Nothing} @0x000001b7ff36e012, Ptr{Nothing} @0x00007ffbbc7c708a, Ptr{Nothing} @0x000001b7ff368bfc, Ptr{Nothing} @0x000001b7ff36b14c, Ptr{Nothing} @0x000001b7ff36b74b, Ptr{Nothing} @0x00007ffbbc7dc68b])
+└ @ Stipple C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\stipple\mutators.jl:54
+┌ Info: 2024-07-18 13:31:24 uploaded
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:84
+┌ Info: 2024-07-18 13:31:24 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:87
+┌ Info: 2024-07-18 13:32:56 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:72
+┌ Info: 2024-07-18 13:32:56 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:81
+┌ Info: 2024-07-18 13:32:56 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "111.csv", "channel" => "LKCODULJWFROHWULGQEKYNIJJZDKKZPM", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_wXOj6zW1mB")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Error: 2024-07-18 13:32:56 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#236":
+│  [1] (::Main.App.var"#236#239")(fileuploads)
+│      @ C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:794
+│   Core.CodeInfo[CodeInfo(
+│ 1 ──        Core.NewvarNode(:(value))
+│ │           Core.NewvarNode(:(upl_filesrc))
+│ │           Core.NewvarNode(:(filename))
+│ │    %4   = Main.App.isempty(fileuploads)
+│ │    %5   = !%4
+│ └───        goto #44 if not %5
+│ 2 ──        Core.NewvarNode(:(msg@_6))
+│ │           Core.NewvarNode(:(kwargs@_7))
+│ │           Core.NewvarNode(:(line@_8))
+│ │           Core.NewvarNode(:(file@_9))
+│ │           Core.NewvarNode(:(id@_10))
+│ │           Core.NewvarNode(:(logger@_11))
+│ │           Core.NewvarNode(:(_module@_12))
+│ │           Core.NewvarNode(:(group@_13))
+│ │           level@_15 = Base.CoreLogging.Info
+│ │           std_level@_14 = level@_15
+│ │    %17  = std_level@_14
+│ │    %18  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %19  = %17 >= %18
+│ └───        goto #18 if not %19
+│ 3 ──        group@_13 = :app
+│ │           _module@_12 = Main.App
+│ │           logger@_11 = (Base.CoreLogging.current_logger_for_env)(std_level@_14, group@_13, _module@_12)
+│ │    %24  = logger@_11 === Base.CoreLogging.nothing
+│ │    %25  = !%24
+│ └───        goto #18 if not %25
+│ 4 ──        id@_10 = :Main_App_8fc45cd5
+│ │    %28  = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_11, level@_15, _module@_12, group@_13, id@_10)
+│ └───        goto #18 if not %28
+│ 5 ──        file@_9 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %31  = file@_9 isa Base.CoreLogging.String
+│ └───        goto #7 if not %31
+│ 6 ── %33  = Base.fixup_stdlib_path
+│ └───        file@_9 = (%33)(file@_9)
+│ 7 ┄─        line@_8 = 52
+│ │    %36  = $(Expr(:isdefined, :(fileuploads)))
+│ └───        goto #9 if not %36
+│ 8 ──        @_29 = nothing
+│ └───        goto #10
+│ 9 ──        @_29 = Core.UndefVarError(:fileuploads)
+│ 10 ┄ %41  = @_29
+│ │           err@_16 = %41
+│ │    %43  = err@_16 === Base.CoreLogging.nothing
+│ └───        goto #12 if not %43
+│ 11 ─        msg@_6 = "File was uploaded: "
+│ │    %46  = (:fileuploads,)
+│ │    %47  = Core.apply_type(Core.NamedTuple, %46)
+│ │    %48  = Core.tuple(fileuploads)
+│ │           kwargs@_7 = (%47)(%48)
+│ │           @_30 = true
+│ └───        goto #13
+│ 12 ─        Base.invokelatest(Base.CoreLogging.logging_error, logger@_11, level@_15, _module@_12, group@_13, id@_10, file@_9, line@_8, err@_16, false)
+│ └───        @_30 = false
+│ 13 ┄        goto #18 if not @_30
+│ 14 ─ %55  = Base.NamedTuple()
+│ │    %56  = Base.merge(%55, kwargs@_7)
+│ │    %57  = Base.isempty(%56)
+│ └───        goto #16 if not %57
+│ 15 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_11, level@_15, msg@_6, _module@_12, group@_13, id@_10, file@_9, line@_8)
+│ └───        goto #17
+│ 16 ─        Core.kwcall(%56, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_11, level@_15, msg@_6, _module@_12, group@_13, id@_10, file@_9, line@_8)
+│ 17 ┄        goto #18
+│ 18 ┄        Base.CoreLogging.nothing
+│ │    %64  = Base.getproperty(Main.App.Random, :randstring)
+│ │    %65  = (%64)(10)
+│ │    %66  = Base.getindex(fileuploads, "name")
+│ │    %67  = Main.App.base64encode(%66)
+│ └───        filename = %65 * "_" * %67
+│ 19 ─ %69  = $(Expr(:enter, #25))
+│ 20 ─ %70  = Main.App.joinpath("public", "uploads")
+│ │    %71  = Main.App.isdir(%70)
+│ └───        goto #22 if not %71
+│ 21 ─        goto #23
+│ 22 ─ %74  = Main.App.joinpath("public", "uploads")
+│ └───        Main.App.mkpath(%74)
+│ 23 ┄ %76  = Base.getindex(fileuploads, "path")
+│ │    %77  = Main.App.joinpath("public", "uploads", filename)
+│ │           Main.App.mv(%76, %77)
+│ └───        $(Expr(:leave, 1))
+│ 24 ─        goto #43
+│ 25 ┄        $(Expr(:leave, 1))
+│ 26 ─        e = $(Expr(:the_exception))
+│ │           Core.NewvarNode(:(msg@_18))
+│ │           Core.NewvarNode(:(kwargs@_19))
+│ │           Core.NewvarNode(:(line@_20))
+│ │           Core.NewvarNode(:(file@_21))
+│ │           Core.NewvarNode(:(id@_22))
+│ │           Core.NewvarNode(:(logger@_23))
+│ │           Core.NewvarNode(:(_module@_24))
+│ │           Core.NewvarNode(:(group@_25))
+│ │           level@_27 = Base.CoreLogging.Error
+│ │           std_level@_26 = level@_27
+│ │    %93  = std_level@_26
+│ │    %94  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %95  = %93 >= %94
+│ └───        goto #42 if not %95
+│ 27 ─        group@_25 = :app
+│ │           _module@_24 = Main.App
+│ │           logger@_23 = (Base.CoreLogging.current_logger_for_env)(std_level@_26, group@_25, _module@_24)
+│ │    %100 = logger@_23 === Base.CoreLogging.nothing
+│ │    %101 = !%100
+│ └───        goto #42 if not %101
+│ 28 ─        id@_22 = :Main_App_7f260d18
+│ │    %104 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_23, level@_27, _module@_24, group@_25, id@_22)
+│ └───        goto #42 if not %104
+│ 29 ─        file@_21 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %107 = file@_21 isa Base.CoreLogging.String
+│ └───        goto #31 if not %107
+│ 30 ─ %109 = Base.fixup_stdlib_path
+│ └───        file@_21 = (%109)(file@_21)
+│ 31 ┄        line@_20 = 59
+│ 32 ─ %112 = $(Expr(:enter, #35))
+│ 33 ─        msg@_18 = Base.string("Error processing file: ", e)
+│ │           kwargs@_19 = Core.NamedTuple()
+│ │           @_31 = true
+│ └───        $(Expr(:leave, 1))
+│ 34 ─        goto #37
+│ 35 ┄        $(Expr(:leave, 1))
+│ 36 ─        err@_28 = $(Expr(:the_exception))
+│ │           Base.invokelatest(Base.CoreLogging.logging_error, logger@_23, level@_27, _module@_24, group@_25, id@_22, file@_21, line@_20, err@_28, true)
+│ │           @_31 = false
+│ └───        $(Expr(:pop_exception, :(%112)))
+│ 37 ┄        goto #42 if not @_31
+│ 38 ─ %124 = Base.NamedTuple()
+│ │    %125 = Base.merge(%124, kwargs@_19)
+│ │    %126 = Base.isempty(%125)
+│ └───        goto #40 if not %126
+│ 39 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_23, level@_27, msg@_18, _module@_24, group@_25, id@_22, file@_21, line@_20)
+│ └───        goto #41
+│ 40 ─        Core.kwcall(%125, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_23, level@_27, msg@_18, _module@_24, group@_25, id@_22, file@_21, line@_20)
+│ 41 ┄        goto #42
+│ 42 ┄        Base.CoreLogging.nothing
+│ │    %133 = Core.getfield(#self#, :__model__)
+│ │    %134 = Base.getindex(fileuploads, "name")
+│ │    %135 = Base.string("Error processing file: ", %134)
+│ │           Main.App.notify(%133, %135)
+│ └───        $(Expr(:pop_exception, :(%69)))
+│ 43 ┄        upl_filesrc = Base.string("/uploads/", filename)
+│ │    %139 = Core.apply_type(Main.App.Dict, Main.App.AbstractString, Main.App.AbstractString)
+│ │    %140 = (%139)()
+│ │    %141 = Core.getfield(#self#, :__model__)
+│ │    %142 = Base.getproperty(%141, :fileuploads)
+│ │           Base.setindex!(%142, %140)
+│ │           value = upl_filesrc
+│ │    %145 = upl_filesrc
+│ │    %146 = Base.repr(%145)
+│ │           Base.println("upl_filesrc = ", %146)
+│ └───        return value
+│ 44 ─        return nothing
+│ )]
+│ 
+│   Type of argument:
+│   Dict{AbstractString, AbstractString}
+│ 
+│   Value:
+│   Dict{AbstractString, AbstractString}("name" => "111.csv", "channel" => "LKCODULJWFROHWULGQEKYNIJJZDKKZPM", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_wXOj6zW1mB")
+│ 
+│   Exception:
+│   UndefVarError(:Random)
+│ 
+│   exception = (UndefVarError(:Random), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffbbc83ecf6, Ptr{Nothing} @0x00007ffbbc7d3eaa, Ptr{Nothing} @0x000001b7d7cf0c5a, Ptr{Nothing} @0x000001b7d7cf1c22, Ptr{Nothing} @0x00007ffbbc7c708a, Ptr{Nothing} @0x000001b7d7cef2b5, Ptr{Nothing} @0x000001b7d7cefd8c, Ptr{Nothing} @0x000001b7d7cefdea, Ptr{Nothing} @0x000001b7d7ceef18, Ptr{Nothing} @0x000001b7d7cdf8dd, Ptr{Nothing} @0x000001b7d7cdfbab, Ptr{Nothing} @0x000001b7d2cd4ef3, Ptr{Nothing} @0x000001b7d2cd5367, Ptr{Nothing} @0x000001b7d2cd53fb, Ptr{Nothing} @0x000001b7d2cd543f, Ptr{Nothing} @0x000001b7d2cb80f2, Ptr{Nothing} @0x000001b7d2cb814b, Ptr{Nothing} @0x00007ffbbc7c708a, Ptr{Nothing} @0x00007ffb806cf925, Ptr{Nothing} @0x00007ffb805da6f0, Ptr{Nothing} @0x00007ffb80734d8b, Ptr{Nothing} @0x000001b7ff36df44, Ptr{Nothing} @0x000001b7ff36e012, Ptr{Nothing} @0x00007ffbbc7c708a, Ptr{Nothing} @0x000001b7ff368bfc, Ptr{Nothing} @0x000001b7ff36b14c, Ptr{Nothing} @0x000001b7ff36b74b, Ptr{Nothing} @0x00007ffbbc7dc68b])
+└ @ Stipple C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\stipple\mutators.jl:54
+┌ Info: 2024-07-18 13:32:57 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-18 13:32:57 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "111.csv", "channel" => "LKCODULJWFROHWULGQEKYNIJJZDKKZPM", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_wXOj6zW1mB")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Error: 2024-07-18 13:32:57 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#236":
+│  [1] (::Main.App.var"#236#239")(fileuploads)
+│      @ C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:794
+│   Core.CodeInfo[CodeInfo(
+│ 1 ──        Core.NewvarNode(:(value))
+│ │           Core.NewvarNode(:(upl_filesrc))
+│ │           Core.NewvarNode(:(filename))
+│ │    %4   = Main.App.isempty(fileuploads)
+│ │    %5   = !%4
+│ └───        goto #44 if not %5
+│ 2 ──        Core.NewvarNode(:(msg@_6))
+│ │           Core.NewvarNode(:(kwargs@_7))
+│ │           Core.NewvarNode(:(line@_8))
+│ │           Core.NewvarNode(:(file@_9))
+│ │           Core.NewvarNode(:(id@_10))
+│ │           Core.NewvarNode(:(logger@_11))
+│ │           Core.NewvarNode(:(_module@_12))
+│ │           Core.NewvarNode(:(group@_13))
+│ │           level@_15 = Base.CoreLogging.Info
+│ │           std_level@_14 = level@_15
+│ │    %17  = std_level@_14
+│ │    %18  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %19  = %17 >= %18
+│ └───        goto #18 if not %19
+│ 3 ──        group@_13 = :app
+│ │           _module@_12 = Main.App
+│ │           logger@_11 = (Base.CoreLogging.current_logger_for_env)(std_level@_14, group@_13, _module@_12)
+│ │    %24  = logger@_11 === Base.CoreLogging.nothing
+│ │    %25  = !%24
+│ └───        goto #18 if not %25
+│ 4 ──        id@_10 = :Main_App_8fc45cd5
+│ │    %28  = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_11, level@_15, _module@_12, group@_13, id@_10)
+│ └───        goto #18 if not %28
+│ 5 ──        file@_9 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %31  = file@_9 isa Base.CoreLogging.String
+│ └───        goto #7 if not %31
+│ 6 ── %33  = Base.fixup_stdlib_path
+│ └───        file@_9 = (%33)(file@_9)
+│ 7 ┄─        line@_8 = 52
+│ │    %36  = $(Expr(:isdefined, :(fileuploads)))
+│ └───        goto #9 if not %36
+│ 8 ──        @_29 = nothing
+│ └───        goto #10
+│ 9 ──        @_29 = Core.UndefVarError(:fileuploads)
+│ 10 ┄ %41  = @_29
+│ │           err@_16 = %41
+│ │    %43  = err@_16 === Base.CoreLogging.nothing
+│ └───        goto #12 if not %43
+│ 11 ─        msg@_6 = "File was uploaded: "
+│ │    %46  = (:fileuploads,)
+│ │    %47  = Core.apply_type(Core.NamedTuple, %46)
+│ │    %48  = Core.tuple(fileuploads)
+│ │           kwargs@_7 = (%47)(%48)
+│ │           @_30 = true
+│ └───        goto #13
+│ 12 ─        Base.invokelatest(Base.CoreLogging.logging_error, logger@_11, level@_15, _module@_12, group@_13, id@_10, file@_9, line@_8, err@_16, false)
+│ └───        @_30 = false
+│ 13 ┄        goto #18 if not @_30
+│ 14 ─ %55  = Base.NamedTuple()
+│ │    %56  = Base.merge(%55, kwargs@_7)
+│ │    %57  = Base.isempty(%56)
+│ └───        goto #16 if not %57
+│ 15 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_11, level@_15, msg@_6, _module@_12, group@_13, id@_10, file@_9, line@_8)
+│ └───        goto #17
+│ 16 ─        Core.kwcall(%56, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_11, level@_15, msg@_6, _module@_12, group@_13, id@_10, file@_9, line@_8)
+│ 17 ┄        goto #18
+│ 18 ┄        Base.CoreLogging.nothing
+│ │    %64  = Base.getproperty(Main.App.Random, :randstring)
+│ │    %65  = (%64)(10)
+│ │    %66  = Base.getindex(fileuploads, "name")
+│ │    %67  = Main.App.base64encode(%66)
+│ └───        filename = %65 * "_" * %67
+│ 19 ─ %69  = $(Expr(:enter, #25))
+│ 20 ─ %70  = Main.App.joinpath("public", "uploads")
+│ │    %71  = Main.App.isdir(%70)
+│ └───        goto #22 if not %71
+│ 21 ─        goto #23
+│ 22 ─ %74  = Main.App.joinpath("public", "uploads")
+│ └───        Main.App.mkpath(%74)
+│ 23 ┄ %76  = Base.getindex(fileuploads, "path")
+│ │    %77  = Main.App.joinpath("public", "uploads", filename)
+│ │           Main.App.mv(%76, %77)
+│ └───        $(Expr(:leave, 1))
+│ 24 ─        goto #43
+│ 25 ┄        $(Expr(:leave, 1))
+│ 26 ─        e = $(Expr(:the_exception))
+│ │           Core.NewvarNode(:(msg@_18))
+│ │           Core.NewvarNode(:(kwargs@_19))
+│ │           Core.NewvarNode(:(line@_20))
+│ │           Core.NewvarNode(:(file@_21))
+│ │           Core.NewvarNode(:(id@_22))
+│ │           Core.NewvarNode(:(logger@_23))
+│ │           Core.NewvarNode(:(_module@_24))
+│ │           Core.NewvarNode(:(group@_25))
+│ │           level@_27 = Base.CoreLogging.Error
+│ │           std_level@_26 = level@_27
+│ │    %93  = std_level@_26
+│ │    %94  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %95  = %93 >= %94
+│ └───        goto #42 if not %95
+│ 27 ─        group@_25 = :app
+│ │           _module@_24 = Main.App
+│ │           logger@_23 = (Base.CoreLogging.current_logger_for_env)(std_level@_26, group@_25, _module@_24)
+│ │    %100 = logger@_23 === Base.CoreLogging.nothing
+│ │    %101 = !%100
+│ └───        goto #42 if not %101
+│ 28 ─        id@_22 = :Main_App_7f260d18
+│ │    %104 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_23, level@_27, _module@_24, group@_25, id@_22)
+│ └───        goto #42 if not %104
+│ 29 ─        file@_21 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %107 = file@_21 isa Base.CoreLogging.String
+│ └───        goto #31 if not %107
+│ 30 ─ %109 = Base.fixup_stdlib_path
+│ └───        file@_21 = (%109)(file@_21)
+│ 31 ┄        line@_20 = 59
+│ 32 ─ %112 = $(Expr(:enter, #35))
+│ 33 ─        msg@_18 = Base.string("Error processing file: ", e)
+│ │           kwargs@_19 = Core.NamedTuple()
+│ │           @_31 = true
+│ └───        $(Expr(:leave, 1))
+│ 34 ─        goto #37
+│ 35 ┄        $(Expr(:leave, 1))
+│ 36 ─        err@_28 = $(Expr(:the_exception))
+│ │           Base.invokelatest(Base.CoreLogging.logging_error, logger@_23, level@_27, _module@_24, group@_25, id@_22, file@_21, line@_20, err@_28, true)
+│ │           @_31 = false
+│ └───        $(Expr(:pop_exception, :(%112)))
+│ 37 ┄        goto #42 if not @_31
+│ 38 ─ %124 = Base.NamedTuple()
+│ │    %125 = Base.merge(%124, kwargs@_19)
+│ │    %126 = Base.isempty(%125)
+│ └───        goto #40 if not %126
+│ 39 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_23, level@_27, msg@_18, _module@_24, group@_25, id@_22, file@_21, line@_20)
+│ └───        goto #41
+│ 40 ─        Core.kwcall(%125, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_23, level@_27, msg@_18, _module@_24, group@_25, id@_22, file@_21, line@_20)
+│ 41 ┄        goto #42
+│ 42 ┄        Base.CoreLogging.nothing
+│ │    %133 = Core.getfield(#self#, :__model__)
+│ │    %134 = Base.getindex(fileuploads, "name")
+│ │    %135 = Base.string("Error processing file: ", %134)
+│ │           Main.App.notify(%133, %135)
+│ └───        $(Expr(:pop_exception, :(%69)))
+│ 43 ┄        upl_filesrc = Base.string("/uploads/", filename)
+│ │    %139 = Core.apply_type(Main.App.Dict, Main.App.AbstractString, Main.App.AbstractString)
+│ │    %140 = (%139)()
+│ │    %141 = Core.getfield(#self#, :__model__)
+│ │    %142 = Base.getproperty(%141, :fileuploads)
+│ │           Base.setindex!(%142, %140)
+│ │           value = upl_filesrc
+│ │    %145 = upl_filesrc
+│ │    %146 = Base.repr(%145)
+│ │           Base.println("upl_filesrc = ", %146)
+│ └───        return value
+│ 44 ─        return nothing
+│ )]
+│ 
+│   Type of argument:
+│   Dict{AbstractString, AbstractString}
+│ 
+│   Value:
+│   Dict{AbstractString, AbstractString}("name" => "111.csv", "channel" => "LKCODULJWFROHWULGQEKYNIJJZDKKZPM", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_wXOj6zW1mB")
+│ 
+│   Exception:
+│   UndefVarError(:Random)
+│ 
+│   exception = (UndefVarError(:Random), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffbbc83ecf6, Ptr{Nothing} @0x00007ffbbc7d3eaa, Ptr{Nothing} @0x000001b7d7cf0c5a, Ptr{Nothing} @0x000001b7d7cf1c22, Ptr{Nothing} @0x00007ffbbc7c708a, Ptr{Nothing} @0x000001b7d7cef2b5, Ptr{Nothing} @0x000001b7d7cefd8c, Ptr{Nothing} @0x000001b7d7cefdea, Ptr{Nothing} @0x000001b7d7ceef18, Ptr{Nothing} @0x000001b7d7cdf8dd, Ptr{Nothing} @0x000001b7d7cdfbab, Ptr{Nothing} @0x000001b7d2cd4ef3, Ptr{Nothing} @0x000001b7d2cd5367, Ptr{Nothing} @0x000001b7d2cd53fb, Ptr{Nothing} @0x000001b7d2cd543f, Ptr{Nothing} @0x000001b7d2cb80f2, Ptr{Nothing} @0x000001b7d2cb814b, Ptr{Nothing} @0x00007ffbbc7c708a, Ptr{Nothing} @0x00007ffb806cf925, Ptr{Nothing} @0x00007ffb805da6f0, Ptr{Nothing} @0x00007ffb80734d8b, Ptr{Nothing} @0x000001b7ff36df44, Ptr{Nothing} @0x000001b7ff36e012, Ptr{Nothing} @0x00007ffbbc7c708a, Ptr{Nothing} @0x000001b7ff368bfc, Ptr{Nothing} @0x000001b7ff36b14c, Ptr{Nothing} @0x000001b7ff36b74b, Ptr{Nothing} @0x00007ffbbc7dc68b])
+└ @ Stipple C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\stipple\mutators.jl:54
+┌ Info: 2024-07-18 13:32:57 uploaded
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:84
+┌ Info: 2024-07-18 13:32:57 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:87
+┌ Info: 2024-07-18 13:35:52 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 13:35:52 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 13:36:08 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:72
+┌ Info: 2024-07-18 13:36:08 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:81
+┌ Info: 2024-07-18 13:36:08 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "111series.csv", "channel" => "LKCODULJWFROHWULGQEKYNIJJZDKKZPM", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_0lwnw5Gf0r")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Info: 2024-07-18 13:36:08 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-18 13:36:08 uploaded
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:84
+┌ Info: 2024-07-18 13:36:08 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:87
+┌ Info: 2024-07-18 13:36:08 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "111series.csv", "channel" => "LKCODULJWFROHWULGQEKYNIJJZDKKZPM", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_0lwnw5Gf0r")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Error: 2024-07-18 13:36:08 Error processing file: ArgumentError("'public\\uploads\\111.csv' exists. `force=true` is required to remove 'public\\uploads\\111.csv' before moving.")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:59
+┌ Info: 2024-07-18 13:38:06 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 13:38:06 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 13:38:15 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:72
+┌ Info: 2024-07-18 13:38:15 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:81
+┌ Info: 2024-07-18 13:38:15 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "111series.csv", "channel" => "LKCODULJWFROHWULGQEKYNIJJZDKKZPM", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_abgHONCnIl")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Info: 2024-07-18 13:38:15 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-18 13:39:13 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 13:39:13 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Error: 2024-07-18 13:39:30 Failed to revise c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl
+│   exception = (Base.Meta.ParseError("ParseError:\n# Error @ c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl:97:27\n    try\n        solution = \"public\\uploads\\111series.csv\"\n#                         └┘ ── invalid unicode escape sequence", Base.JuliaSyntax.ParseError(Base.JuliaSyntax.SourceFile("module App\n# == Packages ==\n# set up Genie development environment. Use the Package Manager to install new packages\nusing GenieFramework, PlotlyBase, DataFrames, CSV\nusing StippleLatex, StippleDownloads\n@genietools\n\n# == Code import ==\n# add your data analysis code here or in the lib folder. Code in lib/ will be\n# automatically loaded \nfunction mean_value(x)\n    sum(x) / length(x)\nend\n\n# == Reactive code ==\n# add reactive code to make the UI interactive\n@app begin\n    # == Reactive variables ==\n    # reactive variables exist in both the Julia backend and the browser with two-way synchronization\n    # @out variables can only be modified by the backend\n    # @in variables can be modified by both the backend and the browser\n    # variables must be initialized with constant values, or variables defined outside of the @app block\n    @in N = 10\n    @out x = collect(1:10)\n    @out y = randn(10) # plot data must be an array or a DataFrame\n    @out msg = \"The average is 0.\"\n    @in shift = false\n    \n    # == Reactive handlers ==\n    # reactive handlers watch a variable and execute a block of code when\n    # its value changes\n    @onchange N begin\n        # the values of x, result and msg in the UI will\n        # be automatically updated\n        x = collect(1:N)\n        y = rand(N)\n        result = mean_value(rand(N))\n        msg = \"The average is \$result.\"\n    end\n    # the onbutton handler will set the variable to false after the block is executed\n    @onbutton shift begin\n        y = circshift(y, 1)\n    end\n\n    @out upl_acceptext = \".csv, text/csv\"\n    @out upl_imgsrc = \"https://placehold.co/600x400\"\n    @out upl_maxsize = 1 * 1024 * 1024\n    @out upl_caption = \"No CSV file selected\"\n\n    @onchange fileuploads begin\n        if !(isempty(fileuploads))\n            @info \"File was uploaded: \" fileuploads\n            filename = \"111.csv\"\n            try\n                isdir(joinpath(\"public\", \"uploads\")) ||\n                    mkpath(joinpath(\"public\", \"uploads\"))\n                mv(fileuploads[\"path\"], joinpath(\"public\", \"uploads\", filename), force=true)\n            catch e\n                @error \"Error processing file: \$(e)\"\n                notify(__model__, \"Error processing file: \$(fileuploads[\"name\"])\")\n            end\n            upl_filesrc = \"/uploads/\$(filename)\"\n            fileuploads = Dict{AbstractString,AbstractString}()\n            @show upl_filesrc\n        end\n    end\n    @event rejected begin\n        @info \"rejected\"\n        notify(__model__, \"File rejected. Please make sure it is a valid CSV file.\")\n    end\n    @event added begin\n        @info \"added\"\n    end\n    @event removed begin\n        @info \"removed\"\n    end\n    @event started begin\n        @info \"started\"\n    end\n    @event uploading begin\n        @info \"uploading\"\n    end\n    @event uploaded begin\n        @info \"uploaded\"\n    end\n    @event finished begin\n        @info \"finished\"\n        notify(__model__, \"Upload finished.\")\n    end\n    @event failed begin\n        @info \"failed\"\n    end\nend\n\n@event download begin\n    try\n        solution = \"public\\uploads\\111series.csv\"\n        io = IOBuffer()\n        open(solution, \"r\") do file\n            write(io, read(file))\n        end\n        seekstart(io)\n        download_binary(__model__, take!(io), \"111.csv\")\n    catch ex\n        println(\"Error during download: \", ex)\n    end\nend\n\n# == Pages ==\n# register a new route and the page that will be loaded on access\n@page(\"/\", \"app.jl.html\")\nend\n\n# == Advanced features ==\n#=\n- The @private macro defines a reactive variable that is not sent to the browser. \nThis is useful for storing data that is unique to each user session but is not needed\nin the UI.\n    @private table = DataFrame(a = 1:10, b = 10:19, c = 20:29)\n\n=#\n", 0, "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl", 1, [1, 12, 29, 117, 167, 204, 216, 217, 237, 315, 339, 362, 385, 389, 390, 412, 459, 470, 501, 603, 660, 732, 837, 852, 879, 946, 981, 1003, 1008, 1038, 1112, 1136, 1158, 1215, 1250, 1275, 1295, 1332, 1372, 1380, 1466, 1492, 1520, 1528, 1529, 1571, 1624, 1663, 1709, 1710, 1742, 1777, 1829, 1862, 1878, 1934, 1992, 2085, 2105, 2158, 2241, 2257, 2306, 2370, 2400, 2412, 2420, 2446, 2471, 2556, 2564, 2587, 2609, 2617, 2642, 2666, 2674, 2699, 2723, 2731, 2758, 2784, 2792, 2818, 2843, 2851, 2877, 2902, 2948, 2956, 2980, 3003, 3011, 3015, 3016, 3038, 3046, 3096, 3120, 3156, 3190, 3202, 3224, 3281, 3294, 3341, 3349, 3353, 3354, 3368, 3434, 3460, 3464, 3465, 3491, 3494, 3577, 3663, 3674, 3737, 3738, 3741]), Base.JuliaSyntax.Diagnostic[Base.JuliaSyntax.Diagnostic(3072, 3073, :error, "invalid unicode escape sequence")], :none)), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffbbc7c703b, Ptr{Nothing} @0x00007ffbbc7d6c3a, Ptr{Nothing} @0x00007ffbbc7d675c, Ptr{Nothing} @0x00007ffbbc7d72f8, Ptr{Nothing} @0x00007ffbbc7d80fe, Base.InterpreterIP in top-level CodeInfo for Revise at statement 0])
+└ @ Revise C:\Users\kaele\.julia\packages\Revise\W4D4d\src\packagedef.jl:724
+┌ Warning: 2024-07-18 13:39:30 The running code does not match the saved version for the following files:
+│ 
+│   c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl
+│ 
+│ If the error was due to evaluation order, it can sometimes be resolved by calling `Revise.retry()`.
+│ Use Revise.errors() to report errors again. Only the first error in each file is shown.
+│ Your prompt color may be yellow until the errors are resolved.
+└ @ Revise C:\Users\kaele\.julia\packages\Revise\W4D4d\src\packagedef.jl:832
+┌ Info: 2024-07-18 13:40:27 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 13:40:28 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 13:40:33 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-18 13:40:33 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 13:40:35 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=LKCODULJWFROHWULGQEKYNIJJZDKKZPM 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-18 13:40:35 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-18 13:41:18 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 13:41:18 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 15:09:41 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 15:09:41 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 15:12:39 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 15:12:39 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 15:13:10 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 15:13:10 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 15:17:31 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 15:17:31 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 15:18:43 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-18 15:18:43 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22

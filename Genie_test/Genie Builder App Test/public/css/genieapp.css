@@ -1,0 +1,55 @@
+#hiring_val .q-badge,
+#firing_val .q-badge,
+#inventory_val .q-badge{
+    font-size: 1.375vw;
+    white-space: normal;
+    line-height: 110%;
+}
+
+#total_cost .q-badge{
+    font-size: auto;
+}
+
+#total_hiring .q-badge{
+    color: navy;
+    font-size: 1.5vw;
+    white-space: normal;
+    line-height: 110%;
+}
+
+#total_firing .q-badge {
+    color: orange;
+    font-size: 1.5vw;
+    white-space: normal;
+    line-height: 110%;
+}
+
+#total_inventory .q-badge{
+    overflow-wrap:normal;
+    max-width: 100%;
+    color: darkred;
+    font-size: 1.375vw;
+    white-space: normal;
+    line-height: 110%;
+}
+
+#total_cost span::before,
+#total_hiring span::before,
+#total_firing span::before,
+#total_inventory span::before{
+    content: "$" !important;
+  }
+
+#sample_chip-1 .ellipsis,
+#sample_chip-2 .ellipsis{
+    word-spacing: 12px !important;
+}
+
+#displayed_constr .ellipsis{
+    word-spacing: 6px !important;
+    font-size: 110%;
+}
+
+.q-field__control-container input{
+    padding-left: 10px !important;
+}

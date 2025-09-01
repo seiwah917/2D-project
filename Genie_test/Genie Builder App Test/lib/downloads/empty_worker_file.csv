@@ -1,0 +1,6 @@
+﻿,W_init,i1 (product type 1),i2,i3,i4,i5,…,imax
+j1 (worker type 1),Input initial,Average production rate of worker (of type j=j1) working on product i1 in 1 period,Average production rate of worker (of type j=j1) working on product i2 in 1 period,etc.,,,,
+j2,Workforce levels,Average production rate of worker (of type j=j2) working on product i1 in 1 period,,,,,,
+j3,per worker type,etc.,,,,,,
+…,in this column,,,,,,,
+jmax,,,,,,,,

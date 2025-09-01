@@ -1,0 +1,2942 @@
+┌ Info: 2024-07-17 16:38:52 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-17 16:38:53 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 16:39:05 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-17 16:39:05 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 16:39:08 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=GNYBUXXKZLYNOXEFUKJSMAICNVCQZMJU 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-17 16:39:08 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-17 16:40:38 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 16:40:38 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 16:42:22 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 16:42:22 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 16:43:23 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 16:43:23 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 16:46:19 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-17 16:46:20 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 16:46:24 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-17 16:46:24 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 16:46:25 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=GNYBUXXKZLYNOXEFUKJSMAICNVCQZMJU 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-17 16:46:25 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-17 16:47:36 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 16:47:36 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 16:49:18 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 16:49:18 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 16:49:40 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 16:49:40 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 16:50:57 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 16:50:57 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 16:51:49 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 16:51:49 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 16:52:13 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 16:52:13 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 16:53:07 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 16:53:07 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 16:53:53 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 16:53:53 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 16:55:04 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 16:55:04 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 16:56:57 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 16:56:57 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 16:59:51 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 16:59:51 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 17:01:20 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 17:01:20 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 17:01:36 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 17:01:36 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 17:04:22 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 17:04:22 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 17:04:53 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 17:04:53 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 17:05:46 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 17:05:46 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 17:07:11 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 17:07:11 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 17:08:28 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 17:08:28 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 17:09:28 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 17:09:28 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 17:09:49 rejected
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:66
+┌ Info: 2024-07-17 17:13:54 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 17:13:54 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 17:14:04 rejected
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:68
+┌ Error: 2024-07-17 17:14:33 Failed to revise c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl
+│   exception = (AssertionError("ld[idx] < typemax(eltype(ld))"), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x000001aad76041cc])
+└ @ Revise C:\Users\kaele\.julia\packages\Revise\W4D4d\src\packagedef.jl:724
+┌ Warning: 2024-07-17 17:14:33 The running code does not match the saved version for the following files:
+│ 
+│   c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl
+│ 
+│ If the error was due to evaluation order, it can sometimes be resolved by calling `Revise.retry()`.
+│ Use Revise.errors() to report errors again. Only the first error in each file is shown.
+│ Your prompt color may be yellow until the errors are resolved.
+└ @ Revise C:\Users\kaele\.julia\packages\Revise\W4D4d\src\packagedef.jl:832
+┌ Error: 2024-07-17 17:15:42 Failed to revise c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl
+│   exception = (AssertionError("ld[idx] < typemax(eltype(ld))"), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x000001aad76041cc])
+└ @ Revise C:\Users\kaele\.julia\packages\Revise\W4D4d\src\packagedef.jl:724
+┌ Error: 2024-07-17 17:17:59 Failed to revise c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl
+│   exception = (AssertionError("ld[idx] < typemax(eltype(ld))"), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x000001aad76041cc])
+└ @ Revise C:\Users\kaele\.julia\packages\Revise\W4D4d\src\packagedef.jl:724
+┌ Error: 2024-07-17 17:22:53 Failed to revise c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl
+│   exception = (AssertionError("ld[idx] < typemax(eltype(ld))"), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x000001aad76041cc])
+└ @ Revise C:\Users\kaele\.julia\packages\Revise\W4D4d\src\packagedef.jl:724
+┌ Error: 2024-07-17 17:24:07 Failed to revise c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl
+│   exception = (AssertionError("ld[idx] < typemax(eltype(ld))"), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x000001aad76041cc])
+└ @ Revise C:\Users\kaele\.julia\packages\Revise\W4D4d\src\packagedef.jl:724
+┌ Info: 2024-07-17 17:25:19 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-17 17:25:19 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 17:25:24 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-17 17:25:24 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 17:25:25 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=GNYBUXXKZLYNOXEFUKJSMAICNVCQZMJU 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-17 17:25:25 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-17 17:26:54 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:72
+┌ Info: 2024-07-17 17:26:54 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:81
+┌ Info: 2024-07-17 17:26:54 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-17 17:26:54 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "generated_parameter_dataset.csv", "channel" => "GNYBUXXKZLYNOXEFUKJSMAICNVCQZMJU", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_8D0JgHs9Az")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Error: 2024-07-17 17:26:55 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#31":
+│  [1] (::Main.App.var"#31#32")(fileuploads)
+│      @ C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:1067
+│   Core.CodeInfo[CodeInfo(
+│ 1 ──        Core.NewvarNode(:(value))
+│ │           Core.NewvarNode(:(filename))
+│ │    %3   = Main.App.isempty(fileuploads)
+│ │    %4   = !%3
+│ └───        goto #44 if not %4
+│ 2 ──        Core.NewvarNode(:(msg@_5))
+│ │           Core.NewvarNode(:(kwargs@_6))
+│ │           Core.NewvarNode(:(line@_7))
+│ │           Core.NewvarNode(:(file@_8))
+│ │           Core.NewvarNode(:(id@_9))
+│ │           Core.NewvarNode(:(logger@_10))
+│ │           Core.NewvarNode(:(_module@_11))
+│ │           Core.NewvarNode(:(group@_12))
+│ │           level@_14 = Base.CoreLogging.Info
+│ │           std_level@_13 = level@_14
+│ │    %16  = std_level@_13
+│ │    %17  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %18  = %16 >= %17
+│ └───        goto #18 if not %18
+│ 3 ──        group@_12 = :app
+│ │           _module@_11 = Main.App
+│ │           logger@_10 = (Base.CoreLogging.current_logger_for_env)(std_level@_13, group@_12, _module@_11)
+│ │    %23  = logger@_10 === Base.CoreLogging.nothing
+│ │    %24  = !%23
+│ └───        goto #18 if not %24
+│ 4 ──        id@_9 = :Main_App_8fc45cd2
+│ │    %27  = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_10, level@_14, _module@_11, group@_12, id@_9)
+│ └───        goto #18 if not %27
+│ 5 ──        file@_8 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %30  = file@_8 isa Base.CoreLogging.String
+│ └───        goto #7 if not %30
+│ 6 ── %32  = Base.fixup_stdlib_path
+│ └───        file@_8 = (%32)(file@_8)
+│ 7 ┄─        line@_7 = 52
+│ │    %35  = $(Expr(:isdefined, :(fileuploads)))
+│ └───        goto #9 if not %35
+│ 8 ──        @_28 = nothing
+│ └───        goto #10
+│ 9 ──        @_28 = Core.UndefVarError(:fileuploads)
+│ 10 ┄ %40  = @_28
+│ │           err@_15 = %40
+│ │    %42  = err@_15 === Base.CoreLogging.nothing
+│ └───        goto #12 if not %42
+│ 11 ─        msg@_5 = "File was uploaded: "
+│ │    %45  = (:fileuploads,)
+│ │    %46  = Core.apply_type(Core.NamedTuple, %45)
+│ │    %47  = Core.tuple(fileuploads)
+│ │           kwargs@_6 = (%46)(%47)
+│ │           @_29 = true
+│ └───        goto #13
+│ 12 ─        Base.invokelatest(Base.CoreLogging.logging_error, logger@_10, level@_14, _module@_11, group@_12, id@_9, file@_8, line@_7, err@_15, false)
+│ └───        @_29 = false
+│ 13 ┄        goto #18 if not @_29
+│ 14 ─ %54  = Base.NamedTuple()
+│ │    %55  = Base.merge(%54, kwargs@_6)
+│ │    %56  = Base.isempty(%55)
+│ └───        goto #16 if not %56
+│ 15 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ └───        goto #17
+│ 16 ─        Core.kwcall(%55, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ 17 ┄        goto #18
+│ 18 ┄        Base.CoreLogging.nothing
+│ │    %63  = Base.getproperty(Main.App.Random, :randstring)
+│ │    %64  = (%63)(10)
+│ │    %65  = Base.getindex(fileuploads, "name")
+│ │    %66  = Main.App.base64encode(%65)
+│ └───        filename = %64 * "_" * %66
+│ 19 ─ %68  = $(Expr(:enter, #25))
+│ 20 ─ %69  = Main.App.joinpath("public", "uploads")
+│ │    %70  = Main.App.isdir(%69)
+│ └───        goto #22 if not %70
+│ 21 ─        goto #23
+│ 22 ─ %73  = Main.App.joinpath("public", "uploads")
+│ └───        Main.App.mkpath(%73)
+│ 23 ┄ %75  = Base.getindex(fileuploads, "path")
+│ │    %76  = Main.App.joinpath("public", "uploads", filename)
+│ │           Main.App.mv(%75, %76)
+│ └───        $(Expr(:leave, 1))
+│ 24 ─        goto #43
+│ 25 ┄        $(Expr(:leave, 1))
+│ 26 ─        e = $(Expr(:the_exception))
+│ │           Core.NewvarNode(:(msg@_17))
+│ │           Core.NewvarNode(:(kwargs@_18))
+│ │           Core.NewvarNode(:(line@_19))
+│ │           Core.NewvarNode(:(file@_20))
+│ │           Core.NewvarNode(:(id@_21))
+│ │           Core.NewvarNode(:(logger@_22))
+│ │           Core.NewvarNode(:(_module@_23))
+│ │           Core.NewvarNode(:(group@_24))
+│ │           level@_26 = Base.CoreLogging.Error
+│ │           std_level@_25 = level@_26
+│ │    %92  = std_level@_25
+│ │    %93  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %94  = %92 >= %93
+│ └───        goto #42 if not %94
+│ 27 ─        group@_24 = :app
+│ │           _module@_23 = Main.App
+│ │           logger@_22 = (Base.CoreLogging.current_logger_for_env)(std_level@_25, group@_24, _module@_23)
+│ │    %99  = logger@_22 === Base.CoreLogging.nothing
+│ │    %100 = !%99
+│ └───        goto #42 if not %100
+│ 28 ─        id@_21 = :Main_App_7f260d15
+│ │    %103 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_22, level@_26, _module@_23, group@_24, id@_21)
+│ └───        goto #42 if not %103
+│ 29 ─        file@_20 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %106 = file@_20 isa Base.CoreLogging.String
+│ └───        goto #31 if not %106
+│ 30 ─ %108 = Base.fixup_stdlib_path
+│ └───        file@_20 = (%108)(file@_20)
+│ 31 ┄        line@_19 = 59
+│ 32 ─ %111 = $(Expr(:enter, #35))
+│ 33 ─        msg@_17 = Base.string("Error processing file: ", e)
+│ │           kwargs@_18 = Core.NamedTuple()
+│ │           @_30 = true
+│ └───        $(Expr(:leave, 1))
+│ 34 ─        goto #37
+│ 35 ┄        $(Expr(:leave, 1))
+│ 36 ─        err@_27 = $(Expr(:the_exception))
+│ │           Base.invokelatest(Base.CoreLogging.logging_error, logger@_22, level@_26, _module@_23, group@_24, id@_21, file@_20, line@_19, err@_27, true)
+│ │           @_30 = false
+│ └───        $(Expr(:pop_exception, :(%111)))
+│ 37 ┄        goto #42 if not @_30
+│ 38 ─ %123 = Base.NamedTuple()
+│ │    %124 = Base.merge(%123, kwargs@_18)
+│ │    %125 = Base.isempty(%124)
+│ └───        goto #40 if not %125
+│ 39 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ └───        goto #41
+│ 40 ─        Core.kwcall(%124, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ 41 ┄        goto #42
+│ 42 ┄        Base.CoreLogging.nothing
+│ │    %132 = Core.getfield(#self#, :__model__)
+│ │    %133 = Base.getindex(fileuploads, "name")
+│ │    %134 = Base.string("Error processing file: ", %133)
+│ │           Main.App.notify(%132, %134)
+│ └───        $(Expr(:pop_exception, :(%68)))
+│ 43 ┄ %137 = Base.string("/uploads/", filename)
+│ │    %138 = Core.getfield(#self#, :__model__)
+│ │    %139 = Base.getproperty(%138, :upl_imgsrc)
+│ │           Base.setindex!(%139, %137)
+│ │    %141 = Core.apply_type(Main.App.Dict, Main.App.AbstractString, Main.App.AbstractString)
+│ │    %142 = (%141)()
+│ │    %143 = Core.getfield(#self#, :__model__)
+│ │    %144 = Base.getproperty(%143, :fileuploads)
+│ │           Base.setindex!(%144, %142)
+│ │    %146 = Core.getfield(#self#, :__model__)
+│ │    %147 = Base.getproperty(%146, :upl_imgsrc)
+│ │    %148 = Base.getindex(%147)
+│ │           value = %148
+│ │    %150 = Base.repr(%148)
+│ │           Base.println("__model__.upl_imgsrc[] = ", %150)
+│ └───        return value
+│ 44 ─        return nothing
+│ )]
+│ 
+│   Type of argument:
+│   Dict{AbstractString, AbstractString}
+│ 
+│   Value:
+│   Dict{AbstractString, AbstractString}("name" => "generated_parameter_dataset.csv", "channel" => "GNYBUXXKZLYNOXEFUKJSMAICNVCQZMJU", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_8D0JgHs9Az")
+│ 
+│   Exception:
+│   UndefVarError(:Random)
+│ 
+│   exception = (UndefVarError(:Random), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffb9781ecf6, Ptr{Nothing} @0x00007ffb977b3eaa, Ptr{Nothing} @0x000001c1fc05c5fa, Ptr{Nothing} @0x000001c1fc05d5e2, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x000001c1fc059e65, Ptr{Nothing} @0x000001c1fc05a93c, Ptr{Nothing} @0x000001c1fc05a99a, Ptr{Nothing} @0x000001c1fc059ac8, Ptr{Nothing} @0x000001c1fc0331d4, Ptr{Nothing} @0x000001c1fc0334ab, Ptr{Nothing} @0x000001c1fc01e0f3, Ptr{Nothing} @0x000001c1fc01e567, Ptr{Nothing} @0x000001c1fc01e5fb, Ptr{Nothing} @0x000001c1fc01e63f, Ptr{Nothing} @0x000001c1fc001a92, Ptr{Nothing} @0x000001c1fc001aeb, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x00007ffb68f6f925, Ptr{Nothing} @0x00007ffb68e7a6f0, Ptr{Nothing} @0x00007ffb68fd4d8b, Ptr{Nothing} @0x000001c1a8704794, Ptr{Nothing} @0x000001c1a8704862, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x000001c1a86ff43c, Ptr{Nothing} @0x000001c1a87019cc, Ptr{Nothing} @0x000001c1a8701fcb, Ptr{Nothing} @0x00007ffb977bc68b])
+└ @ Stipple C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\stipple\mutators.jl:54
+┌ Info: 2024-07-17 17:26:56 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "generated_parameter_dataset.csv", "channel" => "GNYBUXXKZLYNOXEFUKJSMAICNVCQZMJU", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_8D0JgHs9Az")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Error: 2024-07-17 17:26:56 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#31":
+│  [1] (::Main.App.var"#31#32")(fileuploads)
+│      @ C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:1067
+│   Core.CodeInfo[CodeInfo(
+│ 1 ──        Core.NewvarNode(:(value))
+│ │           Core.NewvarNode(:(filename))
+│ │    %3   = Main.App.isempty(fileuploads)
+│ │    %4   = !%3
+│ └───        goto #44 if not %4
+│ 2 ──        Core.NewvarNode(:(msg@_5))
+│ │           Core.NewvarNode(:(kwargs@_6))
+│ │           Core.NewvarNode(:(line@_7))
+│ │           Core.NewvarNode(:(file@_8))
+│ │           Core.NewvarNode(:(id@_9))
+│ │           Core.NewvarNode(:(logger@_10))
+│ │           Core.NewvarNode(:(_module@_11))
+│ │           Core.NewvarNode(:(group@_12))
+│ │           level@_14 = Base.CoreLogging.Info
+│ │           std_level@_13 = level@_14
+│ │    %16  = std_level@_13
+│ │    %17  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %18  = %16 >= %17
+│ └───        goto #18 if not %18
+│ 3 ──        group@_12 = :app
+│ │           _module@_11 = Main.App
+│ │           logger@_10 = (Base.CoreLogging.current_logger_for_env)(std_level@_13, group@_12, _module@_11)
+│ │    %23  = logger@_10 === Base.CoreLogging.nothing
+│ │    %24  = !%23
+│ └───        goto #18 if not %24
+│ 4 ──        id@_9 = :Main_App_8fc45cd2
+│ │    %27  = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_10, level@_14, _module@_11, group@_12, id@_9)
+│ └───        goto #18 if not %27
+│ 5 ──        file@_8 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %30  = file@_8 isa Base.CoreLogging.String
+│ └───        goto #7 if not %30
+│ 6 ── %32  = Base.fixup_stdlib_path
+│ └───        file@_8 = (%32)(file@_8)
+│ 7 ┄─        line@_7 = 52
+│ │    %35  = $(Expr(:isdefined, :(fileuploads)))
+│ └───        goto #9 if not %35
+│ 8 ──        @_28 = nothing
+│ └───        goto #10
+│ 9 ──        @_28 = Core.UndefVarError(:fileuploads)
+│ 10 ┄ %40  = @_28
+│ │           err@_15 = %40
+│ │    %42  = err@_15 === Base.CoreLogging.nothing
+│ └───        goto #12 if not %42
+│ 11 ─        msg@_5 = "File was uploaded: "
+│ │    %45  = (:fileuploads,)
+│ │    %46  = Core.apply_type(Core.NamedTuple, %45)
+│ │    %47  = Core.tuple(fileuploads)
+│ │           kwargs@_6 = (%46)(%47)
+│ │           @_29 = true
+│ └───        goto #13
+│ 12 ─        Base.invokelatest(Base.CoreLogging.logging_error, logger@_10, level@_14, _module@_11, group@_12, id@_9, file@_8, line@_7, err@_15, false)
+│ └───        @_29 = false
+│ 13 ┄        goto #18 if not @_29
+│ 14 ─ %54  = Base.NamedTuple()
+│ │    %55  = Base.merge(%54, kwargs@_6)
+│ │    %56  = Base.isempty(%55)
+│ └───        goto #16 if not %56
+│ 15 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ └───        goto #17
+│ 16 ─        Core.kwcall(%55, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ 17 ┄        goto #18
+│ 18 ┄        Base.CoreLogging.nothing
+│ │    %63  = Base.getproperty(Main.App.Random, :randstring)
+│ │    %64  = (%63)(10)
+│ │    %65  = Base.getindex(fileuploads, "name")
+│ │    %66  = Main.App.base64encode(%65)
+│ └───        filename = %64 * "_" * %66
+│ 19 ─ %68  = $(Expr(:enter, #25))
+│ 20 ─ %69  = Main.App.joinpath("public", "uploads")
+│ │    %70  = Main.App.isdir(%69)
+│ └───        goto #22 if not %70
+│ 21 ─        goto #23
+│ 22 ─ %73  = Main.App.joinpath("public", "uploads")
+│ └───        Main.App.mkpath(%73)
+│ 23 ┄ %75  = Base.getindex(fileuploads, "path")
+│ │    %76  = Main.App.joinpath("public", "uploads", filename)
+│ │           Main.App.mv(%75, %76)
+│ └───        $(Expr(:leave, 1))
+│ 24 ─        goto #43
+│ 25 ┄        $(Expr(:leave, 1))
+│ 26 ─        e = $(Expr(:the_exception))
+│ │           Core.NewvarNode(:(msg@_17))
+│ │           Core.NewvarNode(:(kwargs@_18))
+│ │           Core.NewvarNode(:(line@_19))
+│ │           Core.NewvarNode(:(file@_20))
+│ │           Core.NewvarNode(:(id@_21))
+│ │           Core.NewvarNode(:(logger@_22))
+│ │           Core.NewvarNode(:(_module@_23))
+│ │           Core.NewvarNode(:(group@_24))
+│ │           level@_26 = Base.CoreLogging.Error
+│ │           std_level@_25 = level@_26
+│ │    %92  = std_level@_25
+│ │    %93  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %94  = %92 >= %93
+│ └───        goto #42 if not %94
+│ 27 ─        group@_24 = :app
+│ │           _module@_23 = Main.App
+│ │           logger@_22 = (Base.CoreLogging.current_logger_for_env)(std_level@_25, group@_24, _module@_23)
+│ │    %99  = logger@_22 === Base.CoreLogging.nothing
+│ │    %100 = !%99
+│ └───        goto #42 if not %100
+│ 28 ─        id@_21 = :Main_App_7f260d15
+│ │    %103 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_22, level@_26, _module@_23, group@_24, id@_21)
+│ └───        goto #42 if not %103
+│ 29 ─        file@_20 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %106 = file@_20 isa Base.CoreLogging.String
+│ └───        goto #31 if not %106
+│ 30 ─ %108 = Base.fixup_stdlib_path
+│ └───        file@_20 = (%108)(file@_20)
+│ 31 ┄        line@_19 = 59
+│ 32 ─ %111 = $(Expr(:enter, #35))
+│ 33 ─        msg@_17 = Base.string("Error processing file: ", e)
+│ │           kwargs@_18 = Core.NamedTuple()
+│ │           @_30 = true
+│ └───        $(Expr(:leave, 1))
+│ 34 ─        goto #37
+│ 35 ┄        $(Expr(:leave, 1))
+│ 36 ─        err@_27 = $(Expr(:the_exception))
+│ │           Base.invokelatest(Base.CoreLogging.logging_error, logger@_22, level@_26, _module@_23, group@_24, id@_21, file@_20, line@_19, err@_27, true)
+│ │           @_30 = false
+│ └───        $(Expr(:pop_exception, :(%111)))
+│ 37 ┄        goto #42 if not @_30
+│ 38 ─ %123 = Base.NamedTuple()
+│ │    %124 = Base.merge(%123, kwargs@_18)
+│ │    %125 = Base.isempty(%124)
+│ └───        goto #40 if not %125
+│ 39 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ └───        goto #41
+│ 40 ─        Core.kwcall(%124, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ 41 ┄        goto #42
+│ 42 ┄        Base.CoreLogging.nothing
+│ │    %132 = Core.getfield(#self#, :__model__)
+│ │    %133 = Base.getindex(fileuploads, "name")
+│ │    %134 = Base.string("Error processing file: ", %133)
+│ │           Main.App.notify(%132, %134)
+│ └───        $(Expr(:pop_exception, :(%68)))
+│ 43 ┄ %137 = Base.string("/uploads/", filename)
+│ │    %138 = Core.getfield(#self#, :__model__)
+│ │    %139 = Base.getproperty(%138, :upl_imgsrc)
+│ │           Base.setindex!(%139, %137)
+│ │    %141 = Core.apply_type(Main.App.Dict, Main.App.AbstractString, Main.App.AbstractString)
+│ │    %142 = (%141)()
+│ │    %143 = Core.getfield(#self#, :__model__)
+│ │    %144 = Base.getproperty(%143, :fileuploads)
+│ │           Base.setindex!(%144, %142)
+│ │    %146 = Core.getfield(#self#, :__model__)
+│ │    %147 = Base.getproperty(%146, :upl_imgsrc)
+│ │    %148 = Base.getindex(%147)
+│ │           value = %148
+│ │    %150 = Base.repr(%148)
+│ │           Base.println("__model__.upl_imgsrc[] = ", %150)
+│ └───        return value
+│ 44 ─        return nothing
+│ )]
+│ 
+│   Type of argument:
+│   Dict{AbstractString, AbstractString}
+│ 
+│   Value:
+│   Dict{AbstractString, AbstractString}("name" => "generated_parameter_dataset.csv", "channel" => "GNYBUXXKZLYNOXEFUKJSMAICNVCQZMJU", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_8D0JgHs9Az")
+│ 
+│   Exception:
+│   UndefVarError(:Random)
+│ 
+│   exception = (UndefVarError(:Random), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffb9781ecf6, Ptr{Nothing} @0x00007ffb977b3eaa, Ptr{Nothing} @0x000001c1fc05c5fa, Ptr{Nothing} @0x000001c1fc05d5e2, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x000001c1fc059e65, Ptr{Nothing} @0x000001c1fc05a93c, Ptr{Nothing} @0x000001c1fc05a99a, Ptr{Nothing} @0x000001c1fc059ac8, Ptr{Nothing} @0x000001c1fc0331d4, Ptr{Nothing} @0x000001c1fc0334ab, Ptr{Nothing} @0x000001c1fc01e0f3, Ptr{Nothing} @0x000001c1fc01e567, Ptr{Nothing} @0x000001c1fc01e5fb, Ptr{Nothing} @0x000001c1fc01e63f, Ptr{Nothing} @0x000001c1fc001a92, Ptr{Nothing} @0x000001c1fc001aeb, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x00007ffb68f6f925, Ptr{Nothing} @0x00007ffb68e7a6f0, Ptr{Nothing} @0x00007ffb68fd4d8b, Ptr{Nothing} @0x000001c1a8704794, Ptr{Nothing} @0x000001c1a8704862, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x000001c1a86ff43c, Ptr{Nothing} @0x000001c1a87019cc, Ptr{Nothing} @0x000001c1a8701fcb, Ptr{Nothing} @0x00007ffb977bc68b])
+└ @ Stipple C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\stipple\mutators.jl:54
+┌ Info: 2024-07-17 17:26:56 uploaded
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:84
+┌ Info: 2024-07-17 17:26:56 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:87
+┌ Info: 2024-07-17 17:26:59 removed
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:75
+┌ Info: 2024-07-17 17:27:27 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 17:27:27 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 17:27:34 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:72
+┌ Info: 2024-07-17 17:27:34 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:81
+┌ Info: 2024-07-17 17:27:34 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "generated_parameter_dataset.csv", "channel" => "GNYBUXXKZLYNOXEFUKJSMAICNVCQZMJU", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_YBEJQNmlYV")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Error: 2024-07-17 17:27:34 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#31":
+│  [1] (::Main.App.var"#31#32")(fileuploads)
+│      @ C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:1067
+│   Core.CodeInfo[CodeInfo(
+│ 1 ──        Core.NewvarNode(:(value))
+│ │           Core.NewvarNode(:(filename))
+│ │    %3   = Main.App.isempty(fileuploads)
+│ │    %4   = !%3
+│ └───        goto #44 if not %4
+│ 2 ──        Core.NewvarNode(:(msg@_5))
+│ │           Core.NewvarNode(:(kwargs@_6))
+│ │           Core.NewvarNode(:(line@_7))
+│ │           Core.NewvarNode(:(file@_8))
+│ │           Core.NewvarNode(:(id@_9))
+│ │           Core.NewvarNode(:(logger@_10))
+│ │           Core.NewvarNode(:(_module@_11))
+│ │           Core.NewvarNode(:(group@_12))
+│ │           level@_14 = Base.CoreLogging.Info
+│ │           std_level@_13 = level@_14
+│ │    %16  = std_level@_13
+│ │    %17  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %18  = %16 >= %17
+│ └───        goto #18 if not %18
+│ 3 ──        group@_12 = :app
+│ │           _module@_11 = Main.App
+│ │           logger@_10 = (Base.CoreLogging.current_logger_for_env)(std_level@_13, group@_12, _module@_11)
+│ │    %23  = logger@_10 === Base.CoreLogging.nothing
+│ │    %24  = !%23
+│ └───        goto #18 if not %24
+│ 4 ──        id@_9 = :Main_App_8fc45cd2
+│ │    %27  = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_10, level@_14, _module@_11, group@_12, id@_9)
+│ └───        goto #18 if not %27
+│ 5 ──        file@_8 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %30  = file@_8 isa Base.CoreLogging.String
+│ └───        goto #7 if not %30
+│ 6 ── %32  = Base.fixup_stdlib_path
+│ └───        file@_8 = (%32)(file@_8)
+│ 7 ┄─        line@_7 = 52
+│ │    %35  = $(Expr(:isdefined, :(fileuploads)))
+│ └───        goto #9 if not %35
+│ 8 ──        @_28 = nothing
+│ └───        goto #10
+│ 9 ──        @_28 = Core.UndefVarError(:fileuploads)
+│ 10 ┄ %40  = @_28
+│ │           err@_15 = %40
+│ │    %42  = err@_15 === Base.CoreLogging.nothing
+│ └───        goto #12 if not %42
+│ 11 ─        msg@_5 = "File was uploaded: "
+│ │    %45  = (:fileuploads,)
+│ │    %46  = Core.apply_type(Core.NamedTuple, %45)
+│ │    %47  = Core.tuple(fileuploads)
+│ │           kwargs@_6 = (%46)(%47)
+│ │           @_29 = true
+│ └───        goto #13
+│ 12 ─        Base.invokelatest(Base.CoreLogging.logging_error, logger@_10, level@_14, _module@_11, group@_12, id@_9, file@_8, line@_7, err@_15, false)
+│ └───        @_29 = false
+│ 13 ┄        goto #18 if not @_29
+│ 14 ─ %54  = Base.NamedTuple()
+│ │    %55  = Base.merge(%54, kwargs@_6)
+│ │    %56  = Base.isempty(%55)
+│ └───        goto #16 if not %56
+│ 15 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ └───        goto #17
+│ 16 ─        Core.kwcall(%55, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ 17 ┄        goto #18
+│ 18 ┄        Base.CoreLogging.nothing
+│ │    %63  = Base.getproperty(Main.App.Random, :randstring)
+│ │    %64  = (%63)(10)
+│ │    %65  = Base.getindex(fileuploads, "name")
+│ │    %66  = Main.App.base64encode(%65)
+│ └───        filename = %64 * "_" * %66
+│ 19 ─ %68  = $(Expr(:enter, #25))
+│ 20 ─ %69  = Main.App.joinpath("public", "uploads")
+│ │    %70  = Main.App.isdir(%69)
+│ └───        goto #22 if not %70
+│ 21 ─        goto #23
+│ 22 ─ %73  = Main.App.joinpath("public", "uploads")
+│ └───        Main.App.mkpath(%73)
+│ 23 ┄ %75  = Base.getindex(fileuploads, "path")
+│ │    %76  = Main.App.joinpath("public", "uploads", filename)
+│ │           Main.App.mv(%75, %76)
+│ └───        $(Expr(:leave, 1))
+│ 24 ─        goto #43
+│ 25 ┄        $(Expr(:leave, 1))
+│ 26 ─        e = $(Expr(:the_exception))
+│ │           Core.NewvarNode(:(msg@_17))
+│ │           Core.NewvarNode(:(kwargs@_18))
+│ │           Core.NewvarNode(:(line@_19))
+│ │           Core.NewvarNode(:(file@_20))
+│ │           Core.NewvarNode(:(id@_21))
+│ │           Core.NewvarNode(:(logger@_22))
+│ │           Core.NewvarNode(:(_module@_23))
+│ │           Core.NewvarNode(:(group@_24))
+│ │           level@_26 = Base.CoreLogging.Error
+│ │           std_level@_25 = level@_26
+│ │    %92  = std_level@_25
+│ │    %93  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %94  = %92 >= %93
+│ └───        goto #42 if not %94
+│ 27 ─        group@_24 = :app
+│ │           _module@_23 = Main.App
+│ │           logger@_22 = (Base.CoreLogging.current_logger_for_env)(std_level@_25, group@_24, _module@_23)
+│ │    %99  = logger@_22 === Base.CoreLogging.nothing
+│ │    %100 = !%99
+│ └───        goto #42 if not %100
+│ 28 ─        id@_21 = :Main_App_7f260d15
+│ │    %103 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_22, level@_26, _module@_23, group@_24, id@_21)
+│ └───        goto #42 if not %103
+│ 29 ─        file@_20 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %106 = file@_20 isa Base.CoreLogging.String
+│ └───        goto #31 if not %106
+│ 30 ─ %108 = Base.fixup_stdlib_path
+│ └───        file@_20 = (%108)(file@_20)
+│ 31 ┄        line@_19 = 59
+│ 32 ─ %111 = $(Expr(:enter, #35))
+│ 33 ─        msg@_17 = Base.string("Error processing file: ", e)
+│ │           kwargs@_18 = Core.NamedTuple()
+│ │           @_30 = true
+│ └───        $(Expr(:leave, 1))
+│ 34 ─        goto #37
+│ 35 ┄        $(Expr(:leave, 1))
+│ 36 ─        err@_27 = $(Expr(:the_exception))
+│ │           Base.invokelatest(Base.CoreLogging.logging_error, logger@_22, level@_26, _module@_23, group@_24, id@_21, file@_20, line@_19, err@_27, true)
+│ │           @_30 = false
+│ └───        $(Expr(:pop_exception, :(%111)))
+│ 37 ┄        goto #42 if not @_30
+│ 38 ─ %123 = Base.NamedTuple()
+│ │    %124 = Base.merge(%123, kwargs@_18)
+│ │    %125 = Base.isempty(%124)
+│ └───        goto #40 if not %125
+│ 39 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ └───        goto #41
+│ 40 ─        Core.kwcall(%124, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ 41 ┄        goto #42
+│ 42 ┄        Base.CoreLogging.nothing
+│ │    %132 = Core.getfield(#self#, :__model__)
+│ │    %133 = Base.getindex(fileuploads, "name")
+│ │    %134 = Base.string("Error processing file: ", %133)
+│ │           Main.App.notify(%132, %134)
+│ └───        $(Expr(:pop_exception, :(%68)))
+│ 43 ┄ %137 = Base.string("/uploads/", filename)
+│ │    %138 = Core.getfield(#self#, :__model__)
+│ │    %139 = Base.getproperty(%138, :upl_imgsrc)
+│ │           Base.setindex!(%139, %137)
+│ │    %141 = Core.apply_type(Main.App.Dict, Main.App.AbstractString, Main.App.AbstractString)
+│ │    %142 = (%141)()
+│ │    %143 = Core.getfield(#self#, :__model__)
+│ │    %144 = Base.getproperty(%143, :fileuploads)
+│ │           Base.setindex!(%144, %142)
+│ │    %146 = Core.getfield(#self#, :__model__)
+│ │    %147 = Base.getproperty(%146, :upl_imgsrc)
+│ │    %148 = Base.getindex(%147)
+│ │           value = %148
+│ │    %150 = Base.repr(%148)
+│ │           Base.println("__model__.upl_imgsrc[] = ", %150)
+│ └───        return value
+│ 44 ─        return nothing
+│ )]
+│ 
+│   Type of argument:
+│   Dict{AbstractString, AbstractString}
+│ 
+│   Value:
+│   Dict{AbstractString, AbstractString}("name" => "generated_parameter_dataset.csv", "channel" => "GNYBUXXKZLYNOXEFUKJSMAICNVCQZMJU", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_YBEJQNmlYV")
+│ 
+│   Exception:
+│   UndefVarError(:Random)
+│ 
+│   exception = (UndefVarError(:Random), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffb9781ecf6, Ptr{Nothing} @0x00007ffb977b3eaa, Ptr{Nothing} @0x000001c1fc05c5fa, Ptr{Nothing} @0x000001c1fc05d5e2, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x000001c1fc059e65, Ptr{Nothing} @0x000001c1fc05a93c, Ptr{Nothing} @0x000001c1fc05a99a, Ptr{Nothing} @0x000001c1fc059ac8, Ptr{Nothing} @0x000001c1fc0331d4, Ptr{Nothing} @0x000001c1fc0334ab, Ptr{Nothing} @0x000001c1fc01e0f3, Ptr{Nothing} @0x000001c1fc01e567, Ptr{Nothing} @0x000001c1fc01e5fb, Ptr{Nothing} @0x000001c1fc01e63f, Ptr{Nothing} @0x000001c1fc001a92, Ptr{Nothing} @0x000001c1fc001aeb, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x00007ffb68f6f925, Ptr{Nothing} @0x00007ffb68e7a6f0, Ptr{Nothing} @0x00007ffb68fd4d8b, Ptr{Nothing} @0x000001c1a8704794, Ptr{Nothing} @0x000001c1a8704862, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x000001c1a86ff43c, Ptr{Nothing} @0x000001c1a87019cc, Ptr{Nothing} @0x000001c1a8701fcb, Ptr{Nothing} @0x00007ffb977bc68b])
+└ @ Stipple C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\stipple\mutators.jl:54
+┌ Info: 2024-07-17 17:27:34 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-17 17:27:43 removed
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:75
+┌ Info: 2024-07-17 17:27:46 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:72
+┌ Info: 2024-07-17 17:27:46 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:81
+┌ Info: 2024-07-17 17:27:46 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "generated_parameter_dataset.csv", "channel" => "GNYBUXXKZLYNOXEFUKJSMAICNVCQZMJU", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_y3Md0TaDcz")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Error: 2024-07-17 17:27:46 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#31":
+│  [1] (::Main.App.var"#31#32")(fileuploads)
+│      @ C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:1067
+│   Core.CodeInfo[CodeInfo(
+│ 1 ──        Core.NewvarNode(:(value))
+│ │           Core.NewvarNode(:(filename))
+│ │    %3   = Main.App.isempty(fileuploads)
+│ │    %4   = !%3
+│ └───        goto #44 if not %4
+│ 2 ──        Core.NewvarNode(:(msg@_5))
+│ │           Core.NewvarNode(:(kwargs@_6))
+│ │           Core.NewvarNode(:(line@_7))
+│ │           Core.NewvarNode(:(file@_8))
+│ │           Core.NewvarNode(:(id@_9))
+│ │           Core.NewvarNode(:(logger@_10))
+│ │           Core.NewvarNode(:(_module@_11))
+│ │           Core.NewvarNode(:(group@_12))
+│ │           level@_14 = Base.CoreLogging.Info
+│ │           std_level@_13 = level@_14
+│ │    %16  = std_level@_13
+│ │    %17  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %18  = %16 >= %17
+│ └───        goto #18 if not %18
+│ 3 ──        group@_12 = :app
+│ │           _module@_11 = Main.App
+│ │           logger@_10 = (Base.CoreLogging.current_logger_for_env)(std_level@_13, group@_12, _module@_11)
+│ │    %23  = logger@_10 === Base.CoreLogging.nothing
+│ │    %24  = !%23
+│ └───        goto #18 if not %24
+│ 4 ──        id@_9 = :Main_App_8fc45cd2
+│ │    %27  = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_10, level@_14, _module@_11, group@_12, id@_9)
+│ └───        goto #18 if not %27
+│ 5 ──        file@_8 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %30  = file@_8 isa Base.CoreLogging.String
+│ └───        goto #7 if not %30
+│ 6 ── %32  = Base.fixup_stdlib_path
+│ └───        file@_8 = (%32)(file@_8)
+│ 7 ┄─        line@_7 = 52
+│ │    %35  = $(Expr(:isdefined, :(fileuploads)))
+│ └───        goto #9 if not %35
+│ 8 ──        @_28 = nothing
+│ └───        goto #10
+│ 9 ──        @_28 = Core.UndefVarError(:fileuploads)
+│ 10 ┄ %40  = @_28
+│ │           err@_15 = %40
+│ │    %42  = err@_15 === Base.CoreLogging.nothing
+│ └───        goto #12 if not %42
+│ 11 ─        msg@_5 = "File was uploaded: "
+│ │    %45  = (:fileuploads,)
+│ │    %46  = Core.apply_type(Core.NamedTuple, %45)
+│ │    %47  = Core.tuple(fileuploads)
+│ │           kwargs@_6 = (%46)(%47)
+│ │           @_29 = true
+│ └───        goto #13
+│ 12 ─        Base.invokelatest(Base.CoreLogging.logging_error, logger@_10, level@_14, _module@_11, group@_12, id@_9, file@_8, line@_7, err@_15, false)
+│ └───        @_29 = false
+│ 13 ┄        goto #18 if not @_29
+│ 14 ─ %54  = Base.NamedTuple()
+│ │    %55  = Base.merge(%54, kwargs@_6)
+│ │    %56  = Base.isempty(%55)
+│ └───        goto #16 if not %56
+│ 15 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ └───        goto #17
+│ 16 ─        Core.kwcall(%55, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ 17 ┄        goto #18
+│ 18 ┄        Base.CoreLogging.nothing
+│ │    %63  = Base.getproperty(Main.App.Random, :randstring)
+│ │    %64  = (%63)(10)
+│ │    %65  = Base.getindex(fileuploads, "name")
+│ │    %66  = Main.App.base64encode(%65)
+│ └───        filename = %64 * "_" * %66
+│ 19 ─ %68  = $(Expr(:enter, #25))
+│ 20 ─ %69  = Main.App.joinpath("public", "uploads")
+│ │    %70  = Main.App.isdir(%69)
+│ └───        goto #22 if not %70
+│ 21 ─        goto #23
+│ 22 ─ %73  = Main.App.joinpath("public", "uploads")
+│ └───        Main.App.mkpath(%73)
+│ 23 ┄ %75  = Base.getindex(fileuploads, "path")
+│ │    %76  = Main.App.joinpath("public", "uploads", filename)
+│ │           Main.App.mv(%75, %76)
+│ └───        $(Expr(:leave, 1))
+│ 24 ─        goto #43
+│ 25 ┄        $(Expr(:leave, 1))
+│ 26 ─        e = $(Expr(:the_exception))
+│ │           Core.NewvarNode(:(msg@_17))
+│ │           Core.NewvarNode(:(kwargs@_18))
+│ │           Core.NewvarNode(:(line@_19))
+│ │           Core.NewvarNode(:(file@_20))
+│ │           Core.NewvarNode(:(id@_21))
+│ │           Core.NewvarNode(:(logger@_22))
+│ │           Core.NewvarNode(:(_module@_23))
+│ │           Core.NewvarNode(:(group@_24))
+│ │           level@_26 = Base.CoreLogging.Error
+│ │           std_level@_25 = level@_26
+│ │    %92  = std_level@_25
+│ │    %93  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %94  = %92 >= %93
+│ └───        goto #42 if not %94
+│ 27 ─        group@_24 = :app
+│ │           _module@_23 = Main.App
+│ │           logger@_22 = (Base.CoreLogging.current_logger_for_env)(std_level@_25, group@_24, _module@_23)
+│ │    %99  = logger@_22 === Base.CoreLogging.nothing
+│ │    %100 = !%99
+│ └───        goto #42 if not %100
+│ 28 ─        id@_21 = :Main_App_7f260d15
+│ │    %103 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_22, level@_26, _module@_23, group@_24, id@_21)
+│ └───        goto #42 if not %103
+│ 29 ─        file@_20 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %106 = file@_20 isa Base.CoreLogging.String
+│ └───        goto #31 if not %106
+│ 30 ─ %108 = Base.fixup_stdlib_path
+│ └───        file@_20 = (%108)(file@_20)
+│ 31 ┄        line@_19 = 59
+│ 32 ─ %111 = $(Expr(:enter, #35))
+│ 33 ─        msg@_17 = Base.string("Error processing file: ", e)
+│ │           kwargs@_18 = Core.NamedTuple()
+│ │           @_30 = true
+│ └───        $(Expr(:leave, 1))
+│ 34 ─        goto #37
+│ 35 ┄        $(Expr(:leave, 1))
+│ 36 ─        err@_27 = $(Expr(:the_exception))
+│ │           Base.invokelatest(Base.CoreLogging.logging_error, logger@_22, level@_26, _module@_23, group@_24, id@_21, file@_20, line@_19, err@_27, true)
+│ │           @_30 = false
+│ └───        $(Expr(:pop_exception, :(%111)))
+│ 37 ┄        goto #42 if not @_30
+│ 38 ─ %123 = Base.NamedTuple()
+│ │    %124 = Base.merge(%123, kwargs@_18)
+│ │    %125 = Base.isempty(%124)
+│ └───        goto #40 if not %125
+│ 39 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ └───        goto #41
+│ 40 ─        Core.kwcall(%124, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ 41 ┄        goto #42
+│ 42 ┄        Base.CoreLogging.nothing
+│ │    %132 = Core.getfield(#self#, :__model__)
+│ │    %133 = Base.getindex(fileuploads, "name")
+│ │    %134 = Base.string("Error processing file: ", %133)
+│ │           Main.App.notify(%132, %134)
+│ └───        $(Expr(:pop_exception, :(%68)))
+│ 43 ┄ %137 = Base.string("/uploads/", filename)
+│ │    %138 = Core.getfield(#self#, :__model__)
+│ │    %139 = Base.getproperty(%138, :upl_imgsrc)
+│ │           Base.setindex!(%139, %137)
+│ │    %141 = Core.apply_type(Main.App.Dict, Main.App.AbstractString, Main.App.AbstractString)
+│ │    %142 = (%141)()
+│ │    %143 = Core.getfield(#self#, :__model__)
+│ │    %144 = Base.getproperty(%143, :fileuploads)
+│ │           Base.setindex!(%144, %142)
+│ │    %146 = Core.getfield(#self#, :__model__)
+│ │    %147 = Base.getproperty(%146, :upl_imgsrc)
+│ │    %148 = Base.getindex(%147)
+│ │           value = %148
+│ │    %150 = Base.repr(%148)
+│ │           Base.println("__model__.upl_imgsrc[] = ", %150)
+│ └───        return value
+│ 44 ─        return nothing
+│ )]
+│ 
+│   Type of argument:
+│   Dict{AbstractString, AbstractString}
+│ 
+│   Value:
+│   Dict{AbstractString, AbstractString}("name" => "generated_parameter_dataset.csv", "channel" => "GNYBUXXKZLYNOXEFUKJSMAICNVCQZMJU", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_y3Md0TaDcz")
+│ 
+│   Exception:
+│   UndefVarError(:Random)
+│ 
+│   exception = (UndefVarError(:Random), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffb9781ecf6, Ptr{Nothing} @0x00007ffb977b3eaa, Ptr{Nothing} @0x000001c1fc05c5fa, Ptr{Nothing} @0x000001c1fc05d5e2, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x000001c1fc059e65, Ptr{Nothing} @0x000001c1fc05a93c, Ptr{Nothing} @0x000001c1fc05a99a, Ptr{Nothing} @0x000001c1fc059ac8, Ptr{Nothing} @0x000001c1fc0331d4, Ptr{Nothing} @0x000001c1fc0334ab, Ptr{Nothing} @0x000001c1fc01e0f3, Ptr{Nothing} @0x000001c1fc01e567, Ptr{Nothing} @0x000001c1fc01e5fb, Ptr{Nothing} @0x000001c1fc01e63f, Ptr{Nothing} @0x000001c1fc001a92, Ptr{Nothing} @0x000001c1fc001aeb, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x00007ffb68f6f925, Ptr{Nothing} @0x00007ffb68e7a6f0, Ptr{Nothing} @0x00007ffb68fd4d8b, Ptr{Nothing} @0x000001c1a8704794, Ptr{Nothing} @0x000001c1a8704862, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x000001c1a86ff43c, Ptr{Nothing} @0x000001c1a87019cc, Ptr{Nothing} @0x000001c1a8701fcb, Ptr{Nothing} @0x00007ffb977bc68b])
+└ @ Stipple C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\stipple\mutators.jl:54
+┌ Info: 2024-07-17 17:27:46 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-17 17:27:46 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "generated_parameter_dataset.csv", "channel" => "GNYBUXXKZLYNOXEFUKJSMAICNVCQZMJU", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_y3Md0TaDcz")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Error: 2024-07-17 17:27:46 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#31":
+│  [1] (::Main.App.var"#31#32")(fileuploads)
+│      @ C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:1067
+│   Core.CodeInfo[CodeInfo(
+│ 1 ──        Core.NewvarNode(:(value))
+│ │           Core.NewvarNode(:(filename))
+│ │    %3   = Main.App.isempty(fileuploads)
+│ │    %4   = !%3
+│ └───        goto #44 if not %4
+│ 2 ──        Core.NewvarNode(:(msg@_5))
+│ │           Core.NewvarNode(:(kwargs@_6))
+│ │           Core.NewvarNode(:(line@_7))
+│ │           Core.NewvarNode(:(file@_8))
+│ │           Core.NewvarNode(:(id@_9))
+│ │           Core.NewvarNode(:(logger@_10))
+│ │           Core.NewvarNode(:(_module@_11))
+│ │           Core.NewvarNode(:(group@_12))
+│ │           level@_14 = Base.CoreLogging.Info
+│ │           std_level@_13 = level@_14
+│ │    %16  = std_level@_13
+│ │    %17  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %18  = %16 >= %17
+│ └───        goto #18 if not %18
+│ 3 ──        group@_12 = :app
+│ │           _module@_11 = Main.App
+│ │           logger@_10 = (Base.CoreLogging.current_logger_for_env)(std_level@_13, group@_12, _module@_11)
+│ │    %23  = logger@_10 === Base.CoreLogging.nothing
+│ │    %24  = !%23
+│ └───        goto #18 if not %24
+│ 4 ──        id@_9 = :Main_App_8fc45cd2
+│ │    %27  = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_10, level@_14, _module@_11, group@_12, id@_9)
+│ └───        goto #18 if not %27
+│ 5 ──        file@_8 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %30  = file@_8 isa Base.CoreLogging.String
+│ └───        goto #7 if not %30
+│ 6 ── %32  = Base.fixup_stdlib_path
+│ └───        file@_8 = (%32)(file@_8)
+│ 7 ┄─        line@_7 = 52
+│ │    %35  = $(Expr(:isdefined, :(fileuploads)))
+│ └───        goto #9 if not %35
+│ 8 ──        @_28 = nothing
+│ └───        goto #10
+│ 9 ──        @_28 = Core.UndefVarError(:fileuploads)
+│ 10 ┄ %40  = @_28
+│ │           err@_15 = %40
+│ │    %42  = err@_15 === Base.CoreLogging.nothing
+│ └───        goto #12 if not %42
+│ 11 ─        msg@_5 = "File was uploaded: "
+│ │    %45  = (:fileuploads,)
+│ │    %46  = Core.apply_type(Core.NamedTuple, %45)
+│ │    %47  = Core.tuple(fileuploads)
+│ │           kwargs@_6 = (%46)(%47)
+│ │           @_29 = true
+│ └───        goto #13
+│ 12 ─        Base.invokelatest(Base.CoreLogging.logging_error, logger@_10, level@_14, _module@_11, group@_12, id@_9, file@_8, line@_7, err@_15, false)
+│ └───        @_29 = false
+│ 13 ┄        goto #18 if not @_29
+│ 14 ─ %54  = Base.NamedTuple()
+│ │    %55  = Base.merge(%54, kwargs@_6)
+│ │    %56  = Base.isempty(%55)
+│ └───        goto #16 if not %56
+│ 15 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ └───        goto #17
+│ 16 ─        Core.kwcall(%55, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ 17 ┄        goto #18
+│ 18 ┄        Base.CoreLogging.nothing
+│ │    %63  = Base.getproperty(Main.App.Random, :randstring)
+│ │    %64  = (%63)(10)
+│ │    %65  = Base.getindex(fileuploads, "name")
+│ │    %66  = Main.App.base64encode(%65)
+│ └───        filename = %64 * "_" * %66
+│ 19 ─ %68  = $(Expr(:enter, #25))
+│ 20 ─ %69  = Main.App.joinpath("public", "uploads")
+│ │    %70  = Main.App.isdir(%69)
+│ └───        goto #22 if not %70
+│ 21 ─        goto #23
+│ 22 ─ %73  = Main.App.joinpath("public", "uploads")
+│ └───        Main.App.mkpath(%73)
+│ 23 ┄ %75  = Base.getindex(fileuploads, "path")
+│ │    %76  = Main.App.joinpath("public", "uploads", filename)
+│ │           Main.App.mv(%75, %76)
+│ └───        $(Expr(:leave, 1))
+│ 24 ─        goto #43
+│ 25 ┄        $(Expr(:leave, 1))
+│ 26 ─        e = $(Expr(:the_exception))
+│ │           Core.NewvarNode(:(msg@_17))
+│ │           Core.NewvarNode(:(kwargs@_18))
+│ │           Core.NewvarNode(:(line@_19))
+│ │           Core.NewvarNode(:(file@_20))
+│ │           Core.NewvarNode(:(id@_21))
+│ │           Core.NewvarNode(:(logger@_22))
+│ │           Core.NewvarNode(:(_module@_23))
+│ │           Core.NewvarNode(:(group@_24))
+│ │           level@_26 = Base.CoreLogging.Error
+│ │           std_level@_25 = level@_26
+│ │    %92  = std_level@_25
+│ │    %93  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %94  = %92 >= %93
+│ └───        goto #42 if not %94
+│ 27 ─        group@_24 = :app
+│ │           _module@_23 = Main.App
+│ │           logger@_22 = (Base.CoreLogging.current_logger_for_env)(std_level@_25, group@_24, _module@_23)
+│ │    %99  = logger@_22 === Base.CoreLogging.nothing
+│ │    %100 = !%99
+│ └───        goto #42 if not %100
+│ 28 ─        id@_21 = :Main_App_7f260d15
+│ │    %103 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_22, level@_26, _module@_23, group@_24, id@_21)
+│ └───        goto #42 if not %103
+│ 29 ─        file@_20 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %106 = file@_20 isa Base.CoreLogging.String
+│ └───        goto #31 if not %106
+│ 30 ─ %108 = Base.fixup_stdlib_path
+│ └───        file@_20 = (%108)(file@_20)
+│ 31 ┄        line@_19 = 59
+│ 32 ─ %111 = $(Expr(:enter, #35))
+│ 33 ─        msg@_17 = Base.string("Error processing file: ", e)
+│ │           kwargs@_18 = Core.NamedTuple()
+│ │           @_30 = true
+│ └───        $(Expr(:leave, 1))
+│ 34 ─        goto #37
+│ 35 ┄        $(Expr(:leave, 1))
+│ 36 ─        err@_27 = $(Expr(:the_exception))
+│ │           Base.invokelatest(Base.CoreLogging.logging_error, logger@_22, level@_26, _module@_23, group@_24, id@_21, file@_20, line@_19, err@_27, true)
+│ │           @_30 = false
+│ └───        $(Expr(:pop_exception, :(%111)))
+│ 37 ┄        goto #42 if not @_30
+│ 38 ─ %123 = Base.NamedTuple()
+│ │    %124 = Base.merge(%123, kwargs@_18)
+│ │    %125 = Base.isempty(%124)
+│ └───        goto #40 if not %125
+│ 39 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ └───        goto #41
+│ 40 ─        Core.kwcall(%124, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ 41 ┄        goto #42
+│ 42 ┄        Base.CoreLogging.nothing
+│ │    %132 = Core.getfield(#self#, :__model__)
+│ │    %133 = Base.getindex(fileuploads, "name")
+│ │    %134 = Base.string("Error processing file: ", %133)
+│ │           Main.App.notify(%132, %134)
+│ └───        $(Expr(:pop_exception, :(%68)))
+│ 43 ┄ %137 = Base.string("/uploads/", filename)
+│ │    %138 = Core.getfield(#self#, :__model__)
+│ │    %139 = Base.getproperty(%138, :upl_imgsrc)
+│ │           Base.setindex!(%139, %137)
+│ │    %141 = Core.apply_type(Main.App.Dict, Main.App.AbstractString, Main.App.AbstractString)
+│ │    %142 = (%141)()
+│ │    %143 = Core.getfield(#self#, :__model__)
+│ │    %144 = Base.getproperty(%143, :fileuploads)
+│ │           Base.setindex!(%144, %142)
+│ │    %146 = Core.getfield(#self#, :__model__)
+│ │    %147 = Base.getproperty(%146, :upl_imgsrc)
+│ │    %148 = Base.getindex(%147)
+│ │           value = %148
+│ │    %150 = Base.repr(%148)
+│ │           Base.println("__model__.upl_imgsrc[] = ", %150)
+│ └───        return value
+│ 44 ─        return nothing
+│ )]
+│ 
+│   Type of argument:
+│   Dict{AbstractString, AbstractString}
+│ 
+│   Value:
+│   Dict{AbstractString, AbstractString}("name" => "generated_parameter_dataset.csv", "channel" => "GNYBUXXKZLYNOXEFUKJSMAICNVCQZMJU", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_y3Md0TaDcz")
+│ 
+│   Exception:
+│   UndefVarError(:Random)
+│ 
+│   exception = (UndefVarError(:Random), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffb9781ecf6, Ptr{Nothing} @0x00007ffb977b3eaa, Ptr{Nothing} @0x000001c1fc05c5fa, Ptr{Nothing} @0x000001c1fc05d5e2, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x000001c1fc059e65, Ptr{Nothing} @0x000001c1fc05a93c, Ptr{Nothing} @0x000001c1fc05a99a, Ptr{Nothing} @0x000001c1fc059ac8, Ptr{Nothing} @0x000001c1fc0331d4, Ptr{Nothing} @0x000001c1fc0334ab, Ptr{Nothing} @0x000001c1fc01e0f3, Ptr{Nothing} @0x000001c1fc01e567, Ptr{Nothing} @0x000001c1fc01e5fb, Ptr{Nothing} @0x000001c1fc01e63f, Ptr{Nothing} @0x000001c1fc001a92, Ptr{Nothing} @0x000001c1fc001aeb, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x00007ffb68f6f925, Ptr{Nothing} @0x00007ffb68e7a6f0, Ptr{Nothing} @0x00007ffb68fd4d8b, Ptr{Nothing} @0x000001c1a8704794, Ptr{Nothing} @0x000001c1a8704862, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x000001c1a86ff43c, Ptr{Nothing} @0x000001c1a87019cc, Ptr{Nothing} @0x000001c1a8701fcb, Ptr{Nothing} @0x00007ffb977bc68b])
+└ @ Stipple C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\stipple\mutators.jl:54
+┌ Info: 2024-07-17 17:27:46 uploaded
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:84
+┌ Info: 2024-07-17 17:27:46 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:87
+┌ Info: 2024-07-17 17:27:51 removed
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:75
+┌ Info: 2024-07-17 17:28:04 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:72
+┌ Info: 2024-07-17 17:28:04 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:81
+┌ Info: 2024-07-17 17:28:04 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-17 17:28:04 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "111series.csv", "channel" => "GNYBUXXKZLYNOXEFUKJSMAICNVCQZMJU", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_wBmDKdwx2P")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Error: 2024-07-17 17:28:04 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#31":
+│  [1] (::Main.App.var"#31#32")(fileuploads)
+│      @ C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:1067
+│   Core.CodeInfo[CodeInfo(
+│ 1 ──        Core.NewvarNode(:(value))
+│ │           Core.NewvarNode(:(filename))
+│ │    %3   = Main.App.isempty(fileuploads)
+│ │    %4   = !%3
+│ └───        goto #44 if not %4
+│ 2 ──        Core.NewvarNode(:(msg@_5))
+│ │           Core.NewvarNode(:(kwargs@_6))
+│ │           Core.NewvarNode(:(line@_7))
+│ │           Core.NewvarNode(:(file@_8))
+│ │           Core.NewvarNode(:(id@_9))
+│ │           Core.NewvarNode(:(logger@_10))
+│ │           Core.NewvarNode(:(_module@_11))
+│ │           Core.NewvarNode(:(group@_12))
+│ │           level@_14 = Base.CoreLogging.Info
+│ │           std_level@_13 = level@_14
+│ │    %16  = std_level@_13
+│ │    %17  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %18  = %16 >= %17
+│ └───        goto #18 if not %18
+│ 3 ──        group@_12 = :app
+│ │           _module@_11 = Main.App
+│ │           logger@_10 = (Base.CoreLogging.current_logger_for_env)(std_level@_13, group@_12, _module@_11)
+│ │    %23  = logger@_10 === Base.CoreLogging.nothing
+│ │    %24  = !%23
+│ └───        goto #18 if not %24
+│ 4 ──        id@_9 = :Main_App_8fc45cd2
+│ │    %27  = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_10, level@_14, _module@_11, group@_12, id@_9)
+│ └───        goto #18 if not %27
+│ 5 ──        file@_8 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %30  = file@_8 isa Base.CoreLogging.String
+│ └───        goto #7 if not %30
+│ 6 ── %32  = Base.fixup_stdlib_path
+│ └───        file@_8 = (%32)(file@_8)
+│ 7 ┄─        line@_7 = 52
+│ │    %35  = $(Expr(:isdefined, :(fileuploads)))
+│ └───        goto #9 if not %35
+│ 8 ──        @_28 = nothing
+│ └───        goto #10
+│ 9 ──        @_28 = Core.UndefVarError(:fileuploads)
+│ 10 ┄ %40  = @_28
+│ │           err@_15 = %40
+│ │    %42  = err@_15 === Base.CoreLogging.nothing
+│ └───        goto #12 if not %42
+│ 11 ─        msg@_5 = "File was uploaded: "
+│ │    %45  = (:fileuploads,)
+│ │    %46  = Core.apply_type(Core.NamedTuple, %45)
+│ │    %47  = Core.tuple(fileuploads)
+│ │           kwargs@_6 = (%46)(%47)
+│ │           @_29 = true
+│ └───        goto #13
+│ 12 ─        Base.invokelatest(Base.CoreLogging.logging_error, logger@_10, level@_14, _module@_11, group@_12, id@_9, file@_8, line@_7, err@_15, false)
+│ └───        @_29 = false
+│ 13 ┄        goto #18 if not @_29
+│ 14 ─ %54  = Base.NamedTuple()
+│ │    %55  = Base.merge(%54, kwargs@_6)
+│ │    %56  = Base.isempty(%55)
+│ └───        goto #16 if not %56
+│ 15 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ └───        goto #17
+│ 16 ─        Core.kwcall(%55, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ 17 ┄        goto #18
+│ 18 ┄        Base.CoreLogging.nothing
+│ │    %63  = Base.getproperty(Main.App.Random, :randstring)
+│ │    %64  = (%63)(10)
+│ │    %65  = Base.getindex(fileuploads, "name")
+│ │    %66  = Main.App.base64encode(%65)
+│ └───        filename = %64 * "_" * %66
+│ 19 ─ %68  = $(Expr(:enter, #25))
+│ 20 ─ %69  = Main.App.joinpath("public", "uploads")
+│ │    %70  = Main.App.isdir(%69)
+│ └───        goto #22 if not %70
+│ 21 ─        goto #23
+│ 22 ─ %73  = Main.App.joinpath("public", "uploads")
+│ └───        Main.App.mkpath(%73)
+│ 23 ┄ %75  = Base.getindex(fileuploads, "path")
+│ │    %76  = Main.App.joinpath("public", "uploads", filename)
+│ │           Main.App.mv(%75, %76)
+│ └───        $(Expr(:leave, 1))
+│ 24 ─        goto #43
+│ 25 ┄        $(Expr(:leave, 1))
+│ 26 ─        e = $(Expr(:the_exception))
+│ │           Core.NewvarNode(:(msg@_17))
+│ │           Core.NewvarNode(:(kwargs@_18))
+│ │           Core.NewvarNode(:(line@_19))
+│ │           Core.NewvarNode(:(file@_20))
+│ │           Core.NewvarNode(:(id@_21))
+│ │           Core.NewvarNode(:(logger@_22))
+│ │           Core.NewvarNode(:(_module@_23))
+│ │           Core.NewvarNode(:(group@_24))
+│ │           level@_26 = Base.CoreLogging.Error
+│ │           std_level@_25 = level@_26
+│ │    %92  = std_level@_25
+│ │    %93  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %94  = %92 >= %93
+│ └───        goto #42 if not %94
+│ 27 ─        group@_24 = :app
+│ │           _module@_23 = Main.App
+│ │           logger@_22 = (Base.CoreLogging.current_logger_for_env)(std_level@_25, group@_24, _module@_23)
+│ │    %99  = logger@_22 === Base.CoreLogging.nothing
+│ │    %100 = !%99
+│ └───        goto #42 if not %100
+│ 28 ─        id@_21 = :Main_App_7f260d15
+│ │    %103 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_22, level@_26, _module@_23, group@_24, id@_21)
+│ └───        goto #42 if not %103
+│ 29 ─        file@_20 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %106 = file@_20 isa Base.CoreLogging.String
+│ └───        goto #31 if not %106
+│ 30 ─ %108 = Base.fixup_stdlib_path
+│ └───        file@_20 = (%108)(file@_20)
+│ 31 ┄        line@_19 = 59
+│ 32 ─ %111 = $(Expr(:enter, #35))
+│ 33 ─        msg@_17 = Base.string("Error processing file: ", e)
+│ │           kwargs@_18 = Core.NamedTuple()
+│ │           @_30 = true
+│ └───        $(Expr(:leave, 1))
+│ 34 ─        goto #37
+│ 35 ┄        $(Expr(:leave, 1))
+│ 36 ─        err@_27 = $(Expr(:the_exception))
+│ │           Base.invokelatest(Base.CoreLogging.logging_error, logger@_22, level@_26, _module@_23, group@_24, id@_21, file@_20, line@_19, err@_27, true)
+│ │           @_30 = false
+│ └───        $(Expr(:pop_exception, :(%111)))
+│ 37 ┄        goto #42 if not @_30
+│ 38 ─ %123 = Base.NamedTuple()
+│ │    %124 = Base.merge(%123, kwargs@_18)
+│ │    %125 = Base.isempty(%124)
+│ └───        goto #40 if not %125
+│ 39 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ └───        goto #41
+│ 40 ─        Core.kwcall(%124, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ 41 ┄        goto #42
+│ 42 ┄        Base.CoreLogging.nothing
+│ │    %132 = Core.getfield(#self#, :__model__)
+│ │    %133 = Base.getindex(fileuploads, "name")
+│ │    %134 = Base.string("Error processing file: ", %133)
+│ │           Main.App.notify(%132, %134)
+│ └───        $(Expr(:pop_exception, :(%68)))
+│ 43 ┄ %137 = Base.string("/uploads/", filename)
+│ │    %138 = Core.getfield(#self#, :__model__)
+│ │    %139 = Base.getproperty(%138, :upl_imgsrc)
+│ │           Base.setindex!(%139, %137)
+│ │    %141 = Core.apply_type(Main.App.Dict, Main.App.AbstractString, Main.App.AbstractString)
+│ │    %142 = (%141)()
+│ │    %143 = Core.getfield(#self#, :__model__)
+│ │    %144 = Base.getproperty(%143, :fileuploads)
+│ │           Base.setindex!(%144, %142)
+│ │    %146 = Core.getfield(#self#, :__model__)
+│ │    %147 = Base.getproperty(%146, :upl_imgsrc)
+│ │    %148 = Base.getindex(%147)
+│ │           value = %148
+│ │    %150 = Base.repr(%148)
+│ │           Base.println("__model__.upl_imgsrc[] = ", %150)
+│ └───        return value
+│ 44 ─        return nothing
+│ )]
+│ 
+│   Type of argument:
+│   Dict{AbstractString, AbstractString}
+│ 
+│   Value:
+│   Dict{AbstractString, AbstractString}("name" => "111series.csv", "channel" => "GNYBUXXKZLYNOXEFUKJSMAICNVCQZMJU", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_wBmDKdwx2P")
+│ 
+│   Exception:
+│   UndefVarError(:Random)
+│ 
+│   exception = (UndefVarError(:Random), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffb9781ecf6, Ptr{Nothing} @0x00007ffb977b3eaa, Ptr{Nothing} @0x000001c1fc05c5fa, Ptr{Nothing} @0x000001c1fc05d5e2, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x000001c1fc059e65, Ptr{Nothing} @0x000001c1fc05a93c, Ptr{Nothing} @0x000001c1fc05a99a, Ptr{Nothing} @0x000001c1fc059ac8, Ptr{Nothing} @0x000001c1fc0331d4, Ptr{Nothing} @0x000001c1fc0334ab, Ptr{Nothing} @0x000001c1fc01e0f3, Ptr{Nothing} @0x000001c1fc01e567, Ptr{Nothing} @0x000001c1fc01e5fb, Ptr{Nothing} @0x000001c1fc01e63f, Ptr{Nothing} @0x000001c1fc001a92, Ptr{Nothing} @0x000001c1fc001aeb, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x00007ffb68f6f925, Ptr{Nothing} @0x00007ffb68e7a6f0, Ptr{Nothing} @0x00007ffb68fd4d8b, Ptr{Nothing} @0x000001c1a8704794, Ptr{Nothing} @0x000001c1a8704862, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x000001c1a86ff43c, Ptr{Nothing} @0x000001c1a87019cc, Ptr{Nothing} @0x000001c1a8701fcb, Ptr{Nothing} @0x00007ffb977bc68b])
+└ @ Stipple C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\stipple\mutators.jl:54
+┌ Info: 2024-07-17 17:28:04 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "111series.csv", "channel" => "GNYBUXXKZLYNOXEFUKJSMAICNVCQZMJU", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_wBmDKdwx2P")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Error: 2024-07-17 17:28:04 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#31":
+│  [1] (::Main.App.var"#31#32")(fileuploads)
+│      @ C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:1067
+│   Core.CodeInfo[CodeInfo(
+│ 1 ──        Core.NewvarNode(:(value))
+│ │           Core.NewvarNode(:(filename))
+│ │    %3   = Main.App.isempty(fileuploads)
+│ │    %4   = !%3
+│ └───        goto #44 if not %4
+│ 2 ──        Core.NewvarNode(:(msg@_5))
+│ │           Core.NewvarNode(:(kwargs@_6))
+│ │           Core.NewvarNode(:(line@_7))
+│ │           Core.NewvarNode(:(file@_8))
+│ │           Core.NewvarNode(:(id@_9))
+│ │           Core.NewvarNode(:(logger@_10))
+│ │           Core.NewvarNode(:(_module@_11))
+│ │           Core.NewvarNode(:(group@_12))
+│ │           level@_14 = Base.CoreLogging.Info
+│ │           std_level@_13 = level@_14
+│ │    %16  = std_level@_13
+│ │    %17  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %18  = %16 >= %17
+│ └───        goto #18 if not %18
+│ 3 ──        group@_12 = :app
+│ │           _module@_11 = Main.App
+│ │           logger@_10 = (Base.CoreLogging.current_logger_for_env)(std_level@_13, group@_12, _module@_11)
+│ │    %23  = logger@_10 === Base.CoreLogging.nothing
+│ │    %24  = !%23
+│ └───        goto #18 if not %24
+│ 4 ──        id@_9 = :Main_App_8fc45cd2
+│ │    %27  = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_10, level@_14, _module@_11, group@_12, id@_9)
+│ └───        goto #18 if not %27
+│ 5 ──        file@_8 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %30  = file@_8 isa Base.CoreLogging.String
+│ └───        goto #7 if not %30
+│ 6 ── %32  = Base.fixup_stdlib_path
+│ └───        file@_8 = (%32)(file@_8)
+│ 7 ┄─        line@_7 = 52
+│ │    %35  = $(Expr(:isdefined, :(fileuploads)))
+│ └───        goto #9 if not %35
+│ 8 ──        @_28 = nothing
+│ └───        goto #10
+│ 9 ──        @_28 = Core.UndefVarError(:fileuploads)
+│ 10 ┄ %40  = @_28
+│ │           err@_15 = %40
+│ │    %42  = err@_15 === Base.CoreLogging.nothing
+│ └───        goto #12 if not %42
+│ 11 ─        msg@_5 = "File was uploaded: "
+│ │    %45  = (:fileuploads,)
+│ │    %46  = Core.apply_type(Core.NamedTuple, %45)
+│ │    %47  = Core.tuple(fileuploads)
+│ │           kwargs@_6 = (%46)(%47)
+│ │           @_29 = true
+│ └───        goto #13
+│ 12 ─        Base.invokelatest(Base.CoreLogging.logging_error, logger@_10, level@_14, _module@_11, group@_12, id@_9, file@_8, line@_7, err@_15, false)
+│ └───        @_29 = false
+│ 13 ┄        goto #18 if not @_29
+│ 14 ─ %54  = Base.NamedTuple()
+│ │    %55  = Base.merge(%54, kwargs@_6)
+│ │    %56  = Base.isempty(%55)
+│ └───        goto #16 if not %56
+│ 15 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ └───        goto #17
+│ 16 ─        Core.kwcall(%55, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ 17 ┄        goto #18
+│ 18 ┄        Base.CoreLogging.nothing
+│ │    %63  = Base.getproperty(Main.App.Random, :randstring)
+│ │    %64  = (%63)(10)
+│ │    %65  = Base.getindex(fileuploads, "name")
+│ │    %66  = Main.App.base64encode(%65)
+│ └───        filename = %64 * "_" * %66
+│ 19 ─ %68  = $(Expr(:enter, #25))
+│ 20 ─ %69  = Main.App.joinpath("public", "uploads")
+│ │    %70  = Main.App.isdir(%69)
+│ └───        goto #22 if not %70
+│ 21 ─        goto #23
+│ 22 ─ %73  = Main.App.joinpath("public", "uploads")
+│ └───        Main.App.mkpath(%73)
+│ 23 ┄ %75  = Base.getindex(fileuploads, "path")
+│ │    %76  = Main.App.joinpath("public", "uploads", filename)
+│ │           Main.App.mv(%75, %76)
+│ └───        $(Expr(:leave, 1))
+│ 24 ─        goto #43
+│ 25 ┄        $(Expr(:leave, 1))
+│ 26 ─        e = $(Expr(:the_exception))
+│ │           Core.NewvarNode(:(msg@_17))
+│ │           Core.NewvarNode(:(kwargs@_18))
+│ │           Core.NewvarNode(:(line@_19))
+│ │           Core.NewvarNode(:(file@_20))
+│ │           Core.NewvarNode(:(id@_21))
+│ │           Core.NewvarNode(:(logger@_22))
+│ │           Core.NewvarNode(:(_module@_23))
+│ │           Core.NewvarNode(:(group@_24))
+│ │           level@_26 = Base.CoreLogging.Error
+│ │           std_level@_25 = level@_26
+│ │    %92  = std_level@_25
+│ │    %93  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %94  = %92 >= %93
+│ └───        goto #42 if not %94
+│ 27 ─        group@_24 = :app
+│ │           _module@_23 = Main.App
+│ │           logger@_22 = (Base.CoreLogging.current_logger_for_env)(std_level@_25, group@_24, _module@_23)
+│ │    %99  = logger@_22 === Base.CoreLogging.nothing
+│ │    %100 = !%99
+│ └───        goto #42 if not %100
+│ 28 ─        id@_21 = :Main_App_7f260d15
+│ │    %103 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_22, level@_26, _module@_23, group@_24, id@_21)
+│ └───        goto #42 if not %103
+│ 29 ─        file@_20 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %106 = file@_20 isa Base.CoreLogging.String
+│ └───        goto #31 if not %106
+│ 30 ─ %108 = Base.fixup_stdlib_path
+│ └───        file@_20 = (%108)(file@_20)
+│ 31 ┄        line@_19 = 59
+│ 32 ─ %111 = $(Expr(:enter, #35))
+│ 33 ─        msg@_17 = Base.string("Error processing file: ", e)
+│ │           kwargs@_18 = Core.NamedTuple()
+│ │           @_30 = true
+│ └───        $(Expr(:leave, 1))
+│ 34 ─        goto #37
+│ 35 ┄        $(Expr(:leave, 1))
+│ 36 ─        err@_27 = $(Expr(:the_exception))
+│ │           Base.invokelatest(Base.CoreLogging.logging_error, logger@_22, level@_26, _module@_23, group@_24, id@_21, file@_20, line@_19, err@_27, true)
+│ │           @_30 = false
+│ └───        $(Expr(:pop_exception, :(%111)))
+│ 37 ┄        goto #42 if not @_30
+│ 38 ─ %123 = Base.NamedTuple()
+│ │    %124 = Base.merge(%123, kwargs@_18)
+│ │    %125 = Base.isempty(%124)
+│ └───        goto #40 if not %125
+│ 39 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ └───        goto #41
+│ 40 ─        Core.kwcall(%124, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ 41 ┄        goto #42
+│ 42 ┄        Base.CoreLogging.nothing
+│ │    %132 = Core.getfield(#self#, :__model__)
+│ │    %133 = Base.getindex(fileuploads, "name")
+│ │    %134 = Base.string("Error processing file: ", %133)
+│ │           Main.App.notify(%132, %134)
+│ └───        $(Expr(:pop_exception, :(%68)))
+│ 43 ┄ %137 = Base.string("/uploads/", filename)
+│ │    %138 = Core.getfield(#self#, :__model__)
+│ │    %139 = Base.getproperty(%138, :upl_imgsrc)
+│ │           Base.setindex!(%139, %137)
+│ │    %141 = Core.apply_type(Main.App.Dict, Main.App.AbstractString, Main.App.AbstractString)
+│ │    %142 = (%141)()
+│ │    %143 = Core.getfield(#self#, :__model__)
+│ │    %144 = Base.getproperty(%143, :fileuploads)
+│ │           Base.setindex!(%144, %142)
+│ │    %146 = Core.getfield(#self#, :__model__)
+│ │    %147 = Base.getproperty(%146, :upl_imgsrc)
+│ │    %148 = Base.getindex(%147)
+│ │           value = %148
+│ │    %150 = Base.repr(%148)
+│ │           Base.println("__model__.upl_imgsrc[] = ", %150)
+│ └───        return value
+│ 44 ─        return nothing
+│ )]
+│ 
+│   Type of argument:
+│   Dict{AbstractString, AbstractString}
+│ 
+│   Value:
+│   Dict{AbstractString, AbstractString}("name" => "111series.csv", "channel" => "GNYBUXXKZLYNOXEFUKJSMAICNVCQZMJU", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_wBmDKdwx2P")
+│ 
+│   Exception:
+│   UndefVarError(:Random)
+│ 
+│   exception = (UndefVarError(:Random), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffb9781ecf6, Ptr{Nothing} @0x00007ffb977b3eaa, Ptr{Nothing} @0x000001c1fc05c5fa, Ptr{Nothing} @0x000001c1fc05d5e2, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x000001c1fc059e65, Ptr{Nothing} @0x000001c1fc05a93c, Ptr{Nothing} @0x000001c1fc05a99a, Ptr{Nothing} @0x000001c1fc059ac8, Ptr{Nothing} @0x000001c1fc0331d4, Ptr{Nothing} @0x000001c1fc0334ab, Ptr{Nothing} @0x000001c1fc01e0f3, Ptr{Nothing} @0x000001c1fc01e567, Ptr{Nothing} @0x000001c1fc01e5fb, Ptr{Nothing} @0x000001c1fc01e63f, Ptr{Nothing} @0x000001c1fc001a92, Ptr{Nothing} @0x000001c1fc001aeb, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x00007ffb68f6f925, Ptr{Nothing} @0x00007ffb68e7a6f0, Ptr{Nothing} @0x00007ffb68fd4d8b, Ptr{Nothing} @0x000001c1a8704794, Ptr{Nothing} @0x000001c1a8704862, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x000001c1a86ff43c, Ptr{Nothing} @0x000001c1a87019cc, Ptr{Nothing} @0x000001c1a8701fcb, Ptr{Nothing} @0x00007ffb977bc68b])
+└ @ Stipple C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\stipple\mutators.jl:54
+┌ Info: 2024-07-17 17:28:04 uploaded
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:84
+┌ Info: 2024-07-17 17:28:04 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:87
+┌ Info: 2024-07-17 17:28:17 removed
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:75
+┌ Info: 2024-07-17 17:28:20 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:72
+┌ Info: 2024-07-17 17:28:20 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:81
+┌ Info: 2024-07-17 17:28:20 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-17 17:28:20 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "111series.csv", "channel" => "GNYBUXXKZLYNOXEFUKJSMAICNVCQZMJU", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_WZiNAP2v6J")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Error: 2024-07-17 17:28:20 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#31":
+│  [1] (::Main.App.var"#31#32")(fileuploads)
+│      @ C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:1067
+│   Core.CodeInfo[CodeInfo(
+│ 1 ──        Core.NewvarNode(:(value))
+│ │           Core.NewvarNode(:(filename))
+│ │    %3   = Main.App.isempty(fileuploads)
+│ │    %4   = !%3
+│ └───        goto #44 if not %4
+│ 2 ──        Core.NewvarNode(:(msg@_5))
+│ │           Core.NewvarNode(:(kwargs@_6))
+│ │           Core.NewvarNode(:(line@_7))
+│ │           Core.NewvarNode(:(file@_8))
+│ │           Core.NewvarNode(:(id@_9))
+│ │           Core.NewvarNode(:(logger@_10))
+│ │           Core.NewvarNode(:(_module@_11))
+│ │           Core.NewvarNode(:(group@_12))
+│ │           level@_14 = Base.CoreLogging.Info
+│ │           std_level@_13 = level@_14
+│ │    %16  = std_level@_13
+│ │    %17  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %18  = %16 >= %17
+│ └───        goto #18 if not %18
+│ 3 ──        group@_12 = :app
+│ │           _module@_11 = Main.App
+│ │           logger@_10 = (Base.CoreLogging.current_logger_for_env)(std_level@_13, group@_12, _module@_11)
+│ │    %23  = logger@_10 === Base.CoreLogging.nothing
+│ │    %24  = !%23
+│ └───        goto #18 if not %24
+│ 4 ──        id@_9 = :Main_App_8fc45cd2
+│ │    %27  = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_10, level@_14, _module@_11, group@_12, id@_9)
+│ └───        goto #18 if not %27
+│ 5 ──        file@_8 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %30  = file@_8 isa Base.CoreLogging.String
+│ └───        goto #7 if not %30
+│ 6 ── %32  = Base.fixup_stdlib_path
+│ └───        file@_8 = (%32)(file@_8)
+│ 7 ┄─        line@_7 = 52
+│ │    %35  = $(Expr(:isdefined, :(fileuploads)))
+│ └───        goto #9 if not %35
+│ 8 ──        @_28 = nothing
+│ └───        goto #10
+│ 9 ──        @_28 = Core.UndefVarError(:fileuploads)
+│ 10 ┄ %40  = @_28
+│ │           err@_15 = %40
+│ │    %42  = err@_15 === Base.CoreLogging.nothing
+│ └───        goto #12 if not %42
+│ 11 ─        msg@_5 = "File was uploaded: "
+│ │    %45  = (:fileuploads,)
+│ │    %46  = Core.apply_type(Core.NamedTuple, %45)
+│ │    %47  = Core.tuple(fileuploads)
+│ │           kwargs@_6 = (%46)(%47)
+│ │           @_29 = true
+│ └───        goto #13
+│ 12 ─        Base.invokelatest(Base.CoreLogging.logging_error, logger@_10, level@_14, _module@_11, group@_12, id@_9, file@_8, line@_7, err@_15, false)
+│ └───        @_29 = false
+│ 13 ┄        goto #18 if not @_29
+│ 14 ─ %54  = Base.NamedTuple()
+│ │    %55  = Base.merge(%54, kwargs@_6)
+│ │    %56  = Base.isempty(%55)
+│ └───        goto #16 if not %56
+│ 15 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ └───        goto #17
+│ 16 ─        Core.kwcall(%55, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ 17 ┄        goto #18
+│ 18 ┄        Base.CoreLogging.nothing
+│ │    %63  = Base.getproperty(Main.App.Random, :randstring)
+│ │    %64  = (%63)(10)
+│ │    %65  = Base.getindex(fileuploads, "name")
+│ │    %66  = Main.App.base64encode(%65)
+│ └───        filename = %64 * "_" * %66
+│ 19 ─ %68  = $(Expr(:enter, #25))
+│ 20 ─ %69  = Main.App.joinpath("public", "uploads")
+│ │    %70  = Main.App.isdir(%69)
+│ └───        goto #22 if not %70
+│ 21 ─        goto #23
+│ 22 ─ %73  = Main.App.joinpath("public", "uploads")
+│ └───        Main.App.mkpath(%73)
+│ 23 ┄ %75  = Base.getindex(fileuploads, "path")
+│ │    %76  = Main.App.joinpath("public", "uploads", filename)
+│ │           Main.App.mv(%75, %76)
+│ └───        $(Expr(:leave, 1))
+│ 24 ─        goto #43
+│ 25 ┄        $(Expr(:leave, 1))
+│ 26 ─        e = $(Expr(:the_exception))
+│ │           Core.NewvarNode(:(msg@_17))
+│ │           Core.NewvarNode(:(kwargs@_18))
+│ │           Core.NewvarNode(:(line@_19))
+│ │           Core.NewvarNode(:(file@_20))
+│ │           Core.NewvarNode(:(id@_21))
+│ │           Core.NewvarNode(:(logger@_22))
+│ │           Core.NewvarNode(:(_module@_23))
+│ │           Core.NewvarNode(:(group@_24))
+│ │           level@_26 = Base.CoreLogging.Error
+│ │           std_level@_25 = level@_26
+│ │    %92  = std_level@_25
+│ │    %93  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %94  = %92 >= %93
+│ └───        goto #42 if not %94
+│ 27 ─        group@_24 = :app
+│ │           _module@_23 = Main.App
+│ │           logger@_22 = (Base.CoreLogging.current_logger_for_env)(std_level@_25, group@_24, _module@_23)
+│ │    %99  = logger@_22 === Base.CoreLogging.nothing
+│ │    %100 = !%99
+│ └───        goto #42 if not %100
+│ 28 ─        id@_21 = :Main_App_7f260d15
+│ │    %103 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_22, level@_26, _module@_23, group@_24, id@_21)
+│ └───        goto #42 if not %103
+│ 29 ─        file@_20 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %106 = file@_20 isa Base.CoreLogging.String
+│ └───        goto #31 if not %106
+│ 30 ─ %108 = Base.fixup_stdlib_path
+│ └───        file@_20 = (%108)(file@_20)
+│ 31 ┄        line@_19 = 59
+│ 32 ─ %111 = $(Expr(:enter, #35))
+│ 33 ─        msg@_17 = Base.string("Error processing file: ", e)
+│ │           kwargs@_18 = Core.NamedTuple()
+│ │           @_30 = true
+│ └───        $(Expr(:leave, 1))
+│ 34 ─        goto #37
+│ 35 ┄        $(Expr(:leave, 1))
+│ 36 ─        err@_27 = $(Expr(:the_exception))
+│ │           Base.invokelatest(Base.CoreLogging.logging_error, logger@_22, level@_26, _module@_23, group@_24, id@_21, file@_20, line@_19, err@_27, true)
+│ │           @_30 = false
+│ └───        $(Expr(:pop_exception, :(%111)))
+│ 37 ┄        goto #42 if not @_30
+│ 38 ─ %123 = Base.NamedTuple()
+│ │    %124 = Base.merge(%123, kwargs@_18)
+│ │    %125 = Base.isempty(%124)
+│ └───        goto #40 if not %125
+│ 39 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ └───        goto #41
+│ 40 ─        Core.kwcall(%124, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ 41 ┄        goto #42
+│ 42 ┄        Base.CoreLogging.nothing
+│ │    %132 = Core.getfield(#self#, :__model__)
+│ │    %133 = Base.getindex(fileuploads, "name")
+│ │    %134 = Base.string("Error processing file: ", %133)
+│ │           Main.App.notify(%132, %134)
+│ └───        $(Expr(:pop_exception, :(%68)))
+│ 43 ┄ %137 = Base.string("/uploads/", filename)
+│ │    %138 = Core.getfield(#self#, :__model__)
+│ │    %139 = Base.getproperty(%138, :upl_imgsrc)
+│ │           Base.setindex!(%139, %137)
+│ │    %141 = Core.apply_type(Main.App.Dict, Main.App.AbstractString, Main.App.AbstractString)
+│ │    %142 = (%141)()
+│ │    %143 = Core.getfield(#self#, :__model__)
+│ │    %144 = Base.getproperty(%143, :fileuploads)
+│ │           Base.setindex!(%144, %142)
+│ │    %146 = Core.getfield(#self#, :__model__)
+│ │    %147 = Base.getproperty(%146, :upl_imgsrc)
+│ │    %148 = Base.getindex(%147)
+│ │           value = %148
+│ │    %150 = Base.repr(%148)
+│ │           Base.println("__model__.upl_imgsrc[] = ", %150)
+│ └───        return value
+│ 44 ─        return nothing
+│ )]
+│ 
+│   Type of argument:
+│   Dict{AbstractString, AbstractString}
+│ 
+│   Value:
+│   Dict{AbstractString, AbstractString}("name" => "111series.csv", "channel" => "GNYBUXXKZLYNOXEFUKJSMAICNVCQZMJU", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_WZiNAP2v6J")
+│ 
+│   Exception:
+│   UndefVarError(:Random)
+│ 
+│   exception = (UndefVarError(:Random), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffb9781ecf6, Ptr{Nothing} @0x00007ffb977b3eaa, Ptr{Nothing} @0x000001c1fc05c5fa, Ptr{Nothing} @0x000001c1fc05d5e2, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x000001c1fc059e65, Ptr{Nothing} @0x000001c1fc05a93c, Ptr{Nothing} @0x000001c1fc05a99a, Ptr{Nothing} @0x000001c1fc059ac8, Ptr{Nothing} @0x000001c1fc0331d4, Ptr{Nothing} @0x000001c1fc0334ab, Ptr{Nothing} @0x000001c1fc01e0f3, Ptr{Nothing} @0x000001c1fc01e567, Ptr{Nothing} @0x000001c1fc01e5fb, Ptr{Nothing} @0x000001c1fc01e63f, Ptr{Nothing} @0x000001c1fc001a92, Ptr{Nothing} @0x000001c1fc001aeb, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x00007ffb68f6f925, Ptr{Nothing} @0x00007ffb68e7a6f0, Ptr{Nothing} @0x00007ffb68fd4d8b, Ptr{Nothing} @0x000001c1a8704794, Ptr{Nothing} @0x000001c1a8704862, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x000001c1a86ff43c, Ptr{Nothing} @0x000001c1a87019cc, Ptr{Nothing} @0x000001c1a8701fcb, Ptr{Nothing} @0x00007ffb977bc68b])
+└ @ Stipple C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\stipple\mutators.jl:54
+┌ Info: 2024-07-17 17:28:20 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "111series.csv", "channel" => "GNYBUXXKZLYNOXEFUKJSMAICNVCQZMJU", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_WZiNAP2v6J")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Error: 2024-07-17 17:28:20 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#31":
+│  [1] (::Main.App.var"#31#32")(fileuploads)
+│      @ C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:1067
+│   Core.CodeInfo[CodeInfo(
+│ 1 ──        Core.NewvarNode(:(value))
+│ │           Core.NewvarNode(:(filename))
+│ │    %3   = Main.App.isempty(fileuploads)
+│ │    %4   = !%3
+│ └───        goto #44 if not %4
+│ 2 ──        Core.NewvarNode(:(msg@_5))
+│ │           Core.NewvarNode(:(kwargs@_6))
+│ │           Core.NewvarNode(:(line@_7))
+│ │           Core.NewvarNode(:(file@_8))
+│ │           Core.NewvarNode(:(id@_9))
+│ │           Core.NewvarNode(:(logger@_10))
+│ │           Core.NewvarNode(:(_module@_11))
+│ │           Core.NewvarNode(:(group@_12))
+│ │           level@_14 = Base.CoreLogging.Info
+│ │           std_level@_13 = level@_14
+│ │    %16  = std_level@_13
+│ │    %17  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %18  = %16 >= %17
+│ └───        goto #18 if not %18
+│ 3 ──        group@_12 = :app
+│ │           _module@_11 = Main.App
+│ │           logger@_10 = (Base.CoreLogging.current_logger_for_env)(std_level@_13, group@_12, _module@_11)
+│ │    %23  = logger@_10 === Base.CoreLogging.nothing
+│ │    %24  = !%23
+│ └───        goto #18 if not %24
+│ 4 ──        id@_9 = :Main_App_8fc45cd2
+│ │    %27  = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_10, level@_14, _module@_11, group@_12, id@_9)
+│ └───        goto #18 if not %27
+│ 5 ──        file@_8 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %30  = file@_8 isa Base.CoreLogging.String
+│ └───        goto #7 if not %30
+│ 6 ── %32  = Base.fixup_stdlib_path
+│ └───        file@_8 = (%32)(file@_8)
+│ 7 ┄─        line@_7 = 52
+│ │    %35  = $(Expr(:isdefined, :(fileuploads)))
+│ └───        goto #9 if not %35
+│ 8 ──        @_28 = nothing
+│ └───        goto #10
+│ 9 ──        @_28 = Core.UndefVarError(:fileuploads)
+│ 10 ┄ %40  = @_28
+│ │           err@_15 = %40
+│ │    %42  = err@_15 === Base.CoreLogging.nothing
+│ └───        goto #12 if not %42
+│ 11 ─        msg@_5 = "File was uploaded: "
+│ │    %45  = (:fileuploads,)
+│ │    %46  = Core.apply_type(Core.NamedTuple, %45)
+│ │    %47  = Core.tuple(fileuploads)
+│ │           kwargs@_6 = (%46)(%47)
+│ │           @_29 = true
+│ └───        goto #13
+│ 12 ─        Base.invokelatest(Base.CoreLogging.logging_error, logger@_10, level@_14, _module@_11, group@_12, id@_9, file@_8, line@_7, err@_15, false)
+│ └───        @_29 = false
+│ 13 ┄        goto #18 if not @_29
+│ 14 ─ %54  = Base.NamedTuple()
+│ │    %55  = Base.merge(%54, kwargs@_6)
+│ │    %56  = Base.isempty(%55)
+│ └───        goto #16 if not %56
+│ 15 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ └───        goto #17
+│ 16 ─        Core.kwcall(%55, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ 17 ┄        goto #18
+│ 18 ┄        Base.CoreLogging.nothing
+│ │    %63  = Base.getproperty(Main.App.Random, :randstring)
+│ │    %64  = (%63)(10)
+│ │    %65  = Base.getindex(fileuploads, "name")
+│ │    %66  = Main.App.base64encode(%65)
+│ └───        filename = %64 * "_" * %66
+│ 19 ─ %68  = $(Expr(:enter, #25))
+│ 20 ─ %69  = Main.App.joinpath("public", "uploads")
+│ │    %70  = Main.App.isdir(%69)
+│ └───        goto #22 if not %70
+│ 21 ─        goto #23
+│ 22 ─ %73  = Main.App.joinpath("public", "uploads")
+│ └───        Main.App.mkpath(%73)
+│ 23 ┄ %75  = Base.getindex(fileuploads, "path")
+│ │    %76  = Main.App.joinpath("public", "uploads", filename)
+│ │           Main.App.mv(%75, %76)
+│ └───        $(Expr(:leave, 1))
+│ 24 ─        goto #43
+│ 25 ┄        $(Expr(:leave, 1))
+│ 26 ─        e = $(Expr(:the_exception))
+│ │           Core.NewvarNode(:(msg@_17))
+│ │           Core.NewvarNode(:(kwargs@_18))
+│ │           Core.NewvarNode(:(line@_19))
+│ │           Core.NewvarNode(:(file@_20))
+│ │           Core.NewvarNode(:(id@_21))
+│ │           Core.NewvarNode(:(logger@_22))
+│ │           Core.NewvarNode(:(_module@_23))
+│ │           Core.NewvarNode(:(group@_24))
+│ │           level@_26 = Base.CoreLogging.Error
+│ │           std_level@_25 = level@_26
+│ │    %92  = std_level@_25
+│ │    %93  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %94  = %92 >= %93
+│ └───        goto #42 if not %94
+│ 27 ─        group@_24 = :app
+│ │           _module@_23 = Main.App
+│ │           logger@_22 = (Base.CoreLogging.current_logger_for_env)(std_level@_25, group@_24, _module@_23)
+│ │    %99  = logger@_22 === Base.CoreLogging.nothing
+│ │    %100 = !%99
+│ └───        goto #42 if not %100
+│ 28 ─        id@_21 = :Main_App_7f260d15
+│ │    %103 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_22, level@_26, _module@_23, group@_24, id@_21)
+│ └───        goto #42 if not %103
+│ 29 ─        file@_20 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %106 = file@_20 isa Base.CoreLogging.String
+│ └───        goto #31 if not %106
+│ 30 ─ %108 = Base.fixup_stdlib_path
+│ └───        file@_20 = (%108)(file@_20)
+│ 31 ┄        line@_19 = 59
+│ 32 ─ %111 = $(Expr(:enter, #35))
+│ 33 ─        msg@_17 = Base.string("Error processing file: ", e)
+│ │           kwargs@_18 = Core.NamedTuple()
+│ │           @_30 = true
+│ └───        $(Expr(:leave, 1))
+│ 34 ─        goto #37
+│ 35 ┄        $(Expr(:leave, 1))
+│ 36 ─        err@_27 = $(Expr(:the_exception))
+│ │           Base.invokelatest(Base.CoreLogging.logging_error, logger@_22, level@_26, _module@_23, group@_24, id@_21, file@_20, line@_19, err@_27, true)
+│ │           @_30 = false
+│ └───        $(Expr(:pop_exception, :(%111)))
+│ 37 ┄        goto #42 if not @_30
+│ 38 ─ %123 = Base.NamedTuple()
+│ │    %124 = Base.merge(%123, kwargs@_18)
+│ │    %125 = Base.isempty(%124)
+│ └───        goto #40 if not %125
+│ 39 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ └───        goto #41
+│ 40 ─        Core.kwcall(%124, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ 41 ┄        goto #42
+│ 42 ┄        Base.CoreLogging.nothing
+│ │    %132 = Core.getfield(#self#, :__model__)
+│ │    %133 = Base.getindex(fileuploads, "name")
+│ │    %134 = Base.string("Error processing file: ", %133)
+│ │           Main.App.notify(%132, %134)
+│ └───        $(Expr(:pop_exception, :(%68)))
+│ 43 ┄ %137 = Base.string("/uploads/", filename)
+│ │    %138 = Core.getfield(#self#, :__model__)
+│ │    %139 = Base.getproperty(%138, :upl_imgsrc)
+│ │           Base.setindex!(%139, %137)
+│ │    %141 = Core.apply_type(Main.App.Dict, Main.App.AbstractString, Main.App.AbstractString)
+│ │    %142 = (%141)()
+│ │    %143 = Core.getfield(#self#, :__model__)
+│ │    %144 = Base.getproperty(%143, :fileuploads)
+│ │           Base.setindex!(%144, %142)
+│ │    %146 = Core.getfield(#self#, :__model__)
+│ │    %147 = Base.getproperty(%146, :upl_imgsrc)
+│ │    %148 = Base.getindex(%147)
+│ │           value = %148
+│ │    %150 = Base.repr(%148)
+│ │           Base.println("__model__.upl_imgsrc[] = ", %150)
+│ └───        return value
+│ 44 ─        return nothing
+│ )]
+│ 
+│   Type of argument:
+│   Dict{AbstractString, AbstractString}
+│ 
+│   Value:
+│   Dict{AbstractString, AbstractString}("name" => "111series.csv", "channel" => "GNYBUXXKZLYNOXEFUKJSMAICNVCQZMJU", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_WZiNAP2v6J")
+│ 
+│   Exception:
+│   UndefVarError(:Random)
+│ 
+│   exception = (UndefVarError(:Random), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffb9781ecf6, Ptr{Nothing} @0x00007ffb977b3eaa, Ptr{Nothing} @0x000001c1fc05c5fa, Ptr{Nothing} @0x000001c1fc05d5e2, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x000001c1fc059e65, Ptr{Nothing} @0x000001c1fc05a93c, Ptr{Nothing} @0x000001c1fc05a99a, Ptr{Nothing} @0x000001c1fc059ac8, Ptr{Nothing} @0x000001c1fc0331d4, Ptr{Nothing} @0x000001c1fc0334ab, Ptr{Nothing} @0x000001c1fc01e0f3, Ptr{Nothing} @0x000001c1fc01e567, Ptr{Nothing} @0x000001c1fc01e5fb, Ptr{Nothing} @0x000001c1fc01e63f, Ptr{Nothing} @0x000001c1fc001a92, Ptr{Nothing} @0x000001c1fc001aeb, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x00007ffb68f6f925, Ptr{Nothing} @0x00007ffb68e7a6f0, Ptr{Nothing} @0x00007ffb68fd4d8b, Ptr{Nothing} @0x000001c1a8704794, Ptr{Nothing} @0x000001c1a8704862, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x000001c1a86ff43c, Ptr{Nothing} @0x000001c1a87019cc, Ptr{Nothing} @0x000001c1a8701fcb, Ptr{Nothing} @0x00007ffb977bc68b])
+└ @ Stipple C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\stipple\mutators.jl:54
+┌ Info: 2024-07-17 17:28:20 uploaded
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:84
+┌ Info: 2024-07-17 17:28:20 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:87
+┌ Info: 2024-07-17 17:29:54 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 17:29:54 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 17:30:15 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 17:30:15 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 17:31:01 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:72
+┌ Info: 2024-07-17 17:31:01 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:81
+┌ Info: 2024-07-17 17:31:01 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "generated_parameter_dataset.csv", "channel" => "GNYBUXXKZLYNOXEFUKJSMAICNVCQZMJU", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_slGPA7mBan")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Error: 2024-07-17 17:31:01 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#31":
+│  [1] (::Main.App.var"#31#32")(fileuploads)
+│      @ C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:1067
+│   Core.CodeInfo[CodeInfo(
+│ 1 ──        Core.NewvarNode(:(value))
+│ │           Core.NewvarNode(:(filename))
+│ │    %3   = Main.App.isempty(fileuploads)
+│ │    %4   = !%3
+│ └───        goto #44 if not %4
+│ 2 ──        Core.NewvarNode(:(msg@_5))
+│ │           Core.NewvarNode(:(kwargs@_6))
+│ │           Core.NewvarNode(:(line@_7))
+│ │           Core.NewvarNode(:(file@_8))
+│ │           Core.NewvarNode(:(id@_9))
+│ │           Core.NewvarNode(:(logger@_10))
+│ │           Core.NewvarNode(:(_module@_11))
+│ │           Core.NewvarNode(:(group@_12))
+│ │           level@_14 = Base.CoreLogging.Info
+│ │           std_level@_13 = level@_14
+│ │    %16  = std_level@_13
+│ │    %17  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %18  = %16 >= %17
+│ └───        goto #18 if not %18
+│ 3 ──        group@_12 = :app
+│ │           _module@_11 = Main.App
+│ │           logger@_10 = (Base.CoreLogging.current_logger_for_env)(std_level@_13, group@_12, _module@_11)
+│ │    %23  = logger@_10 === Base.CoreLogging.nothing
+│ │    %24  = !%23
+│ └───        goto #18 if not %24
+│ 4 ──        id@_9 = :Main_App_8fc45cd2
+│ │    %27  = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_10, level@_14, _module@_11, group@_12, id@_9)
+│ └───        goto #18 if not %27
+│ 5 ──        file@_8 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %30  = file@_8 isa Base.CoreLogging.String
+│ └───        goto #7 if not %30
+│ 6 ── %32  = Base.fixup_stdlib_path
+│ └───        file@_8 = (%32)(file@_8)
+│ 7 ┄─        line@_7 = 52
+│ │    %35  = $(Expr(:isdefined, :(fileuploads)))
+│ └───        goto #9 if not %35
+│ 8 ──        @_28 = nothing
+│ └───        goto #10
+│ 9 ──        @_28 = Core.UndefVarError(:fileuploads)
+│ 10 ┄ %40  = @_28
+│ │           err@_15 = %40
+│ │    %42  = err@_15 === Base.CoreLogging.nothing
+│ └───        goto #12 if not %42
+│ 11 ─        msg@_5 = "File was uploaded: "
+│ │    %45  = (:fileuploads,)
+│ │    %46  = Core.apply_type(Core.NamedTuple, %45)
+│ │    %47  = Core.tuple(fileuploads)
+│ │           kwargs@_6 = (%46)(%47)
+│ │           @_29 = true
+│ └───        goto #13
+│ 12 ─        Base.invokelatest(Base.CoreLogging.logging_error, logger@_10, level@_14, _module@_11, group@_12, id@_9, file@_8, line@_7, err@_15, false)
+│ └───        @_29 = false
+│ 13 ┄        goto #18 if not @_29
+│ 14 ─ %54  = Base.NamedTuple()
+│ │    %55  = Base.merge(%54, kwargs@_6)
+│ │    %56  = Base.isempty(%55)
+│ └───        goto #16 if not %56
+│ 15 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ └───        goto #17
+│ 16 ─        Core.kwcall(%55, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ 17 ┄        goto #18
+│ 18 ┄        Base.CoreLogging.nothing
+│ │    %63  = Base.getproperty(Main.App.Random, :randstring)
+│ │    %64  = (%63)(10)
+│ │    %65  = Base.getindex(fileuploads, "name")
+│ │    %66  = Main.App.base64encode(%65)
+│ └───        filename = %64 * "_" * %66
+│ 19 ─ %68  = $(Expr(:enter, #25))
+│ 20 ─ %69  = Main.App.joinpath("public", "uploads")
+│ │    %70  = Main.App.isdir(%69)
+│ └───        goto #22 if not %70
+│ 21 ─        goto #23
+│ 22 ─ %73  = Main.App.joinpath("public", "uploads")
+│ └───        Main.App.mkpath(%73)
+│ 23 ┄ %75  = Base.getindex(fileuploads, "path")
+│ │    %76  = Main.App.joinpath("public", "uploads", filename)
+│ │           Main.App.mv(%75, %76)
+│ └───        $(Expr(:leave, 1))
+│ 24 ─        goto #43
+│ 25 ┄        $(Expr(:leave, 1))
+│ 26 ─        e = $(Expr(:the_exception))
+│ │           Core.NewvarNode(:(msg@_17))
+│ │           Core.NewvarNode(:(kwargs@_18))
+│ │           Core.NewvarNode(:(line@_19))
+│ │           Core.NewvarNode(:(file@_20))
+│ │           Core.NewvarNode(:(id@_21))
+│ │           Core.NewvarNode(:(logger@_22))
+│ │           Core.NewvarNode(:(_module@_23))
+│ │           Core.NewvarNode(:(group@_24))
+│ │           level@_26 = Base.CoreLogging.Error
+│ │           std_level@_25 = level@_26
+│ │    %92  = std_level@_25
+│ │    %93  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %94  = %92 >= %93
+│ └───        goto #42 if not %94
+│ 27 ─        group@_24 = :app
+│ │           _module@_23 = Main.App
+│ │           logger@_22 = (Base.CoreLogging.current_logger_for_env)(std_level@_25, group@_24, _module@_23)
+│ │    %99  = logger@_22 === Base.CoreLogging.nothing
+│ │    %100 = !%99
+│ └───        goto #42 if not %100
+│ 28 ─        id@_21 = :Main_App_7f260d15
+│ │    %103 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_22, level@_26, _module@_23, group@_24, id@_21)
+│ └───        goto #42 if not %103
+│ 29 ─        file@_20 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %106 = file@_20 isa Base.CoreLogging.String
+│ └───        goto #31 if not %106
+│ 30 ─ %108 = Base.fixup_stdlib_path
+│ └───        file@_20 = (%108)(file@_20)
+│ 31 ┄        line@_19 = 59
+│ 32 ─ %111 = $(Expr(:enter, #35))
+│ 33 ─        msg@_17 = Base.string("Error processing file: ", e)
+│ │           kwargs@_18 = Core.NamedTuple()
+│ │           @_30 = true
+│ └───        $(Expr(:leave, 1))
+│ 34 ─        goto #37
+│ 35 ┄        $(Expr(:leave, 1))
+│ 36 ─        err@_27 = $(Expr(:the_exception))
+│ │           Base.invokelatest(Base.CoreLogging.logging_error, logger@_22, level@_26, _module@_23, group@_24, id@_21, file@_20, line@_19, err@_27, true)
+│ │           @_30 = false
+│ └───        $(Expr(:pop_exception, :(%111)))
+│ 37 ┄        goto #42 if not @_30
+│ 38 ─ %123 = Base.NamedTuple()
+│ │    %124 = Base.merge(%123, kwargs@_18)
+│ │    %125 = Base.isempty(%124)
+│ └───        goto #40 if not %125
+│ 39 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ └───        goto #41
+│ 40 ─        Core.kwcall(%124, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ 41 ┄        goto #42
+│ 42 ┄        Base.CoreLogging.nothing
+│ │    %132 = Core.getfield(#self#, :__model__)
+│ │    %133 = Base.getindex(fileuploads, "name")
+│ │    %134 = Base.string("Error processing file: ", %133)
+│ │           Main.App.notify(%132, %134)
+│ └───        $(Expr(:pop_exception, :(%68)))
+│ 43 ┄ %137 = Base.string("/uploads/", filename)
+│ │    %138 = Core.getfield(#self#, :__model__)
+│ │    %139 = Base.getproperty(%138, :upl_imgsrc)
+│ │           Base.setindex!(%139, %137)
+│ │    %141 = Core.apply_type(Main.App.Dict, Main.App.AbstractString, Main.App.AbstractString)
+│ │    %142 = (%141)()
+│ │    %143 = Core.getfield(#self#, :__model__)
+│ │    %144 = Base.getproperty(%143, :fileuploads)
+│ │           Base.setindex!(%144, %142)
+│ │    %146 = Core.getfield(#self#, :__model__)
+│ │    %147 = Base.getproperty(%146, :upl_imgsrc)
+│ │    %148 = Base.getindex(%147)
+│ │           value = %148
+│ │    %150 = Base.repr(%148)
+│ │           Base.println("__model__.upl_imgsrc[] = ", %150)
+│ └───        return value
+│ 44 ─        return nothing
+│ )]
+│ 
+│   Type of argument:
+│   Dict{AbstractString, AbstractString}
+│ 
+│   Value:
+│   Dict{AbstractString, AbstractString}("name" => "generated_parameter_dataset.csv", "channel" => "GNYBUXXKZLYNOXEFUKJSMAICNVCQZMJU", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_slGPA7mBan")
+│ 
+│   Exception:
+│   UndefVarError(:Random)
+│ 
+│   exception = (UndefVarError(:Random), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffb9781ecf6, Ptr{Nothing} @0x00007ffb977b3eaa, Ptr{Nothing} @0x000001c1fc05c5fa, Ptr{Nothing} @0x000001c1fc05d5e2, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x000001c1fc059e65, Ptr{Nothing} @0x000001c1fc05a93c, Ptr{Nothing} @0x000001c1fc05a99a, Ptr{Nothing} @0x000001c1fc059ac8, Ptr{Nothing} @0x000001c1fc0331d4, Ptr{Nothing} @0x000001c1fc0334ab, Ptr{Nothing} @0x000001c1fc01e0f3, Ptr{Nothing} @0x000001c1fc01e567, Ptr{Nothing} @0x000001c1fc01e5fb, Ptr{Nothing} @0x000001c1fc01e63f, Ptr{Nothing} @0x000001c1fc001a92, Ptr{Nothing} @0x000001c1fc001aeb, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x00007ffb68f6f925, Ptr{Nothing} @0x00007ffb68e7a6f0, Ptr{Nothing} @0x00007ffb68fd4d8b, Ptr{Nothing} @0x000001c1a8704794, Ptr{Nothing} @0x000001c1a8704862, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x000001c1a86ff43c, Ptr{Nothing} @0x000001c1a87019cc, Ptr{Nothing} @0x000001c1a8701fcb, Ptr{Nothing} @0x00007ffb977bc68b])
+└ @ Stipple C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\stipple\mutators.jl:54
+┌ Info: 2024-07-17 17:31:01 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-17 17:31:01 uploaded
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:84
+┌ Info: 2024-07-17 17:31:01 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:87
+┌ Info: 2024-07-17 17:31:01 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "generated_parameter_dataset.csv", "channel" => "GNYBUXXKZLYNOXEFUKJSMAICNVCQZMJU", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_slGPA7mBan")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Error: 2024-07-17 17:31:01 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#31":
+│  [1] (::Main.App.var"#31#32")(fileuploads)
+│      @ C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:1067
+│   Core.CodeInfo[CodeInfo(
+│ 1 ──        Core.NewvarNode(:(value))
+│ │           Core.NewvarNode(:(filename))
+│ │    %3   = Main.App.isempty(fileuploads)
+│ │    %4   = !%3
+│ └───        goto #44 if not %4
+│ 2 ──        Core.NewvarNode(:(msg@_5))
+│ │           Core.NewvarNode(:(kwargs@_6))
+│ │           Core.NewvarNode(:(line@_7))
+│ │           Core.NewvarNode(:(file@_8))
+│ │           Core.NewvarNode(:(id@_9))
+│ │           Core.NewvarNode(:(logger@_10))
+│ │           Core.NewvarNode(:(_module@_11))
+│ │           Core.NewvarNode(:(group@_12))
+│ │           level@_14 = Base.CoreLogging.Info
+│ │           std_level@_13 = level@_14
+│ │    %16  = std_level@_13
+│ │    %17  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %18  = %16 >= %17
+│ └───        goto #18 if not %18
+│ 3 ──        group@_12 = :app
+│ │           _module@_11 = Main.App
+│ │           logger@_10 = (Base.CoreLogging.current_logger_for_env)(std_level@_13, group@_12, _module@_11)
+│ │    %23  = logger@_10 === Base.CoreLogging.nothing
+│ │    %24  = !%23
+│ └───        goto #18 if not %24
+│ 4 ──        id@_9 = :Main_App_8fc45cd2
+│ │    %27  = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_10, level@_14, _module@_11, group@_12, id@_9)
+│ └───        goto #18 if not %27
+│ 5 ──        file@_8 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %30  = file@_8 isa Base.CoreLogging.String
+│ └───        goto #7 if not %30
+│ 6 ── %32  = Base.fixup_stdlib_path
+│ └───        file@_8 = (%32)(file@_8)
+│ 7 ┄─        line@_7 = 52
+│ │    %35  = $(Expr(:isdefined, :(fileuploads)))
+│ └───        goto #9 if not %35
+│ 8 ──        @_28 = nothing
+│ └───        goto #10
+│ 9 ──        @_28 = Core.UndefVarError(:fileuploads)
+│ 10 ┄ %40  = @_28
+│ │           err@_15 = %40
+│ │    %42  = err@_15 === Base.CoreLogging.nothing
+│ └───        goto #12 if not %42
+│ 11 ─        msg@_5 = "File was uploaded: "
+│ │    %45  = (:fileuploads,)
+│ │    %46  = Core.apply_type(Core.NamedTuple, %45)
+│ │    %47  = Core.tuple(fileuploads)
+│ │           kwargs@_6 = (%46)(%47)
+│ │           @_29 = true
+│ └───        goto #13
+│ 12 ─        Base.invokelatest(Base.CoreLogging.logging_error, logger@_10, level@_14, _module@_11, group@_12, id@_9, file@_8, line@_7, err@_15, false)
+│ └───        @_29 = false
+│ 13 ┄        goto #18 if not @_29
+│ 14 ─ %54  = Base.NamedTuple()
+│ │    %55  = Base.merge(%54, kwargs@_6)
+│ │    %56  = Base.isempty(%55)
+│ └───        goto #16 if not %56
+│ 15 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ └───        goto #17
+│ 16 ─        Core.kwcall(%55, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ 17 ┄        goto #18
+│ 18 ┄        Base.CoreLogging.nothing
+│ │    %63  = Base.getproperty(Main.App.Random, :randstring)
+│ │    %64  = (%63)(10)
+│ │    %65  = Base.getindex(fileuploads, "name")
+│ │    %66  = Main.App.base64encode(%65)
+│ └───        filename = %64 * "_" * %66
+│ 19 ─ %68  = $(Expr(:enter, #25))
+│ 20 ─ %69  = Main.App.joinpath("public", "uploads")
+│ │    %70  = Main.App.isdir(%69)
+│ └───        goto #22 if not %70
+│ 21 ─        goto #23
+│ 22 ─ %73  = Main.App.joinpath("public", "uploads")
+│ └───        Main.App.mkpath(%73)
+│ 23 ┄ %75  = Base.getindex(fileuploads, "path")
+│ │    %76  = Main.App.joinpath("public", "uploads", filename)
+│ │           Main.App.mv(%75, %76)
+│ └───        $(Expr(:leave, 1))
+│ 24 ─        goto #43
+│ 25 ┄        $(Expr(:leave, 1))
+│ 26 ─        e = $(Expr(:the_exception))
+│ │           Core.NewvarNode(:(msg@_17))
+│ │           Core.NewvarNode(:(kwargs@_18))
+│ │           Core.NewvarNode(:(line@_19))
+│ │           Core.NewvarNode(:(file@_20))
+│ │           Core.NewvarNode(:(id@_21))
+│ │           Core.NewvarNode(:(logger@_22))
+│ │           Core.NewvarNode(:(_module@_23))
+│ │           Core.NewvarNode(:(group@_24))
+│ │           level@_26 = Base.CoreLogging.Error
+│ │           std_level@_25 = level@_26
+│ │    %92  = std_level@_25
+│ │    %93  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %94  = %92 >= %93
+│ └───        goto #42 if not %94
+│ 27 ─        group@_24 = :app
+│ │           _module@_23 = Main.App
+│ │           logger@_22 = (Base.CoreLogging.current_logger_for_env)(std_level@_25, group@_24, _module@_23)
+│ │    %99  = logger@_22 === Base.CoreLogging.nothing
+│ │    %100 = !%99
+│ └───        goto #42 if not %100
+│ 28 ─        id@_21 = :Main_App_7f260d15
+│ │    %103 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_22, level@_26, _module@_23, group@_24, id@_21)
+│ └───        goto #42 if not %103
+│ 29 ─        file@_20 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %106 = file@_20 isa Base.CoreLogging.String
+│ └───        goto #31 if not %106
+│ 30 ─ %108 = Base.fixup_stdlib_path
+│ └───        file@_20 = (%108)(file@_20)
+│ 31 ┄        line@_19 = 59
+│ 32 ─ %111 = $(Expr(:enter, #35))
+│ 33 ─        msg@_17 = Base.string("Error processing file: ", e)
+│ │           kwargs@_18 = Core.NamedTuple()
+│ │           @_30 = true
+│ └───        $(Expr(:leave, 1))
+│ 34 ─        goto #37
+│ 35 ┄        $(Expr(:leave, 1))
+│ 36 ─        err@_27 = $(Expr(:the_exception))
+│ │           Base.invokelatest(Base.CoreLogging.logging_error, logger@_22, level@_26, _module@_23, group@_24, id@_21, file@_20, line@_19, err@_27, true)
+│ │           @_30 = false
+│ └───        $(Expr(:pop_exception, :(%111)))
+│ 37 ┄        goto #42 if not @_30
+│ 38 ─ %123 = Base.NamedTuple()
+│ │    %124 = Base.merge(%123, kwargs@_18)
+│ │    %125 = Base.isempty(%124)
+│ └───        goto #40 if not %125
+│ 39 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ └───        goto #41
+│ 40 ─        Core.kwcall(%124, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ 41 ┄        goto #42
+│ 42 ┄        Base.CoreLogging.nothing
+│ │    %132 = Core.getfield(#self#, :__model__)
+│ │    %133 = Base.getindex(fileuploads, "name")
+│ │    %134 = Base.string("Error processing file: ", %133)
+│ │           Main.App.notify(%132, %134)
+│ └───        $(Expr(:pop_exception, :(%68)))
+│ 43 ┄ %137 = Base.string("/uploads/", filename)
+│ │    %138 = Core.getfield(#self#, :__model__)
+│ │    %139 = Base.getproperty(%138, :upl_imgsrc)
+│ │           Base.setindex!(%139, %137)
+│ │    %141 = Core.apply_type(Main.App.Dict, Main.App.AbstractString, Main.App.AbstractString)
+│ │    %142 = (%141)()
+│ │    %143 = Core.getfield(#self#, :__model__)
+│ │    %144 = Base.getproperty(%143, :fileuploads)
+│ │           Base.setindex!(%144, %142)
+│ │    %146 = Core.getfield(#self#, :__model__)
+│ │    %147 = Base.getproperty(%146, :upl_imgsrc)
+│ │    %148 = Base.getindex(%147)
+│ │           value = %148
+│ │    %150 = Base.repr(%148)
+│ │           Base.println("__model__.upl_imgsrc[] = ", %150)
+│ └───        return value
+│ 44 ─        return nothing
+│ )]
+│ 
+│   Type of argument:
+│   Dict{AbstractString, AbstractString}
+│ 
+│   Value:
+│   Dict{AbstractString, AbstractString}("name" => "generated_parameter_dataset.csv", "channel" => "GNYBUXXKZLYNOXEFUKJSMAICNVCQZMJU", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_slGPA7mBan")
+│ 
+│   Exception:
+│   UndefVarError(:Random)
+│ 
+│   exception = (UndefVarError(:Random), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffb9781ecf6, Ptr{Nothing} @0x00007ffb977b3eaa, Ptr{Nothing} @0x000001c1fc05c5fa, Ptr{Nothing} @0x000001c1fc05d5e2, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x000001c1fc059e65, Ptr{Nothing} @0x000001c1fc05a93c, Ptr{Nothing} @0x000001c1fc05a99a, Ptr{Nothing} @0x000001c1fc059ac8, Ptr{Nothing} @0x000001c1fc0331d4, Ptr{Nothing} @0x000001c1fc0334ab, Ptr{Nothing} @0x000001c1fc01e0f3, Ptr{Nothing} @0x000001c1fc01e567, Ptr{Nothing} @0x000001c1fc01e5fb, Ptr{Nothing} @0x000001c1fc01e63f, Ptr{Nothing} @0x000001c1fc001a92, Ptr{Nothing} @0x000001c1fc001aeb, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x00007ffb68f6f925, Ptr{Nothing} @0x00007ffb68e7a6f0, Ptr{Nothing} @0x00007ffb68fd4d8b, Ptr{Nothing} @0x000001c1a8704794, Ptr{Nothing} @0x000001c1a8704862, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x000001c1a86ff43c, Ptr{Nothing} @0x000001c1a87019cc, Ptr{Nothing} @0x000001c1a8701fcb, Ptr{Nothing} @0x00007ffb977bc68b])
+└ @ Stipple C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\stipple\mutators.jl:54
+┌ Info: 2024-07-17 17:31:03 removed
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:75
+┌ Info: 2024-07-17 17:31:10 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:72
+┌ Info: 2024-07-17 17:31:10 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:81
+┌ Info: 2024-07-17 17:31:10 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "111series.csv", "channel" => "GNYBUXXKZLYNOXEFUKJSMAICNVCQZMJU", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_aFkZINgxuH")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Error: 2024-07-17 17:31:10 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#31":
+│  [1] (::Main.App.var"#31#32")(fileuploads)
+│      @ C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:1067
+│   Core.CodeInfo[CodeInfo(
+│ 1 ──        Core.NewvarNode(:(value))
+│ │           Core.NewvarNode(:(filename))
+│ │    %3   = Main.App.isempty(fileuploads)
+│ │    %4   = !%3
+│ └───        goto #44 if not %4
+│ 2 ──        Core.NewvarNode(:(msg@_5))
+│ │           Core.NewvarNode(:(kwargs@_6))
+│ │           Core.NewvarNode(:(line@_7))
+│ │           Core.NewvarNode(:(file@_8))
+│ │           Core.NewvarNode(:(id@_9))
+│ │           Core.NewvarNode(:(logger@_10))
+│ │           Core.NewvarNode(:(_module@_11))
+│ │           Core.NewvarNode(:(group@_12))
+│ │           level@_14 = Base.CoreLogging.Info
+│ │           std_level@_13 = level@_14
+│ │    %16  = std_level@_13
+│ │    %17  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %18  = %16 >= %17
+│ └───        goto #18 if not %18
+│ 3 ──        group@_12 = :app
+│ │           _module@_11 = Main.App
+│ │           logger@_10 = (Base.CoreLogging.current_logger_for_env)(std_level@_13, group@_12, _module@_11)
+│ │    %23  = logger@_10 === Base.CoreLogging.nothing
+│ │    %24  = !%23
+│ └───        goto #18 if not %24
+│ 4 ──        id@_9 = :Main_App_8fc45cd2
+│ │    %27  = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_10, level@_14, _module@_11, group@_12, id@_9)
+│ └───        goto #18 if not %27
+│ 5 ──        file@_8 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %30  = file@_8 isa Base.CoreLogging.String
+│ └───        goto #7 if not %30
+│ 6 ── %32  = Base.fixup_stdlib_path
+│ └───        file@_8 = (%32)(file@_8)
+│ 7 ┄─        line@_7 = 52
+│ │    %35  = $(Expr(:isdefined, :(fileuploads)))
+│ └───        goto #9 if not %35
+│ 8 ──        @_28 = nothing
+│ └───        goto #10
+│ 9 ──        @_28 = Core.UndefVarError(:fileuploads)
+│ 10 ┄ %40  = @_28
+│ │           err@_15 = %40
+│ │    %42  = err@_15 === Base.CoreLogging.nothing
+│ └───        goto #12 if not %42
+│ 11 ─        msg@_5 = "File was uploaded: "
+│ │    %45  = (:fileuploads,)
+│ │    %46  = Core.apply_type(Core.NamedTuple, %45)
+│ │    %47  = Core.tuple(fileuploads)
+│ │           kwargs@_6 = (%46)(%47)
+│ │           @_29 = true
+│ └───        goto #13
+│ 12 ─        Base.invokelatest(Base.CoreLogging.logging_error, logger@_10, level@_14, _module@_11, group@_12, id@_9, file@_8, line@_7, err@_15, false)
+│ └───        @_29 = false
+│ 13 ┄        goto #18 if not @_29
+│ 14 ─ %54  = Base.NamedTuple()
+│ │    %55  = Base.merge(%54, kwargs@_6)
+│ │    %56  = Base.isempty(%55)
+│ └───        goto #16 if not %56
+│ 15 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ └───        goto #17
+│ 16 ─        Core.kwcall(%55, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ 17 ┄        goto #18
+│ 18 ┄        Base.CoreLogging.nothing
+│ │    %63  = Base.getproperty(Main.App.Random, :randstring)
+│ │    %64  = (%63)(10)
+│ │    %65  = Base.getindex(fileuploads, "name")
+│ │    %66  = Main.App.base64encode(%65)
+│ └───        filename = %64 * "_" * %66
+│ 19 ─ %68  = $(Expr(:enter, #25))
+│ 20 ─ %69  = Main.App.joinpath("public", "uploads")
+│ │    %70  = Main.App.isdir(%69)
+│ └───        goto #22 if not %70
+│ 21 ─        goto #23
+│ 22 ─ %73  = Main.App.joinpath("public", "uploads")
+│ └───        Main.App.mkpath(%73)
+│ 23 ┄ %75  = Base.getindex(fileuploads, "path")
+│ │    %76  = Main.App.joinpath("public", "uploads", filename)
+│ │           Main.App.mv(%75, %76)
+│ └───        $(Expr(:leave, 1))
+│ 24 ─        goto #43
+│ 25 ┄        $(Expr(:leave, 1))
+│ 26 ─        e = $(Expr(:the_exception))
+│ │           Core.NewvarNode(:(msg@_17))
+│ │           Core.NewvarNode(:(kwargs@_18))
+│ │           Core.NewvarNode(:(line@_19))
+│ │           Core.NewvarNode(:(file@_20))
+│ │           Core.NewvarNode(:(id@_21))
+│ │           Core.NewvarNode(:(logger@_22))
+│ │           Core.NewvarNode(:(_module@_23))
+│ │           Core.NewvarNode(:(group@_24))
+│ │           level@_26 = Base.CoreLogging.Error
+│ │           std_level@_25 = level@_26
+│ │    %92  = std_level@_25
+│ │    %93  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %94  = %92 >= %93
+│ └───        goto #42 if not %94
+│ 27 ─        group@_24 = :app
+│ │           _module@_23 = Main.App
+│ │           logger@_22 = (Base.CoreLogging.current_logger_for_env)(std_level@_25, group@_24, _module@_23)
+│ │    %99  = logger@_22 === Base.CoreLogging.nothing
+│ │    %100 = !%99
+│ └───        goto #42 if not %100
+│ 28 ─        id@_21 = :Main_App_7f260d15
+│ │    %103 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_22, level@_26, _module@_23, group@_24, id@_21)
+│ └───        goto #42 if not %103
+│ 29 ─        file@_20 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %106 = file@_20 isa Base.CoreLogging.String
+│ └───        goto #31 if not %106
+│ 30 ─ %108 = Base.fixup_stdlib_path
+│ └───        file@_20 = (%108)(file@_20)
+│ 31 ┄        line@_19 = 59
+│ 32 ─ %111 = $(Expr(:enter, #35))
+│ 33 ─        msg@_17 = Base.string("Error processing file: ", e)
+│ │           kwargs@_18 = Core.NamedTuple()
+│ │           @_30 = true
+│ └───        $(Expr(:leave, 1))
+│ 34 ─        goto #37
+│ 35 ┄        $(Expr(:leave, 1))
+│ 36 ─        err@_27 = $(Expr(:the_exception))
+│ │           Base.invokelatest(Base.CoreLogging.logging_error, logger@_22, level@_26, _module@_23, group@_24, id@_21, file@_20, line@_19, err@_27, true)
+│ │           @_30 = false
+│ └───        $(Expr(:pop_exception, :(%111)))
+│ 37 ┄        goto #42 if not @_30
+│ 38 ─ %123 = Base.NamedTuple()
+│ │    %124 = Base.merge(%123, kwargs@_18)
+│ │    %125 = Base.isempty(%124)
+│ └───        goto #40 if not %125
+│ 39 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ └───        goto #41
+│ 40 ─        Core.kwcall(%124, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ 41 ┄        goto #42
+│ 42 ┄        Base.CoreLogging.nothing
+│ │    %132 = Core.getfield(#self#, :__model__)
+│ │    %133 = Base.getindex(fileuploads, "name")
+│ │    %134 = Base.string("Error processing file: ", %133)
+│ │           Main.App.notify(%132, %134)
+│ └───        $(Expr(:pop_exception, :(%68)))
+│ 43 ┄ %137 = Base.string("/uploads/", filename)
+│ │    %138 = Core.getfield(#self#, :__model__)
+│ │    %139 = Base.getproperty(%138, :upl_imgsrc)
+│ │           Base.setindex!(%139, %137)
+│ │    %141 = Core.apply_type(Main.App.Dict, Main.App.AbstractString, Main.App.AbstractString)
+│ │    %142 = (%141)()
+│ │    %143 = Core.getfield(#self#, :__model__)
+│ │    %144 = Base.getproperty(%143, :fileuploads)
+│ │           Base.setindex!(%144, %142)
+│ │    %146 = Core.getfield(#self#, :__model__)
+│ │    %147 = Base.getproperty(%146, :upl_imgsrc)
+│ │    %148 = Base.getindex(%147)
+│ │           value = %148
+│ │    %150 = Base.repr(%148)
+│ │           Base.println("__model__.upl_imgsrc[] = ", %150)
+│ └───        return value
+│ 44 ─        return nothing
+│ )]
+│ 
+│   Type of argument:
+│   Dict{AbstractString, AbstractString}
+│ 
+│   Value:
+│   Dict{AbstractString, AbstractString}("name" => "111series.csv", "channel" => "GNYBUXXKZLYNOXEFUKJSMAICNVCQZMJU", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_aFkZINgxuH")
+│ 
+│   Exception:
+│   UndefVarError(:Random)
+│ 
+│   exception = (UndefVarError(:Random), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffb9781ecf6, Ptr{Nothing} @0x00007ffb977b3eaa, Ptr{Nothing} @0x000001c1fc05c5fa, Ptr{Nothing} @0x000001c1fc05d5e2, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x000001c1fc059e65, Ptr{Nothing} @0x000001c1fc05a93c, Ptr{Nothing} @0x000001c1fc05a99a, Ptr{Nothing} @0x000001c1fc059ac8, Ptr{Nothing} @0x000001c1fc0331d4, Ptr{Nothing} @0x000001c1fc0334ab, Ptr{Nothing} @0x000001c1fc01e0f3, Ptr{Nothing} @0x000001c1fc01e567, Ptr{Nothing} @0x000001c1fc01e5fb, Ptr{Nothing} @0x000001c1fc01e63f, Ptr{Nothing} @0x000001c1fc001a92, Ptr{Nothing} @0x000001c1fc001aeb, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x00007ffb68f6f925, Ptr{Nothing} @0x00007ffb68e7a6f0, Ptr{Nothing} @0x00007ffb68fd4d8b, Ptr{Nothing} @0x000001c1a8704794, Ptr{Nothing} @0x000001c1a8704862, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x000001c1a86ff43c, Ptr{Nothing} @0x000001c1a87019cc, Ptr{Nothing} @0x000001c1a8701fcb, Ptr{Nothing} @0x00007ffb977bc68b])
+└ @ Stipple C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\stipple\mutators.jl:54
+┌ Info: 2024-07-17 17:31:10 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-17 17:31:10 uploaded
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:84
+┌ Info: 2024-07-17 17:31:10 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:87
+┌ Info: 2024-07-17 17:31:10 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "111series.csv", "channel" => "GNYBUXXKZLYNOXEFUKJSMAICNVCQZMJU", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_aFkZINgxuH")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Error: 2024-07-17 17:31:10 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#31":
+│  [1] (::Main.App.var"#31#32")(fileuploads)
+│      @ C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:1067
+│   Core.CodeInfo[CodeInfo(
+│ 1 ──        Core.NewvarNode(:(value))
+│ │           Core.NewvarNode(:(filename))
+│ │    %3   = Main.App.isempty(fileuploads)
+│ │    %4   = !%3
+│ └───        goto #44 if not %4
+│ 2 ──        Core.NewvarNode(:(msg@_5))
+│ │           Core.NewvarNode(:(kwargs@_6))
+│ │           Core.NewvarNode(:(line@_7))
+│ │           Core.NewvarNode(:(file@_8))
+│ │           Core.NewvarNode(:(id@_9))
+│ │           Core.NewvarNode(:(logger@_10))
+│ │           Core.NewvarNode(:(_module@_11))
+│ │           Core.NewvarNode(:(group@_12))
+│ │           level@_14 = Base.CoreLogging.Info
+│ │           std_level@_13 = level@_14
+│ │    %16  = std_level@_13
+│ │    %17  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %18  = %16 >= %17
+│ └───        goto #18 if not %18
+│ 3 ──        group@_12 = :app
+│ │           _module@_11 = Main.App
+│ │           logger@_10 = (Base.CoreLogging.current_logger_for_env)(std_level@_13, group@_12, _module@_11)
+│ │    %23  = logger@_10 === Base.CoreLogging.nothing
+│ │    %24  = !%23
+│ └───        goto #18 if not %24
+│ 4 ──        id@_9 = :Main_App_8fc45cd2
+│ │    %27  = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_10, level@_14, _module@_11, group@_12, id@_9)
+│ └───        goto #18 if not %27
+│ 5 ──        file@_8 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %30  = file@_8 isa Base.CoreLogging.String
+│ └───        goto #7 if not %30
+│ 6 ── %32  = Base.fixup_stdlib_path
+│ └───        file@_8 = (%32)(file@_8)
+│ 7 ┄─        line@_7 = 52
+│ │    %35  = $(Expr(:isdefined, :(fileuploads)))
+│ └───        goto #9 if not %35
+│ 8 ──        @_28 = nothing
+│ └───        goto #10
+│ 9 ──        @_28 = Core.UndefVarError(:fileuploads)
+│ 10 ┄ %40  = @_28
+│ │           err@_15 = %40
+│ │    %42  = err@_15 === Base.CoreLogging.nothing
+│ └───        goto #12 if not %42
+│ 11 ─        msg@_5 = "File was uploaded: "
+│ │    %45  = (:fileuploads,)
+│ │    %46  = Core.apply_type(Core.NamedTuple, %45)
+│ │    %47  = Core.tuple(fileuploads)
+│ │           kwargs@_6 = (%46)(%47)
+│ │           @_29 = true
+│ └───        goto #13
+│ 12 ─        Base.invokelatest(Base.CoreLogging.logging_error, logger@_10, level@_14, _module@_11, group@_12, id@_9, file@_8, line@_7, err@_15, false)
+│ └───        @_29 = false
+│ 13 ┄        goto #18 if not @_29
+│ 14 ─ %54  = Base.NamedTuple()
+│ │    %55  = Base.merge(%54, kwargs@_6)
+│ │    %56  = Base.isempty(%55)
+│ └───        goto #16 if not %56
+│ 15 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ └───        goto #17
+│ 16 ─        Core.kwcall(%55, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ 17 ┄        goto #18
+│ 18 ┄        Base.CoreLogging.nothing
+│ │    %63  = Base.getproperty(Main.App.Random, :randstring)
+│ │    %64  = (%63)(10)
+│ │    %65  = Base.getindex(fileuploads, "name")
+│ │    %66  = Main.App.base64encode(%65)
+│ └───        filename = %64 * "_" * %66
+│ 19 ─ %68  = $(Expr(:enter, #25))
+│ 20 ─ %69  = Main.App.joinpath("public", "uploads")
+│ │    %70  = Main.App.isdir(%69)
+│ └───        goto #22 if not %70
+│ 21 ─        goto #23
+│ 22 ─ %73  = Main.App.joinpath("public", "uploads")
+│ └───        Main.App.mkpath(%73)
+│ 23 ┄ %75  = Base.getindex(fileuploads, "path")
+│ │    %76  = Main.App.joinpath("public", "uploads", filename)
+│ │           Main.App.mv(%75, %76)
+│ └───        $(Expr(:leave, 1))
+│ 24 ─        goto #43
+│ 25 ┄        $(Expr(:leave, 1))
+│ 26 ─        e = $(Expr(:the_exception))
+│ │           Core.NewvarNode(:(msg@_17))
+│ │           Core.NewvarNode(:(kwargs@_18))
+│ │           Core.NewvarNode(:(line@_19))
+│ │           Core.NewvarNode(:(file@_20))
+│ │           Core.NewvarNode(:(id@_21))
+│ │           Core.NewvarNode(:(logger@_22))
+│ │           Core.NewvarNode(:(_module@_23))
+│ │           Core.NewvarNode(:(group@_24))
+│ │           level@_26 = Base.CoreLogging.Error
+│ │           std_level@_25 = level@_26
+│ │    %92  = std_level@_25
+│ │    %93  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %94  = %92 >= %93
+│ └───        goto #42 if not %94
+│ 27 ─        group@_24 = :app
+│ │           _module@_23 = Main.App
+│ │           logger@_22 = (Base.CoreLogging.current_logger_for_env)(std_level@_25, group@_24, _module@_23)
+│ │    %99  = logger@_22 === Base.CoreLogging.nothing
+│ │    %100 = !%99
+│ └───        goto #42 if not %100
+│ 28 ─        id@_21 = :Main_App_7f260d15
+│ │    %103 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_22, level@_26, _module@_23, group@_24, id@_21)
+│ └───        goto #42 if not %103
+│ 29 ─        file@_20 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %106 = file@_20 isa Base.CoreLogging.String
+│ └───        goto #31 if not %106
+│ 30 ─ %108 = Base.fixup_stdlib_path
+│ └───        file@_20 = (%108)(file@_20)
+│ 31 ┄        line@_19 = 59
+│ 32 ─ %111 = $(Expr(:enter, #35))
+│ 33 ─        msg@_17 = Base.string("Error processing file: ", e)
+│ │           kwargs@_18 = Core.NamedTuple()
+│ │           @_30 = true
+│ └───        $(Expr(:leave, 1))
+│ 34 ─        goto #37
+│ 35 ┄        $(Expr(:leave, 1))
+│ 36 ─        err@_27 = $(Expr(:the_exception))
+│ │           Base.invokelatest(Base.CoreLogging.logging_error, logger@_22, level@_26, _module@_23, group@_24, id@_21, file@_20, line@_19, err@_27, true)
+│ │           @_30 = false
+│ └───        $(Expr(:pop_exception, :(%111)))
+│ 37 ┄        goto #42 if not @_30
+│ 38 ─ %123 = Base.NamedTuple()
+│ │    %124 = Base.merge(%123, kwargs@_18)
+│ │    %125 = Base.isempty(%124)
+│ └───        goto #40 if not %125
+│ 39 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ └───        goto #41
+│ 40 ─        Core.kwcall(%124, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ 41 ┄        goto #42
+│ 42 ┄        Base.CoreLogging.nothing
+│ │    %132 = Core.getfield(#self#, :__model__)
+│ │    %133 = Base.getindex(fileuploads, "name")
+│ │    %134 = Base.string("Error processing file: ", %133)
+│ │           Main.App.notify(%132, %134)
+│ └───        $(Expr(:pop_exception, :(%68)))
+│ 43 ┄ %137 = Base.string("/uploads/", filename)
+│ │    %138 = Core.getfield(#self#, :__model__)
+│ │    %139 = Base.getproperty(%138, :upl_imgsrc)
+│ │           Base.setindex!(%139, %137)
+│ │    %141 = Core.apply_type(Main.App.Dict, Main.App.AbstractString, Main.App.AbstractString)
+│ │    %142 = (%141)()
+│ │    %143 = Core.getfield(#self#, :__model__)
+│ │    %144 = Base.getproperty(%143, :fileuploads)
+│ │           Base.setindex!(%144, %142)
+│ │    %146 = Core.getfield(#self#, :__model__)
+│ │    %147 = Base.getproperty(%146, :upl_imgsrc)
+│ │    %148 = Base.getindex(%147)
+│ │           value = %148
+│ │    %150 = Base.repr(%148)
+│ │           Base.println("__model__.upl_imgsrc[] = ", %150)
+│ └───        return value
+│ 44 ─        return nothing
+│ )]
+│ 
+│   Type of argument:
+│   Dict{AbstractString, AbstractString}
+│ 
+│   Value:
+│   Dict{AbstractString, AbstractString}("name" => "111series.csv", "channel" => "GNYBUXXKZLYNOXEFUKJSMAICNVCQZMJU", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_aFkZINgxuH")
+│ 
+│   Exception:
+│   UndefVarError(:Random)
+│ 
+│   exception = (UndefVarError(:Random), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffb9781ecf6, Ptr{Nothing} @0x00007ffb977b3eaa, Ptr{Nothing} @0x000001c1fc05c5fa, Ptr{Nothing} @0x000001c1fc05d5e2, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x000001c1fc059e65, Ptr{Nothing} @0x000001c1fc05a93c, Ptr{Nothing} @0x000001c1fc05a99a, Ptr{Nothing} @0x000001c1fc059ac8, Ptr{Nothing} @0x000001c1fc0331d4, Ptr{Nothing} @0x000001c1fc0334ab, Ptr{Nothing} @0x000001c1fc01e0f3, Ptr{Nothing} @0x000001c1fc01e567, Ptr{Nothing} @0x000001c1fc01e5fb, Ptr{Nothing} @0x000001c1fc01e63f, Ptr{Nothing} @0x000001c1fc001a92, Ptr{Nothing} @0x000001c1fc001aeb, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x00007ffb68f6f925, Ptr{Nothing} @0x00007ffb68e7a6f0, Ptr{Nothing} @0x00007ffb68fd4d8b, Ptr{Nothing} @0x000001c1a8704794, Ptr{Nothing} @0x000001c1a8704862, Ptr{Nothing} @0x00007ffb977a708a, Ptr{Nothing} @0x000001c1a86ff43c, Ptr{Nothing} @0x000001c1a87019cc, Ptr{Nothing} @0x000001c1a8701fcb, Ptr{Nothing} @0x00007ffb977bc68b])
+└ @ Stipple C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\stipple\mutators.jl:54
+┌ Info: 2024-07-17 17:31:16 removed
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:75
+┌ Info: 2024-07-17 18:05:35 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-17 18:05:37 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 18:05:49 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-17 18:05:49 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 18:05:53 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=QANBOSPVTCDOUJGOGPOYHWVHRFJEPDNS 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-17 18:05:53 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-17 18:07:42 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 18:07:42 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 18:07:54 added
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:72
+┌ Info: 2024-07-17 18:07:55 uploading
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:81
+┌ Info: 2024-07-17 18:07:55 started
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:78
+┌ Info: 2024-07-17 18:07:55 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "111series.csv", "channel" => "QANBOSPVTCDOUJGOGPOYHWVHRFJEPDNS", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_ch4NEvA7Mx")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Error: 2024-07-17 18:07:58 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#31":
+│  [1] (::Main.App.var"#31#32")(fileuploads)
+│      @ C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:1067
+│   Core.CodeInfo[CodeInfo(
+│ 1 ──        Core.NewvarNode(:(value))
+│ │           Core.NewvarNode(:(filename))
+│ │    %3   = Main.App.isempty(fileuploads)
+│ │    %4   = !%3
+│ └───        goto #44 if not %4
+│ 2 ──        Core.NewvarNode(:(msg@_5))
+│ │           Core.NewvarNode(:(kwargs@_6))
+│ │           Core.NewvarNode(:(line@_7))
+│ │           Core.NewvarNode(:(file@_8))
+│ │           Core.NewvarNode(:(id@_9))
+│ │           Core.NewvarNode(:(logger@_10))
+│ │           Core.NewvarNode(:(_module@_11))
+│ │           Core.NewvarNode(:(group@_12))
+│ │           level@_14 = Base.CoreLogging.Info
+│ │           std_level@_13 = level@_14
+│ │    %16  = std_level@_13
+│ │    %17  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %18  = %16 >= %17
+│ └───        goto #18 if not %18
+│ 3 ──        group@_12 = :app
+│ │           _module@_11 = Main.App
+│ │           logger@_10 = (Base.CoreLogging.current_logger_for_env)(std_level@_13, group@_12, _module@_11)
+│ │    %23  = logger@_10 === Base.CoreLogging.nothing
+│ │    %24  = !%23
+│ └───        goto #18 if not %24
+│ 4 ──        id@_9 = :Main_App_8fc45cd2
+│ │    %27  = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_10, level@_14, _module@_11, group@_12, id@_9)
+│ └───        goto #18 if not %27
+│ 5 ──        file@_8 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %30  = file@_8 isa Base.CoreLogging.String
+│ └───        goto #7 if not %30
+│ 6 ── %32  = Base.fixup_stdlib_path
+│ └───        file@_8 = (%32)(file@_8)
+│ 7 ┄─        line@_7 = 52
+│ │    %35  = $(Expr(:isdefined, :(fileuploads)))
+│ └───        goto #9 if not %35
+│ 8 ──        @_28 = nothing
+│ └───        goto #10
+│ 9 ──        @_28 = Core.UndefVarError(:fileuploads)
+│ 10 ┄ %40  = @_28
+│ │           err@_15 = %40
+│ │    %42  = err@_15 === Base.CoreLogging.nothing
+│ └───        goto #12 if not %42
+│ 11 ─        msg@_5 = "File was uploaded: "
+│ │    %45  = (:fileuploads,)
+│ │    %46  = Core.apply_type(Core.NamedTuple, %45)
+│ │    %47  = Core.tuple(fileuploads)
+│ │           kwargs@_6 = (%46)(%47)
+│ │           @_29 = true
+│ └───        goto #13
+│ 12 ─        Base.invokelatest(Base.CoreLogging.logging_error, logger@_10, level@_14, _module@_11, group@_12, id@_9, file@_8, line@_7, err@_15, false)
+│ └───        @_29 = false
+│ 13 ┄        goto #18 if not @_29
+│ 14 ─ %54  = Base.NamedTuple()
+│ │    %55  = Base.merge(%54, kwargs@_6)
+│ │    %56  = Base.isempty(%55)
+│ └───        goto #16 if not %56
+│ 15 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ └───        goto #17
+│ 16 ─        Core.kwcall(%55, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ 17 ┄        goto #18
+│ 18 ┄        Base.CoreLogging.nothing
+│ │    %63  = Base.getproperty(Main.App.Random, :randstring)
+│ │    %64  = (%63)(10)
+│ │    %65  = Base.getindex(fileuploads, "name")
+│ │    %66  = Main.App.base64encode(%65)
+│ └───        filename = %64 * "_" * %66
+│ 19 ─ %68  = $(Expr(:enter, #25))
+│ 20 ─ %69  = Main.App.joinpath("public", "uploads")
+│ │    %70  = Main.App.isdir(%69)
+│ └───        goto #22 if not %70
+│ 21 ─        goto #23
+│ 22 ─ %73  = Main.App.joinpath("public", "uploads")
+│ └───        Main.App.mkpath(%73)
+│ 23 ┄ %75  = Base.getindex(fileuploads, "path")
+│ │    %76  = Main.App.joinpath("public", "uploads", filename)
+│ │           Main.App.mv(%75, %76)
+│ └───        $(Expr(:leave, 1))
+│ 24 ─        goto #43
+│ 25 ┄        $(Expr(:leave, 1))
+│ 26 ─        e = $(Expr(:the_exception))
+│ │           Core.NewvarNode(:(msg@_17))
+│ │           Core.NewvarNode(:(kwargs@_18))
+│ │           Core.NewvarNode(:(line@_19))
+│ │           Core.NewvarNode(:(file@_20))
+│ │           Core.NewvarNode(:(id@_21))
+│ │           Core.NewvarNode(:(logger@_22))
+│ │           Core.NewvarNode(:(_module@_23))
+│ │           Core.NewvarNode(:(group@_24))
+│ │           level@_26 = Base.CoreLogging.Error
+│ │           std_level@_25 = level@_26
+│ │    %92  = std_level@_25
+│ │    %93  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %94  = %92 >= %93
+│ └───        goto #42 if not %94
+│ 27 ─        group@_24 = :app
+│ │           _module@_23 = Main.App
+│ │           logger@_22 = (Base.CoreLogging.current_logger_for_env)(std_level@_25, group@_24, _module@_23)
+│ │    %99  = logger@_22 === Base.CoreLogging.nothing
+│ │    %100 = !%99
+│ └───        goto #42 if not %100
+│ 28 ─        id@_21 = :Main_App_7f260d15
+│ │    %103 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_22, level@_26, _module@_23, group@_24, id@_21)
+│ └───        goto #42 if not %103
+│ 29 ─        file@_20 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %106 = file@_20 isa Base.CoreLogging.String
+│ └───        goto #31 if not %106
+│ 30 ─ %108 = Base.fixup_stdlib_path
+│ └───        file@_20 = (%108)(file@_20)
+│ 31 ┄        line@_19 = 59
+│ 32 ─ %111 = $(Expr(:enter, #35))
+│ 33 ─        msg@_17 = Base.string("Error processing file: ", e)
+│ │           kwargs@_18 = Core.NamedTuple()
+│ │           @_30 = true
+│ └───        $(Expr(:leave, 1))
+│ 34 ─        goto #37
+│ 35 ┄        $(Expr(:leave, 1))
+│ 36 ─        err@_27 = $(Expr(:the_exception))
+│ │           Base.invokelatest(Base.CoreLogging.logging_error, logger@_22, level@_26, _module@_23, group@_24, id@_21, file@_20, line@_19, err@_27, true)
+│ │           @_30 = false
+│ └───        $(Expr(:pop_exception, :(%111)))
+│ 37 ┄        goto #42 if not @_30
+│ 38 ─ %123 = Base.NamedTuple()
+│ │    %124 = Base.merge(%123, kwargs@_18)
+│ │    %125 = Base.isempty(%124)
+│ └───        goto #40 if not %125
+│ 39 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ └───        goto #41
+│ 40 ─        Core.kwcall(%124, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ 41 ┄        goto #42
+│ 42 ┄        Base.CoreLogging.nothing
+│ │    %132 = Core.getfield(#self#, :__model__)
+│ │    %133 = Base.getindex(fileuploads, "name")
+│ │    %134 = Base.string("Error processing file: ", %133)
+│ │           Main.App.notify(%132, %134)
+│ └───        $(Expr(:pop_exception, :(%68)))
+│ 43 ┄ %137 = Base.string("/uploads/", filename)
+│ │    %138 = Core.getfield(#self#, :__model__)
+│ │    %139 = Base.getproperty(%138, :upl_imgsrc)
+│ │           Base.setindex!(%139, %137)
+│ │    %141 = Core.apply_type(Main.App.Dict, Main.App.AbstractString, Main.App.AbstractString)
+│ │    %142 = (%141)()
+│ │    %143 = Core.getfield(#self#, :__model__)
+│ │    %144 = Base.getproperty(%143, :fileuploads)
+│ │           Base.setindex!(%144, %142)
+│ │    %146 = Core.getfield(#self#, :__model__)
+│ │    %147 = Base.getproperty(%146, :upl_imgsrc)
+│ │    %148 = Base.getindex(%147)
+│ │           value = %148
+│ │    %150 = Base.repr(%148)
+│ │           Base.println("__model__.upl_imgsrc[] = ", %150)
+│ └───        return value
+│ 44 ─        return nothing
+│ )]
+│ 
+│   Type of argument:
+│   Dict{AbstractString, AbstractString}
+│ 
+│   Value:
+│   Dict{AbstractString, AbstractString}("name" => "111series.csv", "channel" => "QANBOSPVTCDOUJGOGPOYHWVHRFJEPDNS", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_ch4NEvA7Mx")
+│ 
+│   Exception:
+│   UndefVarError(:Random)
+│ 
+│   exception = (UndefVarError(:Random), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffb97f9ecf6, Ptr{Nothing} @0x00007ffb97f33eaa, Ptr{Nothing} @0x00000209eadbc64a, Ptr{Nothing} @0x00000209eadbd632, Ptr{Nothing} @0x00007ffb97f2708a, Ptr{Nothing} @0x00000209eadb9eb5, Ptr{Nothing} @0x00000209eadba98c, Ptr{Nothing} @0x00000209eadba9ea, Ptr{Nothing} @0x00000209eadb9b18, Ptr{Nothing} @0x00000209ead98534, Ptr{Nothing} @0x00000209ead9880b, Ptr{Nothing} @0x00000209ead713f3, Ptr{Nothing} @0x00000209ead71865, Ptr{Nothing} @0x00000209ead718eb, Ptr{Nothing} @0x00000209ead7192f, Ptr{Nothing} @0x00000209ead5d9e2, Ptr{Nothing} @0x00000209ead5da3b, Ptr{Nothing} @0x00007ffb97f2708a, Ptr{Nothing} @0x00007ffb762ef925, Ptr{Nothing} @0x00007ffb761fa6f0, Ptr{Nothing} @0x00007ffb76354d8b, Ptr{Nothing} @0x00000209976b47f4, Ptr{Nothing} @0x00000209976b48c2, Ptr{Nothing} @0x00007ffb97f2708a, Ptr{Nothing} @0x00000209976af4ac, Ptr{Nothing} @0x00000209976b1a33, Ptr{Nothing} @0x00000209976b202b, Ptr{Nothing} @0x00007ffb97f3c68b])
+└ @ Stipple C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\stipple\mutators.jl:54
+┌ Info: 2024-07-17 18:08:00 File was uploaded: 
+│   fileuploads = Dict{AbstractString, AbstractString}("name" => "111series.csv", "channel" => "QANBOSPVTCDOUJGOGPOYHWVHRFJEPDNS", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_ch4NEvA7Mx")
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:52
+┌ Error: 2024-07-17 18:08:00 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#31":
+│  [1] (::Main.App.var"#31#32")(fileuploads)
+│      @ C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:1067
+│   Core.CodeInfo[CodeInfo(
+│ 1 ──        Core.NewvarNode(:(value))
+│ │           Core.NewvarNode(:(filename))
+│ │    %3   = Main.App.isempty(fileuploads)
+│ │    %4   = !%3
+│ └───        goto #44 if not %4
+│ 2 ──        Core.NewvarNode(:(msg@_5))
+│ │           Core.NewvarNode(:(kwargs@_6))
+│ │           Core.NewvarNode(:(line@_7))
+│ │           Core.NewvarNode(:(file@_8))
+│ │           Core.NewvarNode(:(id@_9))
+│ │           Core.NewvarNode(:(logger@_10))
+│ │           Core.NewvarNode(:(_module@_11))
+│ │           Core.NewvarNode(:(group@_12))
+│ │           level@_14 = Base.CoreLogging.Info
+│ │           std_level@_13 = level@_14
+│ │    %16  = std_level@_13
+│ │    %17  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %18  = %16 >= %17
+│ └───        goto #18 if not %18
+│ 3 ──        group@_12 = :app
+│ │           _module@_11 = Main.App
+│ │           logger@_10 = (Base.CoreLogging.current_logger_for_env)(std_level@_13, group@_12, _module@_11)
+│ │    %23  = logger@_10 === Base.CoreLogging.nothing
+│ │    %24  = !%23
+│ └───        goto #18 if not %24
+│ 4 ──        id@_9 = :Main_App_8fc45cd2
+│ │    %27  = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_10, level@_14, _module@_11, group@_12, id@_9)
+│ └───        goto #18 if not %27
+│ 5 ──        file@_8 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %30  = file@_8 isa Base.CoreLogging.String
+│ └───        goto #7 if not %30
+│ 6 ── %32  = Base.fixup_stdlib_path
+│ └───        file@_8 = (%32)(file@_8)
+│ 7 ┄─        line@_7 = 52
+│ │    %35  = $(Expr(:isdefined, :(fileuploads)))
+│ └───        goto #9 if not %35
+│ 8 ──        @_28 = nothing
+│ └───        goto #10
+│ 9 ──        @_28 = Core.UndefVarError(:fileuploads)
+│ 10 ┄ %40  = @_28
+│ │           err@_15 = %40
+│ │    %42  = err@_15 === Base.CoreLogging.nothing
+│ └───        goto #12 if not %42
+│ 11 ─        msg@_5 = "File was uploaded: "
+│ │    %45  = (:fileuploads,)
+│ │    %46  = Core.apply_type(Core.NamedTuple, %45)
+│ │    %47  = Core.tuple(fileuploads)
+│ │           kwargs@_6 = (%46)(%47)
+│ │           @_29 = true
+│ └───        goto #13
+│ 12 ─        Base.invokelatest(Base.CoreLogging.logging_error, logger@_10, level@_14, _module@_11, group@_12, id@_9, file@_8, line@_7, err@_15, false)
+│ └───        @_29 = false
+│ 13 ┄        goto #18 if not @_29
+│ 14 ─ %54  = Base.NamedTuple()
+│ │    %55  = Base.merge(%54, kwargs@_6)
+│ │    %56  = Base.isempty(%55)
+│ └───        goto #16 if not %56
+│ 15 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ └───        goto #17
+│ 16 ─        Core.kwcall(%55, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_10, level@_14, msg@_5, _module@_11, group@_12, id@_9, file@_8, line@_7)
+│ 17 ┄        goto #18
+│ 18 ┄        Base.CoreLogging.nothing
+│ │    %63  = Base.getproperty(Main.App.Random, :randstring)
+│ │    %64  = (%63)(10)
+│ │    %65  = Base.getindex(fileuploads, "name")
+│ │    %66  = Main.App.base64encode(%65)
+│ └───        filename = %64 * "_" * %66
+│ 19 ─ %68  = $(Expr(:enter, #25))
+│ 20 ─ %69  = Main.App.joinpath("public", "uploads")
+│ │    %70  = Main.App.isdir(%69)
+│ └───        goto #22 if not %70
+│ 21 ─        goto #23
+│ 22 ─ %73  = Main.App.joinpath("public", "uploads")
+│ └───        Main.App.mkpath(%73)
+│ 23 ┄ %75  = Base.getindex(fileuploads, "path")
+│ │    %76  = Main.App.joinpath("public", "uploads", filename)
+│ │           Main.App.mv(%75, %76)
+│ └───        $(Expr(:leave, 1))
+│ 24 ─        goto #43
+│ 25 ┄        $(Expr(:leave, 1))
+│ 26 ─        e = $(Expr(:the_exception))
+│ │           Core.NewvarNode(:(msg@_17))
+│ │           Core.NewvarNode(:(kwargs@_18))
+│ │           Core.NewvarNode(:(line@_19))
+│ │           Core.NewvarNode(:(file@_20))
+│ │           Core.NewvarNode(:(id@_21))
+│ │           Core.NewvarNode(:(logger@_22))
+│ │           Core.NewvarNode(:(_module@_23))
+│ │           Core.NewvarNode(:(group@_24))
+│ │           level@_26 = Base.CoreLogging.Error
+│ │           std_level@_25 = level@_26
+│ │    %92  = std_level@_25
+│ │    %93  = Base.getindex(Base.RefValue{Base.CoreLogging.LogLevel}(Debug))
+│ │    %94  = %92 >= %93
+│ └───        goto #42 if not %94
+│ 27 ─        group@_24 = :app
+│ │           _module@_23 = Main.App
+│ │           logger@_22 = (Base.CoreLogging.current_logger_for_env)(std_level@_25, group@_24, _module@_23)
+│ │    %99  = logger@_22 === Base.CoreLogging.nothing
+│ │    %100 = !%99
+│ └───        goto #42 if not %100
+│ 28 ─        id@_21 = :Main_App_7f260d15
+│ │    %103 = Base.CoreLogging.invokelatest(Base.CoreLogging.shouldlog, logger@_22, level@_26, _module@_23, group@_24, id@_21)
+│ └───        goto #42 if not %103
+│ 29 ─        file@_20 = "c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\Genie_test\\Genie Builder App Test\\app.jl"
+│ │    %106 = file@_20 isa Base.CoreLogging.String
+│ └───        goto #31 if not %106
+│ 30 ─ %108 = Base.fixup_stdlib_path
+│ └───        file@_20 = (%108)(file@_20)
+│ 31 ┄        line@_19 = 59
+│ 32 ─ %111 = $(Expr(:enter, #35))
+│ 33 ─        msg@_17 = Base.string("Error processing file: ", e)
+│ │           kwargs@_18 = Core.NamedTuple()
+│ │           @_30 = true
+│ └───        $(Expr(:leave, 1))
+│ 34 ─        goto #37
+│ 35 ┄        $(Expr(:leave, 1))
+│ 36 ─        err@_27 = $(Expr(:the_exception))
+│ │           Base.invokelatest(Base.CoreLogging.logging_error, logger@_22, level@_26, _module@_23, group@_24, id@_21, file@_20, line@_19, err@_27, true)
+│ │           @_30 = false
+│ └───        $(Expr(:pop_exception, :(%111)))
+│ 37 ┄        goto #42 if not @_30
+│ 38 ─ %123 = Base.NamedTuple()
+│ │    %124 = Base.merge(%123, kwargs@_18)
+│ │    %125 = Base.isempty(%124)
+│ └───        goto #40 if not %125
+│ 39 ─        Base.CoreLogging.invokelatest(Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ └───        goto #41
+│ 40 ─        Core.kwcall(%124, Base.CoreLogging.invokelatest, Base.CoreLogging.handle_message, logger@_22, level@_26, msg@_17, _module@_23, group@_24, id@_21, file@_20, line@_19)
+│ 41 ┄        goto #42
+│ 42 ┄        Base.CoreLogging.nothing
+│ │    %132 = Core.getfield(#self#, :__model__)
+│ │    %133 = Base.getindex(fileuploads, "name")
+│ │    %134 = Base.string("Error processing file: ", %133)
+│ │           Main.App.notify(%132, %134)
+│ └───        $(Expr(:pop_exception, :(%68)))
+│ 43 ┄ %137 = Base.string("/uploads/", filename)
+│ │    %138 = Core.getfield(#self#, :__model__)
+│ │    %139 = Base.getproperty(%138, :upl_imgsrc)
+│ │           Base.setindex!(%139, %137)
+│ │    %141 = Core.apply_type(Main.App.Dict, Main.App.AbstractString, Main.App.AbstractString)
+│ │    %142 = (%141)()
+│ │    %143 = Core.getfield(#self#, :__model__)
+│ │    %144 = Base.getproperty(%143, :fileuploads)
+│ │           Base.setindex!(%144, %142)
+│ │    %146 = Core.getfield(#self#, :__model__)
+│ │    %147 = Base.getproperty(%146, :upl_imgsrc)
+│ │    %148 = Base.getindex(%147)
+│ │           value = %148
+│ │    %150 = Base.repr(%148)
+│ │           Base.println("__model__.upl_imgsrc[] = ", %150)
+│ └───        return value
+│ 44 ─        return nothing
+│ )]
+│ 
+│   Type of argument:
+│   Dict{AbstractString, AbstractString}
+│ 
+│   Value:
+│   Dict{AbstractString, AbstractString}("name" => "111series.csv", "channel" => "QANBOSPVTCDOUJGOGPOYHWVHRFJEPDNS", "path" => "C:\\Users\\kaele\\AppData\\Local\\Temp\\jl_ch4NEvA7Mx")
+│ 
+│   Exception:
+│   UndefVarError(:Random)
+│ 
+│   exception = (UndefVarError(:Random), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffb97f9ecf6, Ptr{Nothing} @0x00007ffb97f33eaa, Ptr{Nothing} @0x00000209eadbc64a, Ptr{Nothing} @0x00000209eadbd632, Ptr{Nothing} @0x00007ffb97f2708a, Ptr{Nothing} @0x00000209eadb9eb5, Ptr{Nothing} @0x00000209eadba98c, Ptr{Nothing} @0x00000209eadba9ea, Ptr{Nothing} @0x00000209eadb9b18, Ptr{Nothing} @0x00000209ead98534, Ptr{Nothing} @0x00000209ead9880b, Ptr{Nothing} @0x00000209ead713f3, Ptr{Nothing} @0x00000209ead71865, Ptr{Nothing} @0x00000209ead718eb, Ptr{Nothing} @0x00000209ead7192f, Ptr{Nothing} @0x00000209ead5d9e2, Ptr{Nothing} @0x00000209ead5da3b, Ptr{Nothing} @0x00007ffb97f2708a, Ptr{Nothing} @0x00007ffb762ef925, Ptr{Nothing} @0x00007ffb761fa6f0, Ptr{Nothing} @0x00007ffb76354d8b, Ptr{Nothing} @0x00000209976b47f4, Ptr{Nothing} @0x00000209976b48c2, Ptr{Nothing} @0x00007ffb97f2708a, Ptr{Nothing} @0x00000209976af4ac, Ptr{Nothing} @0x00000209976b1a33, Ptr{Nothing} @0x00000209976b202b, Ptr{Nothing} @0x00007ffb97f3c68b])
+└ @ Stipple C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\stipple\mutators.jl:54
+┌ Info: 2024-07-17 18:08:00 uploaded
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:84
+┌ Info: 2024-07-17 18:08:00 finished
+└ @ Main.App c:\Users\kaele\OneDrive\Documents\Kaelen's stuff\SUTD\TERM 5\2D\Term 5 2D Project\Genie_test\Genie Builder App Test\app.jl:87
+┌ Info: 2024-07-17 18:09:06 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 18:09:06 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 18:12:21 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 18:12:21 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 18:19:06 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-17 18:19:06 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22

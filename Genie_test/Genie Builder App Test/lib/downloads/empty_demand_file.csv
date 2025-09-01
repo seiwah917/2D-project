@@ -1,0 +1,8 @@
+,i1,i2,i3,i4,i5
+I_init,Insert initial Inventory values for each product in this row.,,,,
+B_init,Insert initial Backlog values for each product in this row.,,,,
+t1,Forecast Demand at t=1,,,,
+t2,Forecast Demand at t=2,,,,
+t3,Forecast Demand at t=2,,,,
+…,…,,,,
+tmax,Forecast Demand at t=tmax,,,,
