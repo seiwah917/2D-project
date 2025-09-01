@@ -1,0 +1,323 @@
+┌ Info: 2024-07-31 01:03:48 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\plsworkfinal"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-31 01:03:49 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-31 01:03:53 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\plsworkfinal"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-31 01:03:53 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-31 01:03:54 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=FBGVZZXRGHJEFZBYLHOPHPXPDIIEQGWZ 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-31 01:03:54 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-31 01:25:43 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\plsworkfinal"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-31 01:25:44 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-31 01:25:56 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\plsworkfinal"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-31 01:25:56 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-31 01:25:58 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=FBGVZZXRGHJEFZBYLHOPHPXPDIIEQGWZ 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-31 01:25:58 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-31 01:26:58 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-31 01:26:58 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Error: 2024-07-31 01:28:05 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#42":
+│  [1] (::Main.App.var"#42#47")(updateButtonClicked)
+│      @ C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:1067
+│   Core.CodeInfo[CodeInfo(
+│ 1 ──        Core.NewvarNode(:(#43))
+│ │           Core.NewvarNode(:(row))
+│ │           Core.NewvarNode(:(j))
+│ │           Core.NewvarNode(:(k))
+│ │           Core.NewvarNode(:(t))
+│ └───        goto #19 if not updateButtonClicked
+│ 2 ── %7   = Core.getfield(#self#, :__model__)
+│ │    %8   = Base.getproperty(%7, :Month)
+│ │    %9   = Base.getindex(%8)
+│ │    %10  = Main.App.validate_integer(%9)
+│ │    %11  = Main.App.isnothing(%10)
+│ │    %12  = !%11
+│ └───        goto #18 if not %12
+│ 3 ── %14  = Core.getfield(#self#, :__model__)
+│ │    %15  = Base.getproperty(%14, :WorkerType)
+│ │    %16  = Base.getindex(%15)
+│ │    %17  = Main.App.validate_integer(%16)
+│ │    %18  = Main.App.isnothing(%17)
+│ │    %19  = !%18
+│ └───        goto #18 if not %19
+│ 4 ── %21  = Core.getfield(#self#, :__model__)
+│ │    %22  = Base.getproperty(%21, :ProductType)
+│ │    %23  = Base.getindex(%22)
+│ │    %24  = Main.App.validate_integer(%23)
+│ │    %25  = Main.App.isnothing(%24)
+│ │    %26  = !%25
+│ └───        goto #18 if not %26
+│ 5 ── %28  = Main.App.Int
+│ │    %29  = Core.getfield(#self#, :__model__)
+│ │    %30  = Base.getproperty(%29, :Month)
+│ │    %31  = Base.getindex(%30)
+│ │           t = Main.App.parse(%28, %31)
+│ │    %33  = Main.App.Int
+│ │    %34  = Core.getfield(#self#, :__model__)
+│ │    %35  = Base.getproperty(%34, :WorkerType)
+│ │    %36  = Base.getindex(%35)
+│ │           k = Main.App.parse(%33, %36)
+│ │    %38  = Main.App.Int
+│ │    %39  = Core.getfield(#self#, :__model__)
+│ │    %40  = Base.getproperty(%39, :ProductType)
+│ │    %41  = Base.getindex(%40)
+│ │           j = Main.App.parse(%38, %41)
+│ │    %43  = Main.App.:(var"#43#48")
+│ │    %44  = Core.typeof(j)
+│ │    %45  = Core.typeof(k)
+│ │    %46  = Core.typeof(t)
+│ │    %47  = Core.apply_type(%43, %44, %45, %46)
+│ │    %48  = j
+│ │    %49  = k
+│ │           #43 = %new(%47, %48, %49, t)
+│ │    %51  = #43
+│ │           row = Main.App.filter(%51, Main.App.results_df)
+│ │    %53  = Main.App.isempty(row)
+│ │    %54  = !%53
+│ └───        goto #16 if not %54
+│ 6 ── %56  = Core.getfield(#self#, :__model__)
+│ │    %57  = Base.getproperty(%56, :isHiringChecked)
+│ │    %58  = Base.getindex(%57)
+│ └───        goto #8 if not %58
+│ 7 ── %60  = Base.getproperty(row, :H)
+│ │           @_8 = Base.getindex(%60, 1)
+│ └───        goto #9
+│ 8 ──        @_8 = 0
+│ 9 ┄─ %64  = @_8
+│ │    %65  = Core.getfield(#self#, :__model__)
+│ │    %66  = Base.getproperty(%65, :updatedHiringValue)
+│ │           Base.setindex!(%66, %64)
+│ │    %68  = Core.getfield(#self#, :__model__)
+│ │    %69  = Base.getproperty(%68, :isFiringChecked)
+│ │    %70  = Base.getindex(%69)
+│ └───        goto #11 if not %70
+│ 10 ─ %72  = Base.getproperty(row, :F)
+│ │           @_9 = Base.getindex(%72, 1)
+│ └───        goto #12
+│ 11 ─        @_9 = 0
+│ 12 ┄ %76  = @_9
+│ │    %77  = Core.getfield(#self#, :__model__)
+│ │    %78  = Base.getproperty(%77, :updatedFiringValue)
+│ │           Base.setindex!(%78, %76)
+│ │    %80  = Core.getfield(#self#, :__model__)
+│ │    %81  = Base.getproperty(%80, :isInventoryChecked)
+│ │    %82  = Base.getindex(%81)
+│ └───        goto #14 if not %82
+│ 13 ─ %84  = Base.getproperty(row, :I)
+│ │           @_10 = Base.getindex(%84, 1)
+│ └───        goto #15
+│ 14 ─        @_10 = 0
+│ 15 ┄ %88  = @_10
+│ │    %89  = Core.getfield(#self#, :__model__)
+│ │    %90  = Base.getproperty(%89, :updatedInventoryValue)
+│ │           Base.setindex!(%90, %88)
+│ └───        goto #17
+│ 16 ─ %93  = Core.getfield(#self#, :__model__)
+│ │    %94  = Base.getproperty(%93, :updatedHiringValue)
+│ │           Base.setindex!(%94, 0)
+│ │    %96  = Core.getfield(#self#, :__model__)
+│ │    %97  = Base.getproperty(%96, :updatedFiringValue)
+│ │           Base.setindex!(%97, 0)
+│ │    %99  = Core.getfield(#self#, :__model__)
+│ │    %100 = Base.getproperty(%99, :updatedInventoryValue)
+│ └───        Base.setindex!(%100, 0)
+│ 17 ┄ %102 = false
+│ │    %103 = Core.getfield(#self#, :__model__)
+│ │    %104 = Base.getproperty(%103, :updateButtonClicked)
+│ │           Base.setindex!(%104, %102)
+│ └───        return %102
+│ 18 ┄ %107 = Core.getfield(#self#, :__model__)
+│ │    %108 = Base.getproperty(%107, :msgM)
+│ │           Base.setindex!(%108, "Error: Please fix the invalid inputs.")
+│ │    %110 = Core.getfield(#self#, :__model__)
+│ │    %111 = Base.getproperty(%110, :msgW)
+│ │           Base.setindex!(%111, "Error: Please fix the invalid inputs.")
+│ │    %113 = Core.getfield(#self#, :__model__)
+│ │    %114 = Base.getproperty(%113, :msgP)
+│ │           Base.setindex!(%114, "Error: Please fix the invalid inputs.")
+│ └───        return "Error: Please fix the invalid inputs."
+│ 19 ─        return nothing
+│ )]
+│ 
+│   Type of argument:
+│   Bool
+│ 
+│   Value:
+│   true
+│ 
+│   Exception:
+│   MethodError(Main.App.validate_integer, (0,), 0x0000000000007cc5)
+│ 
+│   exception = (MethodError(Main.App.validate_integer, (0,), 0x0000000000007cc5), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffa21c8fc3c, Ptr{Nothing} @0x00007ffa21c96ee5, Ptr{Nothing} @0x00007ffa21c97137, Ptr{Nothing} @0x00007ffa21c9b77d, Ptr{Nothing} @0x000001d26026fef0, Ptr{Nothing} @0x000001d26026ff34, Ptr{Nothing} @0x00007ffa21ca708a, Ptr{Nothing} @0x000001d2602529e6, Ptr{Nothing} @0x000001d260253448, Ptr{Nothing} @0x000001d26025349c, Ptr{Nothing} @0x000001d2602513ef, Ptr{Nothing} @0x000001d2602514c1, Ptr{Nothing} @0x000001d26024b969, Ptr{Nothing} @0x000001d26024bc3b, Ptr{Nothing} @0x000001d2602420f3, Ptr{Nothing} @0x000001d260242565, Ptr{Nothing} @0x000001d2602425eb, Ptr{Nothing} @0x000001d26024262f, Ptr{Nothing} @0x000001d260216c32, Ptr{Nothing} @0x000001d260216c8b, Ptr{Nothing} @0x00007ffa21ca708a, Ptr{Nothing} @0x00007ffa72725b85, Ptr{Nothing} @0x00007ffa726a7d30, Ptr{Nothing} @0x00007ffa7266ec5d, Ptr{Nothing} @0x000001d20502a7f4, Ptr{Nothing} @0x000001d20502a8c2, Ptr{Nothing} @0x00007ffa21ca708a, Ptr{Nothing} @0x000001d20502548c, Ptr{Nothing} @0x000001d205027a23, Ptr{Nothing} @0x000001d20502801b, Ptr{Nothing} @0x00007ffa21cbc68b])
+└ @ Stipple C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\stipple\mutators.jl:54
+┌ Info: 2024-07-31 01:32:58 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\plsworkfinal"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-31 01:33:00 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-31 01:33:18 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\plsworkfinal"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-31 01:33:18 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-31 01:33:21 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=FBGVZZXRGHJEFZBYLHOPHPXPDIIEQGWZ 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-31 01:33:21 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Error: 2024-07-31 01:35:22 
+│ Error attempting to invoke handler.
+│ 
+│   Handler:
+│   # 1 method for anonymous function "#42":
+│  [1] (::Main.App.var"#42#47")(updateButtonClicked)
+│      @ C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\ReactiveTools.jl:1067
+│   Core.CodeInfo[CodeInfo(
+│ 1 ──        Core.NewvarNode(:(#43))
+│ │           Core.NewvarNode(:(row))
+│ │           Core.NewvarNode(:(j))
+│ │           Core.NewvarNode(:(k))
+│ │           Core.NewvarNode(:(t))
+│ └───        goto #19 if not updateButtonClicked
+│ 2 ── %7   = Core.getfield(#self#, :__model__)
+│ │    %8   = Base.getproperty(%7, :Month)
+│ │    %9   = Base.getindex(%8)
+│ │    %10  = Main.App.validate_integer(%9)
+│ │    %11  = Main.App.isnothing(%10)
+│ │    %12  = !%11
+│ └───        goto #18 if not %12
+│ 3 ── %14  = Core.getfield(#self#, :__model__)
+│ │    %15  = Base.getproperty(%14, :WorkerType)
+│ │    %16  = Base.getindex(%15)
+│ │    %17  = Main.App.validate_integer(%16)
+│ │    %18  = Main.App.isnothing(%17)
+│ │    %19  = !%18
+│ └───        goto #18 if not %19
+│ 4 ── %21  = Core.getfield(#self#, :__model__)
+│ │    %22  = Base.getproperty(%21, :ProductType)
+│ │    %23  = Base.getindex(%22)
+│ │    %24  = Main.App.validate_integer(%23)
+│ │    %25  = Main.App.isnothing(%24)
+│ │    %26  = !%25
+│ └───        goto #18 if not %26
+│ 5 ── %28  = Main.App.Int
+│ │    %29  = Core.getfield(#self#, :__model__)
+│ │    %30  = Base.getproperty(%29, :Month)
+│ │    %31  = Base.getindex(%30)
+│ │           t = Main.App.parse(%28, %31)
+│ │    %33  = Main.App.Int
+│ │    %34  = Core.getfield(#self#, :__model__)
+│ │    %35  = Base.getproperty(%34, :WorkerType)
+│ │    %36  = Base.getindex(%35)
+│ │           k = Main.App.parse(%33, %36)
+│ │    %38  = Main.App.Int
+│ │    %39  = Core.getfield(#self#, :__model__)
+│ │    %40  = Base.getproperty(%39, :ProductType)
+│ │    %41  = Base.getindex(%40)
+│ │           j = Main.App.parse(%38, %41)
+│ │    %43  = Main.App.:(var"#43#48")
+│ │    %44  = Core.typeof(j)
+│ │    %45  = Core.typeof(k)
+│ │    %46  = Core.typeof(t)
+│ │    %47  = Core.apply_type(%43, %44, %45, %46)
+│ │    %48  = j
+│ │    %49  = k
+│ │           #43 = %new(%47, %48, %49, t)
+│ │    %51  = #43
+│ │           row = Main.App.filter(%51, Main.App.results_df)
+│ │    %53  = Main.App.isempty(row)
+│ │    %54  = !%53
+│ └───        goto #16 if not %54
+│ 6 ── %56  = Core.getfield(#self#, :__model__)
+│ │    %57  = Base.getproperty(%56, :isHiringChecked)
+│ │    %58  = Base.getindex(%57)
+│ └───        goto #8 if not %58
+│ 7 ── %60  = Base.getproperty(row, :H)
+│ │           @_8 = Base.getindex(%60, 1)
+│ └───        goto #9
+│ 8 ──        @_8 = 0
+│ 9 ┄─ %64  = @_8
+│ │    %65  = Core.getfield(#self#, :__model__)
+│ │    %66  = Base.getproperty(%65, :updatedHiringValue)
+│ │           Base.setindex!(%66, %64)
+│ │    %68  = Core.getfield(#self#, :__model__)
+│ │    %69  = Base.getproperty(%68, :isFiringChecked)
+│ │    %70  = Base.getindex(%69)
+│ └───        goto #11 if not %70
+│ 10 ─ %72  = Base.getproperty(row, :F)
+│ │           @_9 = Base.getindex(%72, 1)
+│ └───        goto #12
+│ 11 ─        @_9 = 0
+│ 12 ┄ %76  = @_9
+│ │    %77  = Core.getfield(#self#, :__model__)
+│ │    %78  = Base.getproperty(%77, :updatedFiringValue)
+│ │           Base.setindex!(%78, %76)
+│ │    %80  = Core.getfield(#self#, :__model__)
+│ │    %81  = Base.getproperty(%80, :isInventoryChecked)
+│ │    %82  = Base.getindex(%81)
+│ └───        goto #14 if not %82
+│ 13 ─ %84  = Base.getproperty(row, :I)
+│ │           @_10 = Base.getindex(%84, 1)
+│ └───        goto #15
+│ 14 ─        @_10 = 0
+│ 15 ┄ %88  = @_10
+│ │    %89  = Core.getfield(#self#, :__model__)
+│ │    %90  = Base.getproperty(%89, :updatedInventoryValue)
+│ │           Base.setindex!(%90, %88)
+│ └───        goto #17
+│ 16 ─ %93  = Core.getfield(#self#, :__model__)
+│ │    %94  = Base.getproperty(%93, :updatedHiringValue)
+│ │           Base.setindex!(%94, 0)
+│ │    %96  = Core.getfield(#self#, :__model__)
+│ │    %97  = Base.getproperty(%96, :updatedFiringValue)
+│ │           Base.setindex!(%97, 0)
+│ │    %99  = Core.getfield(#self#, :__model__)
+│ │    %100 = Base.getproperty(%99, :updatedInventoryValue)
+│ └───        Base.setindex!(%100, 0)
+│ 17 ┄ %102 = false
+│ │    %103 = Core.getfield(#self#, :__model__)
+│ │    %104 = Base.getproperty(%103, :updateButtonClicked)
+│ │           Base.setindex!(%104, %102)
+│ └───        return %102
+│ 18 ┄ %107 = Core.getfield(#self#, :__model__)
+│ │    %108 = Base.getproperty(%107, :msgM)
+│ │           Base.setindex!(%108, "Error: Please fix the invalid inputs.")
+│ │    %110 = Core.getfield(#self#, :__model__)
+│ │    %111 = Base.getproperty(%110, :msgW)
+│ │           Base.setindex!(%111, "Error: Please fix the invalid inputs.")
+│ │    %113 = Core.getfield(#self#, :__model__)
+│ │    %114 = Base.getproperty(%113, :msgP)
+│ │           Base.setindex!(%114, "Error: Please fix the invalid inputs.")
+│ └───        return "Error: Please fix the invalid inputs."
+│ 19 ─        return nothing
+│ )]
+│ 
+│   Type of argument:
+│   Bool
+│ 
+│   Value:
+│   true
+│ 
+│   Exception:
+│   MethodError(Main.App.validate_integer, (0,), 0x0000000000007cac)
+│ 
+│   exception = (MethodError(Main.App.validate_integer, (0,), 0x0000000000007cac), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffa21c8fc3c, Ptr{Nothing} @0x00007ffa21c96ee5, Ptr{Nothing} @0x00007ffa21c97137, Ptr{Nothing} @0x00007ffa21c9b77d, Ptr{Nothing} @0x0000013f67969550, Ptr{Nothing} @0x0000013f67969594, Ptr{Nothing} @0x00007ffa21ca708a, Ptr{Nothing} @0x0000013f6794d856, Ptr{Nothing} @0x0000013f6794e2b8, Ptr{Nothing} @0x0000013f6794e30c, Ptr{Nothing} @0x0000013f6794c25f, Ptr{Nothing} @0x0000013f6794c331, Ptr{Nothing} @0x0000013f679486c9, Ptr{Nothing} @0x0000013f6794899b, Ptr{Nothing} @0x0000013f67933363, Ptr{Nothing} @0x0000013f679337d5, Ptr{Nothing} @0x0000013f6793385b, Ptr{Nothing} @0x0000013f6793389f, Ptr{Nothing} @0x0000013f67916d92, Ptr{Nothing} @0x0000013f67916deb, Ptr{Nothing} @0x00007ffa21ca708a, Ptr{Nothing} @0x00007ffa72725b85, Ptr{Nothing} @0x00007ffa726a7d30, Ptr{Nothing} @0x00007ffa7266ec5d, Ptr{Nothing} @0x0000013f1074a6e4, Ptr{Nothing} @0x0000013f1074a7b2, Ptr{Nothing} @0x00007ffa21ca708a, Ptr{Nothing} @0x0000013f107455dc, Ptr{Nothing} @0x0000013f10747913, Ptr{Nothing} @0x0000013f10747f0b, Ptr{Nothing} @0x00007ffa21cbc68b])
+└ @ Stipple C:\Users\kaele\.julia\packages\Stipple\Hr6Qa\src\stipple\mutators.jl:54
+┌ Info: 2024-07-31 01:36:57 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-31 01:36:57 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22

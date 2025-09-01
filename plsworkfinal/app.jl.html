@@ -1,0 +1,37 @@
+<header>
+    <h1>APP<br>​​​​​​​<br></h1>
+</header>
+<div class="row">
+    <div class="st-col col-12 col-sm st-module">
+        <q-input id="ihuxv" min="0" step="1" placeholder="Enter an integer" :dense="true" label="Month (t)" v-model="msgM" type="number"></q-input>
+    </div>
+    <div class="st-col col-12 col-sm st-module">
+        <q-input id="i8kvs" min="0" step="1" placeholder="Enter an integer" :dense="true" label="WorkerType (i)" v-model="msgW" type="number"></q-input>
+    </div>
+    <div class="st-col col-12 col-sm st-module">
+        <q-input id="irtar" min="0" step="1" placeholder="Enter an integer" :dense="true" label=" ProductType (j)" v-model="msgP" type="number"></q-input>
+    </div>
+</div>
+<h6>Check the necessary variables to vary:</h6>
+<div class="st-col col-12 col-sm st-module">
+    <q-checkbox id="ivo66" color="primary" label="Hiring (H)" v-model="isHiringChecked"></q-checkbox>
+</div>
+<div class="st-col col-12 col-sm st-module">
+    <q-checkbox id="iccoy" color="primary" label="Firing (F)" v-model="isFiringChecked"></q-checkbox>
+</div>
+<div class="st-col col-12 col-sm st-module">
+    <q-checkbox id="irjn7" color="primary" label="Inventory (I)" v-model="isInventoryChecked"></q-checkbox>
+</div>
+<q-btn id="i1wkq" color="primary" icon="calculate" label="Update" v-on:click="updateButtonClicked = true"></q-btn>
+<h6>Updated output given below<br></h6>
+<div class="row">
+    <div class="st-col col-12 col-sm st-module">
+        <st-big-number id="in9t9" :number="updatedHiringValue" title="Updated Hiring Value"></st-big-number>
+    </div>
+    <div class="st-col col-12 col-sm st-module">
+        <st-big-number id="ig6bb" :number="updatedFiringValue" title="Updated Firing Value"></st-big-number>
+    </div>
+    <div class="st-col col-12 col-sm st-module">
+        <st-big-number id="i375o" :number="updatedInventoryValue" title="Updated Inventory Value"></st-big-number>
+    </div>
+</div>
