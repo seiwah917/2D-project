@@ -1,0 +1,60 @@
+┌ Info: 2024-07-29 16:42:58 Watching ["/Users/pmichelle/practice3"]
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:19
+┌ Info: 2024-07-29 16:42:59 Autoreloading
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:22
+┌ Info: 2024-07-29 16:43:02 Watching ["/Users/pmichelle/practice3"]
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:19
+┌ Info: 2024-07-29 16:43:02 Autoreloading
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:22
+┌ Info: 2024-07-29 16:43:09 
+│ Web Server starting at http://0.0.0.0:9101?CHANNEL__=BREFIJAIDBXSZZWRTMOKKKGHDYVEAWZB 
+└ @ Genie.Server /Users/pmichelle/.julia/packages/Genie/uliWf/src/Server.jl:182
+┌ Info: 2024-07-29 16:43:09 Listening on: 0.0.0.0:9101, thread id: 1
+└ @ HTTP.Servers /Users/pmichelle/.julia/packages/HTTP/sJD5V/src/Servers.jl:382
+┌ Info: 2024-07-29 16:44:33 Watching ["/Users/pmichelle/practice3"]
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:19
+┌ Info: 2024-07-29 16:44:34 Autoreloading
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:22
+┌ Info: 2024-07-29 16:45:14 Watching ["/Users/pmichelle/practice3"]
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:19
+┌ Info: 2024-07-29 16:45:15 Autoreloading
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:22
+┌ Info: 2024-07-29 16:45:57 Watching ["/Users/pmichelle/practice3"]
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:19
+┌ Info: 2024-07-29 16:45:58 Autoreloading
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:22
+┌ Info: 2024-07-29 21:24:11 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\practice3"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-29 21:24:12 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 21:24:15 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\practice3"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-29 21:24:37 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 21:24:41 
+│ Web Server starting at http://127.0.0.1:9104?CHANNEL__=QTTYTVEPJLURHKVECSXWQYRDGHDJSQON 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-29 21:24:42 Listening on: 127.0.0.1:9104, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-29 22:47:27 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\practice3"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-29 22:47:28 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 22:47:32 Watching ["c:\\Users\\kaele\\OneDrive\\Documents\\Kaelen's stuff\\SUTD\\TERM 5\\2D\\Term 5 2D Project\\practice3"]
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-29 22:47:35 Autoreloading
+└ @ GenieAutoReload C:\Users\kaele\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Warning: 2024-07-29 22:47:45 It looks like the Kaleido process is not responding. 
+│ The unresponsive process will be killed, but this means that you will not be able to save figures using `savefig`.
+│ 
+│ If you are on Windows this might be caused by known problems with Kaleido v0.2 on Windows (you are using version 0.2.1).
+│ You might want to try forcing a downgrade of the Kaleido_jll library to 0.1.
+│ Check the Package Readme at https://github.com/JuliaPlots/PlotlyKaleido.jl/tree/main#windows-note for more details.
+│ 
+│ If you think this is not your case, you might try using a longer timeout to check if the process is not responding (defaults to 10 seconds) by passing the desired value in seconds using the `timeout` kwarg when calling `PlotlyKaleido.start` or `PlotlyKaleido.restart`
+└ @ PlotlyKaleido C:\Users\kaele\.julia\packages\PlotlyKaleido\uMRVG\src\PlotlyKaleido.jl:24
+┌ Info: 2024-07-29 22:48:04 
+│ Web Server starting at http://127.0.0.1:9104?CHANNEL__=QTTYTVEPJLURHKVECSXWQYRDGHDJSQON 
+└ @ Genie.Server C:\Users\kaele\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-29 22:48:04 Listening on: 127.0.0.1:9104, thread id: 1
+└ @ HTTP.Servers C:\Users\kaele\.julia\packages\HTTP\sJD5V\src\Servers.jl:382

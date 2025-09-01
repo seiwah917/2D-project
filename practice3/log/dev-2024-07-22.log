@@ -1,0 +1,418 @@
+┌ Info: 2024-07-22 18:52:47 Watching ["/Users/pmichelle/practice3"]
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:19
+┌ Info: 2024-07-22 18:52:48 Autoreloading
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:22
+┌ Info: 2024-07-22 18:52:54 Watching ["/Users/pmichelle/practice3"]
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:19
+┌ Info: 2024-07-22 18:52:54 Autoreloading
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:22
+┌ Info: 2024-07-22 18:52:55 
+│ Web Server starting at http://0.0.0.0:9107?CHANNEL__=XWLGQERQKJBUJPKQLRHKGHWCBGTFDVGF 
+└ @ Genie.Server /Users/pmichelle/.julia/packages/Genie/uliWf/src/Server.jl:182
+┌ Info: 2024-07-22 18:52:55 Listening on: 0.0.0.0:9107, thread id: 1
+└ @ HTTP.Servers /Users/pmichelle/.julia/packages/HTTP/sJD5V/src/Servers.jl:382
+┌ Error: 2024-07-22 19:08:00 Failed to revise /Users/pmichelle/practice3/app.jl
+│   exception = (ErrorException("lowering returned an error, \$(Expr(:error, \"misplaced assignment statement in \\\"[:bar, x = dates, y = workforce_levels]\\\" around /Users/pmichelle/practice3/app.jl:34\"))"), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise /Users/pmichelle/.julia/packages/Revise/W4D4d/src/packagedef.jl:724
+┌ Warning: 2024-07-22 19:08:01 The running code does not match the saved version for the following files:
+│ 
+│   /Users/pmichelle/practice3/app.jl
+│ 
+│ If the error was due to evaluation order, it can sometimes be resolved by calling `Revise.retry()`.
+│ Use Revise.errors() to report errors again. Only the first error in each file is shown.
+│ Your prompt color may be yellow until the errors are resolved.
+└ @ Revise /Users/pmichelle/.julia/packages/Revise/W4D4d/src/packagedef.jl:832
+┌ Info: 2024-07-22 19:08:02 Autoreloading
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:22
+┌ Info: 2024-07-22 19:08:02 Autoreloading
+└ @ GenieAutoReload /Users/pmichelle/.julia/packages/GenieAutoReload/ESvsh/src/GenieAutoReload.jl:22
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\\\Ƥ\\e9ɲ\\x9fG[HR9#\\xd0[~\\xf7\\xa6\\xa6\\xcb~鄳\\x9e\\xea!\\n¯\\f\\x03\\xe0\\t\\t\\x91\\xaf\\x8eB\\xd3T\\xaf,\\x80\\xe5\\xb9G\\xb9\\tk\\xf8\\xb3\\x15wW\\n0/\\tt\\xed\\b\\x89\\xceb\\xe0\\xfb\\u5c8(\\xd7@\\xfd\\xb2\\xcfR\\xce\\xc5\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:22:49 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:31:15 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:31:15 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:31:15 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\xa8ȊIài7\\xcd\\xdc/J\\x1aP\\a>\\xd0,\\xdb~\\xf2\\xb4\\xc7i\\xcb\\x1e:\\x9d\\x84\\xe0|\\xe9\\\\\\n\\xbe\\x98\\xa1G\\xa3\\x93\\xd8\\xed\\xdf\\x10\\xf2\\xce\\x10i\\rv\\xa2a\\b\\xe9\\xfdm\\x89\\x04f\\xd4L\\xa0\\x03ѳ\\xddC\\xf6 \\x11Z9\\x95\\x12ɹ\\xd9߿\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:31:15 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\xa8ȊIài7\\xcd\\xdc/J\\x1aP\\a>\\xd0,\\xdb~\\xf2\\xb4\\xc7i\\xcb\\x1e:\\x9d\\x84\\xe0|\\xe9\\\\\\n\\xbe\\x98\\xa1G\\xa3\\x93\\xd8\\xed\\xdf\\x10\\xf2\\xce\\x10i\\rv\\xa2a\\b\\xe9\\xfdm\\x89\\x04f\\xd4L\\xa0\\x03ѳ\\xddC\\xf6 \\x11Z9\\x95\\x12ɹ\\xd9߿\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:31:15 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:31:15 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:31:15 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:31:15 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:31:15 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\xa8ȊIài7\\xcd\\xdc/J\\x1aP\\a>\\xd0,\\xdb~\\xf2\\xb4\\xc7i\\xcb\\x1e:\\x9d\\x84\\xe0|\\xe9\\\\\\n\\xbe\\x98\\xa1G\\xa3\\x93\\xd8\\xed\\xdf\\x10\\xf2\\xce\\x10i\\rv\\xa2a\\b\\xe9\\xfdm\\x89\\x04f\\xd4L\\xa0\\x03ѳ\\xddC\\xf6 \\x11Z9\\x95\\x12ɹ\\xd9߿\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:31:15 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\xa8ȊIài7\\xcd\\xdc/J\\x1aP\\a>\\xd0,\\xdb~\\xf2\\xb4\\xc7i\\xcb\\x1e:\\x9d\\x84\\xe0|\\xe9\\\\\\n\\xbe\\x98\\xa1G\\xa3\\x93\\xd8\\xed\\xdf\\x10\\xf2\\xce\\x10i\\rv\\xa2a\\b\\xe9\\xfdm\\x89\\x04f\\xd4L\\xa0\\x03ѳ\\xddC\\xf6 \\x11Z9\\x95\\x12ɹ\\xd9߿\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:31:15 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:31:15 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:31:22 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:31:22 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\xac\\xa7\\xab\\u074cB\\x91\\x10'\\xe2\\xe3\\x9e3רN\\xb2\\xc6M\\x1c\\x93\\x82\\x9d\\xb1\\xe5\\xf5NƯw\\0^\\x8c\\xd6@Ԍ\\x93\\x1f<\\xc45\\x1d\\xd2\\xcb0\\xb6\\xe9c\\xbd\\xbf\\xfd\\x182\\x12.\\xdc\\xd3\\xfb\\xf4䴮O<\\x04\\x0fE\\\\\\xe2U\\x1f\\x95\\\"\\x06\\xa2\\xaf\\x90\\\$\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:31:22 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:31:22 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:31:22 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\xac\\xa7\\xab\\u074cB\\x91\\x10'\\xe2\\xe3\\x9e3רN\\xb2\\xc6M\\x1c\\x93\\x82\\x9d\\xb1\\xe5\\xf5NƯw\\0^\\x8c\\xd6@Ԍ\\x93\\x1f<\\xc45\\x1d\\xd2\\xcb0\\xb6\\xe9c\\xbd\\xbf\\xfd\\x182\\x12.\\xdc\\xd3\\xfb\\xf4䴮O<\\x04\\x0fE\\\\\\xe2U\\x1f\\x95\\\"\\x06\\xa2\\xaf\\x90\\\$\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:31:22 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:31:22 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:31:22 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\xac\\xa7\\xab\\u074cB\\x91\\x10'\\xe2\\xe3\\x9e3רN\\xb2\\xc6M\\x1c\\x93\\x82\\x9d\\xb1\\xe5\\xf5NƯw\\0^\\x8c\\xd6@Ԍ\\x93\\x1f<\\xc45\\x1d\\xd2\\xcb0\\xb6\\xe9c\\xbd\\xbf\\xfd\\x182\\x12.\\xdc\\xd3\\xfb\\xf4䴮O<\\x04\\x0fE\\\\\\xe2U\\x1f\\x95\\\"\\x06\\xa2\\xaf\\x90\\\$\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:31:22 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 19:31:22 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 19:31:22 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\xac\\xa7\\xab\\u074cB\\x91\\x10'\\xe2\\xe3\\x9e3רN\\xb2\\xc6M\\x1c\\x93\\x82\\x9d\\xb1\\xe5\\xf5NƯw\\0^\\x8c\\xd6@Ԍ\\x93\\x1f<\\xc45\\x1d\\xd2\\xcb0\\xb6\\xe9c\\xbd\\xbf\\xfd\\x182\\x12.\\xdc\\xd3\\xfb\\xf4䴮O<\\x04\\x0fE\\\\\\xe2U\\x1f\\x95\\\"\\x06\\xa2\\xaf\\x90\\\$\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 19:31:22 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 20:00:36 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 20:00:36 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\x06\\xf9\\x0f\\x12`\\xce_\\x89W\\x9f\\xe2\\xcfdH\\x13\\x9a\\x169\\xfa\\xb6\\xf1\\xb4\\xef\\xae\\xda\\xf7\\xa4\\xbbά\\xc1\\xc7I\\xd5lEh\\b4\\x02[<\\xfei\\x9dXU\\xe1\\x8ej,\\x05\\r6\\xa5x\\xe1\\x01b\\x8e\\xd3\\xca\\xe9r5\\xbc\\xb2E\\x8e\\\"\\x84v\\xfa!I\\v\\xc8\\x14\\x92\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 20:00:36 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-22 21:01:42 Failed to revise /Users/pmichelle/practice3/app.jl
+│   exception = (ErrorException("lowering returned an error, \$(Expr(:error, \"misplaced assignment statement in \\\"[:bar, x = dates, y = workforce_levels]\\\" around /Users/pmichelle/practice3/app.jl:34\"))"), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise /Users/pmichelle/.julia/packages/Revise/W4D4d/src/packagedef.jl:724
+┌ Error: 2024-07-22 22:08:25 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-22 22:08:25 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/ʯZ\\x16\\xee\\a1@\\x02\\x19\\x9a\\xfcݮwͪ\\n.,\\xecT]k]l\\xbcT\\xc2\\x12\\x8d*\\x95c\\xb7\\xe2emiyr\\xc6C\\xa6\\x98\\x1c\\x88\\x96~]\\xb8\\xe7\\xd2[\\xfe\\x8c\\xb1\\xce\\xc5\\x02\\xf8\\xf8\\x98\\x04Y\\xe8\\x11\\x94֚\\x86Z\\xa2\\x15=\\xc7\\x04\\xe2\\x02\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-22 22:08:25 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-23 02:46:42 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-23 02:46:42 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/nƭ\\x9c\\xa1\\xe2\\x1aho\\x12\\xe6f\\x84\\x19\\x86\\xceΡ\\xd0\\xf1\\x19\\x15\\xa8\\x83\\x9e\\xbaGD~sL\\xb9#Ԋ\\x1c4\\xe9\\x16\\x80\\xd3\\x15\\0\\x04\\x7f\\xad\\xac~\\x88\\a\\u605\\xb1-\\nwE&Qة\\xcf\\n\\x7f휕\\xd9\\x16\\xaf\\xc6\\n\\xb4\\x82\\x14#\\xf3\\xe1b\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-23 02:46:42 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-23 13:18:46 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-23 13:18:46 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\xaf\\xd7Uc\\xb7E\\x83DvD\\xf1\\xec\\x9a.\\xbde\\xfd\\xf2\\xe9\\xc3\\xef\\x18\\x87\\x8b1\\x88l\\\"\\xdf\\xd3\\x16\\xa4V\\xe2\\xf0\\xe2\\xbd]\\x91?V\\x9c\\x16\\xec\\0HA\\xe3\\x8d\\xff\\xc3\\x195\\x90\\x93\\xb4\\x1dY\\x878w4\\xf7\\xf8\\\$\\x9d\\x1e\\xa8\\x8f\\x80ר\\xe4\\xf3a\\xa6K\\a\\x8d\\0\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-23 13:18:46 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-23 13:19:59 Failed to store session data
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:41
+┌ Error: 2024-07-23 13:19:59 ArgumentError("embedded NULs are not allowed in C strings: \"/var/folders/hf/p6cjltcs06xdxb1f8r8_nr7w0000gn/T/jl_7sxfDH/\\0b\\xaeW\\x8f\\x1eu\\x87\\xd8\\xf1\\x148i\\xebG\\x17Jȧ~И%Z\\x13@昽6\\xb3\\xf9\\xf5\\xfc\\xdc\\0\\x88f`)Zc긹\\x87Cx쟳'\\xe5gKA\\xf7:&y\\xa09\\x88͖\\xccc\\xec\\xa5|\\x06\\xbcc.\\xdb\\n\\xfbn\\xdf\"")
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:42
+┌ Error: 2024-07-23 13:19:59 Resetting session
+└ @ GenieSessionFileSession /Users/pmichelle/.julia/packages/GenieSessionFileSession/otnJC/src/GenieSessionFileSession.jl:46
+┌ Error: 2024-07-23 14:58:28 Failed to revise /Users/pmichelle/practice3/app.jl
+│   exception = (ErrorException("lowering returned an error, \$(Expr(:error, \"misplaced assignment statement in \\\"[:bar, x = dates, y = workforce_levels]\\\" around /Users/pmichelle/practice3/app.jl:34\"))"), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise /Users/pmichelle/.julia/packages/Revise/W4D4d/src/packagedef.jl:724
+┌ Error: 2024-07-23 15:00:39 Failed to revise /Users/pmichelle/practice3/app.jl
+│   exception = (ErrorException("lowering returned an error, \$(Expr(:error, \"misplaced assignment statement in \\\"[:bar, x = dates, y = workforce_levels]\\\" around /Users/pmichelle/practice3/app.jl:34\"))"), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise /Users/pmichelle/.julia/packages/Revise/W4D4d/src/packagedef.jl:724
+┌ Error: 2024-07-23 15:08:36 Failed to revise /Users/pmichelle/practice3/app.jl
+│   exception = (ErrorException("lowering returned an error, \$(Expr(:error, \"misplaced assignment statement in \\\"[:bar, x = dates, y = workforce_levels]\\\" around /Users/pmichelle/practice3/app.jl:34\"))"), Union{Ptr{Nothing}, Base.InterpreterIP}[])
+└ @ Revise /Users/pmichelle/.julia/packages/Revise/W4D4d/src/packagedef.jl:724

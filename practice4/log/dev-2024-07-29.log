@@ -1,0 +1,210 @@
+┌ Info: 2024-07-29 15:57:49 Watching ["c:\\Users\\Venu\\practice3"]
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-29 15:57:50 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 15:57:58 Watching ["c:\\Users\\Venu\\practice3"]
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-29 15:57:58 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 15:57:59 
+│ Web Server starting at http://127.0.0.1:9107?CHANNEL__=FWCIIBWHWOKAQXVGWETQLDBHJINCYMRN 
+└ @ Genie.Server C:\Users\Venu\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-29 15:57:59 Listening on: 127.0.0.1:9107, thread id: 1
+└ @ HTTP.Servers C:\Users\Venu\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-29 16:27:49 Watching ["c:\\Users\\Venu\\practice3"]
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-29 16:27:50 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 16:27:58 Watching ["c:\\Users\\Venu\\practice3"]
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-07-29 16:27:58 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 16:27:59 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=PKXGOCJKUMVZTIVNQUKUAGCKXARVOTJI 
+└ @ Genie.Server C:\Users\Venu\.julia\packages\Genie\uliWf\src\Server.jl:182
+┌ Info: 2024-07-29 16:27:59 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\Venu\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-07-29 16:31:45 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 16:31:45 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 16:32:14 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 16:32:14 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 16:33:01 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 16:33:01 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 16:40:15 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 16:40:15 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 16:40:40 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 16:40:40 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 16:40:55 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 16:40:55 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 16:41:27 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 16:41:27 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 16:41:50 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 16:41:50 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 16:43:00 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 16:43:00 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 16:45:38 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 16:45:38 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 16:55:28 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 16:55:28 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 17:40:32 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 17:40:32 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 17:41:30 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 17:41:30 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 17:43:14 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 17:43:14 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 17:43:37 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 17:43:37 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 17:43:57 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 17:43:57 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 17:46:44 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 17:46:44 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 17:47:02 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 17:47:02 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 17:47:28 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 17:47:28 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 19:09:30 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-29 19:09:30 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 09:39:12 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 09:39:13 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:12:22 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:12:22 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:12:46 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:12:46 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:13:07 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:13:07 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:13:47 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:13:47 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:15:47 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:15:47 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:16:03 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:16:03 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:16:23 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:16:23 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:25:15 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:25:15 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:25:34 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:25:34 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:40:34 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:40:34 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:42:29 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:42:29 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:44:14 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:44:14 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:45:33 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:45:33 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:45:56 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:45:56 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:46:41 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:46:41 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:46:55 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:46:55 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:59:13 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:59:13 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:59:15 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:59:15 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:59:18 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:59:18 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:59:30 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 11:59:30 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 12:01:47 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 12:01:47 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 12:05:16 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 12:05:16 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 12:05:41 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 12:05:41 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 12:06:16 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 12:06:16 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 12:07:08 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-07-30 12:07:08 Autoreloading
+└ @ GenieAutoReload C:\Users\Venu\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22

@@ -1,0 +1,38 @@
+<header>
+    <h1>APP<br>​​​​​​​<br></h1>
+</header>
+<div class="row">
+    <div class="st-col col-12 col-sm st-module">
+        <q-input id="ioy4r" v-model="msgM" :dense="true" label=" " type="int"></q-input>
+    </div>
+    <div class="st-col col-12 col-sm st-module">
+        <q-input id="i21sj" v-model="msgW" :dense="true" label=" "></q-input>
+    </div>
+    <div class="st-col col-12 col-sm st-module">
+        <q-input id="i1015" :dense="true" label=" " v-model="msgP"></q-input>
+    </div>
+</div>
+<q-input id="i5m2m" v-model="msgInput" :dense="true" label=" "></q-input>
+<div class="st-col col-12 col-sm st-module">
+    <q-checkbox id="iphl3" v-model="isFiringChecked" color="primary" label="Firing (F)"></q-checkbox>
+</div>
+<div></div>
+<div class="st-col col-12 col-sm st-module">
+    <q-checkbox id="iecgu" v-model="isInventoryChecked" color="primary" label="Inventory (I)"></q-checkbox>
+</div>
+<div class="st-col col-12 col-sm st-module">
+    <q-checkbox id="injuo" v-model="isHiringChecked" color="primary" label="Hiring (H)"></q-checkbox>
+</div>
+<q-btn id="iqn09" color="primary" icon="true" label="Update" v-on:click=""></q-btn>
+<q-input id="irpoq" :dense="true" label=" " v-model="msgOutput"></q-input>
+<div class="row">
+    <div class="st-col col-12 col-sm st-module">
+        <st-big-number id="ifnqm" title="Updated Firing Value" :number="firingData"></st-big-number>
+    </div>
+    <div class="st-col col-12 col-sm st-module">
+        <st-big-number id="it4il" title="Updated Hiring Value" :number="hiringData"></st-big-number>
+    </div>
+    <div class="st-col col-12 col-sm st-module">
+        <st-big-number id="ivchy" title="Updated Inventory Value" :number="inventoryData"></st-big-number>
+    </div>
+</div>

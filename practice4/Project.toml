@@ -1,0 +1,11 @@
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+StippleDownloads = "291a174b-6542-42e7-9996-fc00d7c03310"
+Genie = "c43c736e-a2d1-11e8-161f-af95117fbd1e"
+PlotlyBase = "a03496cd-edff-5a9b-9e67-9cda94a718b5"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+GenieFramework = "a59fdf5c-6bf0-4f5d-949c-a137c9e2f353"
+StippleLatex = "8706c442-30ce-4f68-b407-b81ebf148be9"
+
+[Genie]
+instantiated_pwd = "c:\\Users\\Venu\\practice4"
